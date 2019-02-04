@@ -37,8 +37,8 @@ let brands = [{
     regexpCvv: '^\d{3}$',
 }, {
     name: 'visa',
-    regexpBin: '^4',
-    regexpFull: '^4[0-9]{12}(?:[0-9]{3})?$',
+    regexpBin: '^4|^6367',
+    regexpFull: '^4[0-9]{12}(?:[0-9]{3})?|6367[0-9]{12}$',
     regexpCvv: '^\d{3}$',
 }, ];
 
