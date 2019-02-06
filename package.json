@@ -1,6 +1,6 @@
 {
   "name": "creditcard-identifier",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Brazilian CreditCard Identifier",
   "main": "creditcard-identifier.js",
   "scripts": {
@@ -27,6 +27,7 @@
   "homepage": "https://github.com/renatoelias/bin-cc#readme",
   "devDependencies": {
     "chai": "^3.5.0",
-    "lodash": "^4.5.0"
+    "lodash": "^4.5.0",
+    "mocha": "^5.2.0"
   }
 }

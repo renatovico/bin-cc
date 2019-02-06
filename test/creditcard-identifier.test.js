@@ -140,7 +140,7 @@ describe('Find Brand tests', function() {
         });
     });
 
-    ['4012001037141112', '4551870000000183', '4073020000000002', '4012001038443335', '4024007190131', '4556523434899','4477509054445560','4146805709584576'].forEach(function(cardbin) {
+    ['4012001037141112', '4551870000000183', '4073020000000002', '4012001038443335', '4024007190131', '4556523434899','4477509054445560','4146805709584576', '6367000000001022'].forEach(function(cardbin) {
         it('Should identify visa for bin '+cardbin, function validDinners(done) {
             expect(findBrand(cardbin+'')).to.equal('visa');
             done();
