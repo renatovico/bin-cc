@@ -35,5 +35,5 @@ Fique a vontade para mandar um PR para que esta tabela permaneça atualizada. Ao
 
 - @jotafelipe
 - @ahonorato 
-- @renatoelias
+- @renatovico
 - @eliezio
