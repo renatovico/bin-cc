@@ -32,8 +32,8 @@ let brands = [{
     regexpCvv: '^\d{3}$',
 }, {
     name: 'mastercard',
-    regexpBin: '^5[1-5][0-9][0-9]',
-    regexpFull: '^5[1-5][0-9]{14}$',
+    regexpBin: '^5[1-5][0-9][0-9]|^2[2-7][0-2][0-9]',
+    regexpFull: '^5[1-5][0-9]{14}$|^2[2-7][0-2][0-9]{13}$',
     regexpCvv: '^\d{3}$',
 }, {
     name: 'visa',

@@ -133,7 +133,7 @@ describe('Find Brand tests', function() {
         });
     });
 
-    ['5533798818319497', '5437251265160938', '5101514275875158', '5313557320486111', '5216730016991151'].forEach(function(cardbin) {
+    ['5533798818319497', '5437251265160938', '5101514275875158', '5313557320486111', '5216730016991151', '2221000000000000', '2720990000000000'].forEach(function(cardbin) {
         it('Should identify mastercard for bin '+cardbin, function validDinners(done) {
             expect(findBrand(cardbin+'')).to.equal('mastercard');
             done();
