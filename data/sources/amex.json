@@ -1,0 +1,14 @@
+{
+  "scheme": "amex",
+  "brand": "American Express",
+  "patterns": [
+    {
+      "bin": "^3[47]",
+      "length": [15],
+      "luhn": true,
+      "cvvLength": 4
+    }
+  ],
+  "type": "credit",
+  "countries": ["GLOBAL"]
+}

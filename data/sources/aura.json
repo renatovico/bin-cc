@@ -1,0 +1,14 @@
+{
+  "scheme": "aura",
+  "brand": "Aura",
+  "patterns": [
+    {
+      "bin": "^50[0-9]",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3
+    }
+  ],
+  "type": "credit",
+  "countries": ["BR"]
+}

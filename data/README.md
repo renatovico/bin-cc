@@ -1,27 +1,75 @@
-# Credit Card BIN Data Schema
+# Credit Card BIN Data
 
-This directory contains the credit card BIN (Bank Identification Number) data files that serve as the source of truth for credit card brand identification.
+This directory contains credit card BIN (Bank Identification Number) data with a build system similar to browserslist.
 
-## File Structure
+## Directory Structure
 
-### brands.json
-
-Contains an array of credit card brand objects with their validation patterns.
-
-**Schema:**
-
-```json
-[
-  {
-    "name": "string",        // Brand name (e.g., "visa", "mastercard", "amex")
-    "regexpBin": "string",   // Regular expression to identify the brand from the first digits (BIN)
-    "regexpFull": "string",  // Regular expression to validate the full card number
-    "regexpCvv": "string"    // Regular expression to validate the CVV/CVC code
-  }
-]
+```
+data/
+├── sources/              # Source data files (human-editable)
+│   ├── visa.json
+│   ├── mastercard.json
+│   └── ...
+├── compiled/             # Generated enhanced format
+│   └── brands.json
+├── brands.json          # Legacy format (backward compatible)
+├── SCHEMA.md            # Complete schema documentation
+└── README.md            # This file
 ```
 
-**Example:**
+## File Formats
+
+### Source Files (`sources/*.json`)
+
+Human-editable card scheme definitions:
+
+```json
+{
+  "scheme": "visa",
+  "brand": "Visa",
+  "patterns": [
+    {
+      "bin": "^4",
+      "length": [13, 16],
+      "luhn": true,
+      "cvvLength": 3
+    }
+  ],
+  "type": "credit",
+  "countries": ["GLOBAL"]
+}
+```
+
+### Compiled Format (`compiled/brands.json`)
+
+Enhanced format with full metadata:
+
+```json
+{
+  "scheme": "visa",
+  "brand": "Visa",
+  "type": "credit",
+  "number": {
+    "lengths": [13, 16],
+    "luhn": true
+  },
+  "cvv": {
+    "length": 3
+  },
+  "patterns": {
+    "bin": "^4|^6367",
+    "full": "(^4[0-9]{9,12}|^4[0-9]{12,15}|^6367[0-9]{12,15})"
+  },
+  "countries": ["GLOBAL"],
+  "metadata": {
+    "sourceFile": "visa.json"
+  }
+}
+```
+
+### Legacy Format (`brands.json`)
+
+Backward-compatible simple format:
 
 ```json
 {

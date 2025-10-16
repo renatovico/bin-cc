@@ -1,0 +1,20 @@
+{
+  "scheme": "visa",
+  "brand": "Visa",
+  "patterns": [
+    {
+      "bin": "^4",
+      "length": [13, 16],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^6367",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3
+    }
+  ],
+  "type": "credit",
+  "countries": ["GLOBAL"]
+}
