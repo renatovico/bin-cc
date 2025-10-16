@@ -1,14 +1,7 @@
 'use strict';
 
-const fs = require('fs');
-const path = require('path');
-
-// Load brands data from JSON file
-const brandsData = JSON.parse(
-    fs.readFileSync(path.join(__dirname, 'data', 'brands.json'), 'utf8')
-);
-
-let brands = brandsData;
+// Load brands data from JSON file using require (more efficient in Node.js)
+let brands = require('./data/brands.json');
 
 function cardNumberFilter(cardNumber, brand) {
     if (typeof cardNumber !== 'string') {

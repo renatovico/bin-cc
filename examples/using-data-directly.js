@@ -35,9 +35,13 @@ console.log('');
 // Method 3: Extract specific brand information
 console.log('Method 3: Extract specific brand patterns');
 const visaData = creditcard.data.brands.find(b => b.name === 'visa');
-console.log('Visa BIN pattern:', visaData.regexpBin);
-console.log('Visa full validation pattern:', visaData.regexpFull);
-console.log('Visa CVV pattern:', visaData.regexpCvv);
+if (visaData) {
+    console.log('Visa BIN pattern:', visaData.regexpBin);
+    console.log('Visa full validation pattern:', visaData.regexpFull);
+    console.log('Visa CVV pattern:', visaData.regexpCvv);
+} else {
+    console.log('Visa brand not found');
+}
 console.log('');
 
 // Method 4: Use the built-in functions (still available)
