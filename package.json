@@ -1,8 +1,14 @@
 {
   "name": "creditcard-identifier",
   "version": "1.1.2",
-  "description": "Brazilian CreditCard Identifier",
-  "main": "creditcard-identifier.js",
+  "description": "Brazilian CreditCard Identifier - Data file project with BIN patterns for credit card validation",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "creditcard-identifier.js",
+    "data/",
+    "examples/"
+  ],
   "scripts": {
     "test-unit": "NODE_ENV=test ./node_modules/.bin/mocha ./test --recursive  --harmony",
     "coverage": "./node_modules/.bin/istanbul cover ./node_modules/mocha/bin/_mocha -- ./test/ --recursive  --harmony"
@@ -17,7 +23,10 @@
     "identifier",
     "validation",
     "bin",
-    "luhn"
+    "luhn",
+    "data",
+    "tzdata",
+    "credit-card-data"
   ],
   "author": "Renato Elias, Eriki Herinque, Carlos Rios, Lohan Bohdavean",
   "license": "MIT",
