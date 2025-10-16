@@ -8,7 +8,7 @@
  * by date/time libraries.
  */
 
-const creditcard = require('../index.js');
+const creditcard = require('../libs/javascript/index.js');
 
 console.log('=== Using bin-cc as a Data File Project ===\n');
 

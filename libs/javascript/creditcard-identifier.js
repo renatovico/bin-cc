@@ -1,7 +1,7 @@
 'use strict';
 
 // Load brands data from JSON file using require (more efficient in Node.js)
-const brands = require('./data/brands.json');
+const brands = require('../../data/brands.json');
 
 function cardNumberFilter(cardNumber, brand) {
     if (typeof cardNumber !== 'string') {

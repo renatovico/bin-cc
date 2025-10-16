@@ -1,78 +1,101 @@
-Validação para cartão de crédito - Data File Project
+Credit Card BIN Data - Data File Project
 ====================
 
-Bin e padrões para validação de cartão de crédito.
+**This is a data file project** similar to tzdata, providing credit card BIN (Bank Identification Number) patterns as a source of truth for other libraries.
 
-**Este projeto é um "data file project"** similar ao tzdata, fornecendo dados de BIN (Bank Identification Number) de cartões de crédito como fonte de verdade para outras bibliotecas.
+This repository contains authoritative data about credit card BIN patterns for validation and brand identification, along with reference implementations in multiple programming languages.
 
-Repositório para esta [gist](https://gist.github.com/erikhenrique/5931368)
+Repository for this [gist](https://gist.github.com/erikhenrique/5931368)
 
-Os dados dos cartões: ~~Elo~~, Hipercard desta tabela *não* são oficiais.
-Tentei diversas vezes falar com o pessoal dessas bandeiras afim de ter uma informação oficial, porém, é muito difícil falar com o setor técnico e as atendentes nem sabem o que é bin de cartão :(
-
-Esta tabela inicialmente foi montada com coleta de dados de cartões de crédito reais. Onde o usuário colocava o número do cartão de crédito dele e quando não conseguíamos saber qual a banheira pedíamos para que o usuário selecionasse a bandeira e desta forma armazenavamos os primeiros digitos do cartão.
-
-## Uso como Biblioteca
-
-### Usando as funções de validação:
-
-```javascript
-const creditcard = require('creditcard-identifier');
-
-// Identificar a bandeira do cartão
-const brand = creditcard.findBrand('4012001037141112');
-console.log(brand); // 'visa'
-
-// Verificar se o cartão é suportado
-const supported = creditcard.isSupported('4012001037141112');
-console.log(supported); // true
-```
-
-### Usando diretamente os dados (para outras bibliotecas):
-
-```javascript
-const creditcard = require('creditcard-identifier');
-
-// Acessar os dados brutos das bandeiras
-const brands = creditcard.data.brands;
-console.log(brands); 
-// [
-//   { name: 'elo', regexpBin: '...', regexpFull: '...', regexpCvv: '...' },
-//   { name: 'diners', regexpBin: '...', regexpFull: '...', regexpCvv: '...' },
-//   ...
-// ]
-
-// Usar os dados em sua própria lógica
-brands.forEach(brand => {
-    console.log(`${brand.name}: ${brand.regexpBin}`);
-});
-```
-
-### Acessando os dados JSON diretamente:
-
-```javascript
-const fs = require('fs');
-const path = require('path');
-
-// Carregar os dados JSON diretamente do arquivo
-const dataPath = require.resolve('creditcard-identifier/data/brands.json');
-const brands = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
-```
-
-## Estrutura do Projeto
+## 📁 Project Structure
 
 ```
 bin-cc/
-├── data/
-│   └── brands.json          # Dados das bandeiras de cartão (fonte de verdade)
-├── index.js                 # Ponto de entrada principal
-├── creditcard-identifier.js # Lógica de identificação
-└── README.md
+├── data/                    # Source of truth - Credit card BIN data
+│   ├── brands.json         # All brand patterns (BIN, validation, CVV)
+│   └── README.md           # Data schema documentation
+│
+├── libs/                   # Reference implementations
+│   └── javascript/         # JavaScript/Node.js implementation
+│
+└── examples/               # Usage examples in different languages
+    ├── javascript-example.js
+    ├── python/
+    ├── elixir/
+    ├── ruby/
+    └── dotnet/
 ```
 
-### Pull Request, contribua
+## 🎯 Data Source
 
-Fique a vontade para mandar um PR para que esta tabela permaneça atualizada. Ao fazer o PR por favor, informe como conseguiu essa informação de atualização para que possamos sempre ter dados confiáveis nesta tabela.
+The **authoritative data** is located in the [`data/`](./data) directory:
+- [`data/brands.json`](./data/brands.json) - Complete BIN patterns for all supported brands
+- [`data/README.md`](./data/README.md) - Full schema documentation
+
+## 📚 Implementations
+
+### JavaScript/Node.js
+Complete implementation available in [`libs/javascript/`](./libs/javascript/)
+
+**Installation:**
+```bash
+npm install creditcard-identifier
+```
+
+**Usage:**
+```javascript
+const cc = require('creditcard-identifier');
+console.log(cc.findBrand('4012001037141112')); // 'visa'
+```
+
+See [JavaScript documentation](./libs/javascript/README.md) for details.
+
+### Python
+Example implementation in [`examples/python/`](./examples/python/)
+
+### Elixir
+Example implementation in [`examples/elixir/`](./examples/elixir/)
+
+### Ruby
+Example implementation in [`examples/ruby/`](./examples/ruby/)
+
+### .NET
+Example implementation in [`examples/dotnet/`](./examples/dotnet/)
+
+## 🎴 Supported Card Brands
+
+| Brand      | Starts with                                  | Max length | CVV length |
+| ---------- | ------------------------------------------- | ---------- | ---------- |
+| Visa       | 4, 6367                                     | 13, 16     | 3          |
+| Mastercard | 5, 222100 to 272099                         | 16         | 3          |
+| Diners     | 301, 305, 36, 38                            | 14, 16     | 3          |
+| Elo        | 4011, 401178, 401179, 431274, 438935, etc.  | 16         | 3          |
+| Amex       | 34, 37                                      | 15         | 4          |
+| Discover   | 6011, 622, 64, 65                           | 16         | 4          |
+| Aura       | 50                                          | 16         | 3          |
+| Hipercard  | 38, 60                                      | 13, 16, 19 | 3          |
+
+**Note:** Some Brazilian brands (Elo, Hipercard, Aura) do not have official public documentation. Patterns collected from real-world usage.
+
+## 🤝 Contributing
+
+Contributions are welcome! To update BIN patterns or add new implementations:
+
+1. **Data updates:** Edit [`data/brands.json`](./data/brands.json) and document your source
+2. **New implementations:** Add to the appropriate language folder in `examples/`
+3. **Tests:** Ensure all tests pass before submitting
+
+Please provide the source of information when updating BIN patterns to maintain data reliability.
+
+## 📝 License
+
+MIT License
+
+## 👥 Contributors
+
+- @jotafelipe
+- @ahonorato 
+- @renatoelias
 
 
 | Bandeira   | Começa com                                  | Máximo de número | Máximo de número cvc |

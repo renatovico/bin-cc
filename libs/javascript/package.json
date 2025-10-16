@@ -6,8 +6,7 @@
   "files": [
     "index.js",
     "creditcard-identifier.js",
-    "data/",
-    "examples/"
+    "../../data/"
   ],
   "scripts": {
     "test-unit": "NODE_ENV=test ./node_modules/.bin/mocha ./test --recursive  --harmony",
