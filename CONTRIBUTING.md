@@ -40,6 +40,47 @@ bin-cc is a **data file project** similar to [browserslist](https://github.com/b
    }
    ```
 
+   **Optional: Add detailed BIN information**
+   
+   You can include specific BIN-level details for known issuers:
+   
+   ```json
+   {
+     "scheme": "visa",
+     "brand": "Visa",
+     "patterns": [
+       {
+         "bin": "^4",
+         "length": [13, 16],
+         "luhn": true,
+         "cvvLength": 3
+       }
+     ],
+     "type": "credit",
+     "countries": ["GLOBAL"],
+     "bins": [
+       {
+         "bin": "491441",
+         "type": "CREDIT",
+         "category": null,
+         "issuer": "BANCO PROSPER, S.A."
+       },
+       {
+         "bin": "491414",
+         "type": "CREDIT",
+         "category": "GOLD",
+         "issuer": "BANCO DO ESTADO DO PARANA"
+       }
+     ]
+   }
+   ```
+   
+   The `bins` array is optional and provides:
+   - **bin**: 6-digit BIN number
+   - **type**: Card type (CREDIT, DEBIT)
+   - **category**: Card tier (CLASSIC, GOLD, PLATINUM, etc.) - use `null` if not applicable
+   - **issuer**: Name of the issuing bank
+
 3. **Build and validate**
 
    ```bash

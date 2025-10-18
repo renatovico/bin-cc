@@ -9,6 +9,7 @@
     "../../data/"
   ],
   "scripts": {
+    "test": "npm run test-unit",
     "test-unit": "NODE_ENV=test ./node_modules/.bin/mocha ./test --recursive  --harmony",
     "coverage": "./node_modules/.bin/istanbul cover ./node_modules/mocha/bin/_mocha -- ./test/ --recursive  --harmony"
   },

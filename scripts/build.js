@@ -116,6 +116,16 @@ function buildData() {
       }
     };
     
+    // Add optional BIN-level details if present
+    if (source.bins && Array.isArray(source.bins) && source.bins.length > 0) {
+      compiledBrand.bins = source.bins.map(binData => ({
+        bin: binData.bin,
+        type: binData.type,
+        category: binData.category || null,
+        issuer: binData.issuer || null
+      }));
+    }
+    
     compiledBrands.push(compiledBrand);
     
     // Legacy format (backward compatible)

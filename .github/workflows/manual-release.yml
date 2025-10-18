@@ -1,0 +1,87 @@
+name: Manual Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version to release (e.g., 2.1.0)'
+        required: true
+        type: string
+      release_notes:
+        description: 'Release notes (optional)'
+        required: false
+        type: string
+
+jobs:
+  release:
+    name: Create Manual Release
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      
+      - name: Install dependencies
+        run: npm install --ignore-scripts
+      
+      - name: Build data files
+        run: npm run build
+      
+      - name: Run tests
+        run: |
+          cd libs/javascript
+          npm install
+          npm test
+      
+      - name: Update package.json version
+        run: |
+          node -e "
+          const fs = require('fs');
+          const pkg = JSON.parse(fs.readFileSync('package.json', 'utf8'));
+          pkg.version = '${{ github.event.inputs.version }}';
+          fs.writeFileSync('package.json', JSON.stringify(pkg, null, 2) + '\n');
+          "
+      
+      - name: Commit version bump
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add package.json
+          git commit -m "chore: bump version to ${{ github.event.inputs.version }}"
+          git push
+      
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: v${{ github.event.inputs.version }}
+          name: Release v${{ github.event.inputs.version }}
+          body: |
+            ## Release v${{ github.event.inputs.version }}
+            
+            ${{ github.event.inputs.release_notes }}
+            
+            ### Data Files
+            - `data/brands.json` - Legacy format (backward compatible)
+            - `data/compiled/brands.json` - Enhanced format with full metadata
+            
+            ### Installation
+            ```bash
+            npm install creditcard-identifier@${{ github.event.inputs.version }}
+            ```
+            
+            ### Documentation
+            - See [CONTRIBUTING.md](https://github.com/renatovico/bin-cc/blob/main/CONTRIBUTING.md) for contribution guidelines
+            - See [data/SCHEMA.md](https://github.com/renatovico/bin-cc/blob/main/data/SCHEMA.md) for data schema documentation
+          files: |
+            data/brands.json
+            data/compiled/brands.json
+            data/sources/*.json
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

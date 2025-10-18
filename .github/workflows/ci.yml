@@ -1,0 +1,99 @@
+name: CI
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  test:
+    name: Test
+    runs-on: ubuntu-latest
+    
+    strategy:
+      matrix:
+        node-version: [16.x, 18.x, 20.x]
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+      
+      - name: Install root dependencies
+        run: npm install --ignore-scripts
+      
+      - name: Build data files
+        run: npm run build
+      
+      - name: Validate build output
+        run: |
+          if [ ! -f data/compiled/brands.json ]; then
+            echo "Error: compiled/brands.json not found"
+            exit 1
+          fi
+          echo "✓ Build output validated"
+      
+      - name: Install JavaScript library dependencies
+        run: |
+          cd libs/javascript
+          npm install
+      
+      - name: Run JavaScript tests
+        run: |
+          cd libs/javascript
+          npm test
+      
+      - name: Test Python example
+        run: |
+          python3 --version
+          python3 examples/python/credit_card_validator.py
+      
+      - name: Test Ruby example
+        run: |
+          ruby --version
+          ruby examples/ruby/credit_card_validator.rb
+  
+  lint:
+    name: Lint
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      
+      - name: Check JSON validity
+        run: |
+          for file in data/sources/*.json data/brands.json data/compiled/brands.json; do
+            if [ -f "$file" ]; then
+              echo "Checking $file..."
+              node -e "JSON.parse(require('fs').readFileSync('$file', 'utf8'))"
+            fi
+          done
+          echo "✓ All JSON files are valid"
+      
+      - name: Check for required files
+        run: |
+          required_files=(
+            "data/brands.json"
+            "data/SCHEMA.md"
+            "data/README.md"
+            "CONTRIBUTING.md"
+            "scripts/build.js"
+          )
+          for file in "${required_files[@]}"; do
+            if [ ! -f "$file" ]; then
+              echo "Error: Required file $file not found"
+              exit 1
+            fi
+          done
+          echo "✓ All required files present"

@@ -1,0 +1,112 @@
+{
+  "scheme": "visa",
+  "brand": "Visa",
+  "patterns": [
+    {
+      "bin": "^4",
+      "length": [13, 16],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^6367",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3
+    }
+  ],
+  "type": "credit",
+  "countries": ["GLOBAL"],
+  "bins": [
+    {
+      "bin": "491441",
+      "type": "CREDIT",
+      "category": null,
+      "issuer": "BANCO PROSPER, S.A."
+    },
+    {
+      "bin": "491440",
+      "type": "CREDIT",
+      "category": null,
+      "issuer": "BANCO PROSPER, S.A."
+    },
+    {
+      "bin": "491439",
+      "type": "CREDIT",
+      "category": null,
+      "issuer": "BANCO PROSPER, S.A."
+    },
+    {
+      "bin": "491423",
+      "type": "CREDIT",
+      "category": null,
+      "issuer": "BANCO DO ESTADO DO RIO GRANDE DO SUL S.A. (BANRISUL S.A.)"
+    },
+    {
+      "bin": "491416",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DO ESTADO DO PARANA"
+    },
+    {
+      "bin": "491415",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DO ESTADO DO PARANA"
+    },
+    {
+      "bin": "491414",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DO ESTADO DO PARANA"
+    },
+    {
+      "bin": "491413",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DO ESTADO DO RIO GRANDE DO SUL S/A"
+    },
+    {
+      "bin": "491412",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DO ESTADO DO RIO GRANDE DO SUL S/A"
+    },
+    {
+      "bin": "491411",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DO ESTADO DO RIO GRANDE DO SUL S/A"
+    },
+    {
+      "bin": "491402",
+      "type": "CREDIT",
+      "category": null,
+      "issuer": "BANCO DO ESTADO DO RIO GRANDE DO SUL S.A. (BANRISUL S.A.)"
+    },
+    {
+      "bin": "491316",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER BRASIL, S.A."
+    },
+    {
+      "bin": "491315",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER, S.A."
+    },
+    {
+      "bin": "491314",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO SANTANDER, S.A."
+    },
+    {
+      "bin": "491256",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO PANAMERICANO, S.A."
+    }
+  ]
+}
