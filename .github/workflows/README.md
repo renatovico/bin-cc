@@ -19,47 +19,107 @@ This directory contains GitHub Actions workflows for automating builds, tests, a
 - Runs JavaScript tests
 - Tests Python and Ruby examples
 
-### 2. Build and Release
+### 2. Data Release
 
-**File:** `build-and-release.yml`
+**File:** `data-release.yml`
 
 **Triggers:**
 - Push to `main` or `master` branches
+- Only when changes are made to `data/sources/**` or `scripts/build.js`
 
 **What it does:**
 - Builds and validates data files
-- Runs all tests
-- Uploads compiled data as artifacts
-- Automatically creates releases when data sources change
-- Auto-increments patch version
-- Tags releases with version number
+- Automatically increments patch version in root package.json
+- Creates GitHub release with tag `data-vX.Y.Z`
+- Attaches all data files (brands.json, compiled/brands.json, sources/*.json)
 
-**Release Process:**
-1. When changes are pushed to `data/sources/`, the workflow detects them
-2. Automatically increments the patch version (e.g., 2.0.0 → 2.0.1)
-3. Creates a GitHub release with tag `v2.0.1`
-4. Attaches compiled data files to the release
+**Release Assets:**
+- `data/brands.json` - Legacy format
+- `data/compiled/brands.json` - Enhanced format
+- `data/sources/*.json` - Source files
 
-### 3. Manual Release
+### 3. Publish NPM Package
 
-**File:** `manual-release.yml`
+**File:** `publish-npm.yml`
 
 **Triggers:**
 - Manual dispatch from GitHub Actions UI
 
 **What it does:**
-- Allows you to manually create a release with a specific version
-- Updates package.json version
-- Creates a tagged release
-- Includes all data files in the release
+- Updates the JavaScript library version
+- Runs tests
+- Publishes to NPM registry
+- Creates a Git tag (e.g., `v1.2.0`)
+- Creates a GitHub release for the library
 
 **How to use:**
 1. Go to Actions tab in GitHub
-2. Select "Manual Release" workflow
+2. Select "Publish NPM Package" workflow
 3. Click "Run workflow"
-4. Enter version number (e.g., `2.1.0`)
-5. Optionally add release notes
+4. Enter version number (e.g., `1.2.0`)
+5. Select NPM tag (`latest`, `beta`, `next`)
 6. Click "Run workflow"
+
+## Architecture
+
+This project separates data releases from library releases:
+
+### Data Releases (GitHub Releases)
+- Tagged as `data-vX.Y.Z`
+- Contains BIN pattern data
+- Updated when `data/sources/**` changes
+- Downloaded automatically by the JavaScript library
+
+### Library Releases (NPM)
+- Tagged as `vX.Y.Z`
+- Published to NPM
+- Contains validation logic
+- Downloads data from GitHub releases on install
+
+## Setting Up
+
+### For Data Releases
+No setup required - automatic when data sources are updated.
+
+### For NPM Publishing
+Add `NPM_TOKEN` secret to repository:
+1. Generate token at https://www.npmjs.com/settings/YOUR_USERNAME/tokens
+2. Go to repository Settings → Secrets → Actions
+3. Add secret named `NPM_TOKEN`
+
+## Release Process
+
+### Updating Data
+```bash
+# 1. Edit source files
+vim data/sources/visa.json
+
+# 2. Build and commit
+npm run build
+git add data/
+git commit -m "Update Visa BIN patterns"
+git push
+
+# 3. GitHub Actions automatically:
+#    - Builds data
+#    - Creates release (data-v2.0.2)
+#    - Attaches data files
+```
+
+### Publishing Library
+```bash
+# 1. Go to Actions → Publish NPM Package
+# 2. Click "Run workflow"
+# 3. Enter version: 1.3.0
+# 4. Select tag: latest
+# 5. Click "Run workflow"
+
+# GitHub Actions automatically:
+#    - Updates package.json
+#    - Runs tests
+#    - Publishes to NPM
+#    - Creates release (v1.3.0)
+```
 
 ## Setting Up
 

@@ -49,6 +49,14 @@ The **authoritative data** follows a **build system** similar to browserslist:
 - **Legacy data** [`data/brands.json`](./data/brands.json) - Backward-compatible format (auto-generated)
 - **Schema docs** [`data/SCHEMA.md`](./data/SCHEMA.md) - Complete schema documentation
 
+### Data Releases
+
+Data is released separately from library code:
+- **Location**: [GitHub Releases](https://github.com/renatovico/bin-cc/releases?q=data-v)
+- **Tagging**: `data-vX.Y.Z` (e.g., `data-v2.0.1`)
+- **Automatic**: Releases are created automatically when `data/sources/` changes
+- **Files included**: `brands.json`, `compiled/brands.json`, `sources/*.json`
+
 ### Building the Data
 
 ```bash
@@ -61,6 +69,8 @@ This compiles source files into both enhanced and legacy formats with validation
 
 ### JavaScript/Node.js
 Complete implementation available in [`libs/javascript/`](./libs/javascript/)
+
+The JavaScript library automatically downloads the latest BIN data from [GitHub releases](https://github.com/renatovico/bin-cc/releases?q=data-v) during installation.
 
 **Installation:**
 ```bash

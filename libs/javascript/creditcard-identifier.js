@@ -1,7 +1,24 @@
 'use strict';
 
-// Load brands data from JSON file using require (more efficient in Node.js)
-const brands = require('../../data/brands.json');
+const path = require('path');
+const fs = require('fs');
+
+// Try to load data from downloaded file first, fall back to bundled data
+let brands;
+const downloadedDataPath = path.join(__dirname, 'data', 'brands.json');
+const bundledDataPath = path.join(__dirname, '../../data/brands.json');
+
+if (fs.existsSync(downloadedDataPath)) {
+  // Load from downloaded data
+  brands = require(downloadedDataPath);
+} else if (fs.existsSync(bundledDataPath)) {
+  // Fall back to bundled data (for development)
+  brands = require(bundledDataPath);
+} else {
+  throw new Error(
+    'Credit card data not found. Please run: npm run postinstall or download-data.js'
+  );
+}
 
 function cardNumberFilter(cardNumber, brand) {
     if (typeof cardNumber !== 'string') {
