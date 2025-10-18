@@ -1,0 +1,14 @@
+{
+  "scheme": "diners",
+  "brand": "Diners Club",
+  "patterns": [
+    {
+      "bin": "^3(?:0[0-5]|[68][0-9])",
+      "length": [14, 16],
+      "luhn": true,
+      "cvvLength": 3
+    }
+  ],
+  "type": "credit",
+  "countries": ["GLOBAL"]
+}

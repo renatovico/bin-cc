@@ -1,0 +1,106 @@
+name: Data Release
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'data/sources/**'
+      - 'scripts/build.js'
+
+jobs:
+  build-and-release-data:
+    name: Build and Release Data
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      
+      - name: Install dependencies
+        run: npm install --ignore-scripts
+      
+      - name: Build data files
+        run: npm run build
+      
+      - name: Get current data version
+        id: get_version
+        run: |
+          # Get the current version from root package.json
+          CURRENT_VERSION=$(node -p "require('./package.json').version")
+          echo "current_version=$CURRENT_VERSION" >> $GITHUB_OUTPUT
+          
+          # Increment patch version for data
+          IFS='.' read -ra VERSION_PARTS <<< "$CURRENT_VERSION"
+          MAJOR=${VERSION_PARTS[0]}
+          MINOR=${VERSION_PARTS[1]}
+          PATCH=${VERSION_PARTS[2]}
+          NEW_PATCH=$((PATCH + 1))
+          NEW_VERSION="$MAJOR.$MINOR.$NEW_PATCH"
+          echo "new_version=$NEW_VERSION" >> $GITHUB_OUTPUT
+          echo "New data version: $NEW_VERSION"
+      
+      - name: Update root package.json version
+        run: |
+          node -e "
+          const fs = require('fs');
+          const pkg = JSON.parse(fs.readFileSync('package.json', 'utf8'));
+          pkg.version = '${{ steps.get_version.outputs.new_version }}';
+          fs.writeFileSync('package.json', JSON.stringify(pkg, null, 2) + '\n');
+          "
+      
+      - name: Commit version bump
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add package.json
+          git commit -m "chore: bump data version to ${{ steps.get_version.outputs.new_version }}" || echo "No changes to commit"
+          git push || echo "No changes to push"
+      
+      - name: Create Data Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: data-v${{ steps.get_version.outputs.new_version }}
+          name: Data Release v${{ steps.get_version.outputs.new_version }}
+          body: |
+            ## Credit Card BIN Data Release
+            
+            This release contains updated credit card BIN patterns and validation data.
+            
+            ### Data Files
+            - `brands.json` - Legacy format (backward compatible)
+            - `compiled/brands.json` - Enhanced format with detailed metadata
+            - `sources/*.json` - Source data files
+            
+            ### Usage
+            
+            **Download data programmatically:**
+            ```bash
+            curl -L https://github.com/renatovico/bin-cc/releases/download/data-v${{ steps.get_version.outputs.new_version }}/brands.json -o brands.json
+            ```
+            
+            **In JavaScript libraries:**
+            ```javascript
+            // The creditcard-identifier npm package automatically downloads
+            // the latest data from GitHub releases
+            const cc = require('creditcard-identifier');
+            ```
+            
+            ### Changes
+            See commit history for details on what BIN patterns were updated.
+          files: |
+            data/brands.json
+            data/compiled/brands.json
+            data/sources/*.json
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,33 +1,30 @@
 {
-  "name": "creditcard-identifier",
-  "version": "1.1.2",
-  "description": "Brazilian CreditCard Identifier",
-  "main": "creditcard-identifier.js",
+  "name": "bin-cc",
+  "version": "2.0.0",
+  "description": "Credit Card BIN Data - Multi-language data file project",
+  "private": true,
   "scripts": {
-    "test-unit": "NODE_ENV=test ./node_modules/.bin/mocha ./test --recursive  --harmony",
-    "coverage": "./node_modules/.bin/istanbul cover ./node_modules/mocha/bin/_mocha -- ./test/ --recursive  --harmony"
+    "build": "node scripts/build.js",
+    "validate": "node scripts/build.js",
+    "test": "npm run build && cd libs/javascript && npm test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/renatoelias/bin-cc.git"
+    "url": "git+https://github.com/renatovico/bin-cc.git"
   },
   "keywords": [
     "creditcard",
     "bin",
-    "identifier",
-    "validation",
-    "bin",
-    "luhn"
+    "data",
+    "tzdata",
+    "browserslist",
+    "credit-card-data",
+    "validation"
   ],
   "author": "Renato Elias, Eriki Herinque, Carlos Rios, Lohan Bohdavean",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/renatoelias/bin-cc/issues"
+    "url": "https://github.com/renatovico/bin-cc/issues"
   },
-  "homepage": "https://github.com/renatoelias/bin-cc#readme",
-  "devDependencies": {
-    "chai": "^3.5.0",
-    "lodash": "^4.5.0",
-    "mocha": "^5.2.0"
-  }
+  "homepage": "https://github.com/renatovico/bin-cc#readme"
 }

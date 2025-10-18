@@ -1,0 +1,20 @@
+{
+  "scheme": "hipercard",
+  "brand": "Hipercard",
+  "patterns": [
+    {
+      "bin": "^3841[046]0",
+      "length": [16, 19],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^60",
+      "length": [13, 16, 19],
+      "luhn": true,
+      "cvvLength": 3
+    }
+  ],
+  "type": "credit",
+  "countries": ["BR"]
+}
