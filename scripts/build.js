@@ -118,12 +118,14 @@ function buildData() {
     
     // Add optional BIN-level details if present
     if (source.bins && Array.isArray(source.bins) && source.bins.length > 0) {
-      compiledBrand.bins = source.bins.map(binData => ({
-        bin: binData.bin,
-        type: binData.type,
-        category: binData.category || null,
-        issuer: binData.issuer || null
-      }));
+      // Support both array of strings and array of objects (legacy)
+      if (typeof source.bins[0] === 'string') {
+        // Simple array of BIN strings
+        compiledBrand.bins = source.bins;
+      } else {
+        // Legacy format with objects - convert to simple strings
+        compiledBrand.bins = source.bins.map(binData => binData.bin);
+      }
     }
     
     compiledBrands.push(compiledBrand);
