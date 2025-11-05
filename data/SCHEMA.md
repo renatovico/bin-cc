@@ -31,8 +31,13 @@ Source files in `data/sources/` define card schemes with their BIN patterns.
   ],
   "type": "credit|debit",  // Card type
   "countries": ["string"], // ISO country codes or "GLOBAL"
-  "bins": [                // Optional: Array of specific BIN values
-    "string"               // 6-digit BIN (e.g., "491441")
+  "bins": [                // Optional: Detailed BIN-level information
+    {
+      "bin": "string",     // Specific 6-digit BIN
+      "type": "string",    // Card type (CREDIT, DEBIT)
+      "category": "string",// Card category (CLASSIC, GOLD, PLATINUM, etc.) or null
+      "issuer": "string"   // Issuing bank name
+    }
   ]
 }
 ```
@@ -54,8 +59,18 @@ Source files in `data/sources/` define card schemes with their BIN patterns.
   "type": "credit",
   "countries": ["GLOBAL"],
   "bins": [
-    "491441",
-    "491414"
+    {
+      "bin": "491441",
+      "type": "CREDIT",
+      "category": null,
+      "issuer": "BANCO PROSPER, S.A."
+    },
+    {
+      "bin": "491414",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DO ESTADO DO PARANA"
+    }
   ]
 }
 ```
@@ -86,8 +101,13 @@ The build process generates `data/compiled/brands.json` with enhanced metadata.
   "metadata": {
     "sourceFile": "string"      // Source file reference
   },
-  "bins": [                     // Optional: Array of specific BIN values
-    "string"                    // 6-digit BIN (e.g., "491441")
+  "bins": [                     // Optional: Detailed BIN information
+    {
+      "bin": "string",         // Specific 6-digit BIN
+      "type": "string",        // Card type (CREDIT, DEBIT)
+      "category": "string",    // Card category (CLASSIC, GOLD, PLATINUM) or null
+      "issuer": "string"       // Issuing bank name or null
+    }
   ]
 }
 ```
