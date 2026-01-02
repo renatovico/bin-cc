@@ -117,13 +117,9 @@ function buildData() {
     };
     
     // Add optional BIN-level details if present
+    // Bins array contains only the bin values, no additional metadata
     if (source.bins && Array.isArray(source.bins) && source.bins.length > 0) {
-      compiledBrand.bins = source.bins.map(binData => ({
-        bin: binData.bin,
-        type: binData.type,
-        category: binData.category || null,
-        issuer: binData.issuer || null
-      }));
+      compiledBrand.bins = source.bins;
     }
     
     compiledBrands.push(compiledBrand);

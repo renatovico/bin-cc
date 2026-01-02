@@ -42,7 +42,7 @@ bin-cc is a **data file project** similar to [browserslist](https://github.com/b
 
    **Optional: Add detailed BIN information**
    
-   You can include specific BIN-level details for known issuers:
+   You can include specific BIN values for known ranges:
    
    ```json
    {
@@ -59,27 +59,14 @@ bin-cc is a **data file project** similar to [browserslist](https://github.com/b
      "type": "credit",
      "countries": ["GLOBAL"],
      "bins": [
-       {
-         "bin": "491441",
-         "type": "CREDIT",
-         "category": null,
-         "issuer": "BANCO PROSPER, S.A."
-       },
-       {
-         "bin": "491414",
-         "type": "CREDIT",
-         "category": "GOLD",
-         "issuer": "BANCO DO ESTADO DO PARANA"
-       }
+       { "bin": "491441" },
+       { "bin": "491414" }
      ]
    }
    ```
    
-   The `bins` array is optional and provides:
+   The `bins` array is optional and contains objects with only the `bin` field:
    - **bin**: 6-digit BIN number
-   - **type**: Card type (CREDIT, DEBIT)
-   - **category**: Card tier (CLASSIC, GOLD, PLATINUM, etc.) - use `null` if not applicable
-   - **issuer**: Name of the issuing bank
 
 3. **Build and validate**
 
