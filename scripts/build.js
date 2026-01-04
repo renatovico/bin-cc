@@ -88,58 +88,25 @@ function mergeSources(sources, schemeName) {
 }
 
 /**
- * Build regex patterns from source patterns
+ * Extract metadata from source patterns
  * 
- * This builds comprehensive patterns for card validation.
- * The BIN pattern matches the first digits, and full pattern validates entire card numbers.
+ * Simply extracts and combines BIN patterns without generating full validation patterns.
+ * The library will handle pattern matching using the source patterns directly.
  */
-function buildPatterns(patterns) {
-  // Combine all BIN patterns
+function extractPatternMetadata(patterns) {
+  // Combine all BIN patterns for quick BIN-only matching
   const binPatterns = patterns.map(p => p.bin).join('|');
   
-  // For full pattern, we need to match exact card lengths
-  // Strategy: For each pattern, match its BIN + remaining digits for each valid length
-  const fullPatterns = [];
+  // Extract all unique lengths
+  const lengths = [...new Set(patterns.flatMap(p => Array.isArray(p.length) ? p.length : [p.length]))];
   
-  for (const pattern of patterns) {
-    const lengths = Array.isArray(pattern.length) ? pattern.length : [pattern.length];
-    
-    for (const len of lengths) {
-      // For the full pattern, we match: BIN pattern + rest of digits to reach total length
-      // Note: The BIN pattern itself may match variable digits (e.g., ^4 matches 1 digit, ^6367 matches 4)
-      // We use heuristics for the common cases to create reasonably tight patterns
-      const binPart = pattern.bin;
-      
-      // Most BIN patterns match between 1-6 digits depending on the scheme
-      // For each card length, we calculate a range that handles most cases
-      
-      if (len === 13) {
-        // 13-digit cards (e.g., Visa): BIN could be ^4 (1 digit) or ^6367 (4 digits)
-        fullPatterns.push(`${binPart}[0-9]{9,12}`);  // BIN 1-4 digits, need 9-12 more
-      } else if (len === 14) {
-        // 14-digit cards (Diners): BIN is ^3(?:0[0-5]|[68][0-9]) which matches exactly 3 digits
-        fullPatterns.push(`${binPart}[0-9]{11}`);    // BIN 3 digits, need exactly 11 more
-      } else if (len === 15) {
-        // 15-digit cards (Amex): BIN is ^3[47] which matches exactly 2 digits
-        fullPatterns.push(`${binPart}[0-9]{13}`);    // BIN 2 digits, need exactly 13 more
-      } else if (len === 16) {
-        // 16-digit cards (most common): BIN varies widely from ^4 (1 digit) to ^6367 (4 digits) to ^50[0-9] (3 digits)
-        fullPatterns.push(`${binPart}[0-9]{10,14}`); // BIN 2-6 digits, need 10-14 more
-      } else if (len === 19) {
-        // 19-digit cards (Hipercard): BIN could be ^3841[046]0 (6 digits) or ^60 (2 digits)
-        fullPatterns.push(`${binPart}[0-9]{13,17}`); // BIN 2-6 digits, need 13-17 more
-      }
-    }
-  }
-  
-  // Deduplicate patterns
-  const uniqueFullPatterns = [...new Set(fullPatterns)];
+  // Get CVV length from first pattern (assuming all patterns for a brand have same CVV length)
+  const cvvLength = patterns[0].cvvLength;
   
   return {
     binPattern: binPatterns,
-    fullPattern: `(${uniqueFullPatterns.join('|')})`,
-    lengths: [...new Set(patterns.flatMap(p => Array.isArray(p.length) ? p.length : [p.length]))],
-    cvvLength: patterns[0].cvvLength
+    lengths: lengths,
+    cvvLength: cvvLength
   };
 }
 
@@ -150,7 +117,7 @@ function buildData() {
   console.log('🔨 Building bin-cc data...\n');
   
   // Define preferred ordering for brands to handle overlapping patterns correctly
-  // More specific patterns should come first (e.g., elo before aura, discover before hipercard, hipercard before diners)
+  // More specific patterns should come first (e.g., elo before aura, discover before hipercard)
   const preferredOrder = ['elo', 'discover', 'hipercard', 'diners', 'amex', 'aura', 'mastercard', 'visa'];
   
   const entries = fs.readdirSync(SOURCES_DIR, { withFileTypes: true })
@@ -174,7 +141,6 @@ function buildData() {
     });
   
   const compiledBrands = [];
-  const legacyBrands = [];
   
   for (const entry of entries) {
     let source;
@@ -213,24 +179,21 @@ function buildData() {
     
     console.log(`  ✓ Processing ${source.brand} (${schemeName})`);
     
-    const patterns = buildPatterns(source.patterns);
+    const metadata = extractPatternMetadata(source.patterns);
     
-    // Enhanced format
+    // Enhanced format - store source patterns directly without heuristic generation
     const compiledBrand = {
       scheme: schemeName,
       brand: source.brand,
       type: source.type || 'credit',
       number: {
-        lengths: patterns.lengths,
+        lengths: metadata.lengths,
         luhn: source.patterns[0].luhn
       },
       cvv: {
-        length: patterns.cvvLength
+        length: metadata.cvvLength
       },
-      patterns: {
-        bin: patterns.binPattern,
-        full: patterns.fullPattern
-      },
+      patterns: source.patterns,  // Store patterns array directly from source
       countries: source.countries || [],
       metadata: {
         sourceFile: sourceFiles.length === 1 ? sourceFiles[0] : sourceFiles
@@ -248,16 +211,6 @@ function buildData() {
     }
     
     compiledBrands.push(compiledBrand);
-    
-    // Legacy format (backward compatible)
-    const legacyBrand = {
-      name: schemeName,
-      regexpBin: patterns.binPattern,
-      regexpFull: patterns.fullPattern,
-      regexpCvv: `^\\d{${patterns.cvvLength}}$`
-    };
-    
-    legacyBrands.push(legacyBrand);
   }
   
   // Write compiled format
@@ -275,7 +228,7 @@ function buildData() {
   console.log(`   Global brands: ${compiledBrands.filter(b => b.countries.includes('GLOBAL')).length}`);
   console.log(`   Brazilian brands: ${compiledBrands.filter(b => b.countries.includes('BR')).length}`);
   
-  return { compiledBrands, legacyBrands };
+  return { compiledBrands };
 }
 
 /**
@@ -296,13 +249,25 @@ function validate(data) {
       }
     }
     
-    // Validate patterns are valid regex
-    try {
-      new RegExp(brand.patterns.bin);
-      new RegExp(brand.patterns.full);
-    } catch (e) {
-      console.error(`  ✗ ${brand.scheme}: Invalid regex pattern - ${e.message}`);
+    // Validate patterns are valid
+    if (!Array.isArray(brand.patterns) || brand.patterns.length === 0) {
+      console.error(`  ✗ ${brand.scheme}: patterns must be a non-empty array`);
       errors++;
+    } else {
+      // Validate each pattern has required fields and valid regex
+      for (const pattern of brand.patterns) {
+        try {
+          new RegExp(pattern.bin);
+        } catch (e) {
+          console.error(`  ✗ ${brand.scheme}: Invalid BIN regex pattern - ${e.message}`);
+          errors++;
+        }
+        
+        if (!pattern.length || (!Array.isArray(pattern.length) && typeof pattern.length !== 'number')) {
+          console.error(`  ✗ ${brand.scheme}: Pattern missing valid length field`);
+          errors++;
+        }
+      }
     }
   }
   

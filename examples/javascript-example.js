@@ -71,11 +71,10 @@ if (isNewFormat) {
 
 if (visaData) {
     if (isNewFormat) {
-        // New format has structured data
+        // New format has patterns array with detailed pattern information
         console.log('Visa scheme:', visaData.scheme);
         console.log('Visa brand name:', visaData.brand);
-        console.log('Visa BIN pattern:', visaData.patterns.bin);
-        console.log('Visa full validation pattern:', visaData.patterns.full);
+        console.log('Visa patterns:', JSON.stringify(visaData.patterns, null, 2));
         console.log('Visa card lengths:', visaData.number.lengths);
         console.log('Visa CVV length:', visaData.cvv.length);
         console.log('Visa Luhn check required:', visaData.number.luhn);

@@ -35,10 +35,36 @@ if (fs.existsSync(downloadedCompiledPath)) {
   );
 }
 
+// Helper to check if a card number matches a brand's patterns (new format with patterns array)
+function matchesPatternsArray(cardNumber, patterns) {
+    for (const pattern of patterns) {
+        // Check if BIN matches
+        const binRegex = new RegExp(pattern.bin);
+        if (!binRegex.test(cardNumber)) {
+            continue;  // BIN doesn't match, try next pattern
+        }
+        
+        // BIN matches - check if length is valid
+        const lengths = Array.isArray(pattern.length) ? pattern.length : [pattern.length];
+        if (lengths.includes(cardNumber.length)) {
+            return true;  // Both BIN and length match
+        }
+    }
+    return false;  // No pattern matched
+}
+
 // Helper to get the regex pattern from brand data (supports both formats)
 function getFullPattern(brand) {
     if (isNewFormat) {
-        return brand.patterns.full;
+        // New format stores patterns array - we don't need a full pattern
+        // Instead, we'll use matchesPatternsArray directly
+        // This is a fallback for compatibility if patterns has bin/full structure
+        if (brand.patterns && brand.patterns.full) {
+            return brand.patterns.full;
+        }
+        // If patterns is an array, we can't return a single regex
+        // Return null to indicate we should use matchesPatternsArray
+        return null;
     }
     return brand.regexpFull;
 }
@@ -56,7 +82,16 @@ function cardNumberFilter(cardNumber, brand) {
         throw Error('Card number should be a string');
     }
 
+    // For new format with patterns array, use direct matching
+    if (isNewFormat && Array.isArray(brand.patterns)) {
+        return matchesPatternsArray(cardNumber, brand.patterns);
+    }
+    
+    // For legacy format or new format with full pattern
     const pattern = getFullPattern(brand);
+    if (!pattern) {
+        return false;  // No pattern available
+    }
     return cardNumber.match(pattern) !== null;
 }
 
