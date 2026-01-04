@@ -22,6 +22,72 @@ if (!fs.existsSync(COMPILED_DIR)) {
 }
 
 /**
+ * Merge multiple source objects into one unified brand entry
+ * 
+ * @param {Array} sources - Array of source objects to merge
+ * @param {string} schemeName - The scheme name to use (from subfolder or first file)
+ * @returns {Object} Merged source object
+ */
+function mergeSources(sources, schemeName) {
+  if (sources.length === 1) {
+    return sources[0];
+  }
+  
+  // Start with the first source as base
+  const merged = { ...sources[0] };
+  merged.scheme = schemeName;
+  
+  // Collect all patterns
+  const allPatterns = [];
+  const patternSet = new Set();
+  
+  for (const source of sources) {
+    for (const pattern of source.patterns) {
+      const key = JSON.stringify(pattern);
+      if (!patternSet.has(key)) {
+        patternSet.add(key);
+        allPatterns.push(pattern);
+      }
+    }
+  }
+  
+  merged.patterns = allPatterns;
+  
+  // Collect all bins
+  const allBins = [];
+  const binSet = new Set();
+  
+  for (const source of sources) {
+    if (source.bins && Array.isArray(source.bins)) {
+      for (const binData of source.bins) {
+        // Note: If the same BIN appears in multiple files with different metadata,
+        // only the first occurrence will be kept. This is intentional to avoid
+        // conflicts when the same BIN has different categorizations.
+        if (!binSet.has(binData.bin)) {
+          binSet.add(binData.bin);
+          allBins.push(binData);
+        }
+      }
+    }
+  }
+  
+  if (allBins.length > 0) {
+    merged.bins = allBins;
+  }
+  
+  // Merge countries
+  const allCountries = new Set();
+  for (const source of sources) {
+    if (source.countries && Array.isArray(source.countries)) {
+      source.countries.forEach(c => allCountries.add(c));
+    }
+  }
+  merged.countries = Array.from(allCountries);
+  
+  return merged;
+}
+
+/**
  * Build regex patterns from source patterns
  * 
  * This builds comprehensive patterns for card validation.
@@ -79,24 +145,54 @@ function buildPatterns(patterns) {
 function buildData() {
   console.log('🔨 Building bin-cc data...\n');
   
-  const sourceFiles = fs.readdirSync(SOURCES_DIR)
-    .filter(f => f.endsWith('.json'))
-    .sort();
+  const entries = fs.readdirSync(SOURCES_DIR, { withFileTypes: true })
+    .sort((a, b) => a.name.localeCompare(b.name));
   
   const compiledBrands = [];
   const legacyBrands = [];
   
-  for (const file of sourceFiles) {
-    const sourcePath = path.join(SOURCES_DIR, file);
-    const source = JSON.parse(fs.readFileSync(sourcePath, 'utf8'));
+  for (const entry of entries) {
+    let source;
+    let schemeName;
+    let sourceFiles = [];
     
-    console.log(`  ✓ Processing ${source.brand} (${source.scheme})`);
+    if (entry.isDirectory()) {
+      // Read all JSON files from subdirectory and merge them
+      const subdir = path.join(SOURCES_DIR, entry.name);
+      const files = fs.readdirSync(subdir)
+        .filter(f => f.endsWith('.json'))
+        .sort();
+      
+      if (files.length === 0) continue;
+      
+      const sources = files.map(f => {
+        const filePath = path.join(subdir, f);
+        sourceFiles.push(`${entry.name}/${f}`);
+        return JSON.parse(fs.readFileSync(filePath, 'utf8'));
+      });
+      
+      schemeName = entry.name;
+      source = mergeSources(sources, schemeName);
+      
+    } else if (entry.name.endsWith('.json')) {
+      // Single JSON file
+      const sourcePath = path.join(SOURCES_DIR, entry.name);
+      source = JSON.parse(fs.readFileSync(sourcePath, 'utf8'));
+      schemeName = source.scheme;
+      sourceFiles.push(entry.name);
+      
+    } else {
+      // Skip non-JSON files
+      continue;
+    }
+    
+    console.log(`  ✓ Processing ${source.brand} (${schemeName})`);
     
     const patterns = buildPatterns(source.patterns);
     
     // Enhanced format
     const compiledBrand = {
-      scheme: source.scheme,
+      scheme: schemeName,
       brand: source.brand,
       type: source.type || 'credit',
       number: {
@@ -112,7 +208,7 @@ function buildData() {
       },
       countries: source.countries || [],
       metadata: {
-        sourceFile: file
+        sourceFile: sourceFiles.length === 1 ? sourceFiles[0] : sourceFiles
       }
     };
     
@@ -130,7 +226,7 @@ function buildData() {
     
     // Legacy format (backward compatible)
     const legacyBrand = {
-      name: source.scheme,
+      name: schemeName,
       regexpBin: patterns.binPattern,
       regexpFull: patterns.fullPattern,
       regexpCvv: `^\\d{${patterns.cvvLength}}$`

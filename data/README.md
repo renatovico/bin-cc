@@ -7,8 +7,13 @@ This directory contains credit card BIN (Bank Identification Number) data with a
 ```
 data/
 ├── sources/              # Source data files (human-editable)
-│   ├── visa.json
-│   ├── mastercard.json
+│   ├── visa/            # Subfolder organization (for complex brands)
+│   │   ├── base.json
+│   │   └── detailed.json
+│   ├── mastercard/
+│   │   └── base.json
+│   ├── amex.json        # Single file (for simple brands)
+│   ├── aura.json
 │   └── ...
 ├── compiled/             # Generated enhanced format
 │   └── brands.json
@@ -16,6 +21,19 @@ data/
 ├── SCHEMA.md            # Complete schema documentation
 └── README.md            # This file
 ```
+
+### Organization Options
+
+**Single File** - For brands with simple patterns:
+- `data/sources/amex.json`
+- `data/sources/discover.json`
+
+**Subfolder** - For brands with extensive BIN data or regional variations:
+- `data/sources/visa/base.json` - Base patterns
+- `data/sources/visa/detailed.json` - Detailed BIN database
+- `data/sources/visa/br.json` - Brazil-specific data (optional)
+
+The build script automatically merges all files within a subfolder into a single brand entry.
 
 ## File Formats
 
@@ -62,10 +80,12 @@ Enhanced format with full metadata:
   },
   "countries": ["GLOBAL"],
   "metadata": {
-    "sourceFile": "visa.json"
+    "sourceFile": ["visa/base.json", "visa/detailed.json"]
   }
 }
 ```
+
+**Note:** When multiple source files are merged from a subfolder, `metadata.sourceFile` changes from a string (single file) to an array (merged files).
 
 ### Legacy Format (`brands.json`)
 
@@ -127,11 +147,25 @@ const isSupported = creditcard.isSupported('4012001037141112');
 
 When contributing new brand data or updating existing patterns:
 
-1. Update the `data/brands.json` file
-2. Ensure the data follows the schema above
-3. Add test cases in `test/creditcard-identifier.test.js`
-4. Document the source of the information in your pull request
-5. Run `npm run test-unit` to verify all tests pass
+### Single File Brands
+
+1. Update or create the JSON file in `data/sources/`
+2. Ensure the data follows the schema (see `SCHEMA.md`)
+3. Run `node scripts/build.js` to compile
+4. Add test cases in the JavaScript library if needed
+5. Document the source of the information in your pull request
+6. Run `npm test` to verify all tests pass
+
+### Subfolder-Organized Brands
+
+1. Create or edit files in `data/sources/<brand>/`
+2. Multiple files are automatically merged during build
+3. Run `node scripts/build.js` to compile and merge
+4. Add test cases if needed
+5. Document the source of the information in your pull request
+6. Run `npm test` to verify all tests pass
+
+See `CONTRIBUTING.md` and `SCHEMA.md` for detailed guidelines.
 
 ## Data Sources
 
