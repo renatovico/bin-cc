@@ -360,7 +360,7 @@ npm test
 cd ../..
 
 # Commit with descriptive message
-git add data/sources/
+git add data/sources/visa/
 git commit -m "Update Visa BIN patterns for Brazil"
 
 # Push and create PR
