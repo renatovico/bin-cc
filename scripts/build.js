@@ -110,18 +110,23 @@ function buildPatterns(patterns) {
       // We use heuristics for the common cases to create reasonably tight patterns
       const binPart = pattern.bin;
       
-      // Most BIN patterns match between 2-6 digits
+      // Most BIN patterns match between 1-6 digits depending on the scheme
       // For each card length, we calculate a range that handles most cases
       
       if (len === 13) {
+        // 13-digit cards (e.g., Visa): BIN could be ^4 (1 digit) or ^6367 (4 digits)
         fullPatterns.push(`${binPart}[0-9]{9,12}`);  // BIN 1-4 digits, need 9-12 more
       } else if (len === 14) {
-        fullPatterns.push(`${binPart}[0-9]{11}`);    // BIN ~3 digits, need exactly 11 more (Diners specific)
+        // 14-digit cards (Diners): BIN is ^3(?:0[0-5]|[68][0-9]) which matches exactly 3 digits
+        fullPatterns.push(`${binPart}[0-9]{11}`);    // BIN 3 digits, need exactly 11 more
       } else if (len === 15) {
-        fullPatterns.push(`${binPart}[0-9]{13}`);    // BIN ~2 digits, need exactly 13 more (Amex specific)
+        // 15-digit cards (Amex): BIN is ^3[47] which matches exactly 2 digits
+        fullPatterns.push(`${binPart}[0-9]{13}`);    // BIN 2 digits, need exactly 13 more
       } else if (len === 16) {
+        // 16-digit cards (most common): BIN varies widely from ^4 (1 digit) to ^6367 (4 digits) to ^50[0-9] (3 digits)
         fullPatterns.push(`${binPart}[0-9]{10,14}`); // BIN 2-6 digits, need 10-14 more
       } else if (len === 19) {
+        // 19-digit cards (Hipercard): BIN could be ^3841[046]0 (6 digits) or ^60 (2 digits)
         fullPatterns.push(`${binPart}[0-9]{13,17}`); // BIN 2-6 digits, need 13-17 more
       }
     }
