@@ -8,13 +8,13 @@ const path = require('path');
  * Build script for bin-cc data
  * 
  * Reads source files from data/sources/ and compiles them into:
- * 1. data/compiled/brands.json - Enhanced format with all details
- * 2. data/brands.json - Legacy format for backward compatibility
+ * 1. data/compiled/brands.json - Full format with all details (including bins array)
+ * 2. data/brands.json - Simplified format without bins details
  */
 
 const SOURCES_DIR = path.join(__dirname, '../data/sources');
 const COMPILED_DIR = path.join(__dirname, '../data/compiled');
-const LEGACY_FILE = path.join(__dirname, '../data/brands.json');
+const SIMPLIFIED_FILE = path.join(__dirname, '../data/brands.json');
 
 // Ensure compiled directory exists
 if (!fs.existsSync(COMPILED_DIR)) {
@@ -88,55 +88,60 @@ function mergeSources(sources, schemeName) {
 }
 
 /**
- * Build regex patterns from source patterns
+ * Extract metadata from source patterns
  * 
- * This builds comprehensive patterns for card validation.
- * The BIN pattern matches the first digits, and full pattern validates entire card numbers.
+ * Simply extracts and combines BIN patterns without generating full validation patterns.
+ * The library will handle pattern matching using the source patterns directly.
  */
-function buildPatterns(patterns) {
-  // Combine all BIN patterns
+function extractPatternMetadata(patterns) {
+  // Combine all BIN patterns for quick BIN-only matching
   const binPatterns = patterns.map(p => p.bin).join('|');
   
-  // For full pattern, we need to match exact card lengths
-  // Strategy: For each pattern, match its BIN + exact remaining digits for each valid length
-  const fullPatterns = [];
+  // Extract all unique lengths
+  const lengths = [...new Set(patterns.flatMap(p => Array.isArray(p.length) ? p.length : [p.length]))];
   
-  for (const pattern of patterns) {
-    const lengths = Array.isArray(pattern.length) ? pattern.length : [pattern.length];
-    
-    for (const len of lengths) {
-      // For the full pattern, we match: BIN pattern + rest of digits to reach total length
-      // Note: The BIN pattern itself may match variable digits (e.g., ^4 matches 1 digit, ^6367 matches 4)
-      // So we use a simplified approach: the pattern already includes anchors
-      const binPart = pattern.bin;
-      
-      // Rough heuristic: most BIN patterns match 4-6 digits
-      // For simplicity, let's match (pattern) followed by remaining digits
-      // This won't be perfect for all cases but handles common scenarios
-      
-      if (len === 13) {
-        fullPatterns.push(`${binPart}[0-9]{9,12}`);
-      } else if (len === 14) {
-        fullPatterns.push(`${binPart}[0-9]{10,13}`);
-      } else if (len === 15) {
-        fullPatterns.push(`${binPart}[0-9]{11,14}`);
-      } else if (len === 16) {
-        fullPatterns.push(`${binPart}[0-9]{12,15}`);
-      } else if (len === 19) {
-        fullPatterns.push(`${binPart}[0-9]{15,18}`);
-      }
-    }
-  }
-  
-  // Deduplicate patterns
-  const uniqueFullPatterns = [...new Set(fullPatterns)];
+  // Get CVV length from first pattern (assuming all patterns for a brand have same CVV length)
+  const cvvLength = patterns[0].cvvLength;
   
   return {
     binPattern: binPatterns,
-    fullPattern: `(${uniqueFullPatterns.join('|')})`,
-    lengths: [...new Set(patterns.flatMap(p => Array.isArray(p.length) ? p.length : [p.length]))],
-    cvvLength: patterns[0].cvvLength
+    lengths: lengths,
+    cvvLength: cvvLength
   };
+}
+
+/**
+ * Build a full validation regex from patterns for simplified format
+ * 
+ * This creates a simple regex by combining BIN patterns with digit counts.
+ * The approach: for each pattern, add a digit suffix for the remaining length.
+ */
+function buildSimplifiedFullPattern(patterns) {
+  const parts = [];
+  
+  for (const pattern of patterns) {
+    const lengths = Array.isArray(pattern.length) ? pattern.length : [pattern.length];
+    // Remove all ^ from BIN pattern (not just leading one)
+    const binPart = pattern.bin.replace(/\^/g, '');
+    
+    // For simplified format, calculate remaining digits
+    const minLength = Math.min(...lengths);
+    const maxLength = Math.max(...lengths);
+    
+    // Assuming BIN patterns typically match 4-6 digits
+    const minRemaining = minLength - 6;  // Conservative estimate
+    const maxRemaining = maxLength - 1;  // Liberal estimate
+    
+    // Add the BIN pattern with digit suffix
+    if (minRemaining === maxRemaining) {
+      parts.push(`${binPart}[0-9]{${minRemaining}}`);
+    } else if (minRemaining < maxRemaining) {
+      parts.push(`${binPart}[0-9]{${minRemaining},${maxRemaining}}`);
+    }
+  }
+  
+  // Combine all parts and add anchors
+  return `^(${parts.join('|')})$`;
 }
 
 /**
@@ -145,11 +150,32 @@ function buildPatterns(patterns) {
 function buildData() {
   console.log('🔨 Building bin-cc data...\n');
   
+  // Define preferred ordering for brands to handle overlapping patterns correctly
+  // More specific patterns should come first (e.g., elo before aura, discover before hipercard)
+  const preferredOrder = ['elo', 'discover', 'hipercard', 'diners', 'amex', 'aura', 'mastercard', 'visa'];
+  
   const entries = fs.readdirSync(SOURCES_DIR, { withFileTypes: true })
-    .sort((a, b) => a.name.localeCompare(b.name));
+    .sort((a, b) => {
+      const nameA = a.name.replace('.json', '');
+      const nameB = b.name.replace('.json', '');
+      
+      const indexA = preferredOrder.indexOf(nameA);
+      const indexB = preferredOrder.indexOf(nameB);
+      
+      // If both are in preferred order, use that order
+      if (indexA !== -1 && indexB !== -1) {
+        return indexA - indexB;
+      }
+      // If only A is in preferred order, it comes first
+      if (indexA !== -1) return -1;
+      // If only B is in preferred order, it comes first
+      if (indexB !== -1) return 1;
+      // Otherwise, use alphabetical order
+      return nameA.localeCompare(nameB);
+    });
   
   const compiledBrands = [];
-  const legacyBrands = [];
+  const simplifiedBrands = [];
   
   for (const entry of entries) {
     let source;
@@ -188,24 +214,21 @@ function buildData() {
     
     console.log(`  ✓ Processing ${source.brand} (${schemeName})`);
     
-    const patterns = buildPatterns(source.patterns);
+    const metadata = extractPatternMetadata(source.patterns);
     
-    // Enhanced format
+    // Enhanced format - store source patterns directly without heuristic generation
     const compiledBrand = {
       scheme: schemeName,
       brand: source.brand,
       type: source.type || 'credit',
       number: {
-        lengths: patterns.lengths,
+        lengths: metadata.lengths,
         luhn: source.patterns[0].luhn
       },
       cvv: {
-        length: patterns.cvvLength
+        length: metadata.cvvLength
       },
-      patterns: {
-        bin: patterns.binPattern,
-        full: patterns.fullPattern
-      },
+      patterns: source.patterns,  // Store patterns array directly from source
       countries: source.countries || [],
       metadata: {
         sourceFile: sourceFiles.length === 1 ? sourceFiles[0] : sourceFiles
@@ -224,25 +247,26 @@ function buildData() {
     
     compiledBrands.push(compiledBrand);
     
-    // Legacy format (backward compatible)
-    const legacyBrand = {
+    // Generate simplified format (without bins details)
+    const simplifiedBrand = {
       name: schemeName,
-      regexpBin: patterns.binPattern,
-      regexpFull: patterns.fullPattern,
-      regexpCvv: `^\\d{${patterns.cvvLength}}$`
+      regexpBin: metadata.binPattern,
+      regexpFull: buildSimplifiedFullPattern(source.patterns),
+      regexpCvv: `^\\d{${metadata.cvvLength}}$`
     };
     
-    legacyBrands.push(legacyBrand);
+    simplifiedBrands.push(simplifiedBrand);
   }
   
-  // Write compiled format
+  // Write compiled format (with all details including bins)
   const compiledPath = path.join(COMPILED_DIR, 'brands.json');
   fs.writeFileSync(compiledPath, JSON.stringify(compiledBrands, null, 2));
   console.log(`\n✅ Compiled data written to: ${path.relative(process.cwd(), compiledPath)}`);
   
-  // Note: Legacy data/brands.json is maintained manually for backward compatibility
-  // The source files provide a structured, extensible format for future enhancements
-  console.log(`ℹ️  Legacy data/brands.json maintained separately for backward compatibility`);
+  // Write simplified format (without bins details)
+  const simplifiedPath = SIMPLIFIED_FILE;
+  fs.writeFileSync(simplifiedPath, JSON.stringify(simplifiedBrands, null, 2));
+  console.log(`✅ Simplified data written to: ${path.relative(process.cwd(), simplifiedPath)}`);
   
   // Generate statistics
   console.log(`\n📊 Statistics:`);
@@ -250,7 +274,7 @@ function buildData() {
   console.log(`   Global brands: ${compiledBrands.filter(b => b.countries.includes('GLOBAL')).length}`);
   console.log(`   Brazilian brands: ${compiledBrands.filter(b => b.countries.includes('BR')).length}`);
   
-  return { compiledBrands, legacyBrands };
+  return { compiledBrands, simplifiedBrands };
 }
 
 /**
@@ -271,13 +295,25 @@ function validate(data) {
       }
     }
     
-    // Validate patterns are valid regex
-    try {
-      new RegExp(brand.patterns.bin);
-      new RegExp(brand.patterns.full);
-    } catch (e) {
-      console.error(`  ✗ ${brand.scheme}: Invalid regex pattern - ${e.message}`);
+    // Validate patterns are valid
+    if (!Array.isArray(brand.patterns) || brand.patterns.length === 0) {
+      console.error(`  ✗ ${brand.scheme}: patterns must be a non-empty array`);
       errors++;
+    } else {
+      // Validate each pattern has required fields and valid regex
+      for (const pattern of brand.patterns) {
+        try {
+          new RegExp(pattern.bin);
+        } catch (e) {
+          console.error(`  ✗ ${brand.scheme}: Invalid BIN regex pattern - ${e.message}`);
+          errors++;
+        }
+        
+        if (!pattern.length || (!Array.isArray(pattern.length) && typeof pattern.length !== 'number')) {
+          console.error(`  ✗ ${brand.scheme}: Pattern missing valid length field`);
+          errors++;
+        }
+      }
     }
   }
   

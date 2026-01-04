@@ -6,7 +6,9 @@ const fs = require('fs');
 const path = require('path');
 
 const DATA_DIR = path.join(__dirname, 'data');
-const DATA_FILE = path.join(DATA_DIR, 'brands.json');
+const COMPILED_DIR = path.join(DATA_DIR, 'compiled');
+const COMPILED_FILE = path.join(COMPILED_DIR, 'brands.json');
+const LEGACY_FILE = path.join(DATA_DIR, 'brands.json');
 const GITHUB_API_URL = 'https://api.github.com/repos/renatovico/bin-cc/releases';
 
 /**
@@ -42,21 +44,33 @@ function downloadData() {
           
           console.log(`   Found data release: ${dataRelease.tag_name}`);
           
-          // Find the brands.json asset
-          const asset = dataRelease.assets.find(a => a.name === 'brands.json');
+          // Try to find the compiled/brands.json asset (new format)
+          const compiledAsset = dataRelease.assets.find(a => a.name === 'compiled-brands.json');
           
-          if (!asset) {
-            reject(new Error('brands.json not found in release assets'));
-            return;
+          // Fall back to legacy brands.json if compiled format not available
+          const legacyAsset = dataRelease.assets.find(a => a.name === 'brands.json');
+          
+          if (compiledAsset) {
+            // Download new compiled format
+            console.log('   Downloading compiled format (new schema)...');
+            downloadFile(compiledAsset.browser_download_url, COMPILED_FILE)
+              .then(() => {
+                console.log(`✅ Compiled data downloaded successfully to ${COMPILED_FILE}`);
+                resolve();
+              })
+              .catch(reject);
+          } else if (legacyAsset) {
+            // Download legacy format
+            console.log('   Downloading legacy format...');
+            downloadFile(legacyAsset.browser_download_url, LEGACY_FILE)
+              .then(() => {
+                console.log(`✅ Legacy data downloaded successfully to ${LEGACY_FILE}`);
+                resolve();
+              })
+              .catch(reject);
+          } else {
+            reject(new Error('No data files found in release assets'));
           }
-          
-          // Download the asset
-          downloadFile(asset.browser_download_url, DATA_FILE)
-            .then(() => {
-              console.log(`✅ Data downloaded successfully to ${DATA_FILE}`);
-              resolve();
-            })
-            .catch(reject);
           
         } catch (err) {
           reject(err);
@@ -72,8 +86,9 @@ function downloadData() {
 function downloadFile(url, dest) {
   return new Promise((resolve, reject) => {
     // Ensure data directory exists
-    if (!fs.existsSync(DATA_DIR)) {
-      fs.mkdirSync(DATA_DIR, { recursive: true });
+    const destDir = path.dirname(dest);
+    if (!fs.existsSync(destDir)) {
+      fs.mkdirSync(destDir, { recursive: true });
     }
     
     const file = fs.createWriteStream(dest);
@@ -111,7 +126,7 @@ function downloadFile(url, dest) {
  * Check if data needs to be downloaded
  */
 function checkDataExists() {
-  return fs.existsSync(DATA_FILE);
+  return fs.existsSync(COMPILED_FILE) || fs.existsSync(LEGACY_FILE);
 }
 
 // Run if executed directly
@@ -135,5 +150,6 @@ if (require.main === module) {
 module.exports = {
   downloadData,
   checkDataExists,
-  DATA_FILE
+  COMPILED_FILE,
+  LEGACY_FILE
 };
