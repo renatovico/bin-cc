@@ -4,7 +4,7 @@
  * Example: Using bin-cc with the new compiled format schema
  * 
  * This example shows how to use the credit card BIN data with both
- * the new compiled format (preferred) and legacy format (for backward compatibility).
+ * the new compiled format (preferred) and simplified format (for backward compatibility).
  * 
  * The library automatically detects and uses the available format.
  */
@@ -13,11 +13,11 @@ const creditcard = require('../libs/javascript/index.js');
 
 console.log('=== Using bin-cc with New Format Schema ===\n');
 
-// The library supports both legacy and new compiled formats
+// The library supports both compiled and simplified formats
 // Check what format is currently loaded
 const sampleBrand = creditcard.data.brands[0];
 const isNewFormat = sampleBrand.hasOwnProperty('scheme');
-console.log('Data format detected:', isNewFormat ? 'New compiled format' : 'Legacy format');
+console.log('Data format detected:', isNewFormat ? 'New compiled format' : 'Simplified format');
 console.log('');
 
 // Method 1: Access data through the module exports
@@ -26,7 +26,7 @@ if (isNewFormat) {
     // New format uses 'scheme' instead of 'name'
     console.log('Available brands:', creditcard.data.brands.map(b => b.scheme).join(', '));
 } else {
-    // Legacy format uses 'name'
+    // Simplified format uses 'name'
     console.log('Available brands:', creditcard.data.brands.map(b => b.name).join(', '));
 }
 console.log('');
@@ -80,7 +80,7 @@ if (visaData) {
         console.log('Visa Luhn check required:', visaData.number.luhn);
         console.log('Visa countries:', visaData.countries);
     } else {
-        // Legacy format has flat structure
+        // Simplified format has flat structure
         console.log('Visa BIN pattern:', visaData.regexpBin);
         console.log('Visa full validation pattern:', visaData.regexpFull);
         console.log('Visa CVV pattern:', visaData.regexpCvv);

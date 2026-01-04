@@ -8,13 +8,13 @@ const path = require('path');
  * Build script for bin-cc data
  * 
  * Reads source files from data/sources/ and compiles them into:
- * 1. data/compiled/brands.json - Enhanced format with all details
- * 2. data/brands.json - Legacy format for backward compatibility
+ * 1. data/compiled/brands.json - Full format with all details (including bins array)
+ * 2. data/brands.json - Simplified format without bins details
  */
 
 const SOURCES_DIR = path.join(__dirname, '../data/sources');
 const COMPILED_DIR = path.join(__dirname, '../data/compiled');
-const LEGACY_FILE = path.join(__dirname, '../data/brands.json');
+const SIMPLIFIED_FILE = path.join(__dirname, '../data/brands.json');
 
 // Ensure compiled directory exists
 if (!fs.existsSync(COMPILED_DIR)) {
@@ -111,6 +111,40 @@ function extractPatternMetadata(patterns) {
 }
 
 /**
+ * Build a full validation regex from patterns for simplified format
+ * 
+ * This creates a simple regex by combining BIN patterns with digit counts.
+ * The approach: for each pattern, add a digit suffix for the remaining length.
+ */
+function buildSimplifiedFullPattern(patterns) {
+  const parts = [];
+  
+  for (const pattern of patterns) {
+    const lengths = Array.isArray(pattern.length) ? pattern.length : [pattern.length];
+    // Remove all ^ from BIN pattern (not just leading one)
+    const binPart = pattern.bin.replace(/\^/g, '');
+    
+    // For simplified format, calculate remaining digits
+    const minLength = Math.min(...lengths);
+    const maxLength = Math.max(...lengths);
+    
+    // Assuming BIN patterns typically match 4-6 digits
+    const minRemaining = minLength - 6;  // Conservative estimate
+    const maxRemaining = maxLength - 1;  // Liberal estimate
+    
+    // Add the BIN pattern with digit suffix
+    if (minRemaining === maxRemaining) {
+      parts.push(`${binPart}[0-9]{${minRemaining}}`);
+    } else if (minRemaining < maxRemaining) {
+      parts.push(`${binPart}[0-9]{${minRemaining},${maxRemaining}}`);
+    }
+  }
+  
+  // Combine all parts and add anchors
+  return `^(${parts.join('|')})$`;
+}
+
+/**
  * Read all source files and compile
  */
 function buildData() {
@@ -141,6 +175,7 @@ function buildData() {
     });
   
   const compiledBrands = [];
+  const simplifiedBrands = [];
   
   for (const entry of entries) {
     let source;
@@ -211,16 +246,27 @@ function buildData() {
     }
     
     compiledBrands.push(compiledBrand);
+    
+    // Generate simplified format (without bins details)
+    const simplifiedBrand = {
+      name: schemeName,
+      regexpBin: metadata.binPattern,
+      regexpFull: buildSimplifiedFullPattern(source.patterns),
+      regexpCvv: `^\\d{${metadata.cvvLength}}$`
+    };
+    
+    simplifiedBrands.push(simplifiedBrand);
   }
   
-  // Write compiled format
+  // Write compiled format (with all details including bins)
   const compiledPath = path.join(COMPILED_DIR, 'brands.json');
   fs.writeFileSync(compiledPath, JSON.stringify(compiledBrands, null, 2));
   console.log(`\n✅ Compiled data written to: ${path.relative(process.cwd(), compiledPath)}`);
   
-  // Note: Legacy data/brands.json is maintained manually for backward compatibility
-  // The source files provide a structured, extensible format for future enhancements
-  console.log(`ℹ️  Legacy data/brands.json maintained separately for backward compatibility`);
+  // Write simplified format (without bins details)
+  const simplifiedPath = SIMPLIFIED_FILE;
+  fs.writeFileSync(simplifiedPath, JSON.stringify(simplifiedBrands, null, 2));
+  console.log(`✅ Simplified data written to: ${path.relative(process.cwd(), simplifiedPath)}`);
   
   // Generate statistics
   console.log(`\n📊 Statistics:`);
@@ -228,7 +274,7 @@ function buildData() {
   console.log(`   Global brands: ${compiledBrands.filter(b => b.countries.includes('GLOBAL')).length}`);
   console.log(`   Brazilian brands: ${compiledBrands.filter(b => b.countries.includes('BR')).length}`);
   
-  return { compiledBrands };
+  return { compiledBrands, simplifiedBrands };
 }
 
 /**

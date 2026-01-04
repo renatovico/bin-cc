@@ -7,11 +7,11 @@ const fs = require('fs');
 let brands;
 let isNewFormat = false;
 
-// Prefer new compiled format, fall back to legacy format
+// Prefer new compiled format, fall back to simplified format
 const downloadedCompiledPath = path.join(__dirname, 'data', 'compiled', 'brands.json');
 const bundledCompiledPath = path.join(__dirname, '../../data/compiled/brands.json');
-const downloadedLegacyPath = path.join(__dirname, 'data', 'brands.json');
-const bundledLegacyPath = path.join(__dirname, '../../data/brands.json');
+const downloadedSimplifiedPath = path.join(__dirname, 'data', 'brands.json');
+const bundledSimplifiedPath = path.join(__dirname, '../../data/brands.json');
 
 if (fs.existsSync(downloadedCompiledPath)) {
   // Load from downloaded compiled data (new format)
@@ -21,13 +21,13 @@ if (fs.existsSync(downloadedCompiledPath)) {
   // Fall back to bundled compiled data (for development)
   brands = require(bundledCompiledPath);
   isNewFormat = true;
-} else if (fs.existsSync(downloadedLegacyPath)) {
-  // Load from downloaded legacy data
-  brands = require(downloadedLegacyPath);
+} else if (fs.existsSync(downloadedSimplifiedPath)) {
+  // Load from downloaded simplified data
+  brands = require(downloadedSimplifiedPath);
   isNewFormat = false;
-} else if (fs.existsSync(bundledLegacyPath)) {
-  // Fall back to bundled legacy data (for development)
-  brands = require(bundledLegacyPath);
+} else if (fs.existsSync(bundledSimplifiedPath)) {
+  // Fall back to bundled simplified data (for development)
+  brands = require(bundledSimplifiedPath);
   isNewFormat = false;
 } else {
   throw new Error(
@@ -87,7 +87,7 @@ function cardNumberFilter(cardNumber, brand) {
         return matchesPatternsArray(cardNumber, brand.patterns);
     }
     
-    // For legacy format or new format with full pattern
+    // For simplified format or new format with full pattern
     const pattern = getFullPattern(brand);
     if (!pattern) {
         return false;  // No pattern available
