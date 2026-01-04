@@ -85,7 +85,7 @@ Enhanced format with full metadata:
 }
 ```
 
-**Note:** `metadata.sourceFile` is a string for single-file brands or an array for merged subfolder brands.
+**Note:** When multiple source files are merged from a subfolder, `metadata.sourceFile` changes from a string (single file) to an array (merged files).
 
 ### Legacy Format (`brands.json`)
 

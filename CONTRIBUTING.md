@@ -361,7 +361,7 @@ cd ../..
 
 # Commit with descriptive message
 git add data/sources/visa/
-git commit -m "Update Visa BIN patterns for Brazil"
+git commit -m "Add Brazil-specific Visa BIN data"
 
 # Push and create PR
 git push origin update/visa-patterns

@@ -123,7 +123,7 @@ The build process generates `data/compiled/brands.json` with enhanced metadata.
   },
   "countries": ["string"],      // Issuing countries
   "metadata": {
-    "sourceFile": "string | array" // Source file reference (string for single file, array for merged)
+    "sourceFile": "string | array" // Source file reference (single file name or array of file names when merged)
   },
   "bins": [                     // Optional: Detailed BIN information
     {
