@@ -14,6 +14,10 @@ bin-cc is a **data file project** similar to [browserslist](https://github.com/b
 
 ### Adding a New Card Scheme
 
+You can organize card data in two ways:
+
+#### Option 1: Single File (Simple Brands)
+
 1. **Create a source file** in `data/sources/`
 
    ```bash
@@ -39,6 +43,51 @@ bin-cc is a **data file project** similar to [browserslist](https://github.com/b
      "countries": ["GLOBAL"]
    }
    ```
+
+#### Option 2: Subfolder (For Large or Regional Data)
+
+For brands with extensive BIN data or regional variations, use a subfolder:
+
+1. **Create a subfolder** in `data/sources/`
+
+   ```bash
+   # Example: organizing Visa data
+   mkdir -p data/sources/visa
+   ```
+
+2. **Create multiple JSON files** in the subfolder
+
+   ```bash
+   # Base patterns
+   data/sources/visa/base.json
+   
+   # Detailed BIN data
+   data/sources/visa/detailed.json
+   
+   # Regional data (optional)
+   data/sources/visa/br.json
+   data/sources/visa/us.json
+   ```
+
+3. **Files are automatically merged** by the build script
+   - Patterns are deduplicated by structure
+   - BINs are deduplicated by number
+   - Countries are merged
+   - Subfolder name becomes the scheme identifier
+
+**Example folder structure:**
+
+```
+data/sources/
+├── visa/
+│   ├── base.json          # Base patterns for Visa
+│   ├── detailed.json      # Detailed BIN database
+│   └── br.json            # Brazil-specific data (optional)
+├── mastercard/
+│   ├── base.json
+│   └── regional.json
+└── amex.json              # Single file for simple brands
+```
 
    **Optional: Add detailed BIN information**
    
@@ -101,13 +150,25 @@ bin-cc is a **data file project** similar to [browserslist](https://github.com/b
 
 ### Updating Existing Patterns
 
+#### For Single File Brands
+
 1. **Edit the source file** in `data/sources/`
 2. **Add a comment** explaining the change
 3. **Rebuild** with `node scripts/build.js`
 4. **Run tests** to ensure nothing breaks
 5. **Document** the reason for the update in your PR
 
+#### For Subfolder-Organized Brands
+
+1. **Edit the appropriate file** in the brand's subfolder (e.g., `data/sources/visa/base.json`)
+2. **Add regional data** by creating new files (e.g., `data/sources/visa/es.json`)
+3. **Rebuild** with `node scripts/build.js` - files are automatically merged
+4. **Run tests** to ensure nothing breaks
+5. **Document** the reason for the update in your PR
+
 ### Example: Updating Visa Patterns
+
+#### Single file approach:
 
 ```json
 {
@@ -132,6 +193,60 @@ bin-cc is a **data file project** similar to [browserslist](https://github.com/b
   "countries": ["GLOBAL"]
 }
 ```
+
+#### Subfolder approach (recommended for large datasets):
+
+**data/sources/visa/base.json:**
+```json
+{
+  "scheme": "visa",
+  "brand": "Visa",
+  "patterns": [
+    {
+      "bin": "^4",
+      "length": [13, 16],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^6367",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3
+    }
+  ],
+  "type": "credit",
+  "countries": ["GLOBAL"]
+}
+```
+
+**data/sources/visa/detailed.json:**
+```json
+{
+  "scheme": "visa",
+  "brand": "Visa",
+  "patterns": [
+    {
+      "bin": "^4",
+      "length": [13, 16],
+      "luhn": true,
+      "cvvLength": 3
+    }
+  ],
+  "type": "credit",
+  "countries": ["GLOBAL"],
+  "bins": [
+    {
+      "bin": "491441",
+      "type": "CREDIT",
+      "category": null,
+      "issuer": "BANCO PROSPER, S.A."
+    }
+  ]
+}
+```
+
+The build script will merge both files into a single Visa entry.
 
 ## 💻 Contributing Code
 
@@ -229,10 +344,14 @@ cd ../..
 # Create a branch
 git checkout -b update/visa-patterns
 
-# Edit source files
+# Option 1: Edit single source file
 vim data/sources/visa.json
 
-# Build
+# Option 2: Edit or add files in a subfolder
+vim data/sources/visa/base.json
+vim data/sources/visa/br.json
+
+# Build (automatically merges subfolder files)
 node scripts/build.js
 
 # Test (JavaScript)
@@ -241,8 +360,8 @@ npm test
 cd ../..
 
 # Commit with descriptive message
-git add data/sources/visa.json
-git commit -m "Update Visa BIN patterns for Dankort co-brand"
+git add data/sources/
+git commit -m "Update Visa BIN patterns for Brazil"
 
 # Push and create PR
 git push origin update/visa-patterns
