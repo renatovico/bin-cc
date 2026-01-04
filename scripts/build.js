@@ -60,6 +60,9 @@ function mergeSources(sources, schemeName) {
   for (const source of sources) {
     if (source.bins && Array.isArray(source.bins)) {
       for (const binData of source.bins) {
+        // Note: If the same BIN appears in multiple files with different metadata,
+        // only the first occurrence will be kept. This is intentional to avoid
+        // conflicts when the same BIN has different categorizations.
         if (!binSet.has(binData.bin)) {
           binSet.add(binData.bin);
           allBins.push(binData);
