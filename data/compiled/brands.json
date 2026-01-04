@@ -192,7 +192,10 @@
       "GLOBAL"
     ],
     "metadata": {
-      "sourceFile": "visa-detailed.example.json"
+      "sourceFile": [
+        "visa/base.json",
+        "visa/detailed.json"
+      ]
     },
     "bins": [
       {
@@ -286,30 +289,5 @@
         "issuer": "BANCO PANAMERICANO, S.A."
       }
     ]
-  },
-  {
-    "scheme": "visa",
-    "brand": "Visa",
-    "type": "credit",
-    "number": {
-      "lengths": [
-        13,
-        16
-      ],
-      "luhn": true
-    },
-    "cvv": {
-      "length": 3
-    },
-    "patterns": {
-      "bin": "^4|^6367",
-      "full": "(^4[0-9]{9,12}|^4[0-9]{12,15}|^6367[0-9]{12,15})"
-    },
-    "countries": [
-      "GLOBAL"
-    ],
-    "metadata": {
-      "sourceFile": "visa.json"
-    }
   }
 ]
