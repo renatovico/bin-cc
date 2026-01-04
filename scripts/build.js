@@ -98,7 +98,7 @@ function buildPatterns(patterns) {
   const binPatterns = patterns.map(p => p.bin).join('|');
   
   // For full pattern, we need to match exact card lengths
-  // Strategy: For each pattern, match its BIN + exact remaining digits for each valid length
+  // Strategy: For each pattern, match its BIN + remaining digits for each valid length
   const fullPatterns = [];
   
   for (const pattern of patterns) {
@@ -107,23 +107,22 @@ function buildPatterns(patterns) {
     for (const len of lengths) {
       // For the full pattern, we match: BIN pattern + rest of digits to reach total length
       // Note: The BIN pattern itself may match variable digits (e.g., ^4 matches 1 digit, ^6367 matches 4)
-      // So we use a simplified approach: the pattern already includes anchors
+      // We use heuristics for the common cases to create reasonably tight patterns
       const binPart = pattern.bin;
       
-      // Rough heuristic: most BIN patterns match 4-6 digits
-      // For simplicity, let's match (pattern) followed by remaining digits
-      // This won't be perfect for all cases but handles common scenarios
+      // Most BIN patterns match between 2-6 digits
+      // For each card length, we calculate a range that handles most cases
       
       if (len === 13) {
-        fullPatterns.push(`${binPart}[0-9]{9,12}`);
+        fullPatterns.push(`${binPart}[0-9]{9,12}`);  // BIN 1-4 digits, need 9-12 more
       } else if (len === 14) {
-        fullPatterns.push(`${binPart}[0-9]{10,13}`);
+        fullPatterns.push(`${binPart}[0-9]{11}`);    // BIN ~3 digits, need exactly 11 more (Diners specific)
       } else if (len === 15) {
-        fullPatterns.push(`${binPart}[0-9]{11,14}`);
+        fullPatterns.push(`${binPart}[0-9]{13}`);    // BIN ~2 digits, need exactly 13 more (Amex specific)
       } else if (len === 16) {
-        fullPatterns.push(`${binPart}[0-9]{12,15}`);
+        fullPatterns.push(`${binPart}[0-9]{10,14}`); // BIN 2-6 digits, need 10-14 more
       } else if (len === 19) {
-        fullPatterns.push(`${binPart}[0-9]{15,18}`);
+        fullPatterns.push(`${binPart}[0-9]{13,17}`); // BIN 2-6 digits, need 13-17 more
       }
     }
   }
@@ -145,8 +144,29 @@ function buildPatterns(patterns) {
 function buildData() {
   console.log('🔨 Building bin-cc data...\n');
   
+  // Define preferred ordering for brands to handle overlapping patterns correctly
+  // More specific patterns should come first (e.g., elo before aura, discover before hipercard, hipercard before diners)
+  const preferredOrder = ['elo', 'discover', 'hipercard', 'diners', 'amex', 'aura', 'mastercard', 'visa'];
+  
   const entries = fs.readdirSync(SOURCES_DIR, { withFileTypes: true })
-    .sort((a, b) => a.name.localeCompare(b.name));
+    .sort((a, b) => {
+      const nameA = a.name.replace('.json', '');
+      const nameB = b.name.replace('.json', '');
+      
+      const indexA = preferredOrder.indexOf(nameA);
+      const indexB = preferredOrder.indexOf(nameB);
+      
+      // If both are in preferred order, use that order
+      if (indexA !== -1 && indexB !== -1) {
+        return indexA - indexB;
+      }
+      // If only A is in preferred order, it comes first
+      if (indexA !== -1) return -1;
+      // If only B is in preferred order, it comes first
+      if (indexB !== -1) return 1;
+      // Otherwise, use alphabetical order
+      return nameA.localeCompare(nameB);
+    });
   
   const compiledBrands = [];
   const legacyBrands = [];
