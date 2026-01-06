@@ -1,46 +1,43 @@
 # Credit Card Validator - Ruby Example
 
-Ruby implementation showing how to use the bin-cc data file project.
+Ruby example showing how to use the creditcard-identifier gem.
 
-## Usage
+For the full library implementation, see: [`../../libs/ruby/`](../../libs/ruby/)
+
+## Installation
+
+```bash
+gem install creditcard-identifier
+```
+
+## Running This Example
 
 ```bash
 ruby credit_card_validator.rb
 ```
 
-## Requirements
+## Features Demonstrated
 
-- Ruby 2.5+
-- No external gems (uses only standard library)
-
-## Features
-
-- Load brand data from JSON
-- Identify credit card brand
-- Validate CVV codes
-- Check if card is supported
-- Get brand information
+- Using module-level methods
+- Using the Validator class
+- Brand identification
+- CVV validation
+- Getting brand information
 
 ## Example
 
 ```ruby
-require_relative 'credit_card_validator'
-
-validator = CreditCardValidator.new
+require 'creditcard_identifier'
 
 # Identify brand
-brand = validator.find_brand('4012001037141112')
+brand = CreditcardIdentifier.find_brand('4012001037141112')
 puts brand  # 'visa'
 
 # Check if supported
-supported = validator.supported?('4012001037141112')
+supported = CreditcardIdentifier.supported?('4012001037141112')
 puts supported  # true
-
-# Validate CVV
-valid = validator.validate_cvv('123', 'visa')
-puts valid  # true
 ```
 
-## Data Source
+## Documentation
 
-Loads data from [`../../data/brands.json`](../../data/brands.json)
+For complete API documentation, see the [Ruby library README](../../libs/ruby/README.md).

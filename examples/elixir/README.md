@@ -1,51 +1,54 @@
 # Credit Card Validator - Elixir Example
 
-Elixir implementation showing how to use the bin-cc data file project.
+Elixir example showing how to use the creditcard_identifier library.
 
-## Requirements
+For the full library implementation, see: [`../../libs/elixir/`](../../libs/elixir/)
 
-- Elixir 1.10+
-- Jason library for JSON parsing
+## Installation
 
 Add to your `mix.exs`:
+
 ```elixir
-{:jason, "~> 1.4"}
+def deps do
+  [
+    {:creditcard_identifier, "~> 1.0"}
+  ]
+end
 ```
 
-## Usage
+Then run:
+```bash
+mix deps.get
+```
+
+## Running This Example
 
 ```bash
 # In iex
-iex> c("credit_card_validator.ex")
-iex> Example.run()
+iex credit_card_validator.ex
+iex> CreditCardValidatorExample.run()
 ```
 
-## Features
+## Features Demonstrated
 
-- Load brand data from JSON
-- Identify credit card brand
-- Validate CVV codes
-- Check if card is supported
-- Get brand information
+- Using module-level functions
+- Loading and using brand data
+- Brand identification
+- CVV validation
+- Getting brand information
 
 ## Example
 
 ```elixir
-brands = CreditCardValidator.load_brands()
-
 # Identify brand
-brand = CreditCardValidator.find_brand("4012001037141112", brands)
+brand = CreditcardIdentifier.find_brand("4012001037141112")
 IO.puts(brand)  # "visa"
 
 # Check if supported
-supported = CreditCardValidator.is_supported?("4012001037141112", brands)
+supported = CreditcardIdentifier.supported?("4012001037141112")
 IO.puts(supported)  # true
-
-# Validate CVV
-valid = CreditCardValidator.validate_cvv("123", "visa", brands)
-IO.puts(valid)  # true
 ```
 
-## Data Source
+## Documentation
 
-Loads data from [`../../data/brands.json`](../../data/brands.json)
+For complete API documentation, see the [Elixir library README](../../libs/elixir/README.md).
