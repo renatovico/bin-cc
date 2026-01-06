@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>1.0.0</Version>
+    <Authors>bin-cc contributors</Authors>
+    <Company>bin-cc</Company>
+    <Description>Credit card BIN validation using bin-cc data</Description>
+    <PackageProjectUrl>https://github.com/renatovico/bin-cc</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/renatovico/bin-cc</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>credit-card;validation;bin;card-brand</PackageTags>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="../../data/brands.json" Pack="true" PackagePath="data/" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
+</Project>
