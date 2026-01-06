@@ -4,13 +4,15 @@ Credit Card Validator - Python Example
 
 This example shows how to use the creditcard-identifier library.
 For the full library implementation, see: libs/python/
+
+In production, install via: pip install creditcard-identifier
 """
 
 import sys
 import os
 
-# Add library to path (for development/testing)
-# In production, you would install via: pip install creditcard-identifier
+# FOR DEVELOPMENT/TESTING ONLY: Add library to path
+# In production, install the package with pip instead
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '../../libs/python'))
 
 from creditcard_identifier import CreditCardValidator, find_brand, is_supported

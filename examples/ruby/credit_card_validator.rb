@@ -5,9 +5,11 @@
 #
 # This example shows how to use the creditcard-identifier gem.
 # For the full library implementation, see: libs/ruby/
+#
+# In production, install via: gem install creditcard-identifier
 
-# Add library to load path (for development/testing)
-# In production, you would install via: gem install creditcard-identifier
+# FOR DEVELOPMENT/TESTING ONLY: Add library to load path
+# In production, install the gem instead
 $LOAD_PATH.unshift File.expand_path('../../libs/ruby/lib', __dir__)
 
 require 'creditcard_identifier'

@@ -4,12 +4,13 @@ defmodule CreditCardValidatorExample do
   
   This module shows how to use the creditcard_identifier library.
   For the full library implementation, see: libs/elixir/
+  
+  In production, add to mix.exs:
+  {:creditcard_identifier, "~> 1.0"}
   """
 
-  # In production, you would add to mix.exs:
-  # {:creditcard_identifier, "~> 1.0"}
-
-  # For development/testing, add parent lib to code path
+  # FOR DEVELOPMENT/TESTING ONLY: Manual code path setup
+  # In production, add the package to your mix.exs dependencies instead
   def setup_lib_path do
     lib_path = Path.expand("../../libs/elixir", __DIR__)
     Code.prepend_path(Path.join(lib_path, "_build/dev/lib/creditcard_identifier/ebin"))
