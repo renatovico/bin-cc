@@ -65,12 +65,12 @@ npm run build
 
 This compiles source files into both enhanced and legacy formats with validation.
 
-## 📚 Implementations
+## 📚 Library Implementations
+
+All libraries provide the same core functionality for credit card BIN validation and brand identification.
 
 ### JavaScript/Node.js
-Complete implementation available in [`libs/javascript/`](./libs/javascript/)
-
-The JavaScript library automatically downloads the latest BIN data from [GitHub releases](https://github.com/renatovico/bin-cc/releases?q=data-v) during installation.
+Complete implementation in [`libs/javascript/`](./libs/javascript/)
 
 **Installation:**
 ```bash
@@ -86,16 +86,68 @@ console.log(cc.findBrand('4012001037141112')); // 'visa'
 See [JavaScript documentation](./libs/javascript/README.md) for details.
 
 ### Python
-Example implementation in [`examples/python/`](./examples/python/)
+Complete implementation in [`libs/python/`](./libs/python/)
 
-### Elixir
-Example implementation in [`examples/elixir/`](./examples/elixir/)
+**Installation:**
+```bash
+pip install creditcard-identifier
+```
+
+**Usage:**
+```python
+from creditcard_identifier import find_brand
+print(find_brand('4012001037141112'))  # 'visa'
+```
+
+See [Python documentation](./libs/python/README.md) for details.
 
 ### Ruby
-Example implementation in [`examples/ruby/`](./examples/ruby/)
+Complete implementation in [`libs/ruby/`](./libs/ruby/)
 
-### .NET
-Example implementation in [`examples/dotnet/`](./examples/dotnet/)
+**Installation:**
+```bash
+gem install creditcard-identifier
+```
+
+**Usage:**
+```ruby
+require 'creditcard_identifier'
+puts CreditcardIdentifier.find_brand('4012001037141112')  # 'visa'
+```
+
+See [Ruby documentation](./libs/ruby/README.md) for details.
+
+### Elixir
+Complete implementation in [`libs/elixir/`](./libs/elixir/)
+
+**Installation:**
+Add to your `mix.exs`:
+```elixir
+{:creditcard_identifier, "~> 1.0"}
+```
+
+**Usage:**
+```elixir
+CreditcardIdentifier.find_brand("4012001037141112")  # "visa"
+```
+
+See [Elixir documentation](./libs/elixir/README.md) for details.
+
+### .NET/C#
+Complete implementation in [`libs/dotnet/`](./libs/dotnet/)
+
+**Installation:**
+```bash
+dotnet add package CreditCardIdentifier
+```
+
+**Usage:**
+```csharp
+using CreditCardIdentifier;
+CreditCard.FindBrand("4012001037141112");  // "visa"
+```
+
+See [.NET documentation](./libs/dotnet/README.md) for details.
 
 ## 🎴 Supported Card Brands
 

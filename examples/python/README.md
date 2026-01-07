@@ -1,46 +1,43 @@
 # Credit Card Validator - Python Example
 
-Python implementation showing how to use the bin-cc data file project.
+Python example showing how to use the creditcard-identifier library.
 
-## Usage
+For the full library implementation, see: [`../../libs/python/`](../../libs/python/)
+
+## Installation
+
+```bash
+pip install creditcard-identifier
+```
+
+## Running This Example
 
 ```bash
 python3 credit_card_validator.py
 ```
 
-## Requirements
+## Features Demonstrated
 
-- Python 3.6+
-- No external dependencies (uses only standard library)
-
-## Features
-
-- Load brand data from JSON
-- Identify credit card brand
-- Validate CVV codes
-- Check if card is supported
-- Get brand information
+- Using module-level functions
+- Using the Validator class
+- Brand identification
+- CVV validation
+- Getting brand information
 
 ## Example
 
 ```python
-from credit_card_validator import CreditCardValidator
-
-validator = CreditCardValidator()
+from creditcard_identifier import find_brand, is_supported
 
 # Identify brand
-brand = validator.find_brand('4012001037141112')
+brand = find_brand('4012001037141112')
 print(brand)  # 'visa'
 
 # Check if supported
-supported = validator.is_supported('4012001037141112')
+supported = is_supported('4012001037141112')
 print(supported)  # True
-
-# Validate CVV
-valid = validator.validate_cvv('123', 'visa')
-print(valid)  # True
 ```
 
-## Data Source
+## Documentation
 
-Loads data from [`../../data/brands.json`](../../data/brands.json)
+For complete API documentation, see the [Python library README](../../libs/python/README.md).

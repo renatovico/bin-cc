@@ -1,89 +1,32 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
-require 'json'
-
-##
-# Credit Card BIN Validator - Ruby Example
+# Credit Card Validator - Ruby Example
 #
-# This class shows how to use the bin-cc data file project in Ruby.
-# It loads the brands.json file and performs credit card validation.
-class CreditCardValidator
-  attr_reader :brands
+# This example shows how to use the creditcard-identifier gem.
+# For the full library implementation, see: libs/ruby/
+#
+# In production, install via: gem install creditcard-identifier
 
-  ##
-  # Initialize validator with brand data
-  #
-  # @param data_path [String, nil] Path to brands.json. If nil, uses default location.
-  def initialize(data_path = nil)
-    data_path ||= File.join(__dir__, '../../data/brands.json')
-    file_content = File.read(data_path)
-    @brands = JSON.parse(file_content)
-  end
+# FOR DEVELOPMENT/TESTING ONLY: Add library to load path
+# In production, install the gem instead
+$LOAD_PATH.unshift File.expand_path('../../libs/ruby/lib', __dir__)
 
-  ##
-  # Identify the credit card brand
-  #
-  # @param card_number [String] Credit card number
-  # @return [String, nil] Brand name or nil if not found
-  def find_brand(card_number)
-    return nil if card_number.nil? || card_number.empty?
-
-    brand = @brands.find do |b|
-      pattern = Regexp.new(b['regexpFull'])
-      pattern.match?(card_number)
-    end
-
-    brand ? brand['name'] : nil
-  end
-
-  ##
-  # Check if card number is supported
-  #
-  # @param card_number [String] Credit card number
-  # @return [Boolean] true if supported, false otherwise
-  def supported?(card_number)
-    !find_brand(card_number).nil?
-  end
-
-  ##
-  # Validate CVV for a specific brand
-  #
-  # @param cvv [String] CVV code
-  # @param brand_name [String] Brand name (e.g., 'visa', 'mastercard')
-  # @return [Boolean] true if valid, false otherwise
-  def validate_cvv(cvv, brand_name)
-    brand = get_brand_info(brand_name)
-    return false if brand.nil?
-
-    pattern = Regexp.new(brand['regexpCvv'])
-    pattern.match?(cvv)
-  end
-
-  ##
-  # Get information about a specific brand
-  #
-  # @param brand_name [String] Brand name (e.g., 'visa', 'mastercard')
-  # @return [Hash, nil] Brand hash or nil if not found
-  def get_brand_info(brand_name)
-    @brands.find { |b| b['name'] == brand_name }
-  end
-
-  ##
-  # List all supported brands
-  #
-  # @return [Array<String>] List of brand names
-  def list_brands
-    @brands.map { |b| b['name'] }
-  end
-end
+require 'creditcard_identifier'
 
 # Example usage
 def main
   puts '=== Credit Card Validator - Ruby Example ==='
   puts
 
-  validator = CreditCardValidator.new
+  # Using module-level methods
+  puts 'Using module-level methods:'
+  puts "Brand of 4012001037141112: #{CreditcardIdentifier.find_brand('4012001037141112')}"
+  puts "Is supported: #{CreditcardIdentifier.supported?('4012001037141112')}"
+  puts
+
+  # Using the Validator class
+  validator = CreditcardIdentifier::Validator.new
 
   # Example 1: List all brands
   puts "Supported brands: #{validator.list_brands.join(', ')}"
@@ -100,7 +43,7 @@ def main
   puts 'Card brand identification:'
   test_cards.each do |card, expected|
     brand = validator.find_brand(card)
-    status = brand ? '✓' : '✗'
+    status = brand == expected ? '✓' : '✗'
     puts "#{status} #{card}: #{brand} (expected: #{expected})"
   end
   puts
