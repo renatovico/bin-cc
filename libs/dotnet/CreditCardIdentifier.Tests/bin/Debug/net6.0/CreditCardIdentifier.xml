@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CreditCardIdentifier</name>
+    </assembly>
+    <members>
+        <member name="T:CreditCardIdentifier.Validator">
+            <summary>
+            Credit Card BIN Validator
+            
+            This class provides credit card validation using bin-cc data.
+            </summary>
+        </member>
+        <member name="T:CreditCardIdentifier.Validator.Brand">
+            <summary>
+            Brand information from data file
+            </summary>
+        </member>
+        <member name="M:CreditCardIdentifier.Validator.#ctor(System.String)">
+            <summary>
+            Initialize validator with brand data
+            </summary>
+            <param name="dataPath">Path to brands.json. If null, uses bundled data.</param>
+        </member>
+        <member name="M:CreditCardIdentifier.Validator.FindBrand(System.String)">
+            <summary>
+            Identify the credit card brand
+            </summary>
+            <param name="cardNumber">Credit card number</param>
+            <returns>Brand name or null if not found</returns>
+        </member>
+        <member name="M:CreditCardIdentifier.Validator.IsSupported(System.String)">
+            <summary>
+            Check if card number is supported
+            </summary>
+            <param name="cardNumber">Credit card number</param>
+            <returns>True if supported, false otherwise</returns>
+        </member>
+        <member name="M:CreditCardIdentifier.Validator.ValidateCvv(System.String,System.String)">
+            <summary>
+            Validate CVV for a specific brand
+            </summary>
+            <param name="cvv">CVV code</param>
+            <param name="brandName">Brand name (e.g., "visa", "mastercard")</param>
+            <returns>True if valid, false otherwise</returns>
+        </member>
+        <member name="M:CreditCardIdentifier.Validator.GetBrandInfo(System.String)">
+            <summary>
+            Get information about a specific brand
+            </summary>
+            <param name="brandName">Brand name (e.g., "visa", "mastercard")</param>
+            <returns>Brand information or null if not found</returns>
+        </member>
+        <member name="M:CreditCardIdentifier.Validator.ListBrands">
+            <summary>
+            List all supported brands
+            </summary>
+            <returns>List of brand names</returns>
+        </member>
+        <member name="M:CreditCardIdentifier.Validator.FindDataPath">
+            <summary>
+            Find the data file path
+            </summary>
+        </member>
+        <member name="T:CreditCardIdentifier.CreditCard">
+            <summary>
+            Static utility class for card validation
+            </summary>
+        </member>
+        <member name="M:CreditCardIdentifier.CreditCard.FindBrand(System.String)">
+            <summary>
+            Identify the credit card brand
+            </summary>
+            <param name="cardNumber">Credit card number</param>
+            <returns>Brand name or null if not found</returns>
+        </member>
+        <member name="M:CreditCardIdentifier.CreditCard.IsSupported(System.String)">
+            <summary>
+            Check if card number is supported
+            </summary>
+            <param name="cardNumber">Credit card number</param>
+            <returns>True if supported, false otherwise</returns>
+        </member>
+    </members>
+</doc>
