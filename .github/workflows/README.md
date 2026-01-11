@@ -12,12 +12,23 @@ This directory contains GitHub Actions workflows for automating builds and tests
 - Push to `main` or `master` branches
 - Pull requests to `main` or `master` branches
 
+**Jobs:**
+
+| Job | Description | Matrix |
+|-----|-------------|--------|
+| `build` | Builds data files and uploads artifacts | - |
+| `test-javascript` | JavaScript library tests | Node.js 18.x, 20.x, 22.x |
+| `test-python` | Python library tests | Python 3.8, 3.9, 3.10, 3.11, 3.12 |
+| `test-ruby` | Ruby library tests | Ruby 3.0, 3.1, 3.2, 3.3 |
+| `test-elixir` | Elixir library tests | Elixir 1.14-1.16, OTP 25-26 |
+| `test-dotnet` | .NET library tests | .NET 6.0, 7.0, 8.0 |
+| `lint` | JSON validation and source checks | - |
+
 **What it does:**
-- Tests on multiple Node.js versions (16.x, 18.x, 20.x)
-- Builds data files
-- Validates JSON files
-- Runs JavaScript tests
-- Tests Python and Ruby examples
+- Builds data files (`cards.json`, `cards-detailed.json`, `conflicts.json`)
+- Validates JSON files and source schemas
+- Runs tests for all 5 language libraries
+- Checks for required files
 
 ### 2. Publish NPM Package
 

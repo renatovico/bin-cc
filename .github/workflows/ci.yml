@@ -7,24 +7,21 @@ on:
     branches: [ main, master ]
 
 jobs:
-  test:
-    name: Test
+  # Build and validate data
+  build:
+    name: Build
     runs-on: ubuntu-latest
-    
-    strategy:
-      matrix:
-        node-version: [16.x, 18.x, 20.x]
     
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
       
-      - name: Setup Node.js ${{ matrix.node-version }}
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: ${{ matrix.node-version }}
+          node-version: '20'
       
-      - name: Install root dependencies
+      - name: Install dependencies
         run: npm install --ignore-scripts
       
       - name: Build data files
@@ -32,36 +29,233 @@ jobs:
       
       - name: Validate build output
         run: |
-          if [ ! -f data/compiled/cards.json ]; then
-            echo "Error: compiled/cards.json not found"
-            exit 1
-          fi
-          if [ ! -f data/compiled/cards-detailed.json ]; then
-            echo "Error: compiled/cards-detailed.json not found"
-            exit 1
-          fi
+          test -f data/compiled/cards.json || (echo "Error: cards.json not found" && exit 1)
+          test -f data/compiled/cards-detailed.json || (echo "Error: cards-detailed.json not found" && exit 1)
+          test -f data/compiled/conflicts.json || (echo "Error: conflicts.json not found" && exit 1)
           echo "✓ Build output validated"
       
-      - name: Install JavaScript library dependencies
+      - name: Upload compiled data
+        uses: actions/upload-artifact@v4
+        with:
+          name: compiled-data
+          path: |
+            data/compiled/cards.json
+            data/compiled/cards-detailed.json
+            data/compiled/conflicts.json
+
+  # JavaScript tests
+  test-javascript:
+    name: JavaScript
+    runs-on: ubuntu-latest
+    needs: build
+    
+    strategy:
+      matrix:
+        node-version: [18.x, 20.x, 22.x]
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Download compiled data
+        uses: actions/download-artifact@v4
+        with:
+          name: compiled-data
+          path: data/compiled
+      
+      - name: Setup Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+      
+      - name: Copy data to lib
+        run: |
+          mkdir -p libs/javascript/data
+          cp data/compiled/cards.json libs/javascript/data/
+      
+      - name: Install dependencies
         run: |
           cd libs/javascript
           npm install
       
-      - name: Run JavaScript tests
+      - name: Run tests
         run: |
           cd libs/javascript
           npm test
+
+  # Python tests
+  test-python:
+    name: Python
+    runs-on: ubuntu-latest
+    needs: build
+    
+    strategy:
+      matrix:
+        python-version: ['3.8', '3.9', '3.10', '3.11', '3.12']
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
       
-      - name: Test Python example
-        run: |
-          python3 --version
-          python3 examples/python/credit_card_validator.py
+      - name: Download compiled data
+        uses: actions/download-artifact@v4
+        with:
+          name: compiled-data
+          path: data/compiled
       
-      - name: Test Ruby example
+      - name: Setup Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      
+      - name: Copy data to lib
         run: |
-          ruby --version
-          ruby examples/ruby/credit_card_validator.rb
-  
+          mkdir -p libs/python/creditcard_identifier/data
+          cp data/compiled/cards.json libs/python/creditcard_identifier/data/
+      
+      - name: Install dependencies
+        run: |
+          cd libs/python
+          pip install pytest
+          pip install -e .
+      
+      - name: Run tests
+        run: |
+          cd libs/python
+          pytest tests/ -v
+
+  # Ruby tests
+  test-ruby:
+    name: Ruby
+    runs-on: ubuntu-latest
+    needs: build
+    
+    strategy:
+      matrix:
+        ruby-version: ['3.0', '3.1', '3.2', '3.3']
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Download compiled data
+        uses: actions/download-artifact@v4
+        with:
+          name: compiled-data
+          path: data/compiled
+      
+      - name: Setup Ruby ${{ matrix.ruby-version }}
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: ${{ matrix.ruby-version }}
+      
+      - name: Copy data to lib
+        run: |
+          mkdir -p libs/ruby/data
+          cp data/compiled/cards.json libs/ruby/data/
+      
+      - name: Install dependencies
+        run: |
+          cd libs/ruby
+          gem install bundler
+          gem install minitest
+          gem install json
+      
+      - name: Run tests
+        run: |
+          cd libs/ruby
+          ruby test/test_validator.rb
+
+  # Elixir tests
+  test-elixir:
+    name: Elixir
+    runs-on: ubuntu-latest
+    needs: build
+    
+    strategy:
+      matrix:
+        elixir-version: ['1.14', '1.15', '1.16']
+        otp-version: ['25', '26']
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Download compiled data
+        uses: actions/download-artifact@v4
+        with:
+          name: compiled-data
+          path: data/compiled
+      
+      - name: Setup Elixir
+        uses: erlef/setup-beam@v1
+        with:
+          elixir-version: ${{ matrix.elixir-version }}
+          otp-version: ${{ matrix.otp-version }}
+      
+      - name: Copy data to lib
+        run: |
+          mkdir -p libs/elixir/data
+          cp data/compiled/cards.json libs/elixir/data/
+      
+      - name: Install dependencies
+        run: |
+          cd libs/elixir
+          mix local.hex --force
+          mix local.rebar --force
+          mix deps.get
+      
+      - name: Run tests
+        run: |
+          cd libs/elixir
+          mix test
+
+  # .NET tests
+  test-dotnet:
+    name: .NET
+    runs-on: ubuntu-latest
+    needs: build
+    
+    strategy:
+      matrix:
+        dotnet-version: ['6.0.x', '7.0.x', '8.0.x']
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Download compiled data
+        uses: actions/download-artifact@v4
+        with:
+          name: compiled-data
+          path: data/compiled
+      
+      - name: Setup .NET ${{ matrix.dotnet-version }}
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: ${{ matrix.dotnet-version }}
+      
+      - name: Copy data to lib
+        run: |
+          mkdir -p libs/dotnet/CreditCardIdentifier/data
+          cp data/compiled/cards.json libs/dotnet/CreditCardIdentifier/data/
+      
+      - name: Restore dependencies
+        run: |
+          cd libs/dotnet
+          dotnet restore
+      
+      - name: Build
+        run: |
+          cd libs/dotnet
+          dotnet build --no-restore
+      
+      - name: Run tests
+        run: |
+          cd libs/dotnet
+          dotnet test --no-build --verbosity normal
+
+  # Lint and validation
   lint:
     name: Lint
     runs-on: ubuntu-latest
@@ -73,14 +267,25 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
       
       - name: Check JSON validity
         run: |
-          for file in data/sources/*.json data/compiled/cards.json data/compiled/cards-detailed.json; do
+          for file in data/sources/*.json; do
             if [ -f "$file" ]; then
               echo "Checking $file..."
               node -e "JSON.parse(require('fs').readFileSync('$file', 'utf8'))"
+            fi
+          done
+          # Check subdirectories
+          for dir in data/sources/*/; do
+            if [ -d "$dir" ]; then
+              for file in "$dir"*.json; do
+                if [ -f "$file" ]; then
+                  echo "Checking $file..."
+                  node -e "JSON.parse(require('fs').readFileSync('$file', 'utf8'))"
+                fi
+              done
             fi
           done
           echo "✓ All JSON files are valid"
@@ -88,12 +293,11 @@ jobs:
       - name: Check for required files
         run: |
           required_files=(
-            "data/compiled/cards.json"
-            "data/compiled/cards-detailed.json"
             "data/SCHEMA.md"
             "data/README.md"
             "CONTRIBUTING.md"
             "scripts/build.js"
+            "scripts/validate.js"
           )
           for file in "${required_files[@]}"; do
             if [ ! -f "$file" ]; then
@@ -102,3 +306,8 @@ jobs:
             fi
           done
           echo "✓ All required files present"
+      
+      - name: Validate sources
+        run: |
+          npm install --ignore-scripts
+          node scripts/validate.js
