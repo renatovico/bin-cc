@@ -3,7 +3,7 @@ defmodule CreditcardIdentifierTest do
   doctest CreditcardIdentifier
 
   setup do
-    brands = CreditcardIdentifier.load_brands()
+    brands = CreditcardIdentifier.get_brands()
     {:ok, brands: brands}
   end
 
@@ -35,10 +35,10 @@ defmodule CreditcardIdentifierTest do
   test "get_brand_info returns brand data", %{brands: brands} do
     visa_info = CreditcardIdentifier.get_brand_info("visa", brands)
     assert visa_info != nil
-    assert visa_info["name"] == "visa"
-    assert Map.has_key?(visa_info, "regexpBin")
-    assert Map.has_key?(visa_info, "regexpFull")
-    assert Map.has_key?(visa_info, "regexpCvv")
+    assert visa_info.name == "visa"
+    assert Map.has_key?(visa_info, :regexp_bin)
+    assert Map.has_key?(visa_info, :regexp_full)
+    assert Map.has_key?(visa_info, :regexp_cvv)
   end
 
   test "validate_cvv validates Visa CVV", %{brands: brands} do

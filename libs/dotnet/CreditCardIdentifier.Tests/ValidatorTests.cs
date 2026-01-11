@@ -70,10 +70,10 @@ namespace CreditCardIdentifier.Tests
         {
             var visaInfo = _validator.GetBrandInfo("visa");
             Assert.NotNull(visaInfo);
-            Assert.Equal("visa", visaInfo.name);
-            Assert.NotNull(visaInfo.regexpBin);
-            Assert.NotNull(visaInfo.regexpFull);
-            Assert.NotNull(visaInfo.regexpCvv);
+            Assert.Equal("visa", visaInfo.Name);
+            Assert.NotNull(visaInfo.RegexpBin);
+            Assert.NotNull(visaInfo.RegexpFull);
+            Assert.NotNull(visaInfo.RegexpCvv);
         }
 
         [Fact]

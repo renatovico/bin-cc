@@ -51,9 +51,9 @@ def test_validator_class():
     visa_info = validator.get_brand_info('visa')
     assert visa_info is not None
     assert visa_info['name'] == 'visa'
-    assert 'regexpBin' in visa_info
-    assert 'regexpFull' in visa_info
-    assert 'regexpCvv' in visa_info
+    assert 'regexp_bin' in visa_info
+    assert 'regexp_full' in visa_info
+    assert 'regexp_cvv' in visa_info
     
     # Test validate_cvv
     assert validator.validate_cvv('123', 'visa') is True
