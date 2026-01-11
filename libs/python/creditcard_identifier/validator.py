@@ -6,6 +6,7 @@ This module provides credit card validation using bin-cc data.
 
 import re
 from .brands import BRANDS
+from .brands_detailed import BRANDS as BRANDS_DETAILED
 
 
 # Pre-compile regex patterns for performance
@@ -28,25 +29,61 @@ class CreditCardValidator:
         Initialize validator with brand data.
         """
         self.brands = _compiled_brands
+        self.brands_detailed = BRANDS_DETAILED
     
-    def find_brand(self, card_number):
+    def find_brand(self, card_number, detailed=False):
         """
         Identify the credit card brand.
         
         Args:
             card_number: Credit card number as string
+            detailed: If True, returns detailed brand info with matched bin
             
         Returns:
-            Brand name (str) or None if not found
+            Brand dict or None if not found. If detailed=True, includes
+            matched_pattern and matched_bin fields.
         """
         if not card_number:
             return None
         
-        for brand in self.brands:
-            if brand['_regexp_full'].match(card_number):
-                return brand['name']
+        brand = None
+        for b in self.brands:
+            if b['_regexp_full'].match(card_number):
+                brand = b
+                break
         
-        return None
+        if not brand:
+            return None
+        
+        if detailed:
+            detailed_brand = next(
+                (b for b in self.brands_detailed if b['scheme'] == brand['name']),
+                None
+            )
+            if detailed_brand:
+                # Find the specific pattern that matched
+                matched_pattern = None
+                for p in detailed_brand.get('patterns', []):
+                    if re.match(p['bin'], card_number):
+                        matched_pattern = p
+                        break
+                
+                # Find the specific bin that matched (if bins exist)
+                bin_prefix = card_number[:6]
+                matched_bin = None
+                for b in detailed_brand.get('bins', []):
+                    if bin_prefix.startswith(b['bin']) or b['bin'] == bin_prefix:
+                        matched_bin = b
+                        break
+                
+                # Return without the full bins array
+                result = {k: v for k, v in detailed_brand.items() if k != 'bins'}
+                result['matched_pattern'] = matched_pattern
+                result['matched_bin'] = matched_bin
+                return result
+        
+        # Return brand info without internal compiled regex fields
+        return {k: v for k, v in brand.items() if not k.startswith('_')}
     
     def is_supported(self, card_number):
         """
@@ -60,18 +97,39 @@ class CreditCardValidator:
         """
         return self.find_brand(card_number) is not None
     
-    def validate_cvv(self, cvv, brand_name):
+    def validate_cvv(self, cvv, brand_or_name):
         """
         Validate CVV for a specific brand.
         
         Args:
             cvv: CVV code as string
-            brand_name: Brand name (e.g., 'visa', 'mastercard')
+            brand_or_name: Brand name (str) or brand object from find_brand
             
         Returns:
             True if valid, False otherwise
         """
-        brand = next((b for b in self.brands if b['name'] == brand_name), None)
+        if not cvv:
+            return False
+        
+        # Handle brand object (dict)
+        if isinstance(brand_or_name, dict):
+            # Handle detailed brand object
+            if 'cvv' in brand_or_name and 'length' in brand_or_name['cvv']:
+                expected_length = brand_or_name['cvv']['length']
+                return re.match(f'^\\d{{{expected_length}}}$', cvv) is not None
+            # Handle simplified brand object
+            if 'regexp_cvv' in brand_or_name:
+                return re.match(brand_or_name['regexp_cvv'], cvv) is not None
+            # Handle brand name from object
+            brand_name = brand_or_name.get('name') or brand_or_name.get('scheme')
+            if brand_name:
+                brand = next((b for b in self.brands if b['name'] == brand_name), None)
+                if brand:
+                    return brand['_regexp_cvv'].match(cvv) is not None
+            return False
+        
+        # Handle brand name (string)
+        brand = next((b for b in self.brands if b['name'] == brand_or_name), None)
         if not brand:
             return False
         
@@ -92,6 +150,18 @@ class CreditCardValidator:
             # Return without internal compiled regex fields
             return {k: v for k, v in brand.items() if not k.startswith('_')}
         return None
+    
+    def get_brand_info_detailed(self, scheme):
+        """
+        Get detailed information about a specific brand.
+        
+        Args:
+            scheme: Scheme name (e.g., 'visa', 'mastercard')
+            
+        Returns:
+            Detailed brand dictionary or None if not found
+        """
+        return next((b for b in self.brands_detailed if b['scheme'] == scheme), None)
     
     def list_brands(self):
         """
@@ -115,17 +185,18 @@ def _get_validator():
     return _validator
 
 
-def find_brand(card_number):
+def find_brand(card_number, detailed=False):
     """
     Identify the credit card brand.
     
     Args:
         card_number: Credit card number as string
+        detailed: If True, returns detailed brand info with matched bin
         
     Returns:
-        Brand name (str) or None if not found
+        Brand dict or None if not found
     """
-    return _get_validator().find_brand(card_number)
+    return _get_validator().find_brand(card_number, detailed)
 
 
 def is_supported(card_number):
@@ -139,3 +210,17 @@ def is_supported(card_number):
         True if supported, False otherwise
     """
     return _get_validator().is_supported(card_number)
+
+
+def validate_cvv(cvv, brand_or_name):
+    """
+    Validate CVV for a specific brand.
+    
+    Args:
+        cvv: CVV code as string
+        brand_or_name: Brand name (str) or brand object from find_brand
+        
+    Returns:
+        True if valid, False otherwise
+    """
+    return _get_validator().validate_cvv(cvv, brand_or_name)

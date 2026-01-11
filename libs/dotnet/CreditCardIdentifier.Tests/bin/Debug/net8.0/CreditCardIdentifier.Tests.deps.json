@@ -10,8 +10,7 @@
         "dependencies": {
           "CreditCardIdentifier": "2.0.0",
           "Microsoft.NET.Test.Sdk": "17.11.0",
-          "xunit": "2.9.0",
-          "xunit.runner.visualstudio": "2.8.2"
+          "xunit": "2.9.0"
         },
         "runtime": {
           "CreditCardIdentifier.Tests.dll": {}
@@ -32,9 +31,6 @@
         }
       },
       "Microsoft.TestPlatform.ObjectModel/17.11.0": {
-        "dependencies": {
-          "System.Reflection.Metadata": "1.6.0"
-        },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll": {
             "assemblyVersion": "15.0.0.0",
@@ -285,46 +281,8 @@
           }
         }
       },
-      "System.IO.Pipelines/9.0.0": {
-        "runtime": {
-          "lib/net8.0/System.IO.Pipelines.dll": {
-            "assemblyVersion": "9.0.0.0",
-            "fileVersion": "9.0.24.52809"
-          }
-        }
-      },
-      "System.Reflection.Metadata/1.6.0": {},
-      "System.Text.Encodings.Web/9.0.0": {
-        "runtime": {
-          "lib/net8.0/System.Text.Encodings.Web.dll": {
-            "assemblyVersion": "9.0.0.0",
-            "fileVersion": "9.0.24.52809"
-          }
-        },
-        "runtimeTargets": {
-          "runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll": {
-            "rid": "browser",
-            "assetType": "runtime",
-            "assemblyVersion": "9.0.0.0",
-            "fileVersion": "9.0.24.52809"
-          }
-        }
-      },
-      "System.Text.Json/9.0.0": {
-        "dependencies": {
-          "System.IO.Pipelines": "9.0.0",
-          "System.Text.Encodings.Web": "9.0.0"
-        },
-        "runtime": {
-          "lib/net8.0/System.Text.Json.dll": {
-            "assemblyVersion": "9.0.0.0",
-            "fileVersion": "9.0.24.52809"
-          }
-        }
-      },
       "xunit/2.9.0": {
         "dependencies": {
-          "xunit.analyzers": "1.15.0",
           "xunit.assert": "2.9.0",
           "xunit.core": "2.9.0"
         }
@@ -337,7 +295,6 @@
           }
         }
       },
-      "xunit.analyzers/1.15.0": {},
       "xunit.assert/2.9.0": {
         "runtime": {
           "lib/net6.0/xunit.assert.dll": {
@@ -374,14 +331,10 @@
           }
         }
       },
-      "xunit.runner.visualstudio/2.8.2": {},
       "CreditCardIdentifier/2.0.0": {
-        "dependencies": {
-          "System.Text.Json": "9.0.0"
-        },
         "runtime": {
           "CreditCardIdentifier.dll": {
-            "assemblyVersion": "2.0.0",
+            "assemblyVersion": "2.0.0.0",
             "fileVersion": "2.0.0.0"
           }
         }
@@ -429,34 +382,6 @@
       "path": "newtonsoft.json/13.0.1",
       "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
     },
-    "System.IO.Pipelines/9.0.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-eA3cinogwaNB4jdjQHOP3Z3EuyiDII7MT35jgtnsA4vkn0LUrrSHsU0nzHTzFzmaFYeKV7MYyMxOocFzsBHpTw==",
-      "path": "system.io.pipelines/9.0.0",
-      "hashPath": "system.io.pipelines.9.0.0.nupkg.sha512"
-    },
-    "System.Reflection.Metadata/1.6.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-COC1aiAJjCoA5GBF+QKL2uLqEBew4JsCkQmoHKbN3TlOZKa2fKLz5CpiRQKDz0RsAOEGsVKqOD5bomsXq/4STQ==",
-      "path": "system.reflection.metadata/1.6.0",
-      "hashPath": "system.reflection.metadata.1.6.0.nupkg.sha512"
-    },
-    "System.Text.Encodings.Web/9.0.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-e2hMgAErLbKyUUwt18qSBf9T5Y+SFAL3ZedM8fLupkVj8Rj2PZ9oxQ37XX2LF8fTO1wNIxvKpihD7Of7D/NxZw==",
-      "path": "system.text.encodings.web/9.0.0",
-      "hashPath": "system.text.encodings.web.9.0.0.nupkg.sha512"
-    },
-    "System.Text.Json/9.0.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-js7+qAu/9mQvnhA4EfGMZNEzXtJCDxgkgj8ohuxq/Qxv+R56G+ljefhiJHOxTNiw54q8vmABCWUwkMulNdlZ4A==",
-      "path": "system.text.json/9.0.0",
-      "hashPath": "system.text.json.9.0.0.nupkg.sha512"
-    },
     "xunit/2.9.0": {
       "type": "package",
       "serviceable": true,
@@ -470,13 +395,6 @@
       "sha512": "sha512-pot1I4YOxlWjIb5jmwvvQNbTrZ3lJQ+jUGkGjWE3hEFM0l5gOnBWS+H3qsex68s5cO52g+44vpGzhAt+42vwKg==",
       "path": "xunit.abstractions/2.0.3",
       "hashPath": "xunit.abstractions.2.0.3.nupkg.sha512"
-    },
-    "xunit.analyzers/1.15.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-s+M8K/Rtlgr6CmD7AYQKrNTvT5sh0l0ZKDoZ3Z/ExhlIwfV9mGAMR4f7KqIB7SSK7ZOhqDTgTUMYPmKfmvWUWQ==",
-      "path": "xunit.analyzers/1.15.0",
-      "hashPath": "xunit.analyzers.1.15.0.nupkg.sha512"
     },
     "xunit.assert/2.9.0": {
       "type": "package",
@@ -505,13 +423,6 @@
       "sha512": "sha512-5ZTQZvmPLlBw6QzCOwM0KnMsZw6eGjbmC176QHZlcbQoMhGIeGcYzYwn5w9yXxf+4phtplMuVqTpTbFDQh2bqQ==",
       "path": "xunit.extensibility.execution/2.9.0",
       "hashPath": "xunit.extensibility.execution.2.9.0.nupkg.sha512"
-    },
-    "xunit.runner.visualstudio/2.8.2": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-vm1tbfXhFmjFMUmS4M0J0ASXz3/U5XvXBa6DOQUL3fEz4Vt6YPhv+ESCarx6M6D+9kJkJYZKCNvJMas1+nVfmQ==",
-      "path": "xunit.runner.visualstudio/2.8.2",
-      "hashPath": "xunit.runner.visualstudio.2.8.2.nupkg.sha512"
     },
     "CreditCardIdentifier/2.0.0": {
       "type": "project",

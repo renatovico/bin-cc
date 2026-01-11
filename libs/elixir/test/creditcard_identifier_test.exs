@@ -7,16 +7,26 @@ defmodule CreditcardIdentifierTest do
     {:ok, brands: brands}
   end
 
-  test "find_brand identifies Visa", %{brands: brands} do
-    assert CreditcardIdentifier.find_brand("4012001037141112", brands) == "visa"
+  test "find_brand identifies Visa", %{brands: _brands} do
+    brand = CreditcardIdentifier.find_brand("4012001037141112")
+    assert brand.name == "visa"
   end
 
-  test "find_brand identifies Mastercard", %{brands: brands} do
-    assert CreditcardIdentifier.find_brand("5533798818319497", brands) == "mastercard"
+  test "find_brand identifies Mastercard", %{brands: _brands} do
+    brand = CreditcardIdentifier.find_brand("5533798818319497")
+    assert brand.name == "mastercard"
   end
 
-  test "find_brand identifies Amex", %{brands: brands} do
-    assert CreditcardIdentifier.find_brand("378282246310005", brands) == "amex"
+  test "find_brand identifies Amex", %{brands: _brands} do
+    brand = CreditcardIdentifier.find_brand("378282246310005")
+    assert brand.name == "amex"
+  end
+
+  test "find_brand with detailed returns detailed info", %{brands: _brands} do
+    brand = CreditcardIdentifier.find_brand("4012001037141112", detailed: true)
+    assert brand.scheme == "visa"
+    assert Map.has_key?(brand, :matched_pattern)
+    refute Map.has_key?(brand, :bins)
   end
 
   test "supported? returns true for valid cards", %{brands: brands} do
@@ -41,17 +51,36 @@ defmodule CreditcardIdentifierTest do
     assert Map.has_key?(visa_info, :regexp_cvv)
   end
 
-  test "validate_cvv validates Visa CVV", %{brands: brands} do
+  test "get_brand_info_detailed returns detailed brand data", %{brands: _brands} do
+    visa_info = CreditcardIdentifier.get_brand_info_detailed("visa")
+    assert visa_info != nil
+    assert visa_info.scheme == "visa"
+  end
+
+  test "validate_cvv validates Visa CVV with brand name", %{brands: brands} do
     assert CreditcardIdentifier.validate_cvv("123", "visa", brands)
     refute CreditcardIdentifier.validate_cvv("12", "visa", brands)
   end
 
-  test "validate_cvv validates Amex CVV", %{brands: brands} do
+  test "validate_cvv validates Amex CVV with brand name", %{brands: brands} do
     assert CreditcardIdentifier.validate_cvv("1234", "amex", brands)
   end
 
+  test "validate_cvv validates CVV with brand object", %{brands: brands} do
+    brand = CreditcardIdentifier.find_brand("4012001037141112")
+    assert CreditcardIdentifier.validate_cvv("123", brand, brands)
+    refute CreditcardIdentifier.validate_cvv("1234", brand, brands)
+  end
+
+  test "validate_cvv validates CVV with detailed brand object", %{brands: brands} do
+    brand = CreditcardIdentifier.find_brand("4012001037141112", detailed: true)
+    assert CreditcardIdentifier.validate_cvv("123", brand, brands)
+    refute CreditcardIdentifier.validate_cvv("1234", brand, brands)
+  end
+
   test "module-level functions work without explicit brands" do
-    assert CreditcardIdentifier.find_brand("4012001037141112") == "visa"
+    brand = CreditcardIdentifier.find_brand("4012001037141112")
+    assert brand.name == "visa"
     assert CreditcardIdentifier.supported?("4012001037141112")
   end
 end

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Credit card BIN validation using bin-cc data")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("2.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2.0.0+072ef66c07dd1bf5a3d15ad9dd1428184287020f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2.0.0+fca0c7b52d268ec1ec5b9162759c7cbfbbb72138")]
 [assembly: System.Reflection.AssemblyProductAttribute("CreditCardIdentifier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CreditCardIdentifier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("2.0.0.0")]

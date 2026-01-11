@@ -198,6 +198,10 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     
+    strategy:
+      matrix:
+        dotnet-version: ['8.0.x', '9.0.x']
+    
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -210,10 +214,10 @@ jobs:
       - name: Build data (generates native files)
         run: npm run build
       
-      - name: Setup .NET 8
+      - name: Setup .NET ${{ matrix.dotnet-version }}
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: '8.0.x'
+          dotnet-version: ${{ matrix.dotnet-version }}
       
       - name: Restore dependencies
         run: |

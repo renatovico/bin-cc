@@ -4,6 +4,61 @@
         <name>CreditCardIdentifier</name>
     </assembly>
     <members>
+        <member name="T:CreditCardIdentifier.BrandData">
+            <summary>
+            Credit card brand data.
+            </summary>
+        </member>
+        <member name="T:CreditCardIdentifier.BrandData.Brand">
+            <summary>
+            Brand definition.
+            </summary>
+        </member>
+        <member name="F:CreditCardIdentifier.BrandData.Brands">
+            <summary>
+            All supported credit card brands.
+            </summary>
+        </member>
+        <member name="T:CreditCardIdentifier.BrandDataDetailed">
+            <summary>
+            Credit card brand data (detailed).
+            </summary>
+        </member>
+        <member name="T:CreditCardIdentifier.BrandDataDetailed.NumberInfo">
+            <summary>
+            Number validation info
+            </summary>
+        </member>
+        <member name="T:CreditCardIdentifier.BrandDataDetailed.CvvInfo">
+            <summary>
+            CVV validation info
+            </summary>
+        </member>
+        <member name="T:CreditCardIdentifier.BrandDataDetailed.Pattern">
+            <summary>
+            Pattern info
+            </summary>
+        </member>
+        <member name="T:CreditCardIdentifier.BrandDataDetailed.BinInfo">
+            <summary>
+            BIN info
+            </summary>
+        </member>
+        <member name="T:CreditCardIdentifier.BrandDataDetailed.Brand">
+            <summary>
+            Detailed brand info
+            </summary>
+        </member>
+        <member name="F:CreditCardIdentifier.BrandDataDetailed.Brands">
+            <summary>
+            All detailed brand data
+            </summary>
+        </member>
+        <member name="T:CreditCardIdentifier.DetailedBrandResult">
+            <summary>
+            Result of finding a brand with detailed information
+            </summary>
+        </member>
         <member name="T:CreditCardIdentifier.Validator">
             <summary>
             Credit Card BIN Validator
@@ -11,23 +66,24 @@
             This class provides credit card validation using bin-cc data.
             </summary>
         </member>
-        <member name="T:CreditCardIdentifier.Validator.Brand">
+        <member name="M:CreditCardIdentifier.Validator.#ctor">
             <summary>
-            Brand information from data file
+            Initialize validator with pre-compiled brand data
             </summary>
-        </member>
-        <member name="M:CreditCardIdentifier.Validator.#ctor(System.String)">
-            <summary>
-            Initialize validator with brand data
-            </summary>
-            <param name="dataPath">Path to brands.json. If null, uses bundled data.</param>
         </member>
         <member name="M:CreditCardIdentifier.Validator.FindBrand(System.String)">
             <summary>
-            Identify the credit card brand
+            Identify the credit card brand (returns brand object)
             </summary>
             <param name="cardNumber">Credit card number</param>
-            <returns>Brand name or null if not found</returns>
+            <returns>Brand object or null if not found</returns>
+        </member>
+        <member name="M:CreditCardIdentifier.Validator.FindBrandDetailed(System.String)">
+            <summary>
+            Identify the credit card brand with detailed information
+            </summary>
+            <param name="cardNumber">Credit card number</param>
+            <returns>Detailed brand result or null if not found</returns>
         </member>
         <member name="M:CreditCardIdentifier.Validator.IsSupported(System.String)">
             <summary>
@@ -38,10 +94,26 @@
         </member>
         <member name="M:CreditCardIdentifier.Validator.ValidateCvv(System.String,System.String)">
             <summary>
-            Validate CVV for a specific brand
+            Validate CVV for a specific brand by name
             </summary>
             <param name="cvv">CVV code</param>
             <param name="brandName">Brand name (e.g., "visa", "mastercard")</param>
+            <returns>True if valid, false otherwise</returns>
+        </member>
+        <member name="M:CreditCardIdentifier.Validator.ValidateCvv(System.String,CreditCardIdentifier.BrandData.Brand)">
+            <summary>
+            Validate CVV using a brand object
+            </summary>
+            <param name="cvv">CVV code</param>
+            <param name="brand">Brand object from FindBrand</param>
+            <returns>True if valid, false otherwise</returns>
+        </member>
+        <member name="M:CreditCardIdentifier.Validator.ValidateCvv(System.String,CreditCardIdentifier.DetailedBrandResult)">
+            <summary>
+            Validate CVV using a detailed brand result
+            </summary>
+            <param name="cvv">CVV code</param>
+            <param name="detailedBrand">Detailed brand result from FindBrandDetailed</param>
             <returns>True if valid, false otherwise</returns>
         </member>
         <member name="M:CreditCardIdentifier.Validator.GetBrandInfo(System.String)">
@@ -51,16 +123,18 @@
             <param name="brandName">Brand name (e.g., "visa", "mastercard")</param>
             <returns>Brand information or null if not found</returns>
         </member>
+        <member name="M:CreditCardIdentifier.Validator.GetBrandInfoDetailed(System.String)">
+            <summary>
+            Get detailed information about a specific brand
+            </summary>
+            <param name="scheme">Scheme name (e.g., "visa", "mastercard")</param>
+            <returns>Detailed brand information or null if not found</returns>
+        </member>
         <member name="M:CreditCardIdentifier.Validator.ListBrands">
             <summary>
             List all supported brands
             </summary>
             <returns>List of brand names</returns>
-        </member>
-        <member name="M:CreditCardIdentifier.Validator.FindDataPath">
-            <summary>
-            Find the data file path
-            </summary>
         </member>
         <member name="T:CreditCardIdentifier.CreditCard">
             <summary>
@@ -72,7 +146,14 @@
             Identify the credit card brand
             </summary>
             <param name="cardNumber">Credit card number</param>
-            <returns>Brand name or null if not found</returns>
+            <returns>Brand object or null if not found</returns>
+        </member>
+        <member name="M:CreditCardIdentifier.CreditCard.FindBrandDetailed(System.String)">
+            <summary>
+            Identify the credit card brand with detailed information
+            </summary>
+            <param name="cardNumber">Credit card number</param>
+            <returns>Detailed brand result or null if not found</returns>
         </member>
         <member name="M:CreditCardIdentifier.CreditCard.IsSupported(System.String)">
             <summary>
@@ -80,6 +161,30 @@
             </summary>
             <param name="cardNumber">Credit card number</param>
             <returns>True if supported, false otherwise</returns>
+        </member>
+        <member name="M:CreditCardIdentifier.CreditCard.ValidateCvv(System.String,System.String)">
+            <summary>
+            Validate CVV for a specific brand
+            </summary>
+            <param name="cvv">CVV code</param>
+            <param name="brandName">Brand name</param>
+            <returns>True if valid, false otherwise</returns>
+        </member>
+        <member name="M:CreditCardIdentifier.CreditCard.ValidateCvv(System.String,CreditCardIdentifier.BrandData.Brand)">
+            <summary>
+            Validate CVV using a brand object
+            </summary>
+            <param name="cvv">CVV code</param>
+            <param name="brand">Brand object</param>
+            <returns>True if valid, false otherwise</returns>
+        </member>
+        <member name="M:CreditCardIdentifier.CreditCard.ValidateCvv(System.String,CreditCardIdentifier.DetailedBrandResult)">
+            <summary>
+            Validate CVV using a detailed brand result
+            </summary>
+            <param name="cvv">CVV code</param>
+            <param name="detailedBrand">Detailed brand result</param>
+            <returns>True if valid, false otherwise</returns>
         </member>
     </members>
 </doc>

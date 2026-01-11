@@ -9,18 +9,29 @@ class TestValidator < Minitest::Test
   end
 
   def test_find_brand
-    # Test Visa
-    assert_equal 'visa', @validator.find_brand('4012001037141112')
+    # Test Visa - now returns brand object
+    brand = @validator.find_brand('4012001037141112')
+    assert_equal 'visa', brand[:name]
     
     # Test Mastercard
-    assert_equal 'mastercard', @validator.find_brand('5533798818319497')
+    brand = @validator.find_brand('5533798818319497')
+    assert_equal 'mastercard', brand[:name]
     
     # Test Amex
-    assert_equal 'amex', @validator.find_brand('378282246310005')
+    brand = @validator.find_brand('378282246310005')
+    assert_equal 'amex', brand[:name]
     
     # Test nil input
     assert_nil @validator.find_brand(nil)
     assert_nil @validator.find_brand('')
+  end
+
+  def test_find_brand_detailed
+    brand = @validator.find_brand('4012001037141112', detailed: true)
+    refute_nil brand
+    assert_equal 'visa', brand[:scheme]
+    assert brand.key?(:matched_pattern)
+    refute brand.key?(:bins)
   end
 
   def test_supported
@@ -45,15 +56,38 @@ class TestValidator < Minitest::Test
     assert visa_info.key?(:regexp_cvv)
   end
 
-  def test_validate_cvv
+  def test_get_brand_info_detailed
+    visa_info = @validator.get_brand_info_detailed('visa')
+    refute_nil visa_info
+    assert_equal 'visa', visa_info[:scheme]
+  end
+
+  def test_validate_cvv_with_name
     assert @validator.validate_cvv('123', 'visa')
     assert @validator.validate_cvv('1234', 'amex')
     refute @validator.validate_cvv('12', 'visa')
   end
 
+  def test_validate_cvv_with_brand_object
+    brand = @validator.find_brand('4012001037141112')
+    assert @validator.validate_cvv('123', brand)
+    refute @validator.validate_cvv('1234', brand)
+  end
+
+  def test_validate_cvv_with_detailed_brand
+    brand = @validator.find_brand('4012001037141112', detailed: true)
+    assert @validator.validate_cvv('123', brand)
+    refute @validator.validate_cvv('1234', brand)
+  end
+
   def test_module_methods
-    # Test module-level methods
-    assert_equal 'visa', CreditcardIdentifier.find_brand('4012001037141112')
+    # Test module-level methods - now return brand object
+    brand = CreditcardIdentifier.find_brand('4012001037141112')
+    assert_equal 'visa', brand[:name]
     assert CreditcardIdentifier.supported?('4012001037141112')
+    
+    # Test validate_cvv module method
+    assert CreditcardIdentifier.validate_cvv('123', 'visa')
+    assert CreditcardIdentifier.validate_cvv('123', brand)
   end
 end

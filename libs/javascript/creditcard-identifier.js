@@ -2,6 +2,7 @@
 
 // Load native data (no JSON parsing needed)
 const brands = require('./data/brands');
+const brandsDetailed = require('./data/brands-detailed');
 
 // Pre-compile regex patterns for better performance
 const compiledBrands = brands.map(b => ({
@@ -14,9 +15,10 @@ const compiledBrands = brands.map(b => ({
 /**
  * Find card brand by card number
  * @param {string} cardNumber - Credit card number
- * @returns {string} Brand name or throws if not supported
+ * @param {boolean} [detailed=false] - If true, returns detailed brand info with matched bin
+ * @returns {object} Brand object or throws if not supported
  */
-function findBrand(cardNumber) {
+function findBrand(cardNumber, detailed = false) {
   if (!cardNumber || cardNumber === '') {
     cardNumber = '000000';
   }
@@ -31,7 +33,32 @@ function findBrand(cardNumber) {
     throw Error('card number not supported');
   }
 
-  return brand.name;
+  if (detailed) {
+    const detailedBrand = brandsDetailed.find(b => b.scheme === brand.name);
+    if (detailedBrand) {
+      // Find the specific pattern that matched
+      const matchedPattern = detailedBrand.patterns.find(p => {
+        const regex = new RegExp(p.bin);
+        return regex.test(cardNumber);
+      });
+      
+      // Find the specific bin that matched (if bins exist)
+      const binPrefix = cardNumber.slice(0, 6);
+      const matchedBin = detailedBrand.bins 
+        ? detailedBrand.bins.find(b => binPrefix.startsWith(b.bin) || b.bin === binPrefix)
+        : null;
+      
+      // Return without the full bins array, only the matched one
+      const { bins, ...brandWithoutBins } = detailedBrand;
+      return {
+        ...brandWithoutBins,
+        matchedPattern: matchedPattern || null,
+        matchedBin: matchedBin || null
+      };
+    }
+  }
+
+  return brands.find(b => b.name === brand.name);
 }
 
 /**
@@ -47,11 +74,35 @@ function isSupported(cardNumber) {
 /**
  * Validate CVV for a brand
  * @param {string} cvv - CVV code
- * @param {string} brandName - Brand name
+ * @param {string|object} brandOrName - Brand name (string) or brand object from findBrand
  * @returns {boolean} True if valid
  */
-function validateCvv(cvv, brandName) {
-  const brand = compiledBrands.find(b => b.name === brandName);
+function validateCvv(cvv, brandOrName) {
+  if (!cvv) return false;
+  
+  // If it's an object (brand from findBrand), get the CVV length from it
+  if (typeof brandOrName === 'object' && brandOrName !== null) {
+    // Handle detailed brand object
+    if (brandOrName.cvv && brandOrName.cvv.length) {
+      const expectedLength = brandOrName.cvv.length;
+      return new RegExp(`^\\d{${expectedLength}}$`).test(cvv);
+    }
+    // Handle simplified brand object
+    if (brandOrName.regexpCvv) {
+      return new RegExp(brandOrName.regexpCvv).test(cvv);
+    }
+    // Handle brand name from object
+    if (brandOrName.name || brandOrName.scheme) {
+      const brandName = brandOrName.name || brandOrName.scheme;
+      const brand = compiledBrands.find(b => b.name === brandName);
+      if (!brand) return false;
+      return brand.regexpCvv.test(cvv);
+    }
+    return false;
+  }
+  
+  // If it's a string, treat as brand name
+  const brand = compiledBrands.find(b => b.name === brandOrName);
   if (!brand) return false;
   return brand.regexpCvv.test(cvv);
 }
@@ -63,6 +114,15 @@ function validateCvv(cvv, brandName) {
  */
 function getBrandInfo(brandName) {
   return brands.find(b => b.name === brandName) || null;
+}
+
+/**
+ * Get detailed brand info by scheme name
+ * @param {string} scheme - Scheme name (e.g., 'visa', 'mastercard')
+ * @returns {object|null} Detailed brand info or null
+ */
+function getBrandInfoDetailed(scheme) {
+  return brandsDetailed.find(b => b.scheme === scheme) || null;
 }
 
 /**
@@ -78,6 +138,8 @@ module.exports = {
   isSupported,
   validateCvv,
   getBrandInfo,
+  getBrandInfoDetailed,
   listBrands,
-  brands
+  brands,
+  brandsDetailed
 };

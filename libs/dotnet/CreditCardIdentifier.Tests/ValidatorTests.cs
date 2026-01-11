@@ -17,21 +17,24 @@ namespace CreditCardIdentifier.Tests
         public void FindBrand_IdentifiesVisa()
         {
             var brand = _validator.FindBrand("4012001037141112");
-            Assert.Equal("visa", brand);
+            Assert.NotNull(brand);
+            Assert.Equal("visa", brand.Name);
         }
 
         [Fact]
         public void FindBrand_IdentifiesMastercard()
         {
             var brand = _validator.FindBrand("5533798818319497");
-            Assert.Equal("mastercard", brand);
+            Assert.NotNull(brand);
+            Assert.Equal("mastercard", brand.Name);
         }
 
         [Fact]
         public void FindBrand_IdentifiesAmex()
         {
             var brand = _validator.FindBrand("378282246310005");
-            Assert.Equal("amex", brand);
+            Assert.NotNull(brand);
+            Assert.Equal("amex", brand.Name);
         }
 
         [Fact]
@@ -46,6 +49,15 @@ namespace CreditCardIdentifier.Tests
         {
             var brand = _validator.FindBrand(null);
             Assert.Null(brand);
+        }
+
+        [Fact]
+        public void FindBrandDetailed_ReturnsDetailedInfo()
+        {
+            var brand = _validator.FindBrandDetailed("4012001037141112");
+            Assert.NotNull(brand);
+            Assert.Equal("visa", brand.Scheme);
+            Assert.NotNull(brand.MatchedPattern);
         }
 
         [Fact]
@@ -77,23 +89,69 @@ namespace CreditCardIdentifier.Tests
         }
 
         [Fact]
-        public void ValidateCvv_ValidatesVisaCvv()
+        public void GetBrandInfoDetailed_ReturnsDetailedInfo()
+        {
+            var visaInfo = _validator.GetBrandInfoDetailed("visa");
+            Assert.NotNull(visaInfo);
+            Assert.Equal("visa", visaInfo.Scheme);
+        }
+
+        [Fact]
+        public void ValidateCvv_WithBrandName_ValidatesVisaCvv()
         {
             Assert.True(_validator.ValidateCvv("123", "visa"));
             Assert.False(_validator.ValidateCvv("12", "visa"));
         }
 
         [Fact]
-        public void ValidateCvv_ValidatesAmexCvv()
+        public void ValidateCvv_WithBrandName_ValidatesAmexCvv()
         {
             Assert.True(_validator.ValidateCvv("1234", "amex"));
         }
 
         [Fact]
+        public void ValidateCvv_WithBrandObject_ValidatesCvv()
+        {
+            var brand = _validator.FindBrand("4012001037141112");
+            Assert.True(_validator.ValidateCvv("123", brand));
+            Assert.False(_validator.ValidateCvv("1234", brand));
+        }
+
+        [Fact]
+        public void ValidateCvv_WithDetailedBrand_ValidatesCvv()
+        {
+            var brand = _validator.FindBrandDetailed("4012001037141112");
+            Assert.True(_validator.ValidateCvv("123", brand));
+            Assert.False(_validator.ValidateCvv("1234", brand));
+        }
+
+        [Fact]
         public void StaticMethods_Work()
         {
-            Assert.Equal("visa", CreditCard.FindBrand("4012001037141112"));
+            var brand = CreditCard.FindBrand("4012001037141112");
+            Assert.NotNull(brand);
+            Assert.Equal("visa", brand.Name);
             Assert.True(CreditCard.IsSupported("4012001037141112"));
+        }
+
+        [Fact]
+        public void StaticMethods_FindBrandDetailed_Works()
+        {
+            var brand = CreditCard.FindBrandDetailed("4012001037141112");
+            Assert.NotNull(brand);
+            Assert.Equal("visa", brand.Scheme);
+        }
+
+        [Fact]
+        public void StaticMethods_ValidateCvv_Works()
+        {
+            Assert.True(CreditCard.ValidateCvv("123", "visa"));
+            
+            var brand = CreditCard.FindBrand("4012001037141112");
+            Assert.True(CreditCard.ValidateCvv("123", brand));
+            
+            var detailedBrand = CreditCard.FindBrandDetailed("4012001037141112");
+            Assert.True(CreditCard.ValidateCvv("123", detailedBrand));
         }
     }
 }

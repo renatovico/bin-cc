@@ -9,12 +9,18 @@ const { toDetailedFormat, toSimplifiedFormat } = require('./lib/transformers');
 const { validateSources, validateCompiled } = require('./validate');
 const {
   generateJavaScript,
+  generateJavaScriptDetailed,
   generateTypeScriptDeclaration,
+  generateTypeScriptDeclarationDetailed,
   generatePython,
+  generatePythonDetailed,
   generateRuby,
+  generateRubyDetailed,
   generateElixir,
-  generateCSharp
-} = require('./lib/generators');
+  generateElixirDetailed,
+  generateCSharp,
+  generateCSharpDetailed
+} = require('./lib/generators/index');
 
 /**
  * Ensure output directory exists
@@ -28,39 +34,50 @@ function ensureOutputDir() {
 /**
  * Generate native data files for all libraries
  */
-function generateNativeFiles(simplified) {
+function generateNativeFiles(simplified, detailed) {
   console.log('\n📦 Generating native data files...');
   
-  // JavaScript
+  // JavaScript (simplified + detailed)
   const jsDataDir = path.join(LIBS_DIR, 'javascript', 'data');
   fs.mkdirSync(jsDataDir, { recursive: true });
   fs.writeFileSync(path.join(jsDataDir, 'brands.js'), generateJavaScript(simplified));
   fs.writeFileSync(path.join(jsDataDir, 'brands.d.ts'), generateTypeScriptDeclaration());
+  fs.writeFileSync(path.join(jsDataDir, 'brands-detailed.js'), generateJavaScriptDetailed(detailed));
+  fs.writeFileSync(path.join(jsDataDir, 'brands-detailed.d.ts'), generateTypeScriptDeclarationDetailed());
   console.log('  ✓ Generated libs/javascript/data/brands.js');
+  console.log('  ✓ Generated libs/javascript/data/brands-detailed.js');
   
-  // Python
+  // Python (simplified + detailed)
   const pyDataDir = path.join(LIBS_DIR, 'python', 'creditcard_identifier');
   fs.mkdirSync(pyDataDir, { recursive: true });
   fs.writeFileSync(path.join(pyDataDir, 'brands.py'), generatePython(simplified));
+  fs.writeFileSync(path.join(pyDataDir, 'brands_detailed.py'), generatePythonDetailed(detailed));
   console.log('  ✓ Generated libs/python/creditcard_identifier/brands.py');
+  console.log('  ✓ Generated libs/python/creditcard_identifier/brands_detailed.py');
   
-  // Ruby
-  const rbLibDir = path.join(LIBS_DIR, 'ruby', 'lib');
+  // Ruby (simplified + detailed)
+  const rbLibDir = path.join(LIBS_DIR, 'ruby', 'lib', 'creditcard_identifier');
   fs.mkdirSync(rbLibDir, { recursive: true });
-  fs.writeFileSync(path.join(rbLibDir, 'creditcard_identifier', 'brands.rb'), generateRuby(simplified));
+  fs.writeFileSync(path.join(rbLibDir, 'brands.rb'), generateRuby(simplified));
+  fs.writeFileSync(path.join(rbLibDir, 'brands_detailed.rb'), generateRubyDetailed(detailed));
   console.log('  ✓ Generated libs/ruby/lib/creditcard_identifier/brands.rb');
+  console.log('  ✓ Generated libs/ruby/lib/creditcard_identifier/brands_detailed.rb');
   
-  // Elixir
-  const exLibDir = path.join(LIBS_DIR, 'elixir', 'lib');
+  // Elixir (simplified + detailed)
+  const exLibDir = path.join(LIBS_DIR, 'elixir', 'lib', 'creditcard_identifier');
   fs.mkdirSync(exLibDir, { recursive: true });
-  fs.writeFileSync(path.join(exLibDir, 'creditcard_identifier', 'data.ex'), generateElixir(simplified));
+  fs.writeFileSync(path.join(exLibDir, 'data.ex'), generateElixir(simplified));
+  fs.writeFileSync(path.join(exLibDir, 'data_detailed.ex'), generateElixirDetailed(detailed));
   console.log('  ✓ Generated libs/elixir/lib/creditcard_identifier/data.ex');
+  console.log('  ✓ Generated libs/elixir/lib/creditcard_identifier/data_detailed.ex');
   
-  // C#
+  // C# (simplified + detailed)
   const csDir = path.join(LIBS_DIR, 'dotnet', 'CreditCardIdentifier');
   fs.mkdirSync(csDir, { recursive: true });
   fs.writeFileSync(path.join(csDir, 'BrandData.cs'), generateCSharp(simplified));
+  fs.writeFileSync(path.join(csDir, 'BrandDataDetailed.cs'), generateCSharpDetailed(detailed));
   console.log('  ✓ Generated libs/dotnet/CreditCardIdentifier/BrandData.cs');
+  console.log('  ✓ Generated libs/dotnet/CreditCardIdentifier/BrandDataDetailed.cs');
 }
 
 /**
@@ -173,7 +190,7 @@ function build() {
   console.log(`   Total brands: ${detailed.length}`);
 
   // Generate native data files for each language
-  generateNativeFiles(simplified);
+  generateNativeFiles(simplified, detailed);
 
   return { detailed, simplified };
 }

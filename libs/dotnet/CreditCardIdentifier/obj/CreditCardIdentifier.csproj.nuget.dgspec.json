@@ -37,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "netstandard2.0": {
@@ -48,10 +49,6 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
-            },
-            "System.Text.Json": {
-              "target": "Package",
-              "version": "[9.0.0, )"
             }
           },
           "imports": [
@@ -65,7 +62,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/Users/renatovico/.local/share/mise/installs/dotnet/8.0.416/sdk/8.0.416/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/renatovico/.local/share/mise/installs/dotnet/10.0.101/sdk/10.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }
