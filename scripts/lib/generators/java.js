@@ -162,30 +162,30 @@ function generateJavaDetailed(detailed) {
     '    public static final List<BrandDetailed> BRANDS = new ArrayList<BrandDetailed>() {{',
   ];
 
-  for (const brand of detailed) {
-    const b = extractDetailedBrand(brand);
+  for (let i = 0; i < detailed.length; i++) {
+    const b = extractDetailedBrand(detailed[i]);
     
-    // Patterns
-    lines.push('        List<Pattern> patterns = new ArrayList<Pattern>() {{');
+    // Patterns - use unique variable name
+    lines.push(`        List<Pattern> patterns${i} = new ArrayList<Pattern>() {{`);
     for (const pattern of b.patterns) {
       lines.push(`            add(new Pattern(${toJavaValue(pattern.bin)}, ${toJavaValue(pattern.length)}, ${toJavaValue(pattern.luhn)}, ${pattern.cvvLength}));`);
     }
     lines.push('        }};');
     
-    // Bins
-    lines.push('        List<Bin> bins = new ArrayList<Bin>() {{');
+    // Bins - use unique variable name
+    lines.push(`        List<Bin> bins${i} = new ArrayList<Bin>() {{`);
     for (const bin of b.bins) {
       lines.push(`            add(new Bin(${toJavaValue(bin.bin)}, ${toJavaValue(bin.type)}, ${toJavaValue(bin.category)}, ${toJavaValue(bin.issuer)}, ${toJavaValue(bin.countries || [])}));`);
     }
     lines.push('        }};');
     
-    // Metadata
-    lines.push('        Map<String, Object> metadata = new HashMap<>();');
+    // Metadata - use unique variable name
+    lines.push(`        Map<String, Object> metadata${i} = new HashMap<>();`);
     for (const [key, value] of Object.entries(b.metadata)) {
-      lines.push(`        metadata.put(${toJavaValue(key)}, ${toJavaValue(value)});`);
+      lines.push(`        metadata${i}.put(${toJavaValue(key)}, ${toJavaValue(value)});`);
     }
     
-    lines.push(`        add(new BrandDetailed(${toJavaValue(b.scheme)}, ${toJavaValue(b.brand)}, ${toJavaValue(b.type)}, ${toJavaValue(b.number.lengths)}, ${toJavaValue(b.number.luhn)}, ${b.cvv.length}, patterns, ${toJavaValue(b.countries)}, metadata, ${toJavaValue(b.priorityOver)}, bins));`);
+    lines.push(`        add(new BrandDetailed(${toJavaValue(b.scheme)}, ${toJavaValue(b.brand)}, ${toJavaValue(b.type)}, ${toJavaValue(b.number.lengths)}, ${toJavaValue(b.number.luhn)}, ${b.cvv.length}, patterns${i}, ${toJavaValue(b.countries)}, metadata${i}, ${toJavaValue(b.priorityOver)}, bins${i}));`);
   }
 
   lines.push('    }};', '}', '');

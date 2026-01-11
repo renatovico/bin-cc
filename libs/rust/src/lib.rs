@@ -100,10 +100,9 @@ pub fn find_brand(card_number: &str) -> Option<&'static str> {
 /// Detailed brand information or `None` if not found
 pub fn find_brand_detailed(card_number: &str) -> Option<&'static BrandDetailed> {
     let brand_name = find_brand(card_number)?;
-    BRANDS
+    brands_detailed::BRANDS
         .iter()
         .find(|b| b.scheme == brand_name)
-        .cloned()
 }
 
 /// Check if card number is supported
@@ -165,7 +164,7 @@ pub fn get_brand_info(brand_name: &str) -> Option<&'static Brand> {
 ///
 /// Detailed brand info or `None`
 pub fn get_brand_info_detailed(scheme: &str) -> Option<&'static BrandDetailed> {
-    BRANDS.iter().find(|b| b.scheme == scheme)
+    brands_detailed::BRANDS.iter().find(|b| b.scheme == scheme)
 }
 
 /// List all supported brands

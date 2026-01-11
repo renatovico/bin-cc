@@ -1,8 +1,8 @@
 <?php
 
-require_once __DIR__ . '/../src/BrandData.php';
-require_once __DIR__ . '/../src/BrandDataDetailed.php';
-require_once __DIR__ . '/../src/CreditCardValidator.php';
+require_once __DIR__ . '/src/BrandData.php';
+require_once __DIR__ . '/src/BrandDataDetailed.php';
+require_once __DIR__ . '/src/CreditCardValidator.php';
 
 use CreditCard\Identifier\CreditCardValidator;
 

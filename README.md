@@ -36,7 +36,11 @@ bin-cc/
 │   ├── python/
 │   ├── ruby/
 │   ├── elixir/
-│   └── dotnet/
+│   ├── dotnet/
+│   ├── java/
+│   ├── rust/
+│   ├── go/
+│   └── php/
 │
 ├── CONTRIBUTING.md         # Contribution guidelines
 ├── LICENSE                 # MIT License
@@ -146,6 +150,49 @@ dotnet add package CreditCardIdentifier
 ```csharp
 using CreditCardIdentifier;
 CreditCard.FindBrand("4012001037141112");  // "visa"
+```
+
+### Java
+
+Complete implementation in [`libs/java/`](./libs/java/)
+
+```xml
+<!-- Maven -->
+<dependency>
+    <groupId>com.creditcard</groupId>
+    <artifactId>creditcard-identifier</artifactId>
+    <version>2.1.0</version>
+</dependency>
+```
+
+```java
+import com.creditcard.identifier.CreditCardValidator;
+
+CreditCardValidator validator = new CreditCardValidator();
+validator.findBrand("4012001037141112");  // "visa"
+```
+
+### Rust ⚠️
+
+Implementation in [`libs/rust/`](./libs/rust/) - Currently has compilation issues. See [`libs/LIMITATIONS.md`](./libs/LIMITATIONS.md) for details.
+
+### Go ⚠️
+
+Implementation in [`libs/go/`](./libs/go/) - Currently has regex compatibility issues. See [`libs/LIMITATIONS.md`](./libs/LIMITATIONS.md) for details.
+
+### PHP
+
+Complete implementation in [`libs/php/`](./libs/php/)
+
+```bash
+composer require creditcard/identifier
+```
+
+```php
+use CreditCard\Identifier\CreditCardValidator;
+
+$validator = new CreditCardValidator();
+$validator->findBrand('4012001037141112');  // "visa"
 ```
 
 ## 🎴 Supported Card Brands

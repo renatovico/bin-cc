@@ -18,7 +18,7 @@ const go = {
  * Convert value to Go literal
  */
 function toGoValue(val) {
-  if (val === null || val === undefined) return go.null;
+  if (val === null || val === undefined) return '""';
   if (val === true) return 'true';
   if (val === false) return 'false';
   if (typeof val === 'number') return String(val);
