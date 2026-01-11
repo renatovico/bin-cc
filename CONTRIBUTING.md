@@ -21,7 +21,6 @@ You can organize card data in two ways:
 1. **Create a source file** in `data/sources/`
 
    ```bash
-   # Example: adding JCB
    touch data/sources/jcb.json
    ```
 
@@ -44,236 +43,90 @@ You can organize card data in two ways:
    }
    ```
 
+3. **Or use the interactive CLI**
+
+   ```bash
+   node scripts/create-card.js
+   ```
+
 #### Option 2: Subfolder (For Large or Regional Data)
 
-For brands with extensive BIN data or regional variations, use a subfolder:
+For brands with extensive BIN data or regional variations:
 
 1. **Create a subfolder** in `data/sources/`
 
    ```bash
-   # Example: organizing Visa data
-   mkdir -p data/sources/visa
+   mkdir -p data/sources/jcb
    ```
 
-2. **Create multiple JSON files** in the subfolder
+2. **Create multiple JSON files**
 
-   ```bash
-   # Base patterns
-   data/sources/visa/base.json
-   
-   # Detailed BIN data
-   data/sources/visa/detailed.json
-   
-   # Regional data (optional)
-   data/sources/visa/br.json
-   data/sources/visa/us.json
+   ```
+   data/sources/jcb/
+   ├── base.json        # Required: scheme, brand, patterns
+   ├── bins-jp.json     # Optional: Japan-specific BINs
+   └── bins-us.json     # Optional: US-specific BINs
    ```
 
-3. **Files are automatically merged** by the build script
-   - Patterns are deduplicated by structure
-   - BINs are deduplicated by number
-   - Countries are merged
-   - Subfolder name becomes the scheme identifier
+3. **Base file** contains full schema:
 
-**Example folder structure:**
-
-```
-data/sources/
-├── visa/
-│   ├── base.json          # Base patterns for Visa
-│   ├── detailed.json      # Detailed BIN database
-│   └── br.json            # Brazil-specific data (optional)
-├── mastercard/
-│   ├── base.json
-│   └── regional.json
-└── amex.json              # Single file for simple brands
-```
-
-   **Optional: Add detailed BIN information**
-   
-   You can include specific BIN-level details for known issuers:
-   
    ```json
    {
-     "scheme": "visa",
-     "brand": "Visa",
+     "scheme": "jcb",
+     "brand": "JCB",
      "patterns": [
        {
-         "bin": "^4",
-         "length": [13, 16],
+         "bin": "^35",
+         "length": [16],
          "luhn": true,
          "cvvLength": 3
        }
      ],
      "type": "credit",
-     "countries": ["GLOBAL"],
+     "countries": ["GLOBAL"]
+   }
+   ```
+
+4. **Partial files** contain only `bins`:
+
+   ```json
+   {
      "bins": [
        {
-         "bin": "491441",
-         "type": "CREDIT",
-         "category": null,
-         "issuer": "BANCO PROSPER, S.A."
-       },
-       {
-         "bin": "491414",
+         "bin": "356789",
          "type": "CREDIT",
          "category": "GOLD",
-         "issuer": "BANCO DO ESTADO DO PARANA"
+         "issuer": "BANK OF JAPAN",
+         "countries": ["JP"]
        }
      ]
    }
    ```
-   
-   The `bins` array is optional and provides:
-   - **bin**: 6-digit BIN number
-   - **type**: Card type (CREDIT, DEBIT)
-   - **category**: Card tier (CLASSIC, GOLD, PLATINUM, etc.) - use `null` if not applicable
-   - **issuer**: Name of the issuing bank
 
-3. **Build and validate**
+5. **Files are automatically merged** by the build script
 
-   ```bash
-   node scripts/build.js
-   ```
+### Build and Validate
 
-4. **Test the changes**
+```bash
+# Build and validate all
+node scripts/build.js
 
-   ```bash
-   cd libs/javascript
-   npm test
-   ```
-
-5. **Document your source**
-   - In your PR description, cite official documentation
-   - Include URLs to BIN databases or official specs
-   - Explain how you verified the patterns
-
-### Updating Existing Patterns
-
-#### For Single File Brands
-
-1. **Edit the source file** in `data/sources/`
-2. **Add a comment** explaining the change
-3. **Rebuild** with `node scripts/build.js`
-4. **Run tests** to ensure nothing breaks
-5. **Document** the reason for the update in your PR
-
-#### For Subfolder-Organized Brands
-
-1. **Edit the appropriate file** in the brand's subfolder (e.g., `data/sources/visa/base.json`)
-2. **Add regional data** by creating new files (e.g., `data/sources/visa/es.json`)
-3. **Rebuild** with `node scripts/build.js` - files are automatically merged
-4. **Run tests** to ensure nothing breaks
-5. **Document** the reason for the update in your PR
-
-### Example: Updating Visa Patterns
-
-#### Single file approach:
-
-```json
-{
-  "scheme": "visa",
-  "brand": "Visa",
-  "patterns": [
-    {
-      "bin": "^4",
-      "length": [13, 16],
-      "luhn": true,
-      "cvvLength": 3
-    },
-    {
-      "bin": "^6367",
-      "length": [16],
-      "luhn": true,
-      "cvvLength": 3,
-      "comment": "Added: Visa Denmark/Dankort co-brand cards"
-    }
-  ],
-  "type": "credit",
-  "countries": ["GLOBAL"]
-}
+# Validate specific file or directory
+node scripts/validate.js data/sources/jcb
 ```
 
-#### Subfolder approach (recommended for large datasets):
+### Test the Changes
 
-**data/sources/visa/base.json:**
-```json
-{
-  "scheme": "visa",
-  "brand": "Visa",
-  "patterns": [
-    {
-      "bin": "^4",
-      "length": [13, 16],
-      "luhn": true,
-      "cvvLength": 3
-    },
-    {
-      "bin": "^6367",
-      "length": [16],
-      "luhn": true,
-      "cvvLength": 3
-    }
-  ],
-  "type": "credit",
-  "countries": ["GLOBAL"]
-}
+```bash
+cd libs/javascript
+npm test
 ```
 
-**data/sources/visa/detailed.json:**
-```json
-{
-  "scheme": "visa",
-  "brand": "Visa",
-  "patterns": [
-    {
-      "bin": "^4",
-      "length": [13, 16],
-      "luhn": true,
-      "cvvLength": 3
-    }
-  ],
-  "type": "credit",
-  "countries": ["GLOBAL"],
-  "bins": [
-    {
-      "bin": "491441",
-      "type": "CREDIT",
-      "category": null,
-      "issuer": "BANCO PROSPER, S.A."
-    }
-  ]
-}
-```
+### Document Your Source
 
-The build script will merge both files into a single Visa entry.
-
-## 💻 Contributing Code
-
-### Adding Language Implementations
-
-We welcome implementations in any programming language!
-
-1. **Create a directory** in `examples/` for your language
-2. **Implement the validator** that reads from `data/brands.json`
-3. **Include a README** with usage instructions
-4. **Test your implementation** with sample cards
-5. **Submit a PR** with your code
-
-### Improving the Build System
-
-1. **Fork the repository**
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/improve-build-validation
-   ```
-3. **Make your changes** to `scripts/build.js` or related files
-4. **Test thoroughly**
-   ```bash
-   node scripts/build.js
-   # Verify output in data/compiled/ and data/brands.json
-   ```
-5. **Submit a PR** with clear description
+In your PR description, cite official documentation:
+- Include URLs to BIN databases or official specs
+- Explain how you verified the patterns
 
 ## ✅ Data Quality Guidelines
 
@@ -306,6 +159,32 @@ Every data contribution must include:
 - ❌ Don't guess or assume patterns
 - ❌ Don't use unverified third-party sources
 - ❌ Don't break backward compatibility without discussion
+
+## 💻 Contributing Code
+
+### Adding Language Implementations
+
+We welcome implementations in any programming language!
+
+1. **Create a directory** in `libs/` for your language
+2. **Implement the validator** that reads from compiled data
+3. **Include a README** with usage instructions
+4. **Test your implementation** with sample cards
+5. **Submit a PR** with your code
+
+### Improving the Build System
+
+1. **Fork the repository**
+2. **Create a feature branch**
+   ```bash
+   git checkout -b feature/improve-validation
+   ```
+3. **Make your changes** to `scripts/` files
+4. **Test thoroughly**
+   ```bash
+   node scripts/build.js
+   ```
+5. **Submit a PR** with clear description
 
 ## 🔍 Review Process
 
@@ -344,23 +223,24 @@ cd ../..
 # Create a branch
 git checkout -b update/visa-patterns
 
-# Option 1: Edit single source file
+# Option 1: Use interactive CLI
+node scripts/create-card.js
+
+# Option 2: Edit single source file
 vim data/sources/visa.json
 
-# Option 2: Edit or add files in a subfolder
+# Option 3: Edit files in a subfolder
 vim data/sources/visa/base.json
-vim data/sources/visa/br.json
+vim data/sources/visa/bins-br-1.json
 
-# Build (automatically merges subfolder files)
+# Build (automatically merges and validates)
 node scripts/build.js
 
 # Test (JavaScript)
-cd libs/javascript
-npm test
-cd ../..
+cd libs/javascript && npm test && cd ../..
 
 # Commit with descriptive message
-git add data/sources/visa/
+git add data/
 git commit -m "Add Brazil-specific Visa BIN data"
 
 # Push and create PR

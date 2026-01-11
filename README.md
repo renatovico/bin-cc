@@ -1,5 +1,4 @@
-Credit Card BIN Data - Data File Project
-====================
+# Credit Card BIN Data - Data File Project
 
 **This is a data file project** similar to tzdata, providing credit card BIN (Bank Identification Number) patterns as a source of truth for other libraries.
 
@@ -13,22 +12,31 @@ Repository for this [gist](https://gist.github.com/erikhenrique/5931368)
 bin-cc/
 ├── data/                    # Credit card BIN data
 │   ├── sources/            # Source data files (editable)
-│   │   ├── visa.json
+│   │   ├── visa/          # Subfolder for complex brands
+│   │   │   ├── base.json
+│   │   │   └── bins-*.json
 │   │   ├── mastercard.json
 │   │   └── ...
-│   ├── compiled/           # Compiled enhanced format
-│   │   └── brands.json
-│   ├── brands.json         # Legacy format (auto-generated)
+│   ├── compiled/           # Compiled output formats
+│   │   ├── cards.json      # Simplified regex format
+│   │   └── cards-detailed.json  # Full detailed format
 │   ├── SCHEMA.md           # Data schema documentation
 │   └── README.md           # Data usage guide
 │
 ├── scripts/                # Build and validation tools
-│   └── build.js            # Compiles source → compiled data
+│   ├── build.js           # Compiles source → compiled data
+│   ├── validate.js        # Standalone validation CLI
+│   ├── create-card.js     # Interactive card creation CLI
+│   └── lib/               # Shared modules
 │
 ├── libs/                   # Reference implementations
-│   └── javascript/         # JavaScript/Node.js implementation
+│   ├── javascript/
+│   ├── python/
+│   ├── ruby/
+│   ├── elixir/
+│   └── dotnet/
 │
-├── examples/               # Usage examples in different languages
+├── examples/               # Usage examples
 │   ├── javascript-example.js
 │   ├── python/
 │   ├── elixir/
@@ -43,10 +51,10 @@ bin-cc/
 
 The **authoritative data** follows a **build system** similar to browserslist:
 
-- **Source files** [`data/sources/*.json`](./data/sources) - Human-editable card scheme definitions
+- **Source files** [`data/sources/`](./data/sources) - Human-editable card scheme definitions
 - **Build script** [`scripts/build.js`](./scripts/build.js) - Compiles and validates data
-- **Compiled data** [`data/compiled/brands.json`](./data/compiled/brands.json) - Enhanced format with full details
-- **Legacy data** [`data/brands.json`](./data/brands.json) - Backward-compatible format (auto-generated)
+- **Detailed output** [`data/compiled/cards-detailed.json`](./data/compiled/cards-detailed.json) - Full details with BINs
+- **Simplified output** [`data/compiled/cards.json`](./data/compiled/cards.json) - Regex patterns only
 - **Schema docs** [`data/SCHEMA.md`](./data/SCHEMA.md) - Complete schema documentation
 
 ### Data Releases
@@ -55,7 +63,7 @@ Data is released separately from library code:
 - **Location**: [GitHub Releases](https://github.com/renatovico/bin-cc/releases?q=data-v)
 - **Tagging**: `data-vX.Y.Z` (e.g., `data-v2.0.1`)
 - **Automatic**: Releases are created automatically when `data/sources/` changes
-- **Files included**: `brands.json`, `compiled/brands.json`, `sources/*.json`
+- **Files included**: `cards.json`, `cards-detailed.json`, `sources/*.json`
 
 ### Building the Data
 
@@ -63,106 +71,98 @@ Data is released separately from library code:
 npm run build
 ```
 
-This compiles source files into both enhanced and legacy formats with validation.
+This compiles source files into both detailed and simplified formats with validation.
+
+### Validating Data
+
+```bash
+# Validate all sources
+node scripts/validate.js
+
+# Validate specific file or directory
+node scripts/validate.js data/sources/visa
+node scripts/validate.js data/sources/amex.json
+```
+
+### Creating New Card Schemes
+
+```bash
+node scripts/create-card.js
+```
+
+Interactive CLI to create new card scheme source files.
 
 ## 📚 Library Implementations
 
 All libraries provide the same core functionality for credit card BIN validation and brand identification.
 
 ### JavaScript/Node.js
+
 Complete implementation in [`libs/javascript/`](./libs/javascript/)
 
-**Installation:**
 ```bash
 npm install creditcard-identifier
 ```
 
-**Usage:**
 ```javascript
 const cc = require('creditcard-identifier');
 console.log(cc.findBrand('4012001037141112')); // 'visa'
 ```
 
-See [JavaScript documentation](./libs/javascript/README.md) for details.
-
 ### Python
+
 Complete implementation in [`libs/python/`](./libs/python/)
 
-**Installation:**
 ```bash
 pip install creditcard-identifier
 ```
 
-**Usage:**
 ```python
 from creditcard_identifier import find_brand
 print(find_brand('4012001037141112'))  # 'visa'
 ```
 
-See [Python documentation](./libs/python/README.md) for details.
-
 ### Ruby
+
 Complete implementation in [`libs/ruby/`](./libs/ruby/)
 
-**Installation:**
 ```bash
 gem install creditcard-identifier
 ```
 
-**Usage:**
 ```ruby
 require 'creditcard_identifier'
 puts CreditcardIdentifier.find_brand('4012001037141112')  # 'visa'
 ```
 
-See [Ruby documentation](./libs/ruby/README.md) for details.
-
 ### Elixir
+
 Complete implementation in [`libs/elixir/`](./libs/elixir/)
 
-**Installation:**
-Add to your `mix.exs`:
 ```elixir
+# mix.exs
 {:creditcard_identifier, "~> 1.0"}
-```
 
-**Usage:**
-```elixir
+# usage
 CreditcardIdentifier.find_brand("4012001037141112")  # "visa"
 ```
 
-See [Elixir documentation](./libs/elixir/README.md) for details.
-
 ### .NET/C#
+
 Complete implementation in [`libs/dotnet/`](./libs/dotnet/)
 
-**Installation:**
 ```bash
 dotnet add package CreditCardIdentifier
 ```
 
-**Usage:**
 ```csharp
 using CreditCardIdentifier;
 CreditCard.FindBrand("4012001037141112");  // "visa"
 ```
 
-See [.NET documentation](./libs/dotnet/README.md) for details.
-
 ## 🎴 Supported Card Brands
 
-| Brand      | Starts with                                  | Max length | CVV length |
-| ---------- | ------------------------------------------- | ---------- | ---------- |
-| Visa       | 4, 6367                                     | 13, 16     | 3          |
-| Mastercard | 5, 222100 to 272099                         | 16         | 3          |
-| Diners     | 301, 305, 36, 38                            | 14, 16     | 3          |
-| Elo        | 4011, 401178, 401179, 431274, 438935, etc.  | 16         | 3          |
-| Amex       | 34, 37                                      | 15         | 4          |
-| Discover   | 6011, 622, 64, 65                           | 16         | 4          |
-| Aura       | 50                                          | 16         | 3          |
-| Hipercard  | 38, 60                                      | 13, 16, 19 | 3          |
-
-**Note:** Some Brazilian brands (Elo, Hipercard, Aura) do not have official public documentation. Patterns collected from real-world usage.
+See [data/compiled/BRANDS.md](./data/compiled/BRANDS.md) for the auto-generated list of supported card brands.
 
 ## 🤝 Contributing
 
@@ -178,8 +178,11 @@ See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for detailed guidelines.
 ### Quick Start for Contributors
 
 ```bash
-# Edit a source file
-vim data/sources/visa.json
+# Create a new card scheme interactively
+node scripts/create-card.js
+
+# Or edit a source file manually
+vim data/sources/visa/base.json
 
 # Build and validate
 npm run build
@@ -188,39 +191,10 @@ npm run build
 npm test
 
 # Commit changes (both source and generated files)
-git add data/sources/visa.json data/brands.json data/compiled/brands.json
+git add data/
 git commit -m "Update Visa BIN patterns"
 ```
 
 ## 📝 License
 
 MIT License
-
-## 👥 Contributors
-
-- @jotafelipe
-- @ahonorato 
-- @renatoelias
-
-
-| Bandeira   | Começa com                                  | Máximo de número | Máximo de número cvc |
-| ---------- | ------------------------------------------- | ---------------- | -------------------- |
-| Visa       | 4, 6367                                     | 13,16            | 3                    |
-| Mastercard | 5, 222100 à 272099                          | 16               | 3                    |
-| Diners     | 301, 305, 36, 38 [link](http://bin-iin.com/American-Express-BIN-List.html)                               | 14,16            | 3                    |
-| Elo        | 4011, 401178, 401179, 431274, 438935, 451416, 457393, 4576, 457631, 457632, 504175, 504175, 506699 à 506778, 509000 à 509999, 627780, 636297, 636368, 636369, 650031 à 650033, 650035 à 650051, 650405 à 650439, 650485 à 650538, 650541 à 650598, 650700 à 650718, 650720 à 650727, 650901 à 650920, 651652 à 651679, 655000 à 655019, 655021 à 655058 | 16               | 3                    |
-| Amex       | 34,37                                       | 15               | 4                    |
-| Discover   | 6011, 622, 64, 65                              | 16               | 4                    |
-| Aura       | 50                                          | 16               | 3                    |
-| jcb        | 35                                          | 16               | 3                    |
-| Hipercard  | 38,60                                       | 13,16,19         | 3                    |
-
-
-
-
-
-# Contribuidores
-
-- @jotafelipe
-- @ahonorato 
-- @renatoelias
