@@ -45,15 +45,6 @@ function isSupported(cardNumber) {
 }
 
 /**
- * Get hipercard regex pattern
- * @returns {RegExp} Hipercard regex
- */
-function hipercardRegexp() {
-  const card = compiledBrands.find(b => b.name === 'hipercard');
-  return card ? card.regexpFull : new RegExp('^$');
-}
-
-/**
  * Validate CVV for a brand
  * @param {string} cvv - CVV code
  * @param {string} brandName - Brand name
@@ -85,7 +76,6 @@ function listBrands() {
 module.exports = {
   findBrand,
   isSupported,
-  hipercardRegexp,
   validateCvv,
   getBrandInfo,
   listBrands,
