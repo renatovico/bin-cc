@@ -1,10 +1,12 @@
-# Credit Card BIN Data - Data File Project
+# Credit Card BIN Data
 
 **This is a data file project** similar to tzdata, providing credit card BIN (Bank Identification Number) patterns as a source of truth for other libraries.
 
 This repository contains authoritative data about credit card BIN patterns for validation and brand identification, along with reference implementations in multiple programming languages.
 
-Repository for this [gist](https://gist.github.com/erikhenrique/5931368)
+The original idea came from this [gist](https://gist.github.com/erikhenrique/5931368) by Erik Henrique.
+
+After a JavaScript-only creditcard version, I found myself looking for this in other languages. With a bit of vibe coding style, I created libs for all languages I need (come contribute with more!). The idea is to generate from a source of truth in JSON to language-specific native code, avoiding the overhead of loading JSON files at runtime.
 
 ## 📁 Project Structure
 

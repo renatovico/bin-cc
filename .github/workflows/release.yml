@@ -1,0 +1,228 @@
+name: Release Packages
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version to publish (e.g., 1.0.0)'
+        required: true
+        type: string
+
+env:
+  VERSION: ${{ github.event.inputs.version || github.event.release.tag_name }}
+
+jobs:
+  # Build data files first
+  build:
+    name: Build Data
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install dependencies
+        run: npm install --ignore-scripts
+      
+      - name: Build data files
+        run: npm run build
+      
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: generated-data
+          path: |
+            libs/javascript/data/
+            libs/python/creditcard_identifier/brands.py
+            libs/python/creditcard_identifier/brands_detailed.py
+            libs/ruby/lib/creditcard_identifier/brands.rb
+            libs/ruby/lib/creditcard_identifier/brands_detailed.rb
+            libs/elixir/lib/creditcard_identifier/data.ex
+            libs/elixir/lib/creditcard_identifier/data_detailed.ex
+            libs/dotnet/CreditCardIdentifier/BrandData.cs
+            libs/dotnet/CreditCardIdentifier/BrandDataDetailed.cs
+
+  # Publish to npm
+  publish-npm:
+    name: Publish to npm
+    runs-on: ubuntu-latest
+    needs: build
+    defaults:
+      run:
+        working-directory: libs/javascript
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: generated-data
+          path: libs/
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          registry-url: 'https://registry.npmjs.org'
+      
+      - name: Update version
+        run: npm version ${{ env.VERSION }} --no-git-tag-version --allow-same-version
+      
+      - name: Publish to npm
+        run: npm publish --access public
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+  # Publish to PyPI
+  publish-pypi:
+    name: Publish to PyPI
+    runs-on: ubuntu-latest
+    needs: build
+    defaults:
+      run:
+        working-directory: libs/python
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: generated-data
+          path: libs/
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      
+      - name: Install build tools
+        run: pip install build twine
+      
+      - name: Update version
+        run: |
+          sed -i "s/version = \".*\"/version = \"${{ env.VERSION }}\"/" pyproject.toml
+      
+      - name: Build package
+        run: python -m build
+      
+      - name: Publish to PyPI
+        run: twine upload dist/*
+        env:
+          TWINE_USERNAME: __token__
+          TWINE_PASSWORD: ${{ secrets.PYPI_TOKEN }}
+
+  # Publish to RubyGems
+  publish-rubygems:
+    name: Publish to RubyGems
+    runs-on: ubuntu-latest
+    needs: build
+    defaults:
+      run:
+        working-directory: libs/ruby
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: generated-data
+          path: libs/
+      
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+      
+      - name: Update version
+        run: |
+          sed -i "s/spec.version.*=.*/spec.version       = '${{ env.VERSION }}'/" creditcard-identifier.gemspec
+      
+      - name: Build gem
+        run: gem build creditcard-identifier.gemspec
+      
+      - name: Publish to RubyGems
+        run: |
+          mkdir -p ~/.gem
+          echo -e "---\n:rubygems_api_key: ${{ secrets.RUBYGEMS_API_KEY }}" > ~/.gem/credentials
+          chmod 0600 ~/.gem/credentials
+          gem push creditcard-identifier-${{ env.VERSION }}.gem
+        env:
+          GEM_HOST_API_KEY: ${{ secrets.RUBYGEMS_API_KEY }}
+
+  # Publish to Hex.pm
+  publish-hex:
+    name: Publish to Hex.pm
+    runs-on: ubuntu-latest
+    needs: build
+    defaults:
+      run:
+        working-directory: libs/elixir
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: generated-data
+          path: libs/
+      
+      - name: Setup Elixir
+        uses: erlef/setup-beam@v1
+        with:
+          elixir-version: '1.15'
+          otp-version: '26'
+      
+      - name: Update version
+        run: |
+          sed -i "s/@version \".*\"/@version \"${{ env.VERSION }}\"/" mix.exs
+      
+      - name: Install dependencies
+        run: mix deps.get
+      
+      - name: Publish to Hex.pm
+        run: mix hex.publish --yes
+        env:
+          HEX_API_KEY: ${{ secrets.HEX_API_KEY }}
+
+  # Publish to NuGet
+  publish-nuget:
+    name: Publish to NuGet
+    runs-on: ubuntu-latest
+    needs: build
+    defaults:
+      run:
+        working-directory: libs/dotnet
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: generated-data
+          path: libs/
+      
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+      
+      - name: Update version
+        run: |
+          sed -i "s/<Version>.*<\/Version>/<Version>${{ env.VERSION }}<\/Version>/" CreditCardIdentifier/CreditCardIdentifier.csproj
+      
+      - name: Pack NuGet package
+        run: dotnet pack CreditCardIdentifier/CreditCardIdentifier.csproj -c Release -o ./nupkg
+      
+      - name: Publish to NuGet
+        run: dotnet nuget push ./nupkg/*.nupkg --api-key ${{ secrets.NUGET_API_KEY }} --source https://api.nuget.org/v3/index.json --skip-duplicate

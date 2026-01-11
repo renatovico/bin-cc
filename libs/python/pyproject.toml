@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.6"
 license = {text = "MIT"}
 authors = [
-    {name = "bin-cc contributors"}
+    {name = "Renato Viço"}
 ]
 keywords = ["credit-card", "validation", "bin", "card-brand"]
 classifiers = [
@@ -30,12 +30,9 @@ classifiers = [
 [project.urls]
 Homepage = "https://github.com/renatovico/bin-cc"
 Repository = "https://github.com/renatovico/bin-cc"
-Documentation = "https://github.com/renatovico/bin-cc/tree/main/libs/python"
+Documentation = "https://github.com/renatovico/bin-cc/tree/master/libs/python"
 
 [tool.setuptools.packages.find]
 where = ["."]
 include = ["creditcard_identifier*"]
 exclude = ["tests*"]
-
-[tool.setuptools.package-data]
-creditcard_identifier = ["data/*.json"]

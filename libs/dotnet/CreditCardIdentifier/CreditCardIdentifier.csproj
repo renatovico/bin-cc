@@ -4,15 +4,21 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <LangVersion>9.0</LangVersion>
     <Version>2.0.0</Version>
-    <Authors>renatovico</Authors>
-    <Company>bin-cc</Company>
-    <Description>Credit card BIN validation using bin-cc data</Description>
+    <PackageId>CreditCardIdentifier</PackageId>
+    <Authors>Renato Viço</Authors>
+    <Company></Company>
+    <Description>Credit card BIN validation using bin-cc data. Identify card brands, validate CVV codes, and more.</Description>
     <PackageProjectUrl>https://github.com/renatovico/bin-cc</PackageProjectUrl>
     <RepositoryUrl>https://github.com/renatovico/bin-cc</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageTags>credit-card;validation;bin;card-brand</PackageTags>
+    <PackageTags>credit-card;validation;bin;card-brand;creditcard;identifier</PackageTags>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="README.md" Pack="true" PackagePath="\"/>
+  </ItemGroup>
 
 </Project>

@@ -1,26 +1,28 @@
 'use strict';
 
-const lodash = require('lodash');
 const Chai = require('chai');
 const creditcardIdentifier = require('../creditcard-identifier.js');
 const { findBrand, validateCvv, isSupported, getBrandInfo, getBrandInfoDetailed, listBrands } = creditcardIdentifier;
 
 let expect = Chai.expect;
 
+// Simple range function to replace lodash.range
+const range = (start, end) => Array.from({ length: end - start }, (_, i) => start + i);
+
 let ELO_BINS = [401178,401179,431274,438935,451416,457393,457631,457632,504175,627780,636297,636368];
-Array.prototype.push.apply(ELO_BINS, lodash.range(506699,506778));
-Array.prototype.push.apply(ELO_BINS, lodash.range(509000,509999));
-Array.prototype.push.apply(ELO_BINS, lodash.range(650031,650033));
-Array.prototype.push.apply(ELO_BINS, lodash.range(650035,650051));
-Array.prototype.push.apply(ELO_BINS, lodash.range(650405,650439));
-Array.prototype.push.apply(ELO_BINS, lodash.range(650485,650538));
-Array.prototype.push.apply(ELO_BINS, lodash.range(650541,650598));
-Array.prototype.push.apply(ELO_BINS, lodash.range(650700,650718));
-Array.prototype.push.apply(ELO_BINS, lodash.range(650721,650727));
-Array.prototype.push.apply(ELO_BINS, lodash.range(650901,650920));
-Array.prototype.push.apply(ELO_BINS, lodash.range(651652,651679));
-Array.prototype.push.apply(ELO_BINS, lodash.range(655000,655019));
-Array.prototype.push.apply(ELO_BINS, lodash.range(655021, 655058));
+Array.prototype.push.apply(ELO_BINS, range(506699,506778));
+Array.prototype.push.apply(ELO_BINS, range(509000,509999));
+Array.prototype.push.apply(ELO_BINS, range(650031,650033));
+Array.prototype.push.apply(ELO_BINS, range(650035,650051));
+Array.prototype.push.apply(ELO_BINS, range(650405,650439));
+Array.prototype.push.apply(ELO_BINS, range(650485,650538));
+Array.prototype.push.apply(ELO_BINS, range(650541,650598));
+Array.prototype.push.apply(ELO_BINS, range(650700,650718));
+Array.prototype.push.apply(ELO_BINS, range(650721,650727));
+Array.prototype.push.apply(ELO_BINS, range(650901,650920));
+Array.prototype.push.apply(ELO_BINS, range(651652,651679));
+Array.prototype.push.apply(ELO_BINS, range(655000,655019));
+Array.prototype.push.apply(ELO_BINS, range(655021, 655058));
 
 describe('Find Brand tests', function() {
     this.timeout(5000);

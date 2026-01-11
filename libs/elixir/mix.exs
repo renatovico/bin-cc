@@ -45,7 +45,7 @@ defmodule CreditcardIdentifier.MixProject do
       licenses: ["MIT"],
       links: %{
         "GitHub" => @source_url,
-        "Documentation" => "https://github.com/renatovico/bin-cc/tree/main/libs/elixir"
+        "Documentation" => "https://github.com/renatovico/bin-cc/tree/master/libs/elixir"
       }
     ]
   end

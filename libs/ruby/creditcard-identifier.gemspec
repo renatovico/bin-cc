@@ -3,7 +3,7 @@
 Gem::Specification.new do |spec|
   spec.name          = 'creditcard-identifier'
   spec.version       = '1.0.0'
-  spec.authors       = ['bin-cc contributors']
+  spec.authors       = ['Renato Viço']
   spec.email         = []
 
   spec.summary       = 'Credit card BIN validation using bin-cc data'
@@ -14,19 +14,15 @@ Gem::Specification.new do |spec|
 
   spec.metadata['homepage_uri'] = spec.homepage
   spec.metadata['source_code_uri'] = 'https://github.com/renatovico/bin-cc'
-  spec.metadata['documentation_uri'] = 'https://github.com/renatovico/bin-cc/tree/main/libs/ruby'
+  spec.metadata['documentation_uri'] = 'https://github.com/renatovico/bin-cc/tree/master/libs/ruby'
 
   # Specify which files should be added to the gem when it is released.
   spec.files = Dir[
     'lib/**/*',
-    'data/**/*',
     'README.md',
     'LICENSE'
   ]
   spec.require_paths = ['lib']
-
-  # Runtime dependencies
-  spec.add_dependency 'json', '~> 2.0'
 
   # Development dependencies
   spec.add_development_dependency 'minitest', '~> 5.0'
