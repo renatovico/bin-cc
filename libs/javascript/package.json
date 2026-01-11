@@ -1,20 +1,18 @@
 {
   "name": "creditcard-identifier",
-  "version": "1.1.2",
-  "description": "Brazilian CreditCard Identifier - Automatically downloads latest BIN data from GitHub releases",
+  "version": "2.0.0",
+  "description": "Credit Card Identifier - Identify card brands by BIN/IIN patterns",
   "main": "index.js",
   "files": [
     "index.js",
     "creditcard-identifier.js",
-    "download-data.js",
+    "data/cards.json",
     "README.md"
   ],
   "scripts": {
-    "postinstall": "node download-data.js",
     "test": "npm run test-unit",
     "test-unit": "NODE_ENV=test ./node_modules/.bin/mocha ./test --recursive  --harmony",
-    "coverage": "./node_modules/.bin/istanbul cover ./node_modules/mocha/bin/_mocha -- ./test/ --recursive  --harmony",
-    "update-data": "node download-data.js"
+    "coverage": "./node_modules/.bin/istanbul cover ./node_modules/mocha/bin/_mocha -- ./test/ --recursive  --harmony"
   },
   "repository": {
     "type": "git",

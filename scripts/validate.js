@@ -225,9 +225,254 @@ function validateCompiled(compiledBrands) {
     }
   }
 
+  // Check for BIN conflicts between brands
+  const conflicts = detectBinConflicts(compiledBrands, result);
+
   result.print();
 
-  return !result.hasErrors;
+  return { valid: !result.hasErrors, conflicts };
+}
+
+/**
+ * Generate test card numbers for a given pattern and lengths
+ */
+function generateTestNumbers(pattern, lengths) {
+  const testNumbers = [];
+  const binRegex = pattern.bin.replace(/^\^/, '');
+  
+  // Extract sample prefixes from the pattern
+  const prefixes = extractSamplePrefixes(binRegex);
+  
+  for (const prefix of prefixes) {
+    for (const len of lengths) {
+      const remaining = len - prefix.length;
+      if (remaining >= 0) {
+        const testNum = prefix + '0'.repeat(remaining);
+        if (testNum.length === len) {
+          testNumbers.push(testNum);
+        }
+      }
+    }
+  }
+  
+  return testNumbers;
+}
+
+/**
+ * Extract sample prefixes from a BIN pattern
+ * This generates concrete examples from regex patterns
+ */
+function extractSamplePrefixes(pattern) {
+  const prefixes = new Set();
+  
+  // Handle simple alternation: 401178|401179|431274
+  if (!pattern.includes('(') && !pattern.includes('[') && !pattern.includes('\\')) {
+    pattern.split('|').forEach(p => prefixes.add(p.replace(/^\^/, '')));
+    return Array.from(prefixes);
+  }
+  
+  // Handle patterns starting with digits
+  const leadingDigits = pattern.match(/^(\d+)/);
+  if (leadingDigits) {
+    prefixes.add(leadingDigits[1]);
+  }
+  
+  // Handle alternation with groups: (401178|401179) or ^(506699|5067[0-6]\d)
+  const topAlts = splitTopLevelOr(pattern);
+  for (const alt of topAlts) {
+    const cleaned = alt.replace(/^\^?\(?/, '').replace(/\)?$/, '');
+    
+    // Check for simple number
+    if (/^\d+$/.test(cleaned)) {
+      prefixes.add(cleaned);
+      continue;
+    }
+    
+    // Check for leading digits
+    const digits = cleaned.match(/^(\d+)/);
+    if (digits) {
+      prefixes.add(digits[1]);
+      
+      // If followed by character class, expand it
+      const withClass = cleaned.match(/^(\d+)\[(\d)-(\d)\]/);
+      if (withClass) {
+        const [, prefix, start, end] = withClass;
+        for (let i = parseInt(start); i <= parseInt(end) && i - parseInt(start) < 5; i++) {
+          prefixes.add(prefix + i);
+        }
+      }
+      
+      // If followed by \d, add with 0-9
+      if (cleaned.match(/^(\d+)\\d/)) {
+        for (let i = 0; i <= 9; i++) {
+          prefixes.add(digits[1] + i);
+        }
+      }
+    }
+  }
+  
+  // Handle patterns like 3(?:0[0-5]|[68][0-9])
+  if (pattern.includes('(?:')) {
+    const leadMatch = pattern.match(/^(\d+)/);
+    const lead = leadMatch ? leadMatch[1] : '';
+    
+    const groupMatch = pattern.match(/\(\?:([^)]+)\)/);
+    if (groupMatch) {
+      const groupContent = groupMatch[1];
+      const alternatives = groupContent.split('|');
+      
+      for (const alt of alternatives) {
+        const expanded = expandFirstCharClass(alt);
+        for (const exp of expanded.slice(0, 5)) {
+          prefixes.add(lead + exp);
+        }
+      }
+    }
+  }
+  
+  return Array.from(prefixes).filter(p => p.length >= 2);
+}
+
+/**
+ * Split pattern by top-level OR (|) not inside parentheses
+ */
+function splitTopLevelOr(pattern) {
+  const parts = [];
+  let current = '';
+  let depth = 0;
+  
+  for (let i = 0; i < pattern.length; i++) {
+    const char = pattern[i];
+    if (char === '(' || char === '[') depth++;
+    if (char === ')' || char === ']') depth--;
+    if (char === '|' && depth === 0) {
+      parts.push(current);
+      current = '';
+    } else {
+      current += char;
+    }
+  }
+  parts.push(current);
+  
+  return parts;
+}
+
+/**
+ * Expand first character class in a pattern to get sample values
+ */
+function expandFirstCharClass(pattern) {
+  const results = [];
+  const match = pattern.match(/^([^\[]*)\[(\d)-(\d)\](.*)$/);
+  
+  if (match) {
+    const [, prefix, start, end, suffix] = match;
+    for (let i = parseInt(start); i <= parseInt(end); i++) {
+      // Recursively expand remaining pattern
+      const rest = expandFirstCharClass(suffix);
+      if (rest.length > 0) {
+        for (const r of rest) {
+          results.push(prefix + i + r);
+        }
+      } else {
+        results.push(prefix + i);
+      }
+    }
+  } else if (pattern.includes('\\d')) {
+    // Replace \d with 0
+    results.push(pattern.replace(/\\d/g, '0'));
+  } else {
+    results.push(pattern);
+  }
+  
+  return results;
+}
+
+/**
+ * Detect BIN conflicts between brands
+ * Returns array of conflicts for writing to file
+ */
+function detectBinConflicts(compiledBrands, result) {
+  const conflicts = [];
+  
+  // For each pair of brands, check if their patterns can match the same card number
+  for (let i = 0; i < compiledBrands.length; i++) {
+    for (let j = i + 1; j < compiledBrands.length; j++) {
+      const brand1 = compiledBrands[i];
+      const brand2 = compiledBrands[j];
+      
+      // Generate test numbers for brand1 and check if brand2 also matches
+      for (const pattern1 of brand1.patterns) {
+        const lengths1 = Array.isArray(pattern1.length) ? pattern1.length : [pattern1.length];
+        const testNumbers = generateTestNumbers(pattern1, lengths1);
+        
+        for (const testNum of testNumbers) {
+          // Check if brand2 matches this test number
+          for (const pattern2 of brand2.patterns) {
+            const lengths2 = Array.isArray(pattern2.length) ? pattern2.length : [pattern2.length];
+            
+            if (!lengths2.includes(testNum.length)) continue;
+            
+            try {
+              const regex2 = new RegExp(pattern2.bin);
+              if (regex2.test(testNum)) {
+                conflicts.push({
+                  testNumber: testNum,
+                  brand1: brand1.scheme,
+                  pattern1: pattern1.bin,
+                  brand2: brand2.scheme,
+                  pattern2: pattern2.bin
+                });
+              }
+            } catch (e) {
+              // Invalid regex, skip
+            }
+          }
+        }
+      }
+    }
+  }
+  
+  // Deduplicate by BIN prefix (first 6 digits)
+  const uniqueConflicts = new Map();
+  for (const conflict of conflicts) {
+    const bin = conflict.testNumber.substring(0, 6);
+    const key = `${conflict.brand1}:${conflict.brand2}:${bin}`;
+    if (!uniqueConflicts.has(key)) {
+      uniqueConflicts.set(key, {
+        bin,
+        brands: [conflict.brand1, conflict.brand2],
+        patterns: {
+          [conflict.brand1]: conflict.pattern1,
+          [conflict.brand2]: conflict.pattern2
+        },
+        example: conflict.testNumber
+      });
+    }
+  }
+  
+  const conflictList = Array.from(uniqueConflicts.values());
+  
+  if (conflictList.length > 0) {
+    console.log(`\n⚠️  BIN Conflicts Detected: ${conflictList.length} conflicts\n`);
+    
+    // Group by brand pair for cleaner output
+    const byPair = new Map();
+    for (const c of conflictList) {
+      const pairKey = c.brands.sort().join(' vs ');
+      if (!byPair.has(pairKey)) byPair.set(pairKey, []);
+      byPair.get(pairKey).push(c.bin);
+    }
+    
+    for (const [pair, bins] of byPair) {
+      console.log(`  ⚠ ${pair}: ${bins.slice(0, 5).join(', ')}${bins.length > 5 ? ` (+${bins.length - 5} more)` : ''}`);
+      result.addWarning('bin-conflict', `${pair}: ${bins.length} overlapping BINs`);
+    }
+    
+    console.log('\n  💡 Tip: Use "priorityOver" in source files to control matching order.');
+    console.log('     See data/compiled/conflicts.json for full details.\n');
+  }
+  
+  return conflictList;
 }
 
 /**

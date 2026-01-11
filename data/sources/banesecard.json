@@ -1,0 +1,73 @@
+{
+  "scheme": "banesecard",
+  "brand": "BaneseCard",
+  "priorityOver": ["discover"],
+  "patterns": [
+    {
+      "bin": "^636117",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3,
+      "comment": "Crédito / Débito / Múltiplo (Tarja)"
+    },
+    {
+      "bin": "^637473",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3,
+      "comment": "Crédito (Chip)"
+    },
+    {
+      "bin": "^637470",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3,
+      "comment": "Múltiplo (Chip)"
+    },
+    {
+      "bin": "^637472",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3,
+      "comment": "Pré Pago (Tarja)"
+    },
+    {
+      "bin": "^650725",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3,
+      "comment": "Crédito Puro (Chip)"
+    },
+    {
+      "bin": "^650046",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3,
+      "comment": "Débito (Chip)"
+    },
+    {
+      "bin": "^650591",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3,
+      "comment": "Múltiplo (Chip)"
+    },
+    {
+      "bin": "^651668",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3,
+      "comment": "Múltiplo (Chip)"
+    },
+    {
+      "bin": "^651679",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3,
+      "comment": "Puro (Chip)"
+    }
+  ],
+  "type": "credit",
+  "countries": ["BR"],
+  "unofficial": true
+}

@@ -90,12 +90,12 @@ module CreditcardIdentifier
     def find_data_path
       # Look for bundled data in gem
       lib_dir = Pathname.new(__FILE__).dirname.parent
-      data_path = lib_dir.join('data', 'brands.json')
+      data_path = lib_dir.join('data', 'cards.json')
 
       # Fallback to repository data for development
       unless data_path.exist?
         repo_root = lib_dir.parent.parent.parent
-        data_path = repo_root.join('data', 'brands.json')
+        data_path = repo_root.join('data', 'compiled', 'cards.json')
       end
 
       data_path.to_s

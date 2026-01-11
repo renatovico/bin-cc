@@ -47,7 +47,9 @@ describe('Find Brand tests', function() {
 
     it('Should identify elo for bins ', function validElo(done) {
         ELO_BINS.forEach(function(cardbin) {
-            expect(findBrand(cardbin+'0000000000000')).to.equal('elo');
+            const binStr = cardbin.toString();
+            const padding = '0'.repeat(16 - binStr.length);
+            expect(findBrand(binStr + padding)).to.equal('elo');
         });
         done();
     });

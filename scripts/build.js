@@ -3,10 +3,21 @@
 
 const fs = require('fs');
 const path = require('path');
-const { COMPILED_DIR, CARDS_FILE, DETAILED_FILE, BRANDS_MD_FILE } = require('./lib/config');
+const { COMPILED_DIR, CARDS_FILE, DETAILED_FILE, BRANDS_MD_FILE, CONFLICTS_FILE, LIBS_DIR } = require('./lib/config');
 const { readAllSources } = require('./lib/source-reader');
 const { toDetailedFormat, toSimplifiedFormat } = require('./lib/transformers');
 const { validateSources, validateCompiled } = require('./validate');
+
+/**
+ * Library data paths configuration
+ */
+const LIB_DATA_PATHS = [
+  { lib: 'javascript', dataDir: 'data' },
+  { lib: 'python/creditcard_identifier', dataDir: 'data' },
+  { lib: 'ruby', dataDir: 'data' },
+  { lib: 'elixir', dataDir: 'data' },
+  { lib: 'dotnet/CreditCardIdentifier', dataDir: 'data' }
+];
 
 /**
  * Ensure output directory exists
@@ -14,6 +25,28 @@ const { validateSources, validateCompiled } = require('./validate');
 function ensureOutputDir() {
   if (!fs.existsSync(COMPILED_DIR)) {
     fs.mkdirSync(COMPILED_DIR, { recursive: true });
+  }
+}
+
+/**
+ * Copy data files to all library directories
+ */
+function copyToLibs(simplified) {
+  console.log('\n📦 Copying data to libraries...');
+  
+  for (const { lib, dataDir } of LIB_DATA_PATHS) {
+    const libDataPath = path.join(LIBS_DIR, lib, dataDir);
+    
+    // Create data directory if it doesn't exist
+    if (!fs.existsSync(libDataPath)) {
+      fs.mkdirSync(libDataPath, { recursive: true });
+    }
+    
+    // Copy simplified format (cards.json) - this is what libs use
+    const destFile = path.join(libDataPath, 'cards.json');
+    fs.writeFileSync(destFile, JSON.stringify(simplified, null, 2));
+    
+    console.log(`  ✓ Copied to ${path.relative(process.cwd(), destFile)}`);
   }
 }
 
@@ -50,6 +83,48 @@ function generateBrandsMd(detailed) {
 }
 
 /**
+ * Sort brands based on priorityOver relationships
+ * If A has priorityOver: ["B"], then A comes before B
+ */
+function sortByPriority(items, getScheme, getPriorityOver) {
+  // Build a map of scheme -> items that should come before it
+  const mustComeBefore = new Map(); // scheme -> Set of schemes that must come before it
+  
+  for (const item of items) {
+    const scheme = getScheme(item);
+    const priorityOver = getPriorityOver(item) || [];
+    
+    for (const other of priorityOver) {
+      if (!mustComeBefore.has(other)) {
+        mustComeBefore.set(other, new Set());
+      }
+      mustComeBefore.get(other).add(scheme);
+    }
+  }
+  
+  // Sort: items with no dependencies first, then by how many depend on them
+  return [...items].sort((a, b) => {
+    const schemeA = getScheme(a);
+    const schemeB = getScheme(b);
+    
+    // Check if A must come before B
+    const bDeps = mustComeBefore.get(schemeB) || new Set();
+    if (bDeps.has(schemeA)) return -1;
+    
+    // Check if B must come before A
+    const aDeps = mustComeBefore.get(schemeA) || new Set();
+    if (aDeps.has(schemeB)) return 1;
+    
+    // No direct relationship - sort by number of schemes that depend on them
+    const aScore = mustComeBefore.get(schemeA)?.size || 0;
+    const bScore = mustComeBefore.get(schemeB)?.size || 0;
+    
+    // More dependencies = more general = should come later
+    return aScore - bScore;
+  });
+}
+
+/**
  * Build compiled data from sources
  */
 function build() {
@@ -58,8 +133,8 @@ function build() {
   ensureOutputDir();
 
   const sources = readAllSources();
-  const detailed = [];
-  const simplified = [];
+  let detailed = [];
+  let simplified = [];
 
   for (const { source, schemeName, sourceFiles } of sources) {
     console.log(`  ✓ Processing ${source.brand} (${schemeName})`);
@@ -67,6 +142,10 @@ function build() {
     detailed.push(toDetailedFormat(source, schemeName, sourceFiles));
     simplified.push(toSimplifiedFormat(source, schemeName));
   }
+
+  // Sort by priorityOver relationships - more specific patterns first
+  detailed = sortByPriority(detailed, d => d.scheme, d => d.priorityOver);
+  simplified = sortByPriority(simplified, s => s.name, s => s.priorityOver);
 
   writeJson(DETAILED_FILE, detailed);
   console.log(`\n✅ Detailed data written to: ${path.relative(process.cwd(), DETAILED_FILE)}`);
@@ -79,6 +158,9 @@ function build() {
 
   console.log(`\n📊 Statistics:`);
   console.log(`   Total brands: ${detailed.length}`);
+
+  // Copy to libs
+  copyToLibs(simplified);
 
   return { detailed, simplified };
 }
@@ -98,7 +180,19 @@ if (require.main === module) {
     const { detailed } = build();
 
     // Validate compiled output
-    if (!validateCompiled(detailed)) {
+    const { valid, conflicts } = validateCompiled(detailed);
+    
+    // Write conflicts to file
+    if (conflicts && conflicts.length > 0) {
+      writeJson(CONFLICTS_FILE, {
+        generated: new Date().toISOString(),
+        total: conflicts.length,
+        conflicts
+      });
+      console.log(`⚠️  Conflicts written to: ${path.relative(process.cwd(), CONFLICTS_FILE)}`);
+    }
+    
+    if (!valid) {
       console.error('\n❌ Build produced invalid output\n');
       process.exit(1);
     }

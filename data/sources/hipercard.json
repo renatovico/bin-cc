@@ -3,14 +3,14 @@
   "brand": "Hipercard",
   "patterns": [
     {
-      "bin": "^3841[046]0",
-      "length": [16, 19],
+      "bin": "^38",
+      "length": [19],
       "luhn": true,
       "cvvLength": 3
     },
     {
       "bin": "^60",
-      "length": [13, 16, 19],
+      "length": [16],
       "luhn": true,
       "cvvLength": 3
     }

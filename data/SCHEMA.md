@@ -46,6 +46,7 @@ When using subfolders:
 {
   "scheme": "string",        // Scheme identifier (lowercase, e.g., "visa")
   "brand": "string",         // Display name (e.g., "Visa")
+  "priorityOver": ["string"],// Optional: Array of scheme names this brand should match before
   "patterns": [              // Array of BIN patterns
     {
       "bin": "regex",        // BIN matching pattern (regex)
@@ -68,6 +69,27 @@ When using subfolders:
   ]
 }
 ```
+
+#### Priority Over
+
+The `priorityOver` field controls the order brands are checked when identifying cards. This is important when BIN patterns overlap between brands.
+
+Example: ELO has specific BINs like `401178` that start with `4` (which also matches Visa's `^4` pattern). To ensure ELO is identified correctly:
+
+```json
+{
+  "scheme": "elo",
+  "priorityOver": ["visa", "aura", "discover"],
+  "patterns": [...]
+}
+```
+
+This ensures ELO patterns are checked before Visa, Aura, and Discover.
+
+**Rules:**
+- More specific patterns should have `priorityOver` for more general patterns
+- The build generates `data/compiled/conflicts.json` showing all BIN overlaps
+- Use `npm run build` to see conflict warnings
 
 ### Partial Source Schema (Bins Only)
 

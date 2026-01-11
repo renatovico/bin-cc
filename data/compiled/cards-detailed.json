@@ -3,6 +3,7 @@
     "scheme": "amex",
     "brand": "American Express",
     "type": "credit",
+    "priorityOver": [],
     "number": {
       "lengths": [
         15
@@ -30,44 +31,13 @@
     }
   },
   {
-    "scheme": "aura",
-    "brand": "Aura",
-    "type": "credit",
-    "number": {
-      "lengths": [
-        16
-      ],
-      "luhn": true
-    },
-    "cvv": {
-      "length": 3
-    },
-    "patterns": [
-      {
-        "bin": "^50[0-9]",
-        "length": [
-          16
-        ],
-        "luhn": true,
-        "cvvLength": 3
-      }
-    ],
-    "countries": [
-      "BR"
-    ],
-    "metadata": {
-      "sourceFile": "aura.json"
-    },
-    "unofficial": true
-  },
-  {
     "scheme": "diners",
     "brand": "Diners Club",
     "type": "credit",
+    "priorityOver": [],
     "number": {
       "lengths": [
-        14,
-        16
+        14
       ],
       "luhn": true
     },
@@ -78,8 +48,7 @@
       {
         "bin": "^3(?:0[0-5]|[68][0-9])",
         "length": [
-          14,
-          16
+          14
         ],
         "luhn": true,
         "cvvLength": 3
@@ -93,63 +62,15 @@
     }
   },
   {
-    "scheme": "discover",
-    "brand": "Discover",
-    "type": "credit",
-    "number": {
-      "lengths": [
-        16
-      ],
-      "luhn": true
-    },
-    "cvv": {
-      "length": 3
-    },
-    "patterns": [
-      {
-        "bin": "^6011",
-        "length": [
-          16
-        ],
-        "luhn": true,
-        "cvvLength": 3
-      },
-      {
-        "bin": "^622",
-        "length": [
-          16
-        ],
-        "luhn": true,
-        "cvvLength": 3
-      },
-      {
-        "bin": "^64",
-        "length": [
-          16
-        ],
-        "luhn": true,
-        "cvvLength": 3
-      },
-      {
-        "bin": "^65",
-        "length": [
-          16
-        ],
-        "luhn": true,
-        "cvvLength": 3
-      }
-    ],
-    "countries": [
-      "US"
-    ],
-    "metadata": {
-      "sourceFile": "discover.json"
-    }
-  },
-  {
     "scheme": "elo",
     "brand": "Elo",
     "type": "credit",
+    "priorityOver": [
+      "visa",
+      "aura",
+      "discover",
+      "banesecard"
+    ],
     "number": {
       "lengths": [
         16
@@ -249,7 +170,7 @@
         "comment": "650700-650718"
       },
       {
-        "bin": "^65072[0-7]",
+        "bin": "^6507(2[0-7])",
         "length": [
           16
         ],
@@ -258,13 +179,13 @@
         "comment": "650720-650727"
       },
       {
-        "bin": "^(65090[1-9]|65091\\d|650920)",
+        "bin": "^6509[0-9]",
         "length": [
           16
         ],
         "luhn": true,
         "cvvLength": 3,
-        "comment": "650901-650920"
+        "comment": "65090-65099"
       },
       {
         "bin": "^(65165[2-9]|6516[6-7]\\d)",
@@ -303,14 +224,13 @@
     "unofficial": true
   },
   {
-    "scheme": "hipercard",
-    "brand": "Hipercard",
+    "scheme": "jcb",
+    "brand": "JCB",
     "type": "credit",
+    "priorityOver": [],
     "number": {
       "lengths": [
-        16,
-        19,
-        13
+        16
       ],
       "luhn": true
     },
@@ -319,37 +239,26 @@
     },
     "patterns": [
       {
-        "bin": "^3841[046]0",
+        "bin": "^(?:2131|1800|35)",
         "length": [
-          16,
-          19
-        ],
-        "luhn": true,
-        "cvvLength": 3
-      },
-      {
-        "bin": "^60",
-        "length": [
-          13,
-          16,
-          19
+          16
         ],
         "luhn": true,
         "cvvLength": 3
       }
     ],
     "countries": [
-      "BR"
+      "GLOBAL"
     ],
     "metadata": {
-      "sourceFile": "hipercard.json"
-    },
-    "unofficial": true
+      "sourceFile": "jcb.json"
+    }
   },
   {
     "scheme": "mastercard",
     "brand": "Mastercard",
     "type": "credit",
+    "priorityOver": [],
     "number": {
       "lengths": [
         16
@@ -386,9 +295,155 @@
     }
   },
   {
+    "scheme": "aura",
+    "brand": "Aura",
+    "type": "credit",
+    "priorityOver": [],
+    "number": {
+      "lengths": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "luhn": true
+    },
+    "cvv": {
+      "length": 3
+    },
+    "patterns": [
+      {
+        "bin": "^50",
+        "length": [
+          16,
+          17,
+          18,
+          19
+        ],
+        "luhn": true,
+        "cvvLength": 3
+      }
+    ],
+    "countries": [
+      "BR"
+    ],
+    "metadata": {
+      "sourceFile": "aura.json"
+    },
+    "unofficial": true
+  },
+  {
+    "scheme": "banesecard",
+    "brand": "BaneseCard",
+    "type": "credit",
+    "priorityOver": [
+      "discover"
+    ],
+    "number": {
+      "lengths": [
+        16
+      ],
+      "luhn": true
+    },
+    "cvv": {
+      "length": 3
+    },
+    "patterns": [
+      {
+        "bin": "^636117",
+        "length": [
+          16
+        ],
+        "luhn": true,
+        "cvvLength": 3,
+        "comment": "Crédito / Débito / Múltiplo (Tarja)"
+      },
+      {
+        "bin": "^637473",
+        "length": [
+          16
+        ],
+        "luhn": true,
+        "cvvLength": 3,
+        "comment": "Crédito (Chip)"
+      },
+      {
+        "bin": "^637470",
+        "length": [
+          16
+        ],
+        "luhn": true,
+        "cvvLength": 3,
+        "comment": "Múltiplo (Chip)"
+      },
+      {
+        "bin": "^637472",
+        "length": [
+          16
+        ],
+        "luhn": true,
+        "cvvLength": 3,
+        "comment": "Pré Pago (Tarja)"
+      },
+      {
+        "bin": "^650725",
+        "length": [
+          16
+        ],
+        "luhn": true,
+        "cvvLength": 3,
+        "comment": "Crédito Puro (Chip)"
+      },
+      {
+        "bin": "^650046",
+        "length": [
+          16
+        ],
+        "luhn": true,
+        "cvvLength": 3,
+        "comment": "Débito (Chip)"
+      },
+      {
+        "bin": "^650591",
+        "length": [
+          16
+        ],
+        "luhn": true,
+        "cvvLength": 3,
+        "comment": "Múltiplo (Chip)"
+      },
+      {
+        "bin": "^651668",
+        "length": [
+          16
+        ],
+        "luhn": true,
+        "cvvLength": 3,
+        "comment": "Múltiplo (Chip)"
+      },
+      {
+        "bin": "^651679",
+        "length": [
+          16
+        ],
+        "luhn": true,
+        "cvvLength": 3,
+        "comment": "Puro (Chip)"
+      }
+    ],
+    "countries": [
+      "BR"
+    ],
+    "metadata": {
+      "sourceFile": "banesecard.json"
+    },
+    "unofficial": true
+  },
+  {
     "scheme": "visa",
     "brand": "Visa",
     "type": "credit",
+    "priorityOver": [],
     "number": {
       "lengths": [
         13,
@@ -551,5 +606,103 @@
         "countries": null
       }
     ]
+  },
+  {
+    "scheme": "discover",
+    "brand": "Discover",
+    "type": "credit",
+    "priorityOver": [
+      "hipercard"
+    ],
+    "number": {
+      "lengths": [
+        16
+      ],
+      "luhn": true
+    },
+    "cvv": {
+      "length": 4
+    },
+    "patterns": [
+      {
+        "bin": "^6011",
+        "length": [
+          16
+        ],
+        "luhn": true,
+        "cvvLength": 4
+      },
+      {
+        "bin": "^622",
+        "length": [
+          16
+        ],
+        "luhn": true,
+        "cvvLength": 4
+      },
+      {
+        "bin": "^64",
+        "length": [
+          16
+        ],
+        "luhn": true,
+        "cvvLength": 4
+      },
+      {
+        "bin": "^65",
+        "length": [
+          16
+        ],
+        "luhn": true,
+        "cvvLength": 4
+      }
+    ],
+    "countries": [
+      "US"
+    ],
+    "metadata": {
+      "sourceFile": "discover.json"
+    }
+  },
+  {
+    "scheme": "hipercard",
+    "brand": "Hipercard",
+    "type": "credit",
+    "priorityOver": [],
+    "number": {
+      "lengths": [
+        16,
+        19
+      ],
+      "luhn": true
+    },
+    "cvv": {
+      "length": 3
+    },
+    "patterns": [
+      {
+        "bin": "^38",
+        "length": [
+          19
+        ],
+        "luhn": true,
+        "cvvLength": 3
+      },
+      {
+        "bin": "^60",
+        "length": [
+          16
+        ],
+        "luhn": true,
+        "cvvLength": 3
+      }
+    ],
+    "countries": [
+      "BR"
+    ],
+    "metadata": {
+      "sourceFile": "hipercard.json"
+    },
+    "unofficial": true
   }
 ]

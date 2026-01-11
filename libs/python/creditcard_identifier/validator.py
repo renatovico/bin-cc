@@ -23,12 +23,12 @@ class CreditCardValidator:
         if data_path is None:
             # Look for bundled data in package
             package_dir = Path(__file__).parent
-            data_path = package_dir / 'data' / 'brands.json'
+            data_path = package_dir / 'data' / 'cards.json'
             
             # Fallback to repository data for development
             if not data_path.exists():
                 repo_root = package_dir.parent.parent.parent
-                data_path = repo_root / 'data' / 'brands.json'
+                data_path = repo_root / 'data' / 'compiled' / 'cards.json'
         
         with open(data_path, 'r') as f:
             self.brands = json.load(f)

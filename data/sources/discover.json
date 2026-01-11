@@ -1,30 +1,31 @@
 {
   "scheme": "discover",
   "brand": "Discover",
+  "priorityOver": ["hipercard"],
   "patterns": [
     {
       "bin": "^6011",
       "length": [16],
       "luhn": true,
-      "cvvLength": 3
+      "cvvLength": 4
     },
     {
       "bin": "^622",
       "length": [16],
       "luhn": true,
-      "cvvLength": 3
+      "cvvLength": 4
     },
     {
       "bin": "^64",
       "length": [16],
       "luhn": true,
-      "cvvLength": 3
+      "cvvLength": 4
     },
     {
       "bin": "^65",
       "length": [16],
       "luhn": true,
-      "cvvLength": 3
+      "cvvLength": 4
     }
   ],
   "type": "credit",

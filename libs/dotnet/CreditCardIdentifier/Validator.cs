@@ -113,14 +113,14 @@ namespace CreditCardIdentifier
         {
             // Look for bundled data in package
             var assemblyDir = Path.GetDirectoryName(typeof(Validator).Assembly.Location);
-            var dataPath = Path.Combine(assemblyDir, "data", "brands.json");
+            var dataPath = Path.Combine(assemblyDir, "data", "cards.json");
 
             // Fallback to development path
             if (!File.Exists(dataPath))
             {
                 // For development - look relative to source
                 var projectDir = Path.GetFullPath(Path.Combine(assemblyDir, "..", "..", ".."));
-                dataPath = Path.Combine(projectDir, "..", "..", "data", "brands.json");
+                dataPath = Path.Combine(projectDir, "..", "..", "data", "compiled", "cards.json");
             }
 
             return dataPath;

@@ -2,43 +2,59 @@
 
 /**
  * Extract metadata from source patterns
+ * Simple approach: just concat all bins with |
  */
 function extractPatternMetadata(patterns) {
+  // Collect all unique lengths
+  const lengths = [...new Set(patterns.flatMap(p => 
+    Array.isArray(p.length) ? p.length : [p.length]
+  ))].sort((a, b) => a - b);
+  
+  // Concat all bin patterns (strip ^ prefix, will add back at start)
+  const allBins = patterns
+    .map(p => p.bin.replace(/^\^/, ''))
+    .flatMap(bin => bin.split('|').map(b => b.replace(/^\^/, ''))) // flatten nested |
+    .join('|');
+  
   return {
-    binPattern: patterns.map(p => p.bin).join('|'),
-    lengths: [...new Set(patterns.flatMap(p => Array.isArray(p.length) ? p.length : [p.length]))],
+    binPattern: `^(${allBins})`,
+    lengths,
     cvvLength: patterns[0].cvvLength
   };
 }
 
 /**
- * Build a full validation regex from patterns
+ * Build full validation regex
+ * Simple approach: bin pattern + digits, with length boundaries
  */
 function buildFullPattern(patterns) {
-  const parts = patterns.map(pattern => {
-    const lengths = Array.isArray(pattern.length) ? pattern.length : [pattern.length];
-    const binPart = pattern.bin.replace(/\^/g, '');
-    const minLength = Math.min(...lengths);
-    const maxLength = Math.max(...lengths);
-    const minRemaining = minLength - 6;
-    const maxRemaining = maxLength - 1;
-
-    if (minRemaining === maxRemaining) {
-      return `${binPart}[0-9]{${minRemaining}}`;
-    }
-    if (minRemaining < maxRemaining) {
-      return `${binPart}[0-9]{${minRemaining},${maxRemaining}}`;
-    }
-    return null;
-  }).filter(Boolean);
-
-  return `^(${parts.join('|')})$`;
+  // Get all bins (flatten alternatives)
+  const allBins = patterns
+    .map(p => p.bin.replace(/^\^/, ''))
+    .flatMap(bin => bin.split('|').map(b => b.replace(/^\^/, '')))
+    .join('|');
+  
+  // Get length range
+  const allLengths = [...new Set(patterns.flatMap(p => 
+    Array.isArray(p.length) ? p.length : [p.length]
+  ))];
+  
+  const minLen = Math.min(...allLengths);
+  const maxLen = Math.max(...allLengths);
+  
+  // Build pattern: ^(bin)[0-9]*$ 
+  // The consumer should also check .length is within [minLen, maxLen]
+  // But we can add a basic length constraint using lookahead
+  if (minLen === maxLen) {
+    return `^(?=.{${minLen}}$)(?:${allBins})[0-9]*$`;
+  }
+  return `^(?=.{${minLen},${maxLen}}$)(?:${allBins})[0-9]*$`;
 }
 
 /**
  * Standard fields in source schema (used to detect custom properties)
  */
-const STANDARD_SOURCE_FIELDS = ['scheme', 'brand', 'patterns', 'type', 'countries', 'bins'];
+const STANDARD_SOURCE_FIELDS = ['scheme', 'brand', 'patterns', 'type', 'countries', 'bins', 'priorityOver'];
 const STANDARD_BIN_FIELDS = ['bin', 'type', 'category', 'issuer', 'countries'];
 
 /**
@@ -51,6 +67,7 @@ function toDetailedFormat(source, schemeName, sourceFiles) {
     scheme: schemeName,
     brand: source.brand,
     type: source.type || 'credit',
+    priorityOver: source.priorityOver || [],
     number: {
       lengths: metadata.lengths,
       luhn: source.patterns[0].luhn
@@ -94,6 +111,7 @@ function toSimplifiedFormat(source, schemeName) {
 
   return {
     name: schemeName,
+    priorityOver: source.priorityOver || [],
     regexpBin: metadata.binPattern,
     regexpFull: buildFullPattern(source.patterns),
     regexpCvv: `^\\d{${metadata.cvvLength}}$`

@@ -205,14 +205,14 @@ defmodule CreditcardIdentifier do
   defp find_data_path do
     # Look for bundled data in package
     app_dir = Application.app_dir(:creditcard_identifier)
-    data_path = Path.join([app_dir, "priv", "data", "brands.json"])
+    data_path = Path.join([app_dir, "priv", "data", "cards.json"])
 
     # Fallback to development path
     if File.exists?(data_path) do
       data_path
     else
       # For development - look relative to this file
-      Path.join([__DIR__, "..", "data", "brands.json"])
+      Path.join([__DIR__, "..", "data", "cards.json"])
     end
   end
 end
