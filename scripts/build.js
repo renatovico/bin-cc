@@ -19,7 +19,15 @@ const {
   generateElixir,
   generateElixirDetailed,
   generateCSharp,
-  generateCSharpDetailed
+  generateCSharpDetailed,
+  generateJava,
+  generateJavaDetailed,
+  generateRust,
+  generateRustDetailed,
+  generateGo,
+  generateGoDetailed,
+  generatePhp,
+  generatePhpDetailed
 } = require('./lib/generators/index');
 
 /**
@@ -78,6 +86,38 @@ function generateNativeFiles(simplified, detailed) {
   fs.writeFileSync(path.join(csDir, 'BrandDataDetailed.cs'), generateCSharpDetailed(detailed));
   console.log('  ✓ Generated libs/dotnet/CreditCardIdentifier/BrandData.cs');
   console.log('  ✓ Generated libs/dotnet/CreditCardIdentifier/BrandDataDetailed.cs');
+  
+  // Java (simplified + detailed)
+  const javaDir = path.join(LIBS_DIR, 'java', 'src', 'main', 'java', 'com', 'creditcard', 'identifier');
+  fs.mkdirSync(javaDir, { recursive: true });
+  fs.writeFileSync(path.join(javaDir, 'BrandData.java'), generateJava(simplified));
+  fs.writeFileSync(path.join(javaDir, 'BrandDataDetailed.java'), generateJavaDetailed(detailed));
+  console.log('  ✓ Generated libs/java/src/main/java/com/creditcard/identifier/BrandData.java');
+  console.log('  ✓ Generated libs/java/src/main/java/com/creditcard/identifier/BrandDataDetailed.java');
+  
+  // Rust (simplified + detailed)
+  const rustDir = path.join(LIBS_DIR, 'rust', 'src');
+  fs.mkdirSync(rustDir, { recursive: true });
+  fs.writeFileSync(path.join(rustDir, 'brands.rs'), generateRust(simplified));
+  fs.writeFileSync(path.join(rustDir, 'brands_detailed.rs'), generateRustDetailed(detailed));
+  console.log('  ✓ Generated libs/rust/src/brands.rs');
+  console.log('  ✓ Generated libs/rust/src/brands_detailed.rs');
+  
+  // Go (simplified + detailed)
+  const goDir = path.join(LIBS_DIR, 'go');
+  fs.mkdirSync(goDir, { recursive: true });
+  fs.writeFileSync(path.join(goDir, 'brands.go'), generateGo(simplified));
+  fs.writeFileSync(path.join(goDir, 'brands_detailed.go'), generateGoDetailed(detailed));
+  console.log('  ✓ Generated libs/go/brands.go');
+  console.log('  ✓ Generated libs/go/brands_detailed.go');
+  
+  // PHP (simplified + detailed)
+  const phpDir = path.join(LIBS_DIR, 'php', 'src');
+  fs.mkdirSync(phpDir, { recursive: true });
+  fs.writeFileSync(path.join(phpDir, 'BrandData.php'), generatePhp(simplified));
+  fs.writeFileSync(path.join(phpDir, 'BrandDataDetailed.php'), generatePhpDetailed(detailed));
+  console.log('  ✓ Generated libs/php/src/BrandData.php');
+  console.log('  ✓ Generated libs/php/src/BrandDataDetailed.php');
 }
 
 /**
