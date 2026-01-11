@@ -1,0 +1,18 @@
+[package]
+name = "creditcard-identifier"
+version = "2.1.0"
+edition = "2021"
+authors = ["Renato Viço"]
+description = "Credit Card BIN validation using bin-cc data"
+license = "MIT"
+repository = "https://github.com/renatovico/bin-cc"
+homepage = "https://github.com/renatovico/bin-cc"
+keywords = ["creditcard", "bin", "validation", "card-brand"]
+categories = ["algorithms", "finance"]
+
+[dependencies]
+regex = "1.10"
+
+[[example]]
+name = "example"
+path = "examples/example.rs"
