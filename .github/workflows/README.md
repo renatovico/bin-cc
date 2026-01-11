@@ -54,13 +54,6 @@ This directory contains GitHub Actions workflows for automating builds and tests
 
 ## Setting Up
 
-### For NPM Publishing
-
-Add `NPM_TOKEN` secret to repository:
-1. Generate token at https://www.npmjs.com/settings/YOUR_USERNAME/tokens
-2. Go to repository Settings → Secrets → Actions
-3. Add secret named `NPM_TOKEN`
-
 ## Development Workflow
 
 ```bash
