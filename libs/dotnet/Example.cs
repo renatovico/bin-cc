@@ -20,12 +20,7 @@ namespace CreditCardValidation.Example
         {
             Console.WriteLine("=== Credit Card Validator - .NET Example ===\n");
 
-            // Using static methods
-            Console.WriteLine("Using static methods:");
-            Console.WriteLine($"Brand of 4012001037141112: {CreditCard.FindBrand("4012001037141112")}");
-            Console.WriteLine($"Is supported: {CreditCard.IsSupported("4012001037141112")}\n");
-
-            // Using the Validator class
+            // Create validator instance
             var validator = new Validator();
 
             // Example 1: List all brands
@@ -41,33 +36,77 @@ namespace CreditCardValidation.Example
                 { "378282246310005", "amex" },
                 { "6011236044609927", "discover" },
                 { "6362970000457013", "elo" },
-                { "6062825624254001", "hipercard" }
+                { "6062825624254001", "hipercard" },
+                { "6220123456789012", "unionpay" },
+                { "6759123456789012", "maestro" }
             };
 
             Console.WriteLine("Card brand identification:");
             foreach (var kvp in testCards)
             {
                 var brand = validator.FindBrand(kvp.Key);
-                var status = brand == kvp.Value ? "✓" : "✗";
-                Console.WriteLine($"{status} {kvp.Key}: {brand} (expected: {kvp.Value})");
+                var brandName = brand?.Name;
+                var status = brandName == kvp.Value ? "✓" : "✗";
+                Console.WriteLine($"{status} {kvp.Key}: {brandName} (expected: {kvp.Value})");
             }
             Console.WriteLine();
 
-            // Example 3: CVV validation
+            // Example 3: Check if card is supported
+            Console.WriteLine("Check if card is supported:");
+            Console.WriteLine($"Visa card supported: {validator.IsSupported("4012001037141112")}");
+            Console.WriteLine($"Invalid card supported: {validator.IsSupported("1234567890123456")}");
+            Console.WriteLine();
+
+            // Example 4: CVV validation
             Console.WriteLine("CVV validation:");
             Console.WriteLine($"Visa CVV 123: {validator.ValidateCvv("123", "visa")}");
             Console.WriteLine($"Amex CVV 1234: {validator.ValidateCvv("1234", "amex")}");
             Console.WriteLine($"Visa CVV 12: {validator.ValidateCvv("12", "visa")} (invalid)");
             Console.WriteLine();
 
-            // Example 4: Get brand details
+            // Example 5: Get brand details
             Console.WriteLine("Visa brand details:");
             var visaInfo = validator.GetBrandInfo("visa");
             if (visaInfo != null)
             {
-                Console.WriteLine($"  BIN pattern: {visaInfo.regexpBin}");
-                Console.WriteLine($"  Full pattern: {visaInfo.regexpFull}");
-                Console.WriteLine($"  CVV pattern: {visaInfo.regexpCvv}");
+                Console.WriteLine($"  Name: {visaInfo.Name}");
+                Console.WriteLine($"  BIN pattern: {visaInfo.RegexpBin}");
+                Console.WriteLine($"  Full pattern: {visaInfo.RegexpFull}");
+                Console.WriteLine($"  CVV pattern: {visaInfo.RegexpCvv}");
+            }
+            else
+            {
+                Console.WriteLine("  Not found");
+            }
+            Console.WriteLine();
+
+            // Example 6: Get detailed brand information
+            Console.WriteLine("Visa detailed info:");
+            var visaDetailed = validator.GetBrandInfoDetailed("visa");
+            if (visaDetailed != null)
+            {
+                Console.WriteLine($"  Scheme: {visaDetailed.Scheme}");
+                Console.WriteLine($"  Brand: {visaDetailed.BrandName}");
+                Console.WriteLine($"  Type: {visaDetailed.Type}");
+            }
+            else
+            {
+                Console.WriteLine("  Not found");
+            }
+            Console.WriteLine();
+
+            // Example 7: Find brand with detailed info
+            Console.WriteLine("Find brand with detailed info:");
+            var brandDetailed = validator.FindBrandDetailed("4012001037141112");
+            if (brandDetailed != null)
+            {
+                Console.WriteLine($"  Scheme: {brandDetailed.Scheme}");
+                Console.WriteLine($"  Brand: {brandDetailed.Brand}");
+                Console.WriteLine($"  Type: {brandDetailed.Type}");
+                if (brandDetailed.MatchedPattern != null)
+                {
+                    Console.WriteLine($"  Matched pattern: {brandDetailed.MatchedPattern.Bin}");
+                }
             }
             else
             {

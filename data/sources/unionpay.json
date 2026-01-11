@@ -1,0 +1,15 @@
+{
+  "scheme": "unionpay",
+  "brand": "UnionPay",
+  "patterns": [
+    {
+      "bin": "^62",
+      "length": [16, 17, 18, 19],
+      "luhn": true,
+      "cvvLength": 3,
+      "comment": "China UnionPay cards (620000-629999)"
+    }
+  ],
+  "type": "debit",
+  "countries": ["CN", "GLOBAL"]
+}

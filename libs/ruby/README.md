@@ -1,6 +1,21 @@
 # Credit Card Identifier - Ruby Library
 
-Ruby library for credit card BIN validation using bin-cc data.
+Ruby library for credit card BIN validation and identification.
+
+## Supported Card Brands
+
+- American Express (amex)
+- Aura
+- BaneseCard
+- Diners Club
+- Discover
+- Elo
+- Hipercard
+- JCB
+- Maestro
+- Mastercard
+- UnionPay
+- Visa
 
 ## Installation
 
@@ -31,7 +46,7 @@ require 'creditcard_identifier'
 
 # Identify card brand
 brand = CreditcardIdentifier.find_brand('4012001037141112')
-puts brand  # 'visa'
+puts brand[:name]  # 'visa'
 
 # Check if card is supported
 supported = CreditcardIdentifier.supported?('4012001037141112')
@@ -47,7 +62,12 @@ validator = CreditcardIdentifier::Validator.new
 
 # Identify brand
 brand = validator.find_brand('4012001037141112')
-puts brand  # 'visa'
+puts brand[:name]  # 'visa'
+
+# Get detailed brand info
+detailed = validator.find_brand('4012001037141112', detailed: true)
+puts detailed[:scheme]  # 'visa'
+puts detailed[:matched_pattern]  # { bin: '^4', length: [13, 16, 19], ... }
 
 # Check if supported
 supported = validator.supported?('4012001037141112')
@@ -59,11 +79,16 @@ puts valid  # true
 
 # Get brand info
 info = validator.get_brand_info('visa')
-puts info['regexpBin']
+puts info[:regexp_bin]
+
+# Get detailed brand info
+detailed = validator.get_brand_info_detailed('amex')
+puts detailed
 
 # List all brands
 brands = validator.list_brands
-puts brands  # ['elo', 'diners', 'visa', ...]
+puts brands
+# ['amex', 'aura', 'banesecard', 'diners', 'discover', 'elo', 'hipercard', 'jcb', 'maestro', 'mastercard', 'unionpay', 'visa']
 ```
 
 ## API
@@ -76,7 +101,7 @@ Identify the credit card brand.
 **Parameters:**
 - `card_number` (String): The credit card number
 
-**Returns:** (String, nil) Brand name (e.g., 'visa', 'mastercard') or nil if not found
+**Returns:** (Hash, nil) Brand hash or nil if not found
 
 #### `CreditcardIdentifier.supported?(card_number)`
 Check if the card number is supported.
@@ -88,19 +113,17 @@ Check if the card number is supported.
 
 ### Validator Class
 
-#### `initialize(data_path = nil)`
-Initialize validator with brand data.
+#### `initialize`
+Initialize validator with embedded brand data.
 
-**Parameters:**
-- `data_path` (String, nil): Path to brands.json. If nil, uses bundled data.
-
-#### `find_brand(card_number)`
+#### `find_brand(card_number, detailed: false)`
 Identify the credit card brand.
 
 **Parameters:**
 - `card_number` (String): The credit card number
+- `detailed` (Boolean): If true, returns detailed brand info with matched pattern
 
-**Returns:** (String, nil) Brand name or nil if not found
+**Returns:** (Hash, nil) Brand hash or nil if not found
 
 #### `supported?(card_number)`
 Check if card number is supported.
@@ -110,12 +133,12 @@ Check if card number is supported.
 
 **Returns:** (Boolean) true if supported, false otherwise
 
-#### `validate_cvv(cvv, brand_name)`
+#### `validate_cvv(cvv, brand_or_name)`
 Validate CVV for a specific brand.
 
 **Parameters:**
 - `cvv` (String): CVV code
-- `brand_name` (String): Brand name (e.g., 'visa', 'mastercard')
+- `brand_or_name` (String | Hash): Brand name or brand hash from find_brand
 
 **Returns:** (Boolean) true if valid, false otherwise
 
@@ -127,6 +150,14 @@ Get information about a specific brand.
 
 **Returns:** (Hash, nil) Brand information or nil if not found
 
+#### `get_brand_info_detailed(scheme)`
+Get detailed information about a specific brand.
+
+**Parameters:**
+- `scheme` (String): Scheme name (e.g., 'visa', 'mastercard')
+
+**Returns:** (Hash, nil) Detailed brand information or nil if not found
+
 #### `list_brands`
 List all supported brands.
 
@@ -136,7 +167,7 @@ List all supported brands.
 
 This library uses the BIN data from the [bin-cc project](https://github.com/renatovico/bin-cc).
 
-The data is bundled with the gem, and can be updated by installing a newer version.
+The data is embedded directly in the gem for optimal performance.
 
 ## Development
 
@@ -145,7 +176,7 @@ After checking out the repo, run `bundle install` to install dependencies.
 Run tests with:
 
 ```bash
-ruby test/test_validator.rb
+bundle exec ruby test/test_validator.rb
 ```
 
 ## License

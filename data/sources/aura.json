@@ -1,6 +1,7 @@
 {
   "scheme": "aura",
   "brand": "Aura",
+  "priorityOver": ["maestro"],
   "patterns": [
     {
       "bin": "^50",

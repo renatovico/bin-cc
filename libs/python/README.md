@@ -1,6 +1,21 @@
 # Credit Card Identifier - Python Library
 
-Python library for credit card BIN validation using bin-cc data.
+Python library for credit card BIN validation and identification.
+
+## Supported Card Brands
+
+- American Express (amex)
+- Aura
+- BaneseCard
+- Diners Club
+- Discover
+- Elo
+- Hipercard
+- JCB
+- Maestro
+- Mastercard
+- UnionPay
+- Visa
 
 ## Installation
 
@@ -10,14 +25,14 @@ pip install creditcard-identifier
 
 ## Usage
 
-### Basic Validation
+### Module Functions
 
 ```python
 from creditcard_identifier import find_brand, is_supported
 
 # Identify card brand
 brand = find_brand('4012001037141112')
-print(brand)  # 'visa'
+print(brand)  # {'name': 'visa', 'regexp_bin': '...', ...}
 
 # Check if card is supported
 supported = is_supported('4012001037141112')
@@ -33,7 +48,12 @@ validator = CreditCardValidator()
 
 # Identify brand
 brand = validator.find_brand('4012001037141112')
-print(brand)  # 'visa'
+print(brand['name'])  # 'visa'
+
+# Get detailed brand info
+detailed = validator.find_brand('4012001037141112', detailed=True)
+print(detailed['scheme'])  # 'visa'
+print(detailed['matched_pattern'])  # {'bin': '^4', 'length': [13, 16, 19], ...}
 
 # Check if supported
 supported = validator.is_supported('4012001037141112')
@@ -45,24 +65,30 @@ print(valid)  # True
 
 # Get brand info
 info = validator.get_brand_info('visa')
-print(info['regexpBin'])
+print(info['regexp_bin'])
+
+# Get detailed brand info
+detailed = validator.get_brand_info_detailed('amex')
+print(detailed)
 
 # List all brands
 brands = validator.list_brands()
-print(brands)  # ['elo', 'diners', 'visa', ...]
+print(brands)
+# ['amex', 'aura', 'banesecard', 'diners', 'discover', 'elo', 'hipercard', 'jcb', 'maestro', 'mastercard', 'unionpay', 'visa']
 ```
 
 ## API
 
 ### Module Functions
 
-#### `find_brand(card_number)`
+#### `find_brand(card_number, detailed=False)`
 Identify the credit card brand.
 
 **Parameters:**
 - `card_number` (str): The credit card number
+- `detailed` (bool): If True, returns detailed brand info (default: False)
 
-**Returns:** (str) Brand name (e.g., 'visa', 'mastercard') or None if not found
+**Returns:** (dict) Brand dict or None if not found
 
 #### `is_supported(card_number)`
 Check if the card number is supported.
@@ -74,19 +100,17 @@ Check if the card number is supported.
 
 ### CreditCardValidator Class
 
-#### `__init__(data_path=None)`
-Initialize validator with brand data.
+#### `__init__()`
+Initialize validator with embedded brand data.
 
-**Parameters:**
-- `data_path` (str, optional): Path to brands.json. If None, uses bundled data.
-
-#### `find_brand(card_number)`
+#### `find_brand(card_number, detailed=False)`
 Identify the credit card brand.
 
 **Parameters:**
 - `card_number` (str): The credit card number
+- `detailed` (bool): If True, returns detailed brand info with matched pattern
 
-**Returns:** (str) Brand name or None if not found
+**Returns:** (dict) Brand dict or None if not found
 
 #### `is_supported(card_number)`
 Check if card number is supported.
@@ -96,12 +120,12 @@ Check if card number is supported.
 
 **Returns:** (bool) True if supported, False otherwise
 
-#### `validate_cvv(cvv, brand_name)`
+#### `validate_cvv(cvv, brand_or_name)`
 Validate CVV for a specific brand.
 
 **Parameters:**
 - `cvv` (str): CVV code
-- `brand_name` (str): Brand name (e.g., 'visa', 'mastercard')
+- `brand_or_name` (str | dict): Brand name or brand dict from find_brand
 
 **Returns:** (bool) True if valid, False otherwise
 
@@ -113,6 +137,14 @@ Get information about a specific brand.
 
 **Returns:** (dict) Brand information or None if not found
 
+#### `get_brand_info_detailed(scheme)`
+Get detailed information about a specific brand.
+
+**Parameters:**
+- `scheme` (str): Scheme name (e.g., 'visa', 'mastercard')
+
+**Returns:** (dict) Detailed brand information or None if not found
+
 #### `list_brands()`
 List all supported brands.
 
@@ -122,7 +154,7 @@ List all supported brands.
 
 This library uses the BIN data from the [bin-cc project](https://github.com/renatovico/bin-cc).
 
-The data is bundled with the package, and can be updated by installing a newer version of the package.
+The data is embedded directly in the package for optimal performance.
 
 ## Development
 

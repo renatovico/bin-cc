@@ -1,14 +1,27 @@
 # Credit Card Identifier - JavaScript Implementation
 
-JavaScript/Node.js implementation for credit card BIN validation. This library automatically downloads the latest BIN data from [GitHub releases](https://github.com/renatovico/bin-cc/releases).
+JavaScript/Node.js implementation for credit card BIN validation and identification.
+
+## Supported Card Brands
+
+- American Express (amex)
+- Aura
+- BaneseCard
+- Diners Club
+- Discover
+- Elo
+- Hipercard
+- JCB
+- Maestro
+- Mastercard
+- UnionPay
+- Visa
 
 ## Installation
 
 ```bash
 npm install creditcard-identifier
 ```
-
-The postinstall script will automatically download the latest credit card BIN data from GitHub releases.
 
 ## Usage
 
@@ -19,14 +32,48 @@ const creditcard = require('creditcard-identifier');
 
 // Identify card brand
 const brand = creditcard.findBrand('4012001037141112');
-console.log(brand); // 'visa'
+console.log(brand);
+// { name: 'visa', regexpBin: '...', regexpFull: '...', regexpCvv: '...' }
 
 // Check if card is supported
 const supported = creditcard.isSupported('4012001037141112');
 console.log(supported); // true
 
-// Get Hipercard regex
-const hipercardRegex = creditcard.hipercardRegexp();
+// Validate CVV
+const validCvv = creditcard.validateCvv('123', 'visa');
+console.log(validCvv); // true
+```
+
+### Detailed Brand Information
+
+```javascript
+const creditcard = require('creditcard-identifier');
+
+// Get detailed brand info with matched pattern
+const detailed = creditcard.findBrand('4012001037141112', true);
+console.log(detailed);
+// {
+//   scheme: 'visa',
+//   brand: 'Visa',
+//   type: 'credit',
+//   cvv: { name: 'CVV', length: 3 },
+//   patterns: [...],
+//   matchedPattern: { bin: '^4', length: [13, 16, 19], luhn: true, cvvLength: 3 },
+//   matchedBin: null
+// }
+
+// Get brand info by name
+const brandInfo = creditcard.getBrandInfo('mastercard');
+console.log(brandInfo);
+
+// Get detailed brand info by scheme
+const detailedInfo = creditcard.getBrandInfoDetailed('amex');
+console.log(detailedInfo);
+
+// List all supported brands
+const allBrands = creditcard.listBrands();
+console.log(allBrands);
+// ['amex', 'aura', 'banesecard', 'diners', 'discover', 'elo', 'hipercard', 'jcb', 'maestro', 'mastercard', 'unionpay', 'visa']
 ```
 
 ### Using Raw Data
@@ -35,58 +82,42 @@ const hipercardRegex = creditcard.hipercardRegexp();
 const creditcard = require('creditcard-identifier');
 
 // Access brand data directly
-const brands = creditcard.data.brands;
+const brands = creditcard.brands;
 console.log(brands); 
 // [
-//   { name: 'elo', regexpBin: '...', regexpFull: '...', regexpCvv: '...' },
-//   { name: 'diners', regexpBin: '...', regexpFull: '...', regexpCvv: '...' },
+//   { name: 'amex', regexpBin: '...', regexpFull: '...', regexpCvv: '...' },
+//   { name: 'visa', regexpBin: '...', regexpFull: '...', regexpCvv: '...' },
 //   ...
 // ]
 
-// Use data in custom logic
-brands.forEach(brand => {
-    console.log(`${brand.name}: ${brand.regexpBin}`);
-});
+// Access detailed brand data
+const brandsDetailed = creditcard.brandsDetailed;
 ```
 
-### Direct JSON Access
+### OOP-Style Usage
 
 ```javascript
-const fs = require('fs');
-const path = require('path');
+const { Validator } = require('creditcard-identifier');
 
-// The data is downloaded to the package's data directory
-const dataPath = path.join(__dirname, 'node_modules', 'creditcard-identifier', 'data', 'brands.json');
-const brands = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
-```
+const validator = new Validator();
 
-## Data Updates
+const brand = validator.findBrand('5533798818319497');
+console.log(brand); // { name: 'mastercard', ... }
 
-The library downloads data during installation. To manually update to the latest data:
-
-```bash
-npm run update-data
-```
-
-Or programmatically:
-
-```javascript
-const { downloadData } = require('creditcard-identifier/download-data');
-
-downloadData()
-  .then(() => console.log('Data updated'))
-  .catch(err => console.error('Update failed:', err));
+const isValid = validator.isSupported('5533798818319497');
+console.log(isValid); // true
 ```
 
 ## API
 
-### `findBrand(cardNumber)`
-Returns the brand name for the given card number.
+### `findBrand(cardNumber, detailed?)`
+Returns the brand object for the given card number.
 
 **Parameters:**
 - `cardNumber` (string): The credit card number
+- `detailed` (boolean, optional): If true, returns detailed brand info with matched pattern
 
-**Returns:** (string) Brand name (e.g., 'visa', 'mastercard')
+**Returns:** (object) Brand object with name, regexpBin, regexpFull, regexpCvv (or detailed info if detailed=true)
 
 **Throws:** Error if card number is not supported
 
@@ -98,29 +129,51 @@ Checks if the card number is supported.
 
 **Returns:** (boolean) true if supported, false otherwise
 
-### `hipercardRegexp()`
-Returns the regular expression for Hipercard validation.
+### `validateCvv(cvv, brandOrName)`
+Validates the CVV for a given brand.
 
-**Returns:** (RegExp) Hipercard validation pattern
+**Parameters:**
+- `cvv` (string): The CVV code
+- `brandOrName` (string|object): Brand name or brand object from findBrand
+
+**Returns:** (boolean) true if CVV is valid for the brand
+
+### `getBrandInfo(brandName)`
+Returns brand info by name.
+
+**Parameters:**
+- `brandName` (string): The brand name (e.g., 'visa')
+
+**Returns:** (object|null) Brand info or null if not found
+
+### `getBrandInfoDetailed(scheme)`
+Returns detailed brand info by scheme name.
+
+**Parameters:**
+- `scheme` (string): The scheme name (e.g., 'visa', 'mastercard')
+
+**Returns:** (object|null) Detailed brand info or null if not found
+
+### `listBrands()`
+Returns an array of all supported brand names.
+
+**Returns:** (string[]) Array of brand names
 
 ### `brands`
-Direct access to the brand data array.
+Direct access to the simplified brand data array.
 
-### `data.brands`
-Alternative access to the brand data array.
+### `brandsDetailed`
+Direct access to the detailed brand data array.
+
+### `Validator`
+Class for OOP-style usage with all the above methods.
 
 ## Development
-
-### Install Dependencies
-
-```bash
-npm install
-```
 
 ### Run Tests
 
 ```bash
-npm run test-unit
+npm test
 ```
 
 ### Run Coverage
@@ -131,11 +184,7 @@ npm run coverage
 
 ## Data Source
 
-This implementation automatically downloads the latest BIN data from [GitHub releases](https://github.com/renatovico/bin-cc/releases?q=data-v) during installation.
-
-The data is maintained separately from the library, allowing for independent updates:
-- **Library updates**: Published to npm with version tags (e.g., `v1.2.0`)
-- **Data updates**: Released on GitHub with data-v tags (e.g., `data-v2.0.1`)
+BIN data is maintained in the [bin-cc repository](https://github.com/renatovico/bin-cc) and embedded directly in the package.
 
 ## License
 

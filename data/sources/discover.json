@@ -1,31 +1,25 @@
 {
   "scheme": "discover",
   "brand": "Discover",
-  "priorityOver": ["hipercard"],
+  "priorityOver": ["hipercard", "unionpay"],
   "patterns": [
     {
       "bin": "^6011",
-      "length": [16],
+      "length": [16, 19],
       "luhn": true,
-      "cvvLength": 4
+      "cvvLength": 3
     },
     {
-      "bin": "^622",
-      "length": [16],
+      "bin": "^64[4-9]",
+      "length": [16, 19],
       "luhn": true,
-      "cvvLength": 4
-    },
-    {
-      "bin": "^64",
-      "length": [16],
-      "luhn": true,
-      "cvvLength": 4
+      "cvvLength": 3
     },
     {
       "bin": "^65",
-      "length": [16],
+      "length": [16, 19],
       "luhn": true,
-      "cvvLength": 4
+      "cvvLength": 3
     }
   ],
   "type": "credit",
