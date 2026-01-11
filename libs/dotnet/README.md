@@ -71,6 +71,14 @@ foreach (var b in brands)
     Console.WriteLine(b);
 }
 // amex, aura, banesecard, diners, discover, elo, hipercard, jcb, maestro, mastercard, unionpay, visa
+
+// Validate card number using Luhn algorithm
+var isValid = Luhn.Validate("4012001037141112");
+Console.WriteLine(isValid);  // True
+
+// Or using validator instance
+isValid = validator.ValidateLuhn("4012001037141112");
+Console.WriteLine(isValid);  // True
 ```
 
 ### Static Methods
@@ -146,6 +154,28 @@ Get detailed information about a specific brand.
 List all supported brands.
 
 **Returns:** (List<string>) List of brand names
+
+#### `ValidateLuhn(string number)`
+Validate a credit card number using the Luhn algorithm.
+
+**Parameters:**
+- `number` (string): Credit card number (digits only)
+
+**Returns:** (bool) True if valid according to Luhn algorithm
+
+### Luhn Class
+
+Static utility class for Luhn validation.
+
+#### `Luhn.Validate(string number)`
+Validate a credit card number using the Luhn algorithm.
+
+**Parameters:**
+- `number` (string): Credit card number (digits only)
+
+**Returns:** (bool) True if valid according to Luhn algorithm
+
+**Throws:** ArgumentNullException if input is null
 
 ### BrandData.Brand Class
 

@@ -90,4 +90,34 @@ class TestValidator < Minitest::Test
     assert CreditcardIdentifier.validate_cvv('123', 'visa')
     assert CreditcardIdentifier.validate_cvv('123', brand)
   end
+
+  def test_luhn_valid_cards
+    # Valid card numbers
+    assert CreditcardIdentifier.luhn('4012001037141112')
+    assert CreditcardIdentifier.luhn('5533798818319497')
+    assert CreditcardIdentifier.luhn('378282246310005')
+  end
+
+  def test_luhn_invalid_cards
+    # Invalid card numbers
+    refute CreditcardIdentifier.luhn('1234567890123456')
+  end
+
+  def test_luhn_empty_string
+    refute CreditcardIdentifier.luhn('')
+  end
+
+  def test_luhn_non_digits
+    # String with non-digits
+    refute CreditcardIdentifier.luhn('4012-0010-3714-1112')
+  end
+
+  def test_luhn_non_string_raises
+    assert_raises(TypeError) { CreditcardIdentifier.luhn(4012001037141112) }
+  end
+
+  def test_luhn_validator_method
+    assert @validator.luhn('4012001037141112')
+    refute @validator.luhn('1234567890123456')
+  end
 end

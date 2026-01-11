@@ -8,7 +8,34 @@ require_relative 'creditcard_identifier/brands_detailed'
 #
 # This module provides credit card validation using bin-cc data.
 module CreditcardIdentifier
-  VERSION = '2.0.0'
+  VERSION = '2.1.0'
+
+  # Luhn lookup table for doubling digits
+  LUHN_LOOKUP = [0, 2, 4, 6, 8, 1, 3, 5, 7, 9].freeze
+
+  ##
+  # Validate a credit card number using the Luhn algorithm
+  #
+  # @param number [String] Credit card number (digits only)
+  # @return [Boolean] true if valid according to Luhn algorithm
+  # @raise [TypeError] if number is not a string
+  def self.luhn(number)
+    raise TypeError, 'Expected string input' unless number.is_a?(String)
+    return false if number.empty?
+
+    total = 0
+    x2 = true
+
+    (number.length - 1).downto(0) do |i|
+      value = number[i].ord - 48
+      return false if value < 0 || value > 9
+
+      x2 = !x2
+      total += x2 ? LUHN_LOOKUP[value] : value
+    end
+
+    (total % 10).zero?
+  end
 
   ##
   # Credit card validator using bin-cc data.
@@ -131,6 +158,15 @@ module CreditcardIdentifier
     # @return [Array<String>] List of brand names
     def list_brands
       @brands.map { |b| b[:name] }
+    end
+
+    ##
+    # Validate a credit card number using the Luhn algorithm
+    #
+    # @param number [String] Credit card number (digits only)
+    # @return [Boolean] true if valid according to Luhn algorithm
+    def luhn(number)
+      CreditcardIdentifier.luhn(number)
     end
   end
 

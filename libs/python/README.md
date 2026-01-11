@@ -75,6 +75,15 @@ print(detailed)
 brands = validator.list_brands()
 print(brands)
 # ['amex', 'aura', 'banesecard', 'diners', 'discover', 'elo', 'hipercard', 'jcb', 'maestro', 'mastercard', 'unionpay', 'visa']
+
+# Validate card number using Luhn algorithm
+from creditcard_identifier.validator import luhn
+is_valid = luhn('4012001037141112')
+print(is_valid)  # True
+
+# Or using validator instance
+is_valid = validator.luhn('4012001037141112')
+print(is_valid)  # True
 ```
 
 ## API
@@ -149,6 +158,16 @@ Get detailed information about a specific brand.
 List all supported brands.
 
 **Returns:** (list) List of brand names
+
+#### `luhn(number)`
+Validate a credit card number using the Luhn algorithm.
+
+**Parameters:**
+- `number` (str): Credit card number (digits only)
+
+**Returns:** (bool) True if valid according to Luhn algorithm
+
+**Raises:** TypeError if input is not a string
 
 ## Data Source
 

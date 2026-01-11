@@ -89,6 +89,14 @@ puts detailed
 brands = validator.list_brands
 puts brands
 # ['amex', 'aura', 'banesecard', 'diners', 'discover', 'elo', 'hipercard', 'jcb', 'maestro', 'mastercard', 'unionpay', 'visa']
+
+# Validate card number using Luhn algorithm
+is_valid = CreditcardIdentifier.luhn('4012001037141112')
+puts is_valid  # true
+
+# Or using validator instance
+is_valid = validator.luhn('4012001037141112')
+puts is_valid  # true
 ```
 
 ## API
@@ -162,6 +170,16 @@ Get detailed information about a specific brand.
 List all supported brands.
 
 **Returns:** (Array<String>) List of brand names
+
+#### `luhn(number)`
+Validate a credit card number using the Luhn algorithm.
+
+**Parameters:**
+- `number` (String): Credit card number (digits only)
+
+**Returns:** (Boolean) true if valid according to Luhn algorithm
+
+**Raises:** TypeError if input is not a string
 
 ## Data Source
 

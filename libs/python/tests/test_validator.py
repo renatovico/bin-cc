@@ -111,6 +111,37 @@ def test_validator_class():
     assert validator.validate_cvv('123', brand_detailed) is True
 
 
+def test_luhn():
+    """Test Luhn algorithm validation."""
+    from creditcard_identifier.validator import luhn
+    
+    # Valid card numbers
+    assert luhn('4012001037141112') is True
+    assert luhn('5533798818319497') is True
+    assert luhn('378282246310005') is True
+    
+    # Invalid card numbers
+    assert luhn('1234567890123456') is False
+    
+    # Empty string
+    assert luhn('') is False
+    
+    # String with non-digits
+    assert luhn('4012-0010-3714-1112') is False
+    
+    # Validator class method
+    validator = CreditCardValidator()
+    assert validator.luhn('4012001037141112') is True
+    assert validator.luhn('1234567890123456') is False
+    
+    # Non-string input should raise TypeError
+    try:
+        luhn(4012001037141112)
+        assert False, 'Should have raised TypeError'
+    except TypeError:
+        pass
+
+
 if __name__ == '__main__':
     test_find_brand()
     test_find_brand_detailed()
@@ -119,4 +150,5 @@ if __name__ == '__main__':
     test_validate_cvv_with_brand_object()
     test_validate_cvv_with_detailed_brand()
     test_validator_class()
+    test_luhn()
     print('All tests passed!')

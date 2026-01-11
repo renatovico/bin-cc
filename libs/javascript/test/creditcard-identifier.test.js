@@ -251,3 +251,42 @@ describe('listBrands tests', function() {
         done();
     });
 });
+
+describe('luhn tests', function() {
+    const { luhn } = creditcardIdentifier;
+
+    it('Should return true for valid Visa card number', function(done) {
+        expect(luhn('4012001037141112')).to.be.true;
+        done();
+    });
+
+    it('Should return true for valid Mastercard number', function(done) {
+        expect(luhn('5533798818319497')).to.be.true;
+        done();
+    });
+
+    it('Should return true for valid Amex number', function(done) {
+        expect(luhn('378282246310005')).to.be.true;
+        done();
+    });
+
+    it('Should return false for invalid number', function(done) {
+        expect(luhn('1234567890123456')).to.be.false;
+        done();
+    });
+
+    it('Should return false for empty string', function(done) {
+        expect(luhn('')).to.be.false;
+        done();
+    });
+
+    it('Should return false for string with non-digits', function(done) {
+        expect(luhn('4012-0010-3714-1112')).to.be.false;
+        done();
+    });
+
+    it('Should throw for non-string input', function(done) {
+        expect(() => luhn(4012001037141112)).to.throw(TypeError);
+        done();
+    });
+});

@@ -153,5 +153,51 @@ namespace CreditCardIdentifier.Tests
             var detailedBrand = CreditCard.FindBrandDetailed("4012001037141112");
             Assert.True(CreditCard.ValidateCvv("123", detailedBrand));
         }
+
+        [Fact]
+        public void Luhn_ValidatesValidCardNumbers()
+        {
+            Assert.True(Luhn.Validate("4012001037141112"));
+            Assert.True(Luhn.Validate("5533798818319497"));
+            Assert.True(Luhn.Validate("378282246310005"));
+        }
+
+        [Fact]
+        public void Luhn_ReturnsFalseForInvalidNumbers()
+        {
+            Assert.False(Luhn.Validate("1234567890123456"));
+        }
+
+        [Fact]
+        public void Luhn_ReturnsFalseForEmptyString()
+        {
+            Assert.False(Luhn.Validate(""));
+        }
+
+        [Fact]
+        public void Luhn_ReturnsFalseForNonDigits()
+        {
+            Assert.False(Luhn.Validate("4012-0010-3714-1112"));
+        }
+
+        [Fact]
+        public void Luhn_ThrowsForNullInput()
+        {
+            Assert.Throws<ArgumentNullException>(() => Luhn.Validate(null));
+        }
+
+        [Fact]
+        public void ValidatorLuhn_Works()
+        {
+            Assert.True(_validator.ValidateLuhn("4012001037141112"));
+            Assert.False(_validator.ValidateLuhn("1234567890123456"));
+        }
+
+        [Fact]
+        public void StaticLuhn_Works()
+        {
+            Assert.True(CreditCard.ValidateLuhn("4012001037141112"));
+            Assert.False(CreditCard.ValidateLuhn("1234567890123456"));
+        }
     }
 }

@@ -74,6 +74,10 @@ console.log(detailedInfo);
 const allBrands = creditcard.listBrands();
 console.log(allBrands);
 // ['amex', 'aura', 'banesecard', 'diners', 'discover', 'elo', 'hipercard', 'jcb', 'maestro', 'mastercard', 'unionpay', 'visa']
+
+// Validate card number using Luhn algorithm
+const isValid = creditcard.luhn('4012001037141112');
+console.log(isValid);  // true
 ```
 
 ### Using Raw Data
@@ -158,6 +162,16 @@ Returns detailed brand info by scheme name.
 Returns an array of all supported brand names.
 
 **Returns:** (string[]) Array of brand names
+
+### `luhn(number)`
+Validate a credit card number using the Luhn algorithm.
+
+**Parameters:**
+- `number` (string): Credit card number (digits only)
+
+**Returns:** (boolean) True if valid according to Luhn algorithm
+
+**Throws:** TypeError if input is not a string
 
 ### `brands`
 Direct access to the simplified brand data array.

@@ -23,6 +23,45 @@ namespace CreditCardIdentifier
     }
 
     /// <summary>
+    /// Luhn algorithm validator for credit card numbers
+    /// </summary>
+    public static class Luhn
+    {
+        // Lookup table for doubling digits
+        private static readonly int[] LookupTable = { 0, 2, 4, 6, 8, 1, 3, 5, 7, 9 };
+
+        /// <summary>
+        /// Validate a credit card number using the Luhn algorithm
+        /// </summary>
+        /// <param name="number">Credit card number (digits only)</param>
+        /// <returns>True if valid according to Luhn algorithm</returns>
+        /// <exception cref="ArgumentNullException">If number is null</exception>
+        public static bool Validate(string number)
+        {
+            if (number == null)
+                throw new ArgumentNullException(nameof(number), "Expected string input");
+            
+            if (string.IsNullOrEmpty(number))
+                return false;
+
+            int sum = 0;
+            bool x2 = true;
+
+            for (int i = number.Length - 1; i >= 0; i--)
+            {
+                int value = number[i] - '0';
+                if (value < 0 || value > 9)
+                    return false;
+
+                x2 = !x2;
+                sum += x2 ? LookupTable[value] : value;
+            }
+
+            return sum % 10 == 0;
+        }
+    }
+
+    /// <summary>
     /// Credit Card BIN Validator
     /// 
     /// This class provides credit card validation using bin-cc data.
@@ -189,6 +228,16 @@ namespace CreditCardIdentifier
         {
             return _brands.Select(b => b.Name).ToList();
         }
+
+        /// <summary>
+        /// Validate a credit card number using the Luhn algorithm
+        /// </summary>
+        /// <param name="number">Credit card number (digits only)</param>
+        /// <returns>True if valid according to Luhn algorithm</returns>
+        public bool ValidateLuhn(string number)
+        {
+            return Luhn.Validate(number);
+        }
     }
 
     /// <summary>
@@ -307,6 +356,16 @@ namespace CreditCardIdentifier
         public static List<string> ListBrands()
         {
             return GetValidator().ListBrands();
+        }
+
+        /// <summary>
+        /// Validate a credit card number using the Luhn algorithm
+        /// </summary>
+        /// <param name="number">Credit card number (digits only)</param>
+        /// <returns>True if valid according to Luhn algorithm</returns>
+        public static bool ValidateLuhn(string number)
+        {
+            return Luhn.Validate(number);
         }
     }
 }

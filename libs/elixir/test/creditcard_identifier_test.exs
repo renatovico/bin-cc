@@ -83,4 +83,28 @@ defmodule CreditcardIdentifierTest do
     assert brand.name == "visa"
     assert CreditcardIdentifier.supported?("4012001037141112")
   end
+
+  test "luhn validates valid card numbers" do
+    assert CreditcardIdentifier.luhn("4012001037141112")
+    assert CreditcardIdentifier.luhn("5533798818319497")
+    assert CreditcardIdentifier.luhn("378282246310005")
+  end
+
+  test "luhn returns false for invalid card numbers" do
+    refute CreditcardIdentifier.luhn("1234567890123456")
+  end
+
+  test "luhn returns false for empty string" do
+    refute CreditcardIdentifier.luhn("")
+  end
+
+  test "luhn returns false for string with non-digits" do
+    refute CreditcardIdentifier.luhn("4012-0010-3714-1112")
+  end
+
+  test "luhn raises for non-string input" do
+    assert_raise ArgumentError, fn ->
+      CreditcardIdentifier.luhn(4012001037141112)
+    end
+  end
 end

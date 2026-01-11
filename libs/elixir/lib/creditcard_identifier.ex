@@ -253,4 +253,59 @@ defmodule CreditcardIdentifier do
   def list_brands(brands) do
     Enum.map(brands, fn brand -> brand.name end)
   end
+
+  # Luhn lookup table for doubling digits
+  @luhn_lookup [0, 2, 4, 6, 8, 1, 3, 5, 7, 9]
+
+  @doc """
+  Validate a credit card number using the Luhn algorithm.
+
+  ## Parameters
+    - number: Credit card number as string (digits only)
+
+  ## Returns
+    true if valid according to Luhn algorithm, false otherwise
+
+  ## Examples
+
+      iex> CreditcardIdentifier.luhn("4012001037141112")
+      true
+
+      iex> CreditcardIdentifier.luhn("1234567890123456")
+      false
+
+  """
+  def luhn(number) when is_binary(number) do
+    if number == "" do
+      false
+    else
+      luhn_validate(number)
+    end
+  end
+
+  def luhn(_), do: raise(ArgumentError, "Expected string input")
+
+  defp luhn_validate(number) do
+    chars = String.to_charlist(number)
+
+    result = chars
+    |> Enum.reverse()
+    |> Enum.with_index()
+    |> Enum.reduce_while({0, true}, fn {char, _idx}, {sum, x2} ->
+      value = char - 48
+
+      if value < 0 or value > 9 do
+        {:halt, :invalid}
+      else
+        new_x2 = !x2
+        add = if new_x2, do: Enum.at(@luhn_lookup, value), else: value
+        {:cont, {sum + add, new_x2}}
+      end
+    end)
+
+    case result do
+      :invalid -> false
+      {sum, _} -> rem(sum, 10) == 0
+    end
+  end
 end

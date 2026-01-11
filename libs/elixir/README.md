@@ -69,6 +69,10 @@ IO.inspect(detailed)
 brands = CreditcardIdentifier.list_brands()
 IO.inspect(brands)
 # ["amex", "aura", "banesecard", "diners", "discover", "elo", "hipercard", "jcb", "maestro", "mastercard", "unionpay", "visa"]
+
+# Validate card number using Luhn algorithm
+is_valid = CreditcardIdentifier.luhn("4012001037141112")
+IO.inspect(is_valid)  # true
 ```
 
 ### Accessing Raw Data
@@ -142,6 +146,16 @@ Get all brand data.
 Get all detailed brand data.
 
 **Returns:** (List) List of detailed brand maps
+
+#### `luhn(number)`
+Validate a credit card number using the Luhn algorithm.
+
+**Parameters:**
+- `number` (String): Credit card number (digits only)
+
+**Returns:** (Boolean) true if valid according to Luhn algorithm
+
+**Raises:** ArgumentError if input is not a string
 
 ## Data Source
 

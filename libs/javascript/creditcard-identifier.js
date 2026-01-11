@@ -12,6 +12,35 @@ const compiledBrands = brands.map(b => ({
   regexpCvv: new RegExp(b.regexpCvv)
 }));
 
+// Luhn lookup table for doubling digits
+const luhnLookup = [0, 2, 4, 6, 8, 1, 3, 5, 7, 9];
+
+/**
+ * Validate a credit card number using the Luhn algorithm
+ * @param {string} number - Credit card number (digits only)
+ * @returns {boolean} True if valid according to Luhn algorithm
+ */
+function luhn(number) {
+  if (typeof number !== 'string') {
+    throw new TypeError('Expected string input');
+  }
+  if (!number) return false;
+
+  let index = number.length;
+  let x2 = true;
+  let sum = 0;
+
+  while (index) {
+    const value = number.charCodeAt(--index) - 48;
+    if (value < 0 || value > 9) return false;
+
+    x2 = !x2;
+    sum += x2 ? luhnLookup[value] : value;
+  }
+
+  return sum % 10 === 0;
+}
+
 /**
  * Find card brand by card number
  * @param {string} cardNumber - Credit card number
@@ -165,6 +194,10 @@ class Validator {
   listBrands() {
     return listBrands();
   }
+
+  luhn(number) {
+    return luhn(number);
+  }
 }
 
 module.exports = {
@@ -174,6 +207,7 @@ module.exports = {
   getBrandInfo,
   getBrandInfoDetailed,
   listBrands,
+  luhn,
   brands,
   brandsDetailed,
   Validator

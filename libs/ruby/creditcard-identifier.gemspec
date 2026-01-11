@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = 'creditcard-identifier'
-  spec.version       = '2.0.1'
+  spec.version       = '2.1.0'
   spec.authors       = ['Renato Viço']
   spec.email         = []
 

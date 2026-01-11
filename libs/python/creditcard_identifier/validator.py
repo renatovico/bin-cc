@@ -9,6 +9,42 @@ from .brands import BRANDS
 from .brands_detailed import BRANDS as BRANDS_DETAILED
 
 
+# Luhn lookup table for doubling digits
+_LUHN_LOOKUP = [0, 2, 4, 6, 8, 1, 3, 5, 7, 9]
+
+
+def luhn(number):
+    """
+    Validate a credit card number using the Luhn algorithm.
+    
+    Args:
+        number: Credit card number as string (digits only)
+        
+    Returns:
+        True if valid according to Luhn algorithm, False otherwise
+        
+    Raises:
+        TypeError: If number is not a string
+    """
+    if not isinstance(number, str):
+        raise TypeError('Expected string input')
+    if not number:
+        return False
+    
+    total = 0
+    x2 = True
+    
+    for i in range(len(number) - 1, -1, -1):
+        value = ord(number[i]) - 48
+        if value < 0 or value > 9:
+            return False
+        
+        x2 = not x2
+        total += _LUHN_LOOKUP[value] if x2 else value
+    
+    return total % 10 == 0
+
+
 # Pre-compile regex patterns for performance
 _compiled_brands = [
     {
@@ -171,6 +207,18 @@ class CreditCardValidator:
             List of brand names
         """
         return [brand['name'] for brand in self.brands]
+    
+    def luhn(self, number):
+        """
+        Validate a credit card number using the Luhn algorithm.
+        
+        Args:
+            number: Credit card number as string (digits only)
+            
+        Returns:
+            True if valid according to Luhn algorithm, False otherwise
+        """
+        return luhn(number)
 
 
 # Module-level convenience functions using a singleton validator
