@@ -3,7 +3,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const { SOURCES_DIR } = require('./lib/config');
+const { SOURCES_DIR, COMPILED_DIR } = require('./lib/config');
 const { readAllSources, readSourceFile, readSourceDirectory } = require('./lib/source-reader');
 
 /**
@@ -523,16 +523,85 @@ function validatePath(targetPath) {
   return !result.hasErrors;
 }
 
+/**
+ * Print CLI usage help
+ */
+function printHelp() {
+  console.log(`
+Usage: node scripts/validate.js [options] [path...]
+
+Validate bin-cc source files and detect BIN conflicts.
+
+Options:
+  --help, -h     Show this help message
+  --conflicts    Show only BIN conflicts (requires compiled data)
+
+Arguments:
+  path           Path to a .json file or directory to validate
+                 If no path is given, validates all sources in data/sources/
+
+Examples:
+  node scripts/validate.js                        # Validate all sources
+  node scripts/validate.js data/sources/elo.json  # Validate specific file
+  node scripts/validate.js data/sources/visa/     # Validate directory
+  node scripts/validate.js --conflicts            # Show BIN conflicts only
+
+Output Files:
+  data/compiled/conflicts.json  - Generated during build with all BIN conflicts
+`);
+}
+
 // CLI execution
 if (require.main === module) {
   const args = process.argv.slice(2);
   
+  // Handle help flag
+  if (args.includes('--help') || args.includes('-h')) {
+    printHelp();
+    process.exit(0);
+  }
+  
+  // Handle conflicts flag
+  if (args.includes('--conflicts')) {
+    const conflictsPath = path.join(COMPILED_DIR, 'conflicts.json');
+    if (fs.existsSync(conflictsPath)) {
+      const conflicts = JSON.parse(fs.readFileSync(conflictsPath, 'utf8'));
+      console.log(`\n⚠️  BIN Conflicts: ${conflicts.total} total\n`);
+      console.log(`Generated: ${conflicts.generated}\n`);
+      
+      // Group by brand pair
+      const byPair = new Map();
+      for (const c of conflicts.conflicts) {
+        const pairKey = c.brands.sort().join(' vs ');
+        if (!byPair.has(pairKey)) byPair.set(pairKey, []);
+        byPair.get(pairKey).push(c);
+      }
+      
+      for (const [pair, items] of byPair) {
+        console.log(`${pair}: ${items.length} overlapping BINs`);
+        items.slice(0, 5).forEach(c => {
+          console.log(`  - ${c.bin} (example: ${c.example})`);
+        });
+        if (items.length > 5) {
+          console.log(`  ... and ${items.length - 5} more`);
+        }
+        console.log('');
+      }
+    } else {
+      console.error('❌ No conflicts.json found. Run `npm run build` first.\n');
+      process.exit(1);
+    }
+    process.exit(0);
+  }
+  
   console.log('');
 
   let isValid;
-  if (args.length > 0) {
+  const paths = args.filter(a => !a.startsWith('-'));
+  
+  if (paths.length > 0) {
     // Validate specific path(s)
-    isValid = args.every(arg => validatePath(arg));
+    isValid = paths.every(arg => validatePath(arg));
   } else {
     // Validate all sources
     isValid = validateSources();
