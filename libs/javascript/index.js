@@ -7,5 +7,6 @@ module.exports = creditcardIdentifier;
 
 // Also provide direct access to data for other libraries
 module.exports.data = {
-    brands: creditcardIdentifier.brands
+    brands: creditcardIdentifier.brands,
+    brandsDetailed: creditcardIdentifier.brandsDetailed
 };

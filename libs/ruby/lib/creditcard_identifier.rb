@@ -145,6 +145,22 @@ module CreditcardIdentifier
     end
 
     ##
+    # Get all brand data
+    #
+    # @return [Array<Hash>] List of brand hashes
+    def brands
+      BRANDS
+    end
+
+    ##
+    # Get all detailed brand data
+    #
+    # @return [Array<Hash>] List of detailed brand hashes
+    def brands_detailed
+      BRANDS_DETAILED
+    end
+
+    ##
     # Identify the credit card brand
     #
     # @param card_number [String] Credit card number

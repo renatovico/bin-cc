@@ -208,6 +208,16 @@ namespace CreditCardIdentifier
         }
 
         /// <summary>
+        /// Get all brand data
+        /// </summary>
+        public static BrandData.Brand[] Brands => BrandData.Brands;
+
+        /// <summary>
+        /// Get all detailed brand data
+        /// </summary>
+        public static BrandDataDetailed.Brand[] BrandsDetailed => BrandDataDetailed.Brands;
+
+        /// <summary>
         /// Identify the credit card brand
         /// </summary>
         /// <param name="cardNumber">Credit card number</param>
@@ -268,6 +278,35 @@ namespace CreditCardIdentifier
         public static bool ValidateCvv(string cvv, DetailedBrandResult detailedBrand)
         {
             return GetValidator().ValidateCvv(cvv, detailedBrand);
+        }
+
+        /// <summary>
+        /// Get information about a specific brand
+        /// </summary>
+        /// <param name="brandName">Brand name (e.g., "visa", "mastercard")</param>
+        /// <returns>Brand information or null if not found</returns>
+        public static BrandData.Brand GetBrandInfo(string brandName)
+        {
+            return GetValidator().GetBrandInfo(brandName);
+        }
+
+        /// <summary>
+        /// Get detailed information about a specific brand
+        /// </summary>
+        /// <param name="scheme">Scheme name (e.g., "visa", "mastercard")</param>
+        /// <returns>Detailed brand information or null if not found</returns>
+        public static BrandDataDetailed.Brand GetBrandInfoDetailed(string scheme)
+        {
+            return GetValidator().GetBrandInfoDetailed(scheme);
+        }
+
+        /// <summary>
+        /// List all supported brands
+        /// </summary>
+        /// <returns>List of brand names</returns>
+        public static List<string> ListBrands()
+        {
+            return GetValidator().ListBrands();
         }
     }
 }

@@ -133,6 +133,40 @@ function listBrands() {
   return brands.map(b => b.name);
 }
 
+/**
+ * Validator class for OOP-style usage
+ */
+class Validator {
+  constructor() {
+    this.brands = brands;
+    this.brandsDetailed = brandsDetailed;
+  }
+
+  findBrand(cardNumber, detailed = false) {
+    return findBrand(cardNumber, detailed);
+  }
+
+  isSupported(cardNumber) {
+    return isSupported(cardNumber);
+  }
+
+  validateCvv(cvv, brandOrName) {
+    return validateCvv(cvv, brandOrName);
+  }
+
+  getBrandInfo(brandName) {
+    return getBrandInfo(brandName);
+  }
+
+  getBrandInfoDetailed(scheme) {
+    return getBrandInfoDetailed(scheme);
+  }
+
+  listBrands() {
+    return listBrands();
+  }
+}
+
 module.exports = {
   findBrand,
   isSupported,
@@ -141,5 +175,6 @@ module.exports = {
   getBrandInfoDetailed,
   listBrands,
   brands,
-  brandsDetailed
+  brandsDetailed,
+  Validator
 };
