@@ -1,6 +1,6 @@
 # GitHub Actions Workflows
 
-This directory contains GitHub Actions workflows for automating builds, tests, and releases.
+This directory contains GitHub Actions workflows for automating builds and tests.
 
 ## Workflows
 
@@ -19,26 +19,7 @@ This directory contains GitHub Actions workflows for automating builds, tests, a
 - Runs JavaScript tests
 - Tests Python and Ruby examples
 
-### 2. Data Release
-
-**File:** `data-release.yml`
-
-**Triggers:**
-- Push to `main` or `master` branches
-- Only when changes are made to `data/sources/**` or `scripts/build.js`
-
-**What it does:**
-- Builds and validates data files
-- Automatically increments patch version in root package.json
-- Creates GitHub release with tag `data-vX.Y.Z`
-- Attaches all data files (brands.json, compiled/brands.json, sources/*.json)
-
-**Release Assets:**
-- `data/brands.json` - Legacy format
-- `data/compiled/brands.json` - Enhanced format
-- `data/sources/*.json` - Source files
-
-### 3. Publish NPM Package
+### 2. Publish NPM Package
 
 **File:** `publish-npm.yml`
 
@@ -60,101 +41,38 @@ This directory contains GitHub Actions workflows for automating builds, tests, a
 5. Select NPM tag (`latest`, `beta`, `next`)
 6. Click "Run workflow"
 
-## Architecture
-
-This project separates data releases from library releases:
-
-### Data Releases (GitHub Releases)
-- Tagged as `data-vX.Y.Z`
-- Contains BIN pattern data
-- Updated when `data/sources/**` changes
-- Downloaded automatically by the JavaScript library
-
-### Library Releases (NPM)
-- Tagged as `vX.Y.Z`
-- Published to NPM
-- Contains validation logic
-- Downloads data from GitHub releases on install
-
 ## Setting Up
 
-### For Data Releases
-No setup required - automatic when data sources are updated.
-
 ### For NPM Publishing
+
 Add `NPM_TOKEN` secret to repository:
 1. Generate token at https://www.npmjs.com/settings/YOUR_USERNAME/tokens
 2. Go to repository Settings → Secrets → Actions
 3. Add secret named `NPM_TOKEN`
 
-## Release Process
+## Development Workflow
 
-### Updating Data
 ```bash
 # 1. Edit source files
-vim data/sources/visa.json
+vim data/sources/visa/base.json
 
-# 2. Build and commit
+# 2. Build and validate
 npm run build
+
+# 3. Run tests
+cd libs/javascript && npm test && cd ../..
+
+# 4. Commit
 git add data/
 git commit -m "Update Visa BIN patterns"
 git push
-
-# 3. GitHub Actions automatically:
-#    - Builds data
-#    - Creates release (data-v2.0.2)
-#    - Attaches data files
 ```
-
-### Publishing Library
-```bash
-# 1. Go to Actions → Publish NPM Package
-# 2. Click "Run workflow"
-# 3. Enter version: 1.3.0
-# 4. Select tag: latest
-# 5. Click "Run workflow"
-
-# GitHub Actions automatically:
-#    - Updates package.json
-#    - Runs tests
-#    - Publishes to NPM
-#    - Creates release (v1.3.0)
-```
-
-## Setting Up
-
-These workflows run automatically once the repository is on GitHub. No additional setup is required.
-
-## Artifacts
-
-Build artifacts (compiled data files) are stored for 30 days and can be downloaded from:
-- Actions tab → Select a workflow run → Artifacts section
-
-## Release Assets
-
-Each release includes:
-- `data/brands.json` - Legacy format
-- `data/compiled/brands.json` - Enhanced format
-- Source files from `data/sources/` (manual releases only)
 
 ## Environment Requirements
 
 - Node.js 16.x, 18.x, or 20.x
 - Python 3.x (for examples)
 - Ruby 2.5+ (for examples)
-
-## Customization
-
-To modify the workflows:
-
-1. **Change Node.js versions:**
-   Edit the `matrix.node-version` in `ci.yml`
-
-2. **Change version bumping strategy:**
-   Edit the version calculation in `build-and-release.yml`
-
-3. **Add more tests:**
-   Add steps to any workflow file
 
 ## Troubleshooting
 
@@ -174,23 +92,12 @@ If tests fail:
 3. Fix test failures
 4. Push changes
 
-### Release Not Created
-
-If an automatic release wasn't created:
-1. Check if there were actually changes in `data/sources/`
-2. Verify the workflow completed successfully
-3. Check workflow logs for errors
-4. Use manual release as fallback
-
 ## Security
 
 - Workflows use `GITHUB_TOKEN` which is automatically provided
-- No additional secrets required
-- Token has write permissions for releases and tags
+- NPM publishing requires `NPM_TOKEN` secret
 
 ## Best Practices
 
 1. **Test locally first:** Always run `npm run build` and `npm test` before pushing
-2. **Use descriptive commits:** Help the auto-release generate good release notes
-3. **Manual releases for major versions:** Use manual workflow for version 3.0.0, etc.
-4. **Review release notes:** Edit release notes after auto-creation if needed
+2. **Check CI status:** Wait for CI to pass before merging PRs

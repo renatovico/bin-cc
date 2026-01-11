@@ -57,14 +57,6 @@ The **authoritative data** follows a **build system** similar to browserslist:
 - **Simplified output** [`data/compiled/cards.json`](./data/compiled/cards.json) - Regex patterns only
 - **Schema docs** [`data/SCHEMA.md`](./data/SCHEMA.md) - Complete schema documentation
 
-### Data Releases
-
-Data is released separately from library code:
-- **Location**: [GitHub Releases](https://github.com/renatovico/bin-cc/releases?q=data-v)
-- **Tagging**: `data-vX.Y.Z` (e.g., `data-v2.0.1`)
-- **Automatic**: Releases are created automatically when `data/sources/` changes
-- **Files included**: `cards.json`, `cards-detailed.json`, `sources/*.json`
-
 ### Building the Data
 
 ```bash

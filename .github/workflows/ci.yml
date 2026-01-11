@@ -32,8 +32,12 @@ jobs:
       
       - name: Validate build output
         run: |
-          if [ ! -f data/compiled/brands.json ]; then
-            echo "Error: compiled/brands.json not found"
+          if [ ! -f data/compiled/cards.json ]; then
+            echo "Error: compiled/cards.json not found"
+            exit 1
+          fi
+          if [ ! -f data/compiled/cards-detailed.json ]; then
+            echo "Error: compiled/cards-detailed.json not found"
             exit 1
           fi
           echo "✓ Build output validated"
@@ -73,7 +77,7 @@ jobs:
       
       - name: Check JSON validity
         run: |
-          for file in data/sources/*.json data/brands.json data/compiled/brands.json; do
+          for file in data/sources/*.json data/compiled/cards.json data/compiled/cards-detailed.json; do
             if [ -f "$file" ]; then
               echo "Checking $file..."
               node -e "JSON.parse(require('fs').readFileSync('$file', 'utf8'))"
@@ -84,7 +88,8 @@ jobs:
       - name: Check for required files
         run: |
           required_files=(
-            "data/brands.json"
+            "data/compiled/cards.json"
+            "data/compiled/cards-detailed.json"
             "data/SCHEMA.md"
             "data/README.md"
             "CONTRIBUTING.md"
