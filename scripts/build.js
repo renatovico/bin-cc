@@ -7,17 +7,14 @@ const { COMPILED_DIR, CARDS_FILE, DETAILED_FILE, BRANDS_MD_FILE, CONFLICTS_FILE,
 const { readAllSources } = require('./lib/source-reader');
 const { toDetailedFormat, toSimplifiedFormat } = require('./lib/transformers');
 const { validateSources, validateCompiled } = require('./validate');
-
-/**
- * Library data paths configuration
- */
-const LIB_DATA_PATHS = [
-  { lib: 'javascript', dataDir: 'data' },
-  { lib: 'python/creditcard_identifier', dataDir: 'data' },
-  { lib: 'ruby', dataDir: 'data' },
-  { lib: 'elixir', dataDir: 'data' },
-  { lib: 'dotnet/CreditCardIdentifier', dataDir: 'data' }
-];
+const {
+  generateJavaScript,
+  generateTypeScriptDeclaration,
+  generatePython,
+  generateRuby,
+  generateElixir,
+  generateCSharp
+} = require('./lib/generators');
 
 /**
  * Ensure output directory exists
@@ -29,25 +26,41 @@ function ensureOutputDir() {
 }
 
 /**
- * Copy data files to all library directories
+ * Generate native data files for all libraries
  */
-function copyToLibs(simplified) {
-  console.log('\n📦 Copying data to libraries...');
+function generateNativeFiles(simplified) {
+  console.log('\n📦 Generating native data files...');
   
-  for (const { lib, dataDir } of LIB_DATA_PATHS) {
-    const libDataPath = path.join(LIBS_DIR, lib, dataDir);
-    
-    // Create data directory if it doesn't exist
-    if (!fs.existsSync(libDataPath)) {
-      fs.mkdirSync(libDataPath, { recursive: true });
-    }
-    
-    // Copy simplified format (cards.json) - this is what libs use
-    const destFile = path.join(libDataPath, 'cards.json');
-    fs.writeFileSync(destFile, JSON.stringify(simplified, null, 2));
-    
-    console.log(`  ✓ Copied to ${path.relative(process.cwd(), destFile)}`);
-  }
+  // JavaScript
+  const jsDataDir = path.join(LIBS_DIR, 'javascript', 'data');
+  fs.mkdirSync(jsDataDir, { recursive: true });
+  fs.writeFileSync(path.join(jsDataDir, 'brands.js'), generateJavaScript(simplified));
+  fs.writeFileSync(path.join(jsDataDir, 'brands.d.ts'), generateTypeScriptDeclaration());
+  console.log('  ✓ Generated libs/javascript/data/brands.js');
+  
+  // Python
+  const pyDataDir = path.join(LIBS_DIR, 'python', 'creditcard_identifier');
+  fs.mkdirSync(pyDataDir, { recursive: true });
+  fs.writeFileSync(path.join(pyDataDir, 'brands.py'), generatePython(simplified));
+  console.log('  ✓ Generated libs/python/creditcard_identifier/brands.py');
+  
+  // Ruby
+  const rbLibDir = path.join(LIBS_DIR, 'ruby', 'lib');
+  fs.mkdirSync(rbLibDir, { recursive: true });
+  fs.writeFileSync(path.join(rbLibDir, 'creditcard_identifier', 'brands.rb'), generateRuby(simplified));
+  console.log('  ✓ Generated libs/ruby/lib/creditcard_identifier/brands.rb');
+  
+  // Elixir
+  const exLibDir = path.join(LIBS_DIR, 'elixir', 'lib');
+  fs.mkdirSync(exLibDir, { recursive: true });
+  fs.writeFileSync(path.join(exLibDir, 'creditcard_identifier', 'data.ex'), generateElixir(simplified));
+  console.log('  ✓ Generated libs/elixir/lib/creditcard_identifier/data.ex');
+  
+  // C#
+  const csDir = path.join(LIBS_DIR, 'dotnet', 'CreditCardIdentifier');
+  fs.mkdirSync(csDir, { recursive: true });
+  fs.writeFileSync(path.join(csDir, 'BrandData.cs'), generateCSharp(simplified));
+  console.log('  ✓ Generated libs/dotnet/CreditCardIdentifier/BrandData.cs');
 }
 
 /**
@@ -159,8 +172,8 @@ function build() {
   console.log(`\n📊 Statistics:`);
   console.log(`   Total brands: ${detailed.length}`);
 
-  // Copy to libs
-  copyToLibs(simplified);
+  // Generate native data files for each language
+  generateNativeFiles(simplified);
 
   return { detailed, simplified };
 }

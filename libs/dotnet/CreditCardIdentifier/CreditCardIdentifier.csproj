@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <LangVersion>8.0</LangVersion>
+    <LangVersion>9.0</LangVersion>
     <Version>2.0.0</Version>
     <Authors>renatovico</Authors>
     <Company>bin-cc</Company>
@@ -14,14 +14,5 @@
     <PackageTags>credit-card;validation;bin;card-brand</PackageTags>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
   </PropertyGroup>
-
-  <ItemGroup>
-    <PackageReference Include="System.Text.Json" Version="9.0.0" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <!-- Include brand data - copied by build script -->
-    <None Include="data/cards.json" Pack="true" PackagePath="data/" CopyToOutputDirectory="PreserveNewest" />
-  </ItemGroup>
 
 </Project>

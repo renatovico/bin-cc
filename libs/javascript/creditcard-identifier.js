@@ -1,19 +1,15 @@
 'use strict';
 
-const path = require('path');
-const fs = require('fs');
+// Load native data (no JSON parsing needed)
+const brands = require('./data/brands');
 
-// Load data from local data file
-const localDataPath = path.join(__dirname, 'data', 'cards.json');
-
-let brands;
-if (fs.existsSync(localDataPath)) {
-  brands = require(localDataPath);
-} else {
-  throw new Error(
-    'Credit card data not found. Please run: npm run build from the root directory'
-  );
-}
+// Pre-compile regex patterns for better performance
+const compiledBrands = brands.map(b => ({
+  name: b.name,
+  regexpBin: new RegExp(b.regexpBin),
+  regexpFull: new RegExp(b.regexpFull),
+  regexpCvv: new RegExp(b.regexpCvv)
+}));
 
 /**
  * Find card brand by card number
@@ -29,10 +25,7 @@ function findBrand(cardNumber) {
     throw Error('Card number should be a string');
   }
 
-  const brand = brands.find(b => {
-    const regex = new RegExp(b.regexpFull);
-    return regex.test(cardNumber);
-  });
+  const brand = compiledBrands.find(b => b.regexpFull.test(cardNumber));
 
   if (!brand) {
     throw Error('card number not supported');
@@ -48,11 +41,7 @@ function findBrand(cardNumber) {
  */
 function isSupported(cardNumber) {
   if (!cardNumber) return false;
-
-  return brands.some(b => {
-    const regex = new RegExp(b.regexpFull);
-    return regex.test(cardNumber);
-  });
+  return compiledBrands.some(b => b.regexpFull.test(cardNumber));
 }
 
 /**
@@ -60,11 +49,8 @@ function isSupported(cardNumber) {
  * @returns {RegExp} Hipercard regex
  */
 function hipercardRegexp() {
-  const card = brands.find(b => b.name === 'hipercard');
-  if (card) {
-    return new RegExp(card.regexpFull);
-  }
-  return new RegExp('^$');
+  const card = compiledBrands.find(b => b.name === 'hipercard');
+  return card ? card.regexpFull : new RegExp('^$');
 }
 
 /**
@@ -74,11 +60,9 @@ function hipercardRegexp() {
  * @returns {boolean} True if valid
  */
 function validateCvv(cvv, brandName) {
-  const brand = brands.find(b => b.name === brandName);
+  const brand = compiledBrands.find(b => b.name === brandName);
   if (!brand) return false;
-
-  const regex = new RegExp(brand.regexpCvv);
-  return regex.test(cvv);
+  return brand.regexpCvv.test(cvv);
 }
 
 /**
@@ -107,5 +91,3 @@ module.exports = {
   listBrands,
   brands
 };
-
-

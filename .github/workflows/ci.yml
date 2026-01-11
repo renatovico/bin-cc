@@ -57,21 +57,13 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
       
-      - name: Download compiled data
-        uses: actions/download-artifact@v4
-        with:
-          name: compiled-data
-          path: data/compiled
-      
       - name: Setup Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v4
         with:
           node-version: ${{ matrix.node-version }}
       
-      - name: Copy data to lib
-        run: |
-          mkdir -p libs/javascript/data
-          cp data/compiled/cards.json libs/javascript/data/
+      - name: Build data (generates native files)
+        run: npm run build
       
       - name: Install dependencies
         run: |
@@ -97,21 +89,18 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
       
-      - name: Download compiled data
-        uses: actions/download-artifact@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          name: compiled-data
-          path: data/compiled
+          node-version: '20'
+      
+      - name: Build data (generates native files)
+        run: npm run build
       
       - name: Setup Python ${{ matrix.python-version }}
         uses: actions/setup-python@v5
         with:
           python-version: ${{ matrix.python-version }}
-      
-      - name: Copy data to lib
-        run: |
-          mkdir -p libs/python/creditcard_identifier/data
-          cp data/compiled/cards.json libs/python/creditcard_identifier/data/
       
       - name: Install dependencies
         run: |
@@ -138,28 +127,24 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
       
-      - name: Download compiled data
-        uses: actions/download-artifact@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          name: compiled-data
-          path: data/compiled
+          node-version: '20'
+      
+      - name: Build data (generates native files)
+        run: npm run build
       
       - name: Setup Ruby ${{ matrix.ruby-version }}
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: ${{ matrix.ruby-version }}
       
-      - name: Copy data to lib
-        run: |
-          mkdir -p libs/ruby/data
-          cp data/compiled/cards.json libs/ruby/data/
-      
       - name: Install dependencies
         run: |
           cd libs/ruby
           gem install bundler
           gem install minitest
-          gem install json
       
       - name: Run tests
         run: |
@@ -181,22 +166,19 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
       
-      - name: Download compiled data
-        uses: actions/download-artifact@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          name: compiled-data
-          path: data/compiled
+          node-version: '20'
+      
+      - name: Build data (generates native files)
+        run: npm run build
       
       - name: Setup Elixir
         uses: erlef/setup-beam@v1
         with:
           elixir-version: ${{ matrix.elixir-version }}
           otp-version: ${{ matrix.otp-version }}
-      
-      - name: Copy data to lib
-        run: |
-          mkdir -p libs/elixir/data
-          cp data/compiled/cards.json libs/elixir/data/
       
       - name: Install dependencies
         run: |
@@ -220,21 +202,18 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
       
-      - name: Download compiled data
-        uses: actions/download-artifact@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          name: compiled-data
-          path: data/compiled
+          node-version: '20'
+      
+      - name: Build data (generates native files)
+        run: npm run build
       
       - name: Setup .NET 8
         uses: actions/setup-dotnet@v4
         with:
           dotnet-version: '8.0.x'
-      
-      - name: Copy data to lib
-        run: |
-          mkdir -p libs/dotnet/CreditCardIdentifier/data
-          cp data/compiled/cards.json libs/dotnet/CreditCardIdentifier/data/
       
       - name: Restore dependencies
         run: |

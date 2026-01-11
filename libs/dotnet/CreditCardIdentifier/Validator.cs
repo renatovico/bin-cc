@@ -1,9 +1,5 @@
-using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
-using System.Text.Json;
-using System.Text.RegularExpressions;
 
 namespace CreditCardIdentifier
 {
@@ -14,32 +10,14 @@ namespace CreditCardIdentifier
     /// </summary>
     public class Validator
     {
-        private readonly List<Brand> _brands;
+        private readonly BrandData.Brand[] _brands;
 
         /// <summary>
-        /// Brand information from data file
+        /// Initialize validator with pre-compiled brand data
         /// </summary>
-        public class Brand
+        public Validator()
         {
-            public string name { get; set; }
-            public string regexpBin { get; set; }
-            public string regexpFull { get; set; }
-            public string regexpCvv { get; set; }
-        }
-
-        /// <summary>
-        /// Initialize validator with brand data
-        /// </summary>
-        /// <param name="dataPath">Path to brands.json. If null, uses bundled data.</param>
-        public Validator(string dataPath = null)
-        {
-            if (string.IsNullOrEmpty(dataPath))
-            {
-                dataPath = FindDataPath();
-            }
-
-            var jsonString = File.ReadAllText(dataPath);
-            _brands = JsonSerializer.Deserialize<List<Brand>>(jsonString);
+            _brands = BrandData.Brands;
         }
 
         /// <summary>
@@ -52,13 +30,8 @@ namespace CreditCardIdentifier
             if (string.IsNullOrEmpty(cardNumber))
                 return null;
 
-            var brand = _brands.FirstOrDefault(b =>
-            {
-                var regex = new Regex(b.regexpFull);
-                return regex.IsMatch(cardNumber);
-            });
-
-            return brand?.name;
+            var brand = _brands.FirstOrDefault(b => b.RegexpFull.IsMatch(cardNumber));
+            return brand?.Name;
         }
 
         /// <summary>
@@ -83,8 +56,7 @@ namespace CreditCardIdentifier
             if (brand == null)
                 return false;
 
-            var regex = new Regex(brand.regexpCvv);
-            return regex.IsMatch(cvv);
+            return brand.RegexpCvv.IsMatch(cvv);
         }
 
         /// <summary>
@@ -92,9 +64,9 @@ namespace CreditCardIdentifier
         /// </summary>
         /// <param name="brandName">Brand name (e.g., "visa", "mastercard")</param>
         /// <returns>Brand information or null if not found</returns>
-        public Brand GetBrandInfo(string brandName)
+        public BrandData.Brand GetBrandInfo(string brandName)
         {
-            return _brands.FirstOrDefault(b => b.name == brandName);
+            return _brands.FirstOrDefault(b => b.Name == brandName);
         }
 
         /// <summary>
@@ -103,27 +75,7 @@ namespace CreditCardIdentifier
         /// <returns>List of brand names</returns>
         public List<string> ListBrands()
         {
-            return _brands.Select(b => b.name).ToList();
-        }
-
-        /// <summary>
-        /// Find the data file path
-        /// </summary>
-        private static string FindDataPath()
-        {
-            // Look for bundled data in package
-            var assemblyDir = Path.GetDirectoryName(typeof(Validator).Assembly.Location);
-            var dataPath = Path.Combine(assemblyDir, "data", "cards.json");
-
-            // Fallback to development path
-            if (!File.Exists(dataPath))
-            {
-                // For development - look relative to source
-                var projectDir = Path.GetFullPath(Path.Combine(assemblyDir, "..", "..", ".."));
-                dataPath = Path.Combine(projectDir, "..", "..", "data", "compiled", "cards.json");
-            }
-
-            return dataPath;
+            return _brands.Select(b => b.Name).ToList();
         }
     }
 

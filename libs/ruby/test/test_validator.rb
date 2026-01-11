@@ -39,10 +39,10 @@ class TestValidator < Minitest::Test
   def test_get_brand_info
     visa_info = @validator.get_brand_info('visa')
     refute_nil visa_info
-    assert_equal 'visa', visa_info['name']
-    assert visa_info.key?('regexpBin')
-    assert visa_info.key?('regexpFull')
-    assert visa_info.key?('regexpCvv')
+    assert_equal 'visa', visa_info[:name]
+    assert visa_info.key?(:regexp_bin)
+    assert visa_info.key?(:regexp_full)
+    assert visa_info.key?(:regexp_cvv)
   end
 
   def test_validate_cvv

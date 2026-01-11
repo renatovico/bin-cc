@@ -6,7 +6,8 @@
   "files": [
     "index.js",
     "creditcard-identifier.js",
-    "data/cards.json",
+    "data/brands.js",
+    "data/brands.d.ts",
     "README.md"
   ],
   "scripts": {

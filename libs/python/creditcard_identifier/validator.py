@@ -4,34 +4,30 @@ Credit Card BIN Validator
 This module provides credit card validation using bin-cc data.
 """
 
-import json
 import re
-import os
-from pathlib import Path
+from .brands import BRANDS
+
+
+# Pre-compile regex patterns for performance
+_compiled_brands = [
+    {
+        **brand,
+        '_regexp_bin': re.compile(brand['regexp_bin']),
+        '_regexp_full': re.compile(brand['regexp_full']),
+        '_regexp_cvv': re.compile(brand['regexp_cvv']),
+    }
+    for brand in BRANDS
+]
 
 
 class CreditCardValidator:
     """Credit card validator using bin-cc data."""
     
-    def __init__(self, data_path=None):
+    def __init__(self):
         """
         Initialize validator with brand data.
-        
-        Args:
-            data_path: Path to brands.json. If None, uses bundled data.
         """
-        if data_path is None:
-            # Look for bundled data in package
-            package_dir = Path(__file__).parent
-            data_path = package_dir / 'data' / 'cards.json'
-            
-            # Fallback to repository data for development
-            if not data_path.exists():
-                repo_root = package_dir.parent.parent.parent
-                data_path = repo_root / 'data' / 'compiled' / 'cards.json'
-        
-        with open(data_path, 'r') as f:
-            self.brands = json.load(f)
+        self.brands = _compiled_brands
     
     def find_brand(self, card_number):
         """
@@ -47,8 +43,7 @@ class CreditCardValidator:
             return None
         
         for brand in self.brands:
-            pattern = brand['regexpFull']
-            if re.match(pattern, card_number):
+            if brand['_regexp_full'].match(card_number):
                 return brand['name']
         
         return None
@@ -80,8 +75,7 @@ class CreditCardValidator:
         if not brand:
             return False
         
-        pattern = brand['regexpCvv']
-        return re.match(pattern, cvv) is not None
+        return brand['_regexp_cvv'].match(cvv) is not None
     
     def get_brand_info(self, brand_name):
         """
@@ -93,7 +87,11 @@ class CreditCardValidator:
         Returns:
             Brand dictionary or None if not found
         """
-        return next((b for b in self.brands if b['name'] == brand_name), None)
+        brand = next((b for b in self.brands if b['name'] == brand_name), None)
+        if brand:
+            # Return without internal compiled regex fields
+            return {k: v for k, v in brand.items() if not k.startswith('_')}
+        return None
     
     def list_brands(self):
         """
