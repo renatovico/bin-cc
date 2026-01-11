@@ -1,3 +1,7 @@
+# Generated data files (built by npm run build)
+creditcard_identifier/data/
+
+# Python
 __pycache__/
 *.py[cod]
 *$py.class

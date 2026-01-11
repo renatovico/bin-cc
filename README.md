@@ -30,20 +30,14 @@ bin-cc/
 │   └── lib/               # Shared modules
 │
 ├── libs/                   # Reference implementations
-│   ├── javascript/
+│   ├── javascript/        # Each lib includes example.{ext}
 │   ├── python/
 │   ├── ruby/
 │   ├── elixir/
-│   └── dotnet/
-│
-├── examples/               # Usage examples
-│   ├── javascript-example.js
-│   ├── python/
-│   ├── elixir/
-│   ├── ruby/
 │   └── dotnet/
 │
 ├── CONTRIBUTING.md         # Contribution guidelines
+├── LICENSE                 # MIT License
 └── package.json            # Build scripts
 ```
 

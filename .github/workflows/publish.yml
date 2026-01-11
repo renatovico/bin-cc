@@ -1,0 +1,56 @@
+name: Publish Compiled Data
+
+on:
+  workflow_run:
+    workflows: ["CI"]
+    types:
+      - completed
+    branches: [ main, master ]
+
+jobs:
+  # Commit compiled data after CI passes
+  publish:
+    name: Publish Compiled Data
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install dependencies
+        run: npm install --ignore-scripts
+      
+      - name: Build data files
+        run: npm run build
+      
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git add -A
+          if git diff --staged --quiet; then
+            echo "changes=false" >> $GITHUB_OUTPUT
+            echo "No changes to commit"
+          else
+            echo "changes=true" >> $GITHUB_OUTPUT
+            echo "Changes detected:"
+            git diff --staged --name-only
+          fi
+      
+      - name: Commit and push
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update compiled data files [skip ci]"
+          git push

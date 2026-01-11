@@ -1,0 +1,12 @@
+# Generated data files (built by npm run build)
+CreditCardIdentifier/data/
+
+# .NET build artifacts
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
