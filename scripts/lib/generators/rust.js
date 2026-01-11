@@ -11,11 +11,11 @@ const rust = {
   null: 'None',
   some: (v) => `Some(${v})`,
   string: (s) => `"${s.replace(/\\/g, '\\\\').replace(/"/g, '\\"').replace(/\n/g, '\\n').replace(/\r/g, '\\r').replace(/\t/g, '\\t')}"`,
-  vec: (items) => items.length > 0 ? `vec![${items.join(', ')}]` : 'vec![]',
+  slice: (items) => items.length > 0 ? `&[${items.join(', ')}]` : '&[]',
 };
 
 /**
- * Convert value to Rust literal
+ * Convert value to Rust literal for static data (using slices instead of Vec)
  */
 function toRustValue(val, optional = false) {
   if (val === null || val === undefined) {
@@ -30,9 +30,9 @@ function toRustValue(val, optional = false) {
   }
   if (Array.isArray(val)) {
     if (typeof val[0] === 'number') {
-      return rust.vec(val.map(v => String(v)));
+      return rust.slice(val.map(v => String(v)));
     }
-    return rust.vec(val.map(v => toRustValue(v)));
+    return rust.slice(val.map(v => toRustValue(v)));
   }
   return String(val);
 }
@@ -50,7 +50,7 @@ function generateRust(brands) {
     '#[derive(Debug, Clone)]',
     'pub struct Brand {',
     '    pub name: &\'static str,',
-    '    pub priority_over: Vec<&\'static str>,',
+    '    pub priority_over: &\'static [&\'static str],',
     '    pub regexp_bin: &\'static str,',
     '    pub regexp_full: &\'static str,',
     '    pub regexp_cvv: &\'static str,',
@@ -82,14 +82,12 @@ function generateRustDetailed(detailed) {
     '// ' + fileHeader('//')[0].substring(3),
     '// ' + fileHeader('//')[1].substring(3),
     '',
-    'use std::collections::HashMap;',
-    '',
     '/// Credit card brand data (detailed).',
     '',
     '#[derive(Debug, Clone)]',
     'pub struct Pattern {',
     '    pub bin: &\'static str,',
-    '    pub length: Vec<i32>,',
+    '    pub length: &\'static [i32],',
     '    pub luhn: bool,',
     '    pub cvv_length: i32,',
     '}',
@@ -100,7 +98,7 @@ function generateRustDetailed(detailed) {
     '    pub bin_type: &\'static str,',
     '    pub category: &\'static str,',
     '    pub issuer: &\'static str,',
-    '    pub countries: Vec<&\'static str>,',
+    '    pub countries: &\'static [&\'static str],',
     '}',
     '',
     '#[derive(Debug, Clone)]',
@@ -108,13 +106,13 @@ function generateRustDetailed(detailed) {
     '    pub scheme: &\'static str,',
     '    pub brand: &\'static str,',
     '    pub brand_type: &\'static str,',
-    '    pub number_lengths: Vec<i32>,',
+    '    pub number_lengths: &\'static [i32],',
     '    pub number_luhn: bool,',
     '    pub cvv_length: i32,',
-    '    pub patterns: Vec<Pattern>,',
-    '    pub countries: Vec<&\'static str>,',
-    '    pub priority_over: Vec<&\'static str>,',
-    '    pub bins: Vec<Bin>,',
+    '    pub patterns: &\'static [Pattern],',
+    '    pub countries: &\'static [&\'static str],',
+    '    pub priority_over: &\'static [&\'static str],',
+    '    pub bins: &\'static [Bin],',
     '}',
     '',
     'pub static BRANDS: &[BrandDetailed] = &[',
@@ -132,7 +130,7 @@ function generateRustDetailed(detailed) {
     lines.push(`        cvv_length: ${b.cvv.length},`);
     
     // Patterns
-    lines.push('        patterns: vec![');
+    lines.push('        patterns: &[');
     for (const pattern of b.patterns) {
       lines.push('            Pattern {');
       lines.push(`                bin: ${toRustValue(pattern.bin)},`);
@@ -147,7 +145,7 @@ function generateRustDetailed(detailed) {
     lines.push(`        priority_over: ${toRustValue(b.priorityOver)},`);
     
     // Bins
-    lines.push('        bins: vec![');
+    lines.push('        bins: &[');
     for (const bin of b.bins) {
       lines.push('            Bin {');
       lines.push(`                bin: ${toRustValue(bin.bin)},`);

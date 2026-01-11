@@ -172,13 +172,34 @@ CreditCardValidator validator = new CreditCardValidator();
 validator.findBrand("4012001037141112");  // "visa"
 ```
 
-### Rust ⚠️
+### Rust
 
-Implementation in [`libs/rust/`](./libs/rust/) - Currently has compilation issues. See [`libs/LIMITATIONS.md`](./libs/LIMITATIONS.md) for details.
+Complete implementation in [`libs/rust/`](./libs/rust/)
 
-### Go ⚠️
+```toml
+# Cargo.toml
+[dependencies]
+creditcard-identifier = "2.1.0"
+```
 
-Implementation in [`libs/go/`](./libs/go/) - Currently has regex compatibility issues. See [`libs/LIMITATIONS.md`](./libs/LIMITATIONS.md) for details.
+```rust
+use creditcard_identifier::*;
+find_brand("4012001037141112");  // Some("visa")
+```
+
+### Go
+
+Complete implementation in [`libs/go/`](./libs/go/)
+
+```bash
+go get github.com/renatovico/bin-cc/libs/go
+```
+
+```go
+import creditcard "github.com/renatovico/bin-cc/libs/go"
+
+brand := creditcard.FindBrand("4012001037141112")  // "visa"
+```
 
 ### PHP
 

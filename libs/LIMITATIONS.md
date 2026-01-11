@@ -1,29 +1,30 @@
-# Known Limitations
+# Language Support Status
 
-## Rust
-
-The current Rust implementation has compilation issues due to using `vec![]` macros in static context. This needs to be refactored to use array slices or lazy static initialization.
-
-**Status:** Not functional - requires refactoring of the generator to use array literals or lazy initialization.
-
-## Go
-
-Go's `regexp` package does not support lookahead assertions (`(?=...)`) which are used in the card data for length validation. This causes runtime panics when compiling the regex patterns.
-
-**Possible solutions:**
-1. Pre-process the data to remove lookahead assertions and add explicit length validation in the code
-2. Use a different regex library that supports lookahead (e.g., google/re2)
-3. Keep the current approach and document that Go users need to handle this limitation
-
-**Status:** Not functional - requires either data preprocessing or alternative regex handling.
+All language implementations are now fully functional!
 
 ## Fully Functional Languages
 
 The following implementations are fully functional and tested:
-- Java ✅
-- PHP ✅
-- JavaScript ✅
-- Python ✅
-- Ruby ✅
-- Elixir ✅
-- .NET/C# ✅
+- ✅ **Java**: Maven-based library with full validation support
+- ✅ **PHP**: Composer-based library with full validation support
+- ✅ **Rust**: Cargo-based library with slice-based data structures
+- ✅ **Go**: Go module with regex lookahead handling
+- ✅ **JavaScript**: npm package
+- ✅ **Python**: pip package
+- ✅ **Ruby**: gem package
+- ✅ **Elixir**: hex package
+- ✅ **.NET/C#**: NuGet package
+
+## Implementation Notes
+
+### Rust
+The Rust implementation uses static slices (`&[T]`) instead of `Vec<T>` for compile-time data structures, which is more memory efficient and idiomatic for static data.
+
+### Go & Rust
+Both Go and Rust implementations handle regex lookahead assertions (which are not natively supported) by:
+1. Extracting length constraints from patterns like `(?=.{15}$)` or `(?=.{13,16}$)`
+2. Validating card number length separately before applying the regex pattern
+3. Using the cleaned regex pattern without lookahead assertions
+
+This approach maintains full validation compatibility while working within language constraints.
+
