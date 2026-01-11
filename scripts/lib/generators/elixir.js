@@ -21,27 +21,27 @@ function generateElixir(brands) {
     '  Credit card brand data.',
     '  """',
     '',
-    '  @brands ['
+    '  @doc """',
+    '  Returns all credit card brands.',
+    '  """',
+    '  @spec brands() :: [map()]',
+    '  def brands do',
+    '    ['
   ];
 
   for (const brand of brands) {
     const b = extractSimplifiedBrand(brand);
-    lines.push('    %{');
-    lines.push(`      name: ${ex.string(b.name)},`);
-    lines.push(`      priority_over: ${toNativeValue(b.priorityOver, 'elixir')},`);
-    lines.push(`      regexp_bin: ${ex.regex(b.regexpBin)},`);
-    lines.push(`      regexp_full: ${ex.regex(b.regexpFull)},`);
-    lines.push(`      regexp_cvv: ${ex.regex(b.regexpCvv)}`);
-    lines.push('    },');
+    lines.push('      %{');
+    lines.push(`        name: ${ex.string(b.name)},`);
+    lines.push(`        priority_over: ${toNativeValue(b.priorityOver, 'elixir')},`);
+    lines.push(`        regexp_bin: ${ex.regex(b.regexpBin)},`);
+    lines.push(`        regexp_full: ${ex.regex(b.regexpFull)},`);
+    lines.push(`        regexp_cvv: ${ex.regex(b.regexpCvv)}`);
+    lines.push('      },');
   }
 
-  lines.push('  ]');
-  lines.push('');
-  lines.push('  @doc """');
-  lines.push('  Returns all credit card brands.');
-  lines.push('  """');
-  lines.push('  @spec brands() :: [map()]');
-  lines.push('  def brands, do: @brands');
+  lines.push('    ]');
+  lines.push('  end');
   lines.push('end');
   lines.push('');
 
@@ -61,66 +61,66 @@ function generateElixirDetailed(detailed) {
     '  Credit card brand data (detailed).',
     '  """',
     '',
-    '  @brands_detailed ['
+    '  @doc """',
+    '  Returns all credit card brands (detailed).',
+    '  """',
+    '  @spec brands() :: [map()]',
+    '  def brands do',
+    '    ['
   ];
 
   for (const brand of detailed) {
     const b = extractDetailedBrand(brand);
-    lines.push('    %{');
-    lines.push(`      scheme: ${ex.string(b.scheme)},`);
-    lines.push(`      brand: ${ex.string(b.brand)},`);
-    lines.push(`      type: ${ex.string(b.type)},`);
-    lines.push('      number: %{');
-    lines.push(`        lengths: ${toNativeValue(b.number.lengths, 'elixir')},`);
-    lines.push(`        luhn: ${toNativeValue(b.number.luhn, 'elixir')}`);
-    lines.push('      },');
-    lines.push('      cvv: %{');
-    lines.push(`        length: ${b.cvv.length}`);
-    lines.push('      },');
-    lines.push('      patterns: [');
+    lines.push('      %{');
+    lines.push(`        scheme: ${ex.string(b.scheme)},`);
+    lines.push(`        brand: ${ex.string(b.brand)},`);
+    lines.push(`        type: ${ex.string(b.type)},`);
+    lines.push('        number: %{');
+    lines.push(`          lengths: ${toNativeValue(b.number.lengths, 'elixir')},`);
+    lines.push(`          luhn: ${toNativeValue(b.number.luhn, 'elixir')}`);
+    lines.push('        },');
+    lines.push('        cvv: %{');
+    lines.push(`          length: ${b.cvv.length}`);
+    lines.push('        },');
+    lines.push('        patterns: [');
     for (const pattern of b.patterns) {
-      lines.push('        %{');
-      lines.push(`          bin: ${ex.string(pattern.bin)},`);
-      lines.push(`          length: ${toNativeValue(pattern.length, 'elixir')},`);
-      lines.push(`          luhn: ${toNativeValue(pattern.luhn, 'elixir')},`);
-      lines.push(`          cvv_length: ${pattern.cvvLength}`);
-      lines.push('        },');
+      lines.push('          %{');
+      lines.push(`            bin: ${ex.string(pattern.bin)},`);
+      lines.push(`            length: ${toNativeValue(pattern.length, 'elixir')},`);
+      lines.push(`            luhn: ${toNativeValue(pattern.luhn, 'elixir')},`);
+      lines.push(`            cvv_length: ${pattern.cvvLength}`);
+      lines.push('          },');
     }
-    lines.push('      ],');
-    lines.push(`      countries: ${toNativeValue(b.countries, 'elixir')},`);
+    lines.push('        ],');
+    lines.push(`        countries: ${toNativeValue(b.countries, 'elixir')},`);
     // Metadata uses string keys
     const metadataEntries = Object.entries(b.metadata).map(([k, v]) => 
       `"${k}" => ${toNativeValue(v, 'elixir')}`
     ).join(', ');
-    lines.push(`      metadata: %{${metadataEntries}},`);
-    lines.push(`      priority_over: ${toNativeValue(b.priorityOver, 'elixir')},`);
+    lines.push(`        metadata: %{${metadataEntries}},`);
+    lines.push(`        priority_over: ${toNativeValue(b.priorityOver, 'elixir')},`);
     
     if (b.bins.length > 0) {
-      lines.push('      bins: [');
+      lines.push('        bins: [');
       for (const bin of b.bins) {
-        lines.push('        %{');
-        lines.push(`          bin: ${ex.string(bin.bin)},`);
-        lines.push(`          type: ${toNativeValue(bin.type, 'elixir')},`);
-        lines.push(`          category: ${toNativeValue(bin.category, 'elixir')},`);
-        lines.push(`          issuer: ${toNativeValue(bin.issuer, 'elixir')},`);
-        lines.push(`          countries: ${toNativeValue(bin.countries || [], 'elixir')}`);
-        lines.push('        },');
+        lines.push('          %{');
+        lines.push(`            bin: ${ex.string(bin.bin)},`);
+        lines.push(`            type: ${toNativeValue(bin.type, 'elixir')},`);
+        lines.push(`            category: ${toNativeValue(bin.category, 'elixir')},`);
+        lines.push(`            issuer: ${toNativeValue(bin.issuer, 'elixir')},`);
+        lines.push(`            countries: ${toNativeValue(bin.countries || [], 'elixir')}`);
+        lines.push('          },');
       }
-      lines.push('      ]');
+      lines.push('        ]');
     } else {
-      lines.push('      bins: []');
+      lines.push('        bins: []');
     }
     
-    lines.push('    },');
+    lines.push('      },');
   }
 
-  lines.push('  ]');
-  lines.push('');
-  lines.push('  @doc """');
-  lines.push('  Returns all credit card brands (detailed).');
-  lines.push('  """');
-  lines.push('  @spec brands() :: [map()]');
-  lines.push('  def brands, do: @brands_detailed');
+  lines.push('    ]');
+  lines.push('  end');
   lines.push('end');
   lines.push('');
 

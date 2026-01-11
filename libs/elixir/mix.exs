@@ -27,7 +27,6 @@ defmodule CreditcardIdentifier.MixProject do
 
   defp deps do
     [
-      {:jason, "~> 1.4"},
       {:ex_doc, "~> 0.29", only: :dev, runtime: false}
     ]
   end
@@ -42,7 +41,7 @@ defmodule CreditcardIdentifier.MixProject do
   defp package do
     [
       name: "creditcard_identifier",
-      files: ~w(lib data .formatter.exs mix.exs README.md LICENSE),
+      files: ~w(lib .formatter.exs mix.exs README.md LICENSE),
       licenses: ["MIT"],
       links: %{
         "GitHub" => @source_url,

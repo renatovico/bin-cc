@@ -6,11 +6,11 @@ defmodule CreditcardIdentifier do
 
   ## Examples
 
-      iex> CreditcardIdentifier.find_brand("4012001037141112")
-      %{name: "visa", ...}
+      brand = CreditcardIdentifier.find_brand("4012001037141112")
+      # Returns %{name: "visa", ...}
 
-      iex> CreditcardIdentifier.supported?("4012001037141112")
-      true
+      CreditcardIdentifier.supported?("4012001037141112")
+      # Returns true
 
   """
 
@@ -51,11 +51,13 @@ defmodule CreditcardIdentifier do
 
   ## Examples
 
-      iex> CreditcardIdentifier.find_brand("4012001037141112")
-      %{name: "visa", ...}
+      iex> brand = CreditcardIdentifier.find_brand("4012001037141112")
+      iex> brand.name
+      "visa"
 
-      iex> CreditcardIdentifier.find_brand("4012001037141112", detailed: true)
-      %{scheme: "visa", matched_pattern: ..., matched_bin: ...}
+      iex> brand = CreditcardIdentifier.find_brand("4012001037141112", detailed: true)
+      iex> brand.scheme
+      "visa"
 
   """
   def find_brand(card_number, opts \\ []) do
