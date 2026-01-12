@@ -88,12 +88,12 @@ function generateNativeFiles(simplified, detailed) {
   console.log('  ✓ Generated libs/dotnet/CreditCardIdentifier/BrandDataDetailed.cs');
   
   // Java (simplified + detailed)
-  const javaDir = path.join(LIBS_DIR, 'java', 'src', 'main', 'java', 'com', 'creditcard', 'identifier');
+  const javaDir = path.join(LIBS_DIR, 'java', 'src', 'main', 'java', 'br', 'com', 's2n', 'creditcard', 'identifier');
   fs.mkdirSync(javaDir, { recursive: true });
   fs.writeFileSync(path.join(javaDir, 'BrandData.java'), generateJava(simplified));
   fs.writeFileSync(path.join(javaDir, 'BrandDataDetailed.java'), generateJavaDetailed(detailed));
-  console.log('  ✓ Generated libs/java/src/main/java/com/creditcard/identifier/BrandData.java');
-  console.log('  ✓ Generated libs/java/src/main/java/com/creditcard/identifier/BrandDataDetailed.java');
+  console.log('  ✓ Generated libs/java/src/main/java/br/com/s2n/creditcard/identifier/BrandData.java');
+  console.log('  ✓ Generated libs/java/src/main/java/br/com/s2n/creditcard/identifier/BrandDataDetailed.java');
   
   // Rust (simplified + detailed)
   const rustDir = path.join(LIBS_DIR, 'rust', 'src');
