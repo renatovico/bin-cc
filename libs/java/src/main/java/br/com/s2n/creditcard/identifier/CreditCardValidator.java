@@ -84,7 +84,9 @@ public class CreditCardValidator {
             return null;
         }
         
-        for (CompiledBrand compiled : compiledBrands.values()) {
+        // Iterate through brands in order to respect priority
+        for (BrandData.Brand brand : brands) {
+            CompiledBrand compiled = compiledBrands.get(brand);
             if (compiled.regexpFull.matcher(cardNumber).matches()) {
                 return compiled.brand.name;
             }
