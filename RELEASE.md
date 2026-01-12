@@ -60,8 +60,6 @@ To use automated publishing, add these secrets to the GitHub repository (Setting
 ### Java (Maven Central)
 - `OSSRH_USERNAME`: Sonatype JIRA username
 - `OSSRH_PASSWORD`: Sonatype JIRA password
-- `GPG_PRIVATE_KEY`: GPG private key for signing (base64 encoded: `gpg --armor --export-secret-keys YOUR_KEY_ID | base64`)
-- `GPG_PASSPHRASE`: Passphrase for GPG key
 
 ### Rust (crates.io)
 - `CARGO_REGISTRY_TOKEN`: API token from https://crates.io/me
@@ -132,10 +130,6 @@ After publishing:
 ## Troubleshooting
 
 ### Java - Maven Central
-
-**Issue**: GPG signing fails
-- **Solution**: Ensure GPG key is properly configured and passphrase is correct
-- Check: `gpg --list-secret-keys`
 
 **Issue**: Deployment fails with 401 Unauthorized
 - **Solution**: Verify OSSRH credentials are correct in secrets
