@@ -362,7 +362,7 @@ jobs:
       - name: Install dependencies
         run: |
           cd libs/php
-          composer install --dev
+          composer install
       
       - name: Run tests
         run: |
