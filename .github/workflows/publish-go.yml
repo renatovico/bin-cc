@@ -13,6 +13,8 @@ jobs:
   publish-go:
     if: startsWith(github.event.release.tag_name, 'go-v') || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Needed to create tags
     
     steps:
       - uses: actions/checkout@v4
