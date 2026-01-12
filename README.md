@@ -159,14 +159,14 @@ Complete implementation in [`libs/java/`](./libs/java/)
 ```xml
 <!-- Maven -->
 <dependency>
-    <groupId>com.creditcard</groupId>
+    <groupId>br.com.s2n.creditcard</groupId>
     <artifactId>creditcard-identifier</artifactId>
     <version>2.1.0</version>
 </dependency>
 ```
 
 ```java
-import com.creditcard.identifier.CreditCardValidator;
+import br.com.s2n.creditcard.identifier.CreditCardValidator;
 
 CreditCardValidator validator = new CreditCardValidator();
 validator.findBrand("4012001037141112");  // "visa"
