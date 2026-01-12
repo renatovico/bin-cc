@@ -44,6 +44,16 @@ echo $validLuhn; // true
 php example.php
 ```
 
+## Testing
+
+```bash
+# Install PHPUnit
+composer install --dev
+
+# Run tests
+vendor/bin/phpunit
+```
+
 ## Features
 
 - **Brand Identification**: Identify card brand by BIN/IIN patterns

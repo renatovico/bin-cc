@@ -46,6 +46,12 @@ cd example
 go run main.go
 ```
 
+## Testing
+
+```bash
+go test -v
+```
+
 ## Features
 
 - **Brand Identification**: Identify card brand by BIN/IIN patterns

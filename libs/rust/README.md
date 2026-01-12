@@ -41,6 +41,16 @@ fn main() {
 cargo run --example example
 ```
 
+## Testing
+
+```bash
+# Run tests
+cargo test
+
+# Run tests with output
+cargo test -- --nocapture
+```
+
 ## Features
 
 - **Brand Identification**: Identify card brand by BIN/IIN patterns
