@@ -1,0 +1,42 @@
+name: Publish PHP to Packagist
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version to publish'
+        required: true
+
+jobs:
+  publish-php:
+    if: startsWith(github.event.release.tag_name, 'php-v') || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.1'
+          tools: composer
+      
+      - name: Install dependencies
+        working-directory: libs/php
+        run: composer install
+      
+      - name: Run tests
+        working-directory: libs/php
+        run: vendor/bin/phpunit
+      
+      - name: Trigger Packagist update
+        if: env.PACKAGIST_TOKEN != ''
+        run: |
+          curl -X POST "https://packagist.org/api/update-package?username=${{ secrets.PACKAGIST_USERNAME }}&apiToken=${{ secrets.PACKAGIST_TOKEN }}" \
+            -d '{"repository":{"url":"https://github.com/renatovico/bin-cc"}}'
+        env:
+          PACKAGIST_TOKEN: ${{ secrets.PACKAGIST_TOKEN }}

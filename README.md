@@ -36,7 +36,11 @@ bin-cc/
 │   ├── python/
 │   ├── ruby/
 │   ├── elixir/
-│   └── dotnet/
+│   ├── dotnet/
+│   ├── java/
+│   ├── rust/
+│   ├── go/
+│   └── php/
 │
 ├── CONTRIBUTING.md         # Contribution guidelines
 ├── LICENSE                 # MIT License
@@ -148,6 +152,70 @@ using CreditCardIdentifier;
 CreditCard.FindBrand("4012001037141112");  // "visa"
 ```
 
+### Java
+
+Complete implementation in [`libs/java/`](./libs/java/)
+
+```xml
+<!-- Maven -->
+<dependency>
+    <groupId>br.com.s2n.creditcard</groupId>
+    <artifactId>creditcard-identifier</artifactId>
+    <version>2.1.0</version>
+</dependency>
+```
+
+```java
+import br.com.s2n.creditcard.identifier.CreditCardValidator;
+
+CreditCardValidator validator = new CreditCardValidator();
+validator.findBrand("4012001037141112");  // "visa"
+```
+
+### Rust
+
+Complete implementation in [`libs/rust/`](./libs/rust/)
+
+```toml
+# Cargo.toml
+[dependencies]
+creditcard-identifier = "2.1.0"
+```
+
+```rust
+use creditcard_identifier::*;
+find_brand("4012001037141112");  // Some("visa")
+```
+
+### Go
+
+Complete implementation in [`libs/go/`](./libs/go/)
+
+```bash
+go get github.com/renatovico/bin-cc/libs/go
+```
+
+```go
+import creditcard "github.com/renatovico/bin-cc/libs/go"
+
+brand := creditcard.FindBrand("4012001037141112")  // "visa"
+```
+
+### PHP
+
+Complete implementation in [`libs/php/`](./libs/php/)
+
+```bash
+composer require creditcard/identifier
+```
+
+```php
+use CreditCard\Identifier\CreditCardValidator;
+
+$validator = new CreditCardValidator();
+$validator->findBrand('4012001037141112');  // "visa"
+```
+
 ## 🎴 Supported Card Brands
 
 See [data/compiled/BRANDS.md](./data/compiled/BRANDS.md) for the auto-generated list of supported card brands.
@@ -182,6 +250,33 @@ npm test
 git add data/
 git commit -m "Update Visa BIN patterns"
 ```
+
+## 📦 Publishing Libraries
+
+All libraries are published to their respective package registries for easy installation:
+
+| Language | Registry | Installation Command |
+|----------|----------|---------------------|
+| JavaScript | [npm](https://www.npmjs.com/package/creditcard-identifier) | `npm install creditcard-identifier` |
+| Python | [PyPI](https://pypi.org/project/creditcard-identifier/) | `pip install creditcard-identifier` |
+| Ruby | [RubyGems](https://rubygems.org/gems/creditcard-identifier) | `gem install creditcard-identifier` |
+| Elixir | [Hex.pm](https://hex.pm/packages/creditcard_identifier) | `{:creditcard_identifier, "~> 2.1"}` |
+| .NET/C# | [NuGet](https://www.nuget.org/packages/CreditCardIdentifier/) | `dotnet add package CreditCardIdentifier` |
+| Java | [Maven Central](https://search.maven.org/artifact/br.com.s2n.creditcard/creditcard-identifier) | See [libs/java](libs/java/) |
+| Rust | [crates.io](https://crates.io/crates/creditcard-identifier) | `cargo add creditcard-identifier` |
+| Go | [pkg.go.dev](https://pkg.go.dev/github.com/renatovico/bin-cc/libs/go) | `go get github.com/renatovico/bin-cc/libs/go` |
+| PHP | [Packagist](https://packagist.org/packages/creditcard/identifier) | `composer require creditcard/identifier` |
+
+### For Library Maintainers
+
+To publish new versions of the libraries, see the [RELEASE.md](RELEASE.md) guide. Each library also has its own `PUBLISH.md` file with detailed instructions:
+
+- [Java Publishing Guide](libs/java/PUBLISH.md)
+- [Rust Publishing Guide](libs/rust/PUBLISH.md)
+- [Go Publishing Guide](libs/go/PUBLISH.md)
+- [PHP Publishing Guide](libs/php/PUBLISH.md)
+
+All new libraries support automated publishing via GitHub Actions when you create a release with the appropriate tag format (e.g., `java-v2.1.0`).
 
 ## 📝 License
 

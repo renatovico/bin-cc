@@ -1,0 +1,20 @@
+[package]
+name = "creditcard-identifier"
+version = "2.1.0"
+edition = "2021"
+authors = ["Renato Viço"]
+description = "Credit Card BIN validation using bin-cc data. Identify card brands, validate CVV codes, and check Luhn algorithm."
+license = "MIT"
+repository = "https://github.com/renatovico/bin-cc"
+homepage = "https://github.com/renatovico/bin-cc/tree/master/libs/rust"
+documentation = "https://docs.rs/creditcard-identifier"
+readme = "README.md"
+keywords = ["creditcard", "bin", "validation", "card-brand", "luhn"]
+categories = ["algorithms", "finance"]
+
+[dependencies]
+regex = "1.10"
+
+[[example]]
+name = "example"
+path = "examples/example.rs"
