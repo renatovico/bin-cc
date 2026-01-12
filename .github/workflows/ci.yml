@@ -234,6 +234,141 @@ jobs:
           cd libs/dotnet
           dotnet test --no-build --verbosity normal
 
+  # Java tests
+  test-java:
+    name: Java
+    runs-on: ubuntu-latest
+    needs: build
+    
+    strategy:
+      matrix:
+        java-version: ['11', '17', '21']
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Build data (generates native files)
+        run: npm run build
+      
+      - name: Setup Java ${{ matrix.java-version }}
+        uses: actions/setup-java@v4
+        with:
+          java-version: ${{ matrix.java-version }}
+          distribution: 'temurin'
+      
+      - name: Build and test with Maven
+        run: |
+          cd libs/java
+          mvn clean test
+
+  # Rust tests
+  test-rust:
+    name: Rust
+    runs-on: ubuntu-latest
+    needs: build
+    
+    strategy:
+      matrix:
+        rust-version: ['stable', 'beta', '1.70.0']
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Build data (generates native files)
+        run: npm run build
+      
+      - name: Setup Rust ${{ matrix.rust-version }}
+        uses: dtolnay/rust-toolchain@master
+        with:
+          toolchain: ${{ matrix.rust-version }}
+      
+      - name: Run tests
+        run: |
+          cd libs/rust
+          cargo test --verbose
+
+  # Go tests
+  test-go:
+    name: Go
+    runs-on: ubuntu-latest
+    needs: build
+    
+    strategy:
+      matrix:
+        go-version: ['1.20', '1.21', '1.22']
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Build data (generates native files)
+        run: npm run build
+      
+      - name: Setup Go ${{ matrix.go-version }}
+        uses: actions/setup-go@v5
+        with:
+          go-version: ${{ matrix.go-version }}
+      
+      - name: Run tests
+        run: |
+          cd libs/go
+          go test -v
+
+  # PHP tests
+  test-php:
+    name: PHP
+    runs-on: ubuntu-latest
+    needs: build
+    
+    strategy:
+      matrix:
+        php-version: ['8.0', '8.1', '8.2', '8.3']
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Build data (generates native files)
+        run: npm run build
+      
+      - name: Setup PHP ${{ matrix.php-version }}
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: ${{ matrix.php-version }}
+          tools: composer
+      
+      - name: Install dependencies
+        run: |
+          cd libs/php
+          composer install --dev
+      
+      - name: Run tests
+        run: |
+          cd libs/php
+          vendor/bin/phpunit
+
   # Lint and validation
   lint:
     name: Lint
