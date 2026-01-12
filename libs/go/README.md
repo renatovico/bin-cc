@@ -5,7 +5,7 @@ Credit Card BIN validation library using bin-cc data.
 ## Installation
 
 ```bash
-go get github.com/renatovico/bin-cc/libs/go
+go get github.com/renatovico/bin-cc/libs/go/v2
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ package main
 
 import (
     "fmt"
-    creditcard "github.com/renatovico/bin-cc/libs/go"
+    creditcard "github.com/renatovico/bin-cc/libs/go/v2"
 )
 
 func main() {
