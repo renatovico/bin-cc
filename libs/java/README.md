@@ -8,7 +8,7 @@ Credit Card BIN validation library using bin-cc data.
 
 ```xml
 <dependency>
-    <groupId>com.creditcard</groupId>
+    <groupId>br.com.s2n.creditcard</groupId>
     <artifactId>creditcard-identifier</artifactId>
     <version>2.1.0</version>
 </dependency>
@@ -17,13 +17,13 @@ Credit Card BIN validation library using bin-cc data.
 ### Gradle
 
 ```gradle
-implementation 'com.creditcard:creditcard-identifier:2.1.0'
+implementation 'br.com.s2n.creditcard:creditcard-identifier:2.1.0'
 ```
 
 ## Usage
 
 ```java
-import com.creditcard.identifier.CreditCardValidator;
+import br.com.s2n.creditcard.identifier.CreditCardValidator;
 
 public class Main {
     public static void main(String[] args) {
@@ -54,8 +54,11 @@ public class Main {
 # Compile
 mvn compile
 
+# Run tests
+mvn test
+
 # Run example
-mvn exec:java -Dexec.mainClass="com.creditcard.identifier.Example"
+mvn exec:java -Dexec.mainClass="br.com.s2n.creditcard.identifier.Example"
 ```
 
 ## Features

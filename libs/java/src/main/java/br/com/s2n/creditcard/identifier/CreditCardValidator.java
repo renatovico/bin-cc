@@ -1,4 +1,4 @@
-package com.creditcard.identifier;
+package br.com.s2n.creditcard.identifier;
 
 import java.util.HashMap;
 import java.util.List;
