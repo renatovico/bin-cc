@@ -41,11 +41,11 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git tag "libs/go/v${{ steps.version.outputs.VERSION }}"
-          git push origin "libs/go/v${{ steps.version.outputs.VERSION }}"
+          git tag "libs/go/v2/${{ steps.version.outputs.VERSION }}"
+          git push origin "libs/go/v2/${{ steps.version.outputs.VERSION }}"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Trigger pkg.go.dev update
         run: |
-          curl "https://proxy.golang.org/github.com/renatovico/bin-cc/libs/go/@v/v${{ steps.version.outputs.VERSION }}.info"
+          curl "https://proxy.golang.org/github.com/renatovico/bin-cc/libs/go/v2/@v/v${{ steps.version.outputs.VERSION }}.info"

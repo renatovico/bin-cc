@@ -34,9 +34,8 @@ jobs:
         run: vendor/bin/phpunit
       
       - name: Trigger Packagist update
-        if: env.PACKAGIST_TOKEN != ''
+        if: ${{ secrets.PACKAGIST_TOKEN != '' }}
         run: |
-          curl -X POST "https://packagist.org/api/update-package?username=${{ secrets.PACKAGIST_USERNAME }}&apiToken=${{ secrets.PACKAGIST_TOKEN }}" \
-            -d '{"repository":{"url":"https://github.com/renatovico/bin-cc"}}'
+          curl -X POST "https://packagist.org/api/update-package?username=${{ secrets.PACKAGIST_USERNAME }}&apiToken=${{ secrets.PACKAGIST_TOKEN }}"
         env:
           PACKAGIST_TOKEN: ${{ secrets.PACKAGIST_TOKEN }}
