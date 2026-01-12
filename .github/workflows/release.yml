@@ -6,18 +6,36 @@ on:
   workflow_dispatch:
     inputs:
       version:
-        description: 'Version to publish (e.g., 1.0.0)'
+        description: 'Version to publish (e.g., 2.1.0 without v prefix)'
         required: true
         type: string
 
-env:
-  VERSION: ${{ github.event.inputs.version || github.event.release.tag_name }}
-
 jobs:
+  # Extract version and set as environment variable
+  setup:
+    name: Setup Version
+    runs-on: ubuntu-latest
+    outputs:
+      version: ${{ steps.get_version.outputs.version }}
+    steps:
+      - name: Get version
+        id: get_version
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            VERSION="${{ github.event.inputs.version }}"
+          else
+            VERSION="${{ github.event.release.tag_name }}"
+            # Strip 'v' prefix if present
+            VERSION="${VERSION#v}"
+          fi
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+          echo "Using version: $VERSION"
+
   # Build data files first
   build:
     name: Build Data
     runs-on: ubuntu-latest
+    needs: setup
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -52,7 +70,7 @@ jobs:
   publish-npm:
     name: Publish to npm
     runs-on: ubuntu-latest
-    needs: build
+    needs: [setup, build]
     permissions:
       contents: read
       id-token: write
@@ -76,7 +94,7 @@ jobs:
           registry-url: 'https://registry.npmjs.org'
       
       - name: Update version
-        run: npm version ${{ env.VERSION }} --no-git-tag-version --allow-same-version
+        run: npm version ${{ needs.setup.outputs.version }} --no-git-tag-version --allow-same-version
       
       - name: Publish to npm with provenance
         run: npm publish --access public --provenance
@@ -85,7 +103,7 @@ jobs:
   publish-pypi:
     name: Publish to PyPI
     runs-on: ubuntu-latest
-    needs: build
+    needs: [setup, build]
     permissions:
       id-token: write
     defaults:
@@ -111,7 +129,7 @@ jobs:
       
       - name: Update version
         run: |
-          sed -i "s/version = \".*\"/version = \"${{ env.VERSION }}\"/" pyproject.toml
+          sed -i "s/version = \".*\"/version = \"${{ needs.setup.outputs.version }}\"/" pyproject.toml
       
       - name: Build package
         run: python -m build
@@ -125,7 +143,7 @@ jobs:
   publish-rubygems:
     name: Publish to RubyGems
     runs-on: ubuntu-latest
-    needs: build
+    needs: [setup, build]
     defaults:
       run:
         working-directory: libs/ruby
@@ -146,7 +164,7 @@ jobs:
       
       - name: Update version
         run: |
-          sed -i "s/spec.version.*=.*/spec.version       = '${{ env.VERSION }}'/" creditcard-identifier.gemspec
+          sed -i "s/spec.version.*=.*/spec.version       = '${{ needs.setup.outputs.version }}'/" creditcard-identifier.gemspec
       
       - name: Build gem
         run: gem build creditcard-identifier.gemspec
@@ -156,7 +174,7 @@ jobs:
           mkdir -p ~/.gem
           echo -e "---\n:rubygems_api_key: ${{ secrets.RUBYGEMS_API_KEY }}" > ~/.gem/credentials
           chmod 0600 ~/.gem/credentials
-          gem push creditcard-identifier-${{ env.VERSION }}.gem
+          gem push creditcard-identifier-${{ needs.setup.outputs.version }}.gem
         env:
           GEM_HOST_API_KEY: ${{ secrets.RUBYGEMS_API_KEY }}
 
@@ -164,7 +182,7 @@ jobs:
   publish-hex:
     name: Publish to Hex.pm
     runs-on: ubuntu-latest
-    needs: build
+    needs: [setup, build]
     defaults:
       run:
         working-directory: libs/elixir
@@ -186,7 +204,7 @@ jobs:
       
       - name: Update version
         run: |
-          sed -i "s/@version \".*\"/@version \"${{ env.VERSION }}\"/" mix.exs
+          sed -i "s/@version \".*\"/@version \"${{ needs.setup.outputs.version }}\"/" mix.exs
       
       - name: Install dependencies
         run: mix deps.get
@@ -200,7 +218,7 @@ jobs:
   publish-nuget:
     name: Publish to NuGet
     runs-on: ubuntu-latest
-    needs: build
+    needs: [setup, build]
     defaults:
       run:
         working-directory: libs/dotnet
@@ -221,10 +239,164 @@ jobs:
       
       - name: Update version
         run: |
-          sed -i "s/<Version>.*<\/Version>/<Version>${{ env.VERSION }}<\/Version>/" CreditCardIdentifier/CreditCardIdentifier.csproj
+          sed -i "s/<Version>.*<\/Version>/<Version>${{ needs.setup.outputs.version }}<\/Version>/" CreditCardIdentifier/CreditCardIdentifier.csproj
       
       - name: Pack NuGet package
         run: dotnet pack CreditCardIdentifier/CreditCardIdentifier.csproj -c Release -o ./nupkg
       
       - name: Publish to NuGet
         run: dotnet nuget push ./nupkg/*.nupkg --api-key ${{ secrets.NUGET_API_KEY }} --source https://api.nuget.org/v3/index.json --skip-duplicate
+
+  # Publish Go Module
+  publish-go:
+    name: Publish Go Module
+    runs-on: ubuntu-latest
+    needs: [setup, build]
+    permissions:
+      contents: write
+    defaults:
+      run:
+        working-directory: libs/go
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: generated-data
+          path: libs/
+      
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.21'
+      
+      - name: Run tests
+        run: go test -v
+      
+      - name: Create module tag
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git tag "libs/go/v2/${{ needs.setup.outputs.version }}"
+          git push origin "libs/go/v2/${{ needs.setup.outputs.version }}"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Trigger pkg.go.dev update
+        run: |
+          curl "https://proxy.golang.org/github.com/renatovico/bin-cc/libs/go/v2/@v/v${{ needs.setup.outputs.version }}.info"
+
+  # Publish to Maven Central
+  publish-maven:
+    name: Publish to Maven Central
+    runs-on: ubuntu-latest
+    needs: [setup, build]
+    defaults:
+      run:
+        working-directory: libs/java
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: generated-data
+          path: libs/
+      
+      - name: Set up JDK 11
+        uses: actions/setup-java@v4
+        with:
+          java-version: '11'
+          distribution: 'temurin'
+          server-id: central
+          server-username: MAVEN_USERNAME
+          server-password: MAVEN_PASSWORD
+      
+      - name: Update version
+        run: |
+          sed -i "s/<version>.*<\/version>/<version>${{ needs.setup.outputs.version }}<\/version>/" pom.xml
+      
+      - name: Build with Maven
+        run: mvn clean package
+      
+      - name: Publish to Maven Central
+        run: mvn deploy -P release
+        env:
+          MAVEN_USERNAME: ${{ secrets.MAVEN_CENTRAL_USERNAME }}
+          MAVEN_PASSWORD: ${{ secrets.MAVEN_CENTRAL_TOKEN }}
+
+  # Publish to crates.io
+  publish-crates:
+    name: Publish to crates.io
+    runs-on: ubuntu-latest
+    needs: [setup, build]
+    defaults:
+      run:
+        working-directory: libs/rust
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: generated-data
+          path: libs/
+      
+      - name: Install Rust
+        uses: dtolnay/rust-toolchain@stable
+      
+      - name: Update version
+        run: |
+          sed -i "s/^version = \".*\"/version = \"${{ needs.setup.outputs.version }}\"/" Cargo.toml
+      
+      - name: Run tests
+        run: cargo test --verbose
+      
+      - name: Publish to crates.io
+        run: cargo publish --token ${{ secrets.CARGO_REGISTRY_TOKEN }}
+
+  # Publish to Packagist
+  publish-packagist:
+    name: Publish to Packagist
+    runs-on: ubuntu-latest
+    needs: [setup, build]
+    defaults:
+      run:
+        working-directory: libs/php
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: generated-data
+          path: libs/
+      
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.1'
+          tools: composer
+      
+      - name: Update version
+        run: |
+          sed -i "s/\"version\": \".*\"/\"version\": \"${{ needs.setup.outputs.version }}\"/" composer.json
+      
+      - name: Install dependencies
+        run: composer install
+      
+      - name: Run tests
+        run: vendor/bin/phpunit
+      
+      - name: Trigger Packagist update
+        if: github.repository == 'renatovico/bin-cc'
+        continue-on-error: true
+        run: |
+          curl -X POST "https://packagist.org/api/update-package?username=${{ secrets.PACKAGIST_USERNAME }}&apiToken=${{ secrets.PACKAGIST_TOKEN }}"

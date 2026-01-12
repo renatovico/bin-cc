@@ -3,7 +3,7 @@ package main
 import (
 "fmt"
 
-creditcard "github.com/renatovico/bin-cc/libs/go"
+creditcard "github.com/renatovico/bin-cc/libs/go/v2"
 )
 
 func main() {
