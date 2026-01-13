@@ -387,7 +387,11 @@ jobs:
           php-version: '8.1'
           tools: composer
       
-      - name: Update version
+      - name: Update version in root composer.json
+        run: |
+          sed -i "s/\"version\": \".*\"/\"version\": \"${{ needs.setup.outputs.version }}\"/" composer.json
+      
+      - name: Update version in libs/php/composer.json
         working-directory: libs/php
         run: |
           sed -i "s/\"version\": \".*\"/\"version\": \"${{ needs.setup.outputs.version }}\"/" composer.json
@@ -400,24 +404,13 @@ jobs:
         working-directory: libs/php
         run: vendor/bin/phpunit
       
-      - name: Commit version update
+      - name: Commit and tag version
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add libs/php/composer.json
+          git add composer.json libs/php/composer.json
           git commit -m "chore(php): bump version to ${{ needs.setup.outputs.version }}" || true
-      
-      - name: Split and push PHP package
-        run: |
-          # Use git subtree split to extract libs/php to a separate branch
-          git subtree split --prefix=libs/php -b php-release
-          
-          # Force push the split branch
-          git push origin php-release:php-release --force
-          
-          # Create and push the version tag on the split branch
-          git tag "v${{ needs.setup.outputs.version }}" php-release
-          git push origin "v${{ needs.setup.outputs.version }}" --force
+          git push origin master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
@@ -428,4 +421,4 @@ jobs:
           curl -X POST "https://packagist.org/api/update-package" \
             -H "Content-Type: application/json" \
             -H "Authorization: Bearer ${{ secrets.PACKAGIST_USERNAME }}:${{ secrets.PACKAGIST_TOKEN }}" \
-            -d '{"repository":"https://github.com/renatovico/bin-cc/tree/php-release"}'
+            -d '{"repository":"https://github.com/renatovico/bin-cc"}'
