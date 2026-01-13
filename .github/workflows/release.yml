@@ -319,7 +319,8 @@ jobs:
       
       - name: Update version
         run: |
-          sed -i "s/<version>.*<\/version>/<version>${{ needs.setup.outputs.version }}<\/version>/" pom.xml
+          # Only update the project version (line after artifactId), not plugin versions
+          sed -i '0,/<artifactId>creditcard-identifier<\/artifactId>/{ n; s/<version>.*<\/version>/<version>${{ needs.setup.outputs.version }}<\/version>/; }' pom.xml
       
       - name: Build with Maven
         run: mvn clean package
@@ -427,4 +428,4 @@ jobs:
           curl -X POST "https://packagist.org/api/update-package" \
             -H "Content-Type: application/json" \
             -H "Authorization: Bearer ${{ secrets.PACKAGIST_USERNAME }}:${{ secrets.PACKAGIST_TOKEN }}" \
-            -d '{"repository":"https://github.com/renatovico/bin-cc.git#php-release"}'
+            -d '{"repository":"https://github.com/renatovico/bin-cc/tree/php-release"}'
