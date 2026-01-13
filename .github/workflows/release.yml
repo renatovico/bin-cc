@@ -281,8 +281,8 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git tag "libs/go/v2/${{ needs.setup.outputs.version }}"
-          git push origin "libs/go/v2/${{ needs.setup.outputs.version }}"
+          git tag "libs/go/v${{ needs.setup.outputs.version }}"
+          git push origin "libs/go/v${{ needs.setup.outputs.version }}"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
