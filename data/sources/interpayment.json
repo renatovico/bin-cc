@@ -1,0 +1,14 @@
+{
+  "scheme": "interpayment",
+  "brand": "InterPayment",
+  "patterns": [
+    {
+      "bin": "^636",
+      "length": [16, 17, 18, 19],
+      "luhn": true,
+      "cvvLength": 3
+    }
+  ],
+  "type": "credit",
+  "countries": ["GLOBAL"]
+}

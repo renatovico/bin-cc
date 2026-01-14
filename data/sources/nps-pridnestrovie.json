@@ -1,0 +1,16 @@
+{
+  "scheme": "nps-pridnestrovie",
+  "brand": "NPS Pridnestrovie",
+  "patterns": [
+    {
+      "bin": "^605474[0-4]",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3,
+      "comment": "6054740-6054744"
+    }
+  ],
+  "type": "debit",
+  "countries": ["MD"],
+  "unofficial": true
+}

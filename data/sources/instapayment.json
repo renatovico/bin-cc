@@ -1,0 +1,15 @@
+{
+  "scheme": "instapayment",
+  "brand": "InstaPayment",
+  "patterns": [
+    {
+      "bin": "^63[7-9]",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3,
+      "comment": "637-639"
+    }
+  ],
+  "type": "credit",
+  "countries": ["GLOBAL"]
+}

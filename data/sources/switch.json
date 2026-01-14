@@ -1,0 +1,58 @@
+{
+  "scheme": "switch",
+  "brand": "Switch",
+  "priorityOver": ["visa", "maestro"],
+  "patterns": [
+    {
+      "bin": "^4903",
+      "length": [16, 18, 19],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^4905",
+      "length": [16, 18, 19],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^4911",
+      "length": [16, 18, 19],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^4936",
+      "length": [16, 18, 19],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^564182",
+      "length": [16, 18, 19],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^633110",
+      "length": [16, 18, 19],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^6333",
+      "length": [16, 18, 19],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^6759",
+      "length": [16, 18, 19],
+      "luhn": true,
+      "cvvLength": 3
+    }
+  ],
+  "type": "debit",
+  "countries": ["GB"],
+  "unofficial": true
+}

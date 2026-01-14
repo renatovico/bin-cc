@@ -1,0 +1,21 @@
+{
+  "scheme": "solo",
+  "brand": "Solo",
+  "patterns": [
+    {
+      "bin": "^6334",
+      "length": [16, 18, 19],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^6767",
+      "length": [16, 18, 19],
+      "luhn": true,
+      "cvvLength": 3
+    }
+  ],
+  "type": "debit",
+  "countries": ["GB"],
+  "unofficial": true
+}

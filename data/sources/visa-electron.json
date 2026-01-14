@@ -1,0 +1,52 @@
+{
+  "scheme": "visa-electron",
+  "brand": "Visa Electron",
+  "priorityOver": ["visa"],
+  "patterns": [
+    {
+      "bin": "^4026",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^4405",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^4508",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^4844",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^4913",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^4917",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^417500",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3
+    }
+  ],
+  "type": "debit",
+  "countries": ["GLOBAL"],
+  "unofficial": true
+}

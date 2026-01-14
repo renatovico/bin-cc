@@ -21,6 +21,7 @@ function mergeSources(sources, schemeName) {
     scheme: base.scheme || schemeName,
     brand: base.brand,
     type: base.type,
+    priorityOver: base.priorityOver || [],
     countries: base.countries || []
   };
 

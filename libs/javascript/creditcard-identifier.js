@@ -7,6 +7,7 @@ const brandsDetailed = require('./data/brands-detailed');
 // Pre-compile regex patterns for better performance
 const compiledBrands = brands.map(b => ({
   name: b.name,
+  priorityOver: b.priorityOver || [],
   regexpBin: new RegExp(b.regexpBin),
   regexpFull: new RegExp(b.regexpFull),
   regexpCvv: new RegExp(b.regexpCvv)
@@ -56,7 +57,26 @@ function findBrand(cardNumber, detailed = false) {
     throw Error('Card number should be a string');
   }
 
-  const brand = compiledBrands.find(b => b.regexpFull.test(cardNumber));
+  // Find all matching brands
+  const matchingBrands = compiledBrands.filter(b => b.regexpFull.test(cardNumber));
+
+  if (matchingBrands.length === 0) {
+    throw Error('card number not supported');
+  }
+
+  // Resolve priority: a brand with priorityOver takes precedence over brands in that list
+  let brand = matchingBrands[0];
+  if (matchingBrands.length > 1) {
+    const matchingNames = matchingBrands.map(b => b.name);
+    for (const candidate of matchingBrands) {
+      // Check if this candidate has priority over any other matching brand
+      const hasPriority = candidate.priorityOver.some(p => matchingNames.includes(p));
+      if (hasPriority) {
+        brand = candidate;
+        break;
+      }
+    }
+  }
 
   if (!brand) {
     throw Error('card number not supported');

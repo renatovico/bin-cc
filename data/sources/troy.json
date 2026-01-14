@@ -1,0 +1,21 @@
+{
+  "scheme": "troy",
+  "brand": "Troy",
+  "patterns": [
+    {
+      "bin": "^65",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3,
+      "comment": "Discover co-branded"
+    },
+    {
+      "bin": "^9792",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3
+    }
+  ],
+  "type": "debit",
+  "countries": ["TR"]
+}

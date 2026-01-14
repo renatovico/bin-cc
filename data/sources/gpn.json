@@ -1,0 +1,40 @@
+{
+  "scheme": "gpn",
+  "brand": "GPN",
+  "patterns": [
+    {
+      "bin": "^1946",
+      "length": [16, 18, 19],
+      "luhn": true,
+      "cvvLength": 3,
+      "comment": "BNI cards"
+    },
+    {
+      "bin": "^50",
+      "length": [16, 18, 19],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^56",
+      "length": [16, 18, 19],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^58",
+      "length": [16, 18, 19],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^6[0-3]",
+      "length": [16, 18, 19],
+      "luhn": true,
+      "cvvLength": 3,
+      "comment": "60-63"
+    }
+  ],
+  "type": "debit",
+  "countries": ["ID"]
+}

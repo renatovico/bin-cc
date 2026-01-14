@@ -1,7 +1,7 @@
 {
   "scheme": "discover",
   "brand": "Discover",
-  "priorityOver": ["hipercard", "unionpay"],
+  "priorityOver": ["hipercard", "unionpay", "gpn", "rupay", "troy", "verve"],
   "patterns": [
     {
       "bin": "^6011",

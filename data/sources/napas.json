@@ -1,0 +1,14 @@
+{
+  "scheme": "napas",
+  "brand": "Napas",
+  "patterns": [
+    {
+      "bin": "^9704",
+      "length": [16, 19],
+      "luhn": true,
+      "cvvLength": 3
+    }
+  ],
+  "type": "debit",
+  "countries": ["VN"]
+}

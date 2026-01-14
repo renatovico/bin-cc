@@ -1,0 +1,20 @@
+{
+  "scheme": "uzcard",
+  "brand": "Uzcard",
+  "patterns": [
+    {
+      "bin": "^8600",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^5614",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3
+    }
+  ],
+  "type": "debit",
+  "countries": ["UZ"]
+}

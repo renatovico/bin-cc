@@ -1,0 +1,14 @@
+{
+  "scheme": "naranja",
+  "brand": "Naranja",
+  "patterns": [
+    {
+      "bin": "^589562",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3
+    }
+  ],
+  "type": "credit",
+  "countries": ["AR"]
+}

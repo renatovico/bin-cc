@@ -1,19 +1,19 @@
 {
-  "scheme": "mastercard",
-  "brand": "Mastercard",
+  "scheme": "bankcard",
+  "brand": "BankCard",
   "patterns": [
     {
-      "bin": "^5[1-5]",
+      "bin": "^5610",
       "length": [16],
       "luhn": true,
       "cvvLength": 3
     },
     {
-      "bin": "^2[2-7][0-2][0-9]",
+      "bin": "^56022[1-5]",
       "length": [16],
       "luhn": true,
       "cvvLength": 3,
-      "comment": "2-series BINs (222100-272099)"
+      "comment": "560221-560225"
     }
   ],
   "type": "credit",

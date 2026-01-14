@@ -1,0 +1,15 @@
+{
+  "scheme": "mir",
+  "brand": "Mir",
+  "patterns": [
+    {
+      "bin": "^220[0-4]",
+      "length": [16, 17, 18, 19],
+      "luhn": true,
+      "cvvLength": 3,
+      "comment": "2200-2204"
+    }
+  ],
+  "type": "debit",
+  "countries": ["RU"]
+}

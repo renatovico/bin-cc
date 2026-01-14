@@ -1,0 +1,14 @@
+{
+  "scheme": "china-t-union",
+  "brand": "China T-Union",
+  "patterns": [
+    {
+      "bin": "^31",
+      "length": [19],
+      "luhn": true,
+      "cvvLength": 3
+    }
+  ],
+  "type": "debit",
+  "countries": ["CN"]
+}

@@ -1,10 +1,11 @@
 {
   "scheme": "visa",
   "brand": "Visa",
+  "priorityOver": ["gpn", "interpayment", "instapayment"],
   "patterns": [
     {
       "bin": "^4",
-      "length": [13, 16],
+      "length": [13, 16, 19],
       "luhn": true,
       "cvvLength": 3
     },

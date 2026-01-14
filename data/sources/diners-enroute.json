@@ -1,0 +1,23 @@
+{
+  "scheme": "diners-enroute",
+  "brand": "Diners Club enRoute",
+  "patterns": [
+    {
+      "bin": "^2014",
+      "length": [15],
+      "luhn": false,
+      "cvvLength": 3,
+      "comment": "Legacy enRoute cards, no Luhn validation"
+    },
+    {
+      "bin": "^2149",
+      "length": [15],
+      "luhn": false,
+      "cvvLength": 3,
+      "comment": "Legacy enRoute cards, no Luhn validation"
+    }
+  ],
+  "type": "credit",
+  "countries": ["GLOBAL"],
+  "unofficial": true
+}

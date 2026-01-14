@@ -1,0 +1,16 @@
+{
+  "scheme": "lankapay",
+  "brand": "LankaPay",
+  "priorityOver": ["jcb"],
+  "patterns": [
+    {
+      "bin": "^357111",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3,
+      "comment": "JCB co-branded"
+    }
+  ],
+  "type": "debit",
+  "countries": ["LK"]
+}
