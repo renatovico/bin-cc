@@ -26,6 +26,125 @@ class TestValidator < Minitest::Test
     assert_nil @validator.find_brand('')
   end
 
+  def test_find_brand_elo
+    elo_bins = %w[
+      4011780000000000 4011790000000000 4312740000000000
+      4389350000000000 4514160000000000 4573930000000000
+      4576310000000000 4576320000000000 5041750000000000
+      6277800000000000 6362970000000000 6363680000000000
+      5066990000000000 5067770000000000 5090000000000000
+      5099980000000000 6500310000000000 6500320000000000
+      6500330000000000 6500350000000000 6500500000000000
+      6504050000000000 6504380000000000 6504850000000000
+      6505370000000000 6505410000000000 6505970000000000
+      6507000000000000 6507180000000000 6507210000000000
+      6507270000000000 6509010000000000 6509990000000000
+      6516520000000000 6516790000000000 6550000000000000
+      6550190000000000 6550210000000000 6550570000000000
+    ]
+    elo_bins.each do |card|
+      brand = @validator.find_brand(card)
+      refute_nil brand, "Expected ELO for #{card}"
+      assert_equal 'elo', brand[:name], "Expected ELO for #{card}, got #{brand[:name]}"
+    end
+  end
+
+  def test_find_brand_elo_invalid
+    invalid_elo = %w[4011770000000000 4011800000000000 5066980000000000 6500340000000000]
+    invalid_elo.each do |card|
+      brand = @validator.find_brand(card)
+      assert(brand.nil? || brand[:name] != 'elo', "#{card} should NOT be ELO")
+    end
+  end
+
+  def test_find_brand_aura
+    aura_cards = %w[
+      5000000000000000 5010000000000000 5020000000000000
+      5030000000000000 5040000000000000 5050000000000000
+      5060000000000000 5070000000000000 5080000000000000
+      5078601912345600019 5078601800003247449 5078601870000127985
+    ]
+    aura_cards.each do |card|
+      brand = @validator.find_brand(card)
+      refute_nil brand, "Expected Aura for #{card}"
+      assert_equal 'aura', brand[:name], "Expected Aura for #{card}, got #{brand[:name]}"
+    end
+  end
+
+  def test_find_brand_aura_invalid
+    invalid_aura = %w[510000000000000 500000000000000 5100000000000000]
+    invalid_aura.each do |card|
+      brand = @validator.find_brand(card)
+      assert(brand.nil? || brand[:name] != 'aura', "#{card} should NOT be Aura")
+    end
+  end
+
+  def test_find_brand_hipercard
+    hipercard_bins = %w[
+      6062821294950895 6062827452101536 6062827557052048
+      3841001111222233334 3841401111222233334 3841601111222233334
+    ]
+    hipercard_bins.each do |card|
+      brand = @validator.find_brand(card)
+      refute_nil brand, "Expected Hipercard for #{card}"
+      assert_equal 'hipercard', brand[:name], "Expected Hipercard for #{card}"
+    end
+  end
+
+  def test_find_brand_diners
+    diners_cards = %w[
+      30066909048113 30266056449987 38605306210123
+      30111122223331 30569309025904 38520000023237 36490102462661
+    ]
+    diners_cards.each do |card|
+      brand = @validator.find_brand(card)
+      refute_nil brand, "Expected Diners for #{card}"
+      assert_equal 'diners', brand[:name], "Expected Diners for #{card}"
+    end
+  end
+
+  def test_find_brand_diners_invalid
+    invalid_diners = %w[310000000000000 300000000000000 3060000000000000 370000000000000 390000000000000]
+    invalid_diners.each do |card|
+      brand = @validator.find_brand(card)
+      assert(brand.nil? || brand[:name] != 'diners', "#{card} should NOT be Diners")
+    end
+  end
+
+  def test_find_brand_discover
+    discover_cards = %w[6011236044609927 6011091915358231 6011726125958524 6511020000245045]
+    discover_cards.each do |card|
+      brand = @validator.find_brand(card)
+      refute_nil brand, "Expected Discover for #{card}"
+      assert_equal 'discover', brand[:name], "Expected Discover for #{card}"
+    end
+  end
+
+  def test_find_brand_mastercard
+    mastercard_cards = %w[
+      5533798818319497 5437251265160938 5101514275875158
+      5313557320486111 5216730016991151 2221000000000000 2720990000000000
+    ]
+    mastercard_cards.each do |card|
+      brand = @validator.find_brand(card)
+      refute_nil brand, "Expected Mastercard for #{card}"
+      assert_equal 'mastercard', brand[:name], "Expected Mastercard for #{card}"
+    end
+  end
+
+  def test_find_brand_visa
+    visa_cards = %w[
+      4012001037141112 4551870000000183 4073020000000002
+      4012001038443335 4024007190131 4556523434899
+      4477509054445560 4146805709584576 6367000000001022
+    ]
+    visa_cards.each do |card|
+      brand = @validator.find_brand(card)
+      refute_nil brand, "Expected Visa for #{card}"
+      assert_equal 'visa', brand[:name], "Expected Visa for #{card}"
+    end
+  end
+
   def test_find_brand_detailed
     brand = @validator.find_brand('4012001037141112', detailed: true)
     refute_nil brand

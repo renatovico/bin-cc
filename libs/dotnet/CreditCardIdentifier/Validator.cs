@@ -90,7 +90,26 @@ namespace CreditCardIdentifier
             if (string.IsNullOrEmpty(cardNumber))
                 return null;
 
-            return _brands.FirstOrDefault(b => b.RegexpFull.IsMatch(cardNumber));
+            // Collect all matching brands
+            var matchingBrands = _brands.Where(b => b.RegexpFull.IsMatch(cardNumber)).ToList();
+
+            if (!matchingBrands.Any())
+                return null;
+
+            if (matchingBrands.Count == 1)
+                return matchingBrands[0];
+
+            // Resolve priority: a brand with PriorityOver takes precedence
+            var matchingNames = new HashSet<string>(matchingBrands.Select(b => b.Name));
+            foreach (var candidate in matchingBrands)
+            {
+                if (candidate.PriorityOver != null && candidate.PriorityOver.Any(p => matchingNames.Contains(p)))
+                {
+                    return candidate;
+                }
+            }
+
+            return matchingBrands[0];
         }
 
         /// <summary>

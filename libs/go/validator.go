@@ -12,6 +12,7 @@ var luhnLookup = [10]int{0, 2, 4, 6, 8, 1, 3, 5, 7, 9}
 // CompiledBrand holds pre-compiled regex patterns and extracted length constraints
 type CompiledBrand struct {
 	Name         string
+	PriorityOver []string
 	MinLength    int
 	MaxLength    int
 	RegexpBin    *regexp.Regexp
@@ -71,6 +72,7 @@ func getCompiledBrands() []CompiledBrand {
 			
 			compiledBrands[i] = CompiledBrand{
 				Name:         brand.Name,
+				PriorityOver: brand.PriorityOver,
 				MinLength:    minLen,
 				MaxLength:    maxLen,
 				RegexpBin:    regexp.MustCompile(brand.RegexpBin),
@@ -119,6 +121,8 @@ func FindBrand(cardNumber string) *string {
 	compiled := getCompiledBrands()
 	cardLen := len(cardNumber)
 	
+	// Collect all matching brands
+	var matchingBrands []CompiledBrand
 	for _, brand := range compiled {
 		// Check length constraint if specified
 		if brand.MinLength > 0 && cardLen < brand.MinLength {
@@ -130,12 +134,38 @@ func FindBrand(cardNumber string) *string {
 		
 		// Check pattern match
 		if brand.RegexpFull.MatchString(cardNumber) {
-			name := brand.Name
-			return &name
+			matchingBrands = append(matchingBrands, brand)
 		}
 	}
 
-	return nil
+	if len(matchingBrands) == 0 {
+		return nil
+	}
+
+	// If only one match, return it
+	if len(matchingBrands) == 1 {
+		name := matchingBrands[0].Name
+		return &name
+	}
+
+	// Resolve priority: a brand with priorityOver takes precedence over brands in that list
+	matchingNames := make(map[string]bool)
+	for _, b := range matchingBrands {
+		matchingNames[b.Name] = true
+	}
+
+	for _, candidate := range matchingBrands {
+		for _, p := range candidate.PriorityOver {
+			if matchingNames[p] {
+				name := candidate.Name
+				return &name
+			}
+		}
+	}
+
+	// No priority winner, return first match
+	name := matchingBrands[0].Name
+	return &name
 }
 
 // FindBrandDetailed returns detailed brand information
