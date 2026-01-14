@@ -317,6 +317,7 @@ jobs:
           server-username: MAVEN_USERNAME
           server-password: MAVEN_PASSWORD
           gpg-private-key: ${{ secrets.GPG_PRIVATE_KEY }}
+          gpg-passphrase: GPG_PASSPHRASE
       
       - name: Update version
         run: |
@@ -326,10 +327,11 @@ jobs:
         run: mvn clean package
       
       - name: Publish to Maven Central
-        run: mvn deploy -P release
+        run: mvn deploy -P release -Dgpg.passphrase=""
         env:
           MAVEN_USERNAME: ${{ secrets.OSSRH_USERNAME }}
           MAVEN_PASSWORD: ${{ secrets.OSSRH_PASSWORD }}
+          GPG_PASSPHRASE: ""
 
   # Publish to crates.io
   publish-crates:
