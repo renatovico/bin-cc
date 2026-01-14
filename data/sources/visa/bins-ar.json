@@ -1,0 +1,70 @@
+{
+  "scheme": "visa",
+  "bins": [
+    {
+      "bin": "454659",
+      "type": "credit",
+      "issuer": "ICBC",
+      "countries": ["AR"]
+    },
+    {
+      "bin": "450979",
+      "type": "credit",
+      "issuer": "Santander Río",
+      "countries": ["AR"]
+    },
+    {
+      "bin": "419551",
+      "type": "credit",
+      "category": "gold",
+      "issuer": "Santander Río",
+      "countries": ["AR"]
+    },
+    {
+      "bin": "430497",
+      "type": "credit",
+      "category": "premier",
+      "issuer": "Hipotecario",
+      "countries": ["AR"]
+    },
+    {
+      "bin": "454074",
+      "type": "credit",
+      "category": "classic",
+      "issuer": "BBVA Banco Francés",
+      "countries": ["AR"]
+    },
+    {
+      "bin": "485715",
+      "type": "credit",
+      "issuer": "HSBC",
+      "countries": ["AR"]
+    },
+    {
+      "bin": "479352",
+      "type": "credit",
+      "category": "premier",
+      "issuer": "Banco Credicoop Cooperativo Ltdo",
+      "countries": ["AR"]
+    },
+    {
+      "bin": "489321",
+      "type": "credit",
+      "category": "signature",
+      "issuer": "Banco de la Provincia de Buenos Aires",
+      "countries": ["AR"]
+    },
+    {
+      "bin": "451766",
+      "type": "debit",
+      "issuer": "Santander Río",
+      "countries": ["AR"]
+    },
+    {
+      "bin": "499859",
+      "type": "debit",
+      "issuer": "Hipotecario",
+      "countries": ["AR"]
+    }
+  ]
+}

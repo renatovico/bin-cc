@@ -82,13 +82,35 @@ class CreditCardValidator
             return null;
         }
         
+        // Collect all matching brands
+        $matchingBrands = [];
         foreach ($this->compiledBrands as $compiled) {
             if (preg_match($compiled['regexpFull'], $cardNumber)) {
-                return $compiled['name'];
+                $matchingBrands[] = $compiled;
             }
         }
         
-        return null;
+        if (empty($matchingBrands)) {
+            return null;
+        }
+        
+        if (count($matchingBrands) === 1) {
+            return $matchingBrands[0]['name'];
+        }
+        
+        // Multiple matches - check priorityOver
+        $matchingNames = array_flip(array_column($matchingBrands, 'name'));
+        
+        foreach ($matchingBrands as $candidate) {
+            foreach ($candidate['brand']['priorityOver'] as $priority) {
+                if (isset($matchingNames[$priority])) {
+                    return $candidate['name'];
+                }
+            }
+        }
+        
+        // No priority winner found, return first match
+        return $matchingBrands[0]['name'];
     }
     
     /**

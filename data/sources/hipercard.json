@@ -1,9 +1,10 @@
 {
   "scheme": "hipercard",
   "brand": "Hipercard",
+  "priorityOver": ["gpn", "diners", "diners-international", "rupay"],
   "patterns": [
     {
-      "bin": "^38",
+      "bin": "^384",
       "length": [19],
       "luhn": true,
       "cvvLength": 3

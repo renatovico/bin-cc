@@ -1,0 +1,40 @@
+{
+  "scheme": "rupay",
+  "brand": "RuPay",
+  "patterns": [
+    {
+      "bin": "^60",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^65",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^8[12]",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3,
+      "comment": "81, 82"
+    },
+    {
+      "bin": "^508",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^35[36]",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3,
+      "comment": "353, 356 - RuPay-JCB co-branded"
+    }
+  ],
+  "type": "debit",
+  "countries": ["IN"]
+}

@@ -58,11 +58,25 @@ module CreditcardIdentifier
     def find_brand(card_number, detailed: false)
       return nil if card_number.nil? || card_number.empty?
 
-      brand = @brands.find do |b|
+      # Collect all matching brands
+      matching_brands = @brands.select do |b|
         b[:regexp_full].match?(card_number)
       end
 
-      return nil unless brand
+      return nil if matching_brands.empty?
+
+      # Resolve priority: a brand with priority_over takes precedence
+      brand = matching_brands.first
+      if matching_brands.length > 1
+        matching_names = matching_brands.map { |b| b[:name] }
+        matching_brands.each do |candidate|
+          priority_over = candidate[:priority_over] || []
+          if priority_over.any? { |p| matching_names.include?(p) }
+            brand = candidate
+            break
+          end
+        end
+      end
 
       if detailed
         detailed_brand = @brands_detailed.find { |b| b[:scheme] == brand[:name] }

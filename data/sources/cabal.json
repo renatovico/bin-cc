@@ -1,0 +1,47 @@
+{
+  "scheme": "cabal",
+  "brand": "Cabal",
+  "priorityOver": ["maestro"],
+  "patterns": [
+    {
+      "bin": "^604400",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^627170",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^603522",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^589657",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^(60420[1-9]|6042[1][0-9])",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3,
+      "comment": "604201-604219"
+    },
+    {
+      "bin": "^(6043[0-9]{2})",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3,
+      "comment": "604300-604399"
+    }
+  ],
+  "type": "credit",
+  "countries": ["AR"]
+}

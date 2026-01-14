@@ -1,0 +1,21 @@
+{
+  "scheme": "mastercard",
+  "brand": "Mastercard",
+  "priorityOver": ["diners-us-canada", "mir", "borica"],
+  "patterns": [
+    {
+      "bin": "^5[1-5]",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^2(?:2(?:2[1-9]|[3-9][0-9])|[3-6][0-9]{2}|7(?:[0-1][0-9]|20))",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3
+    }
+  ],
+  "type": "credit",
+  "countries": ["GLOBAL"]
+}

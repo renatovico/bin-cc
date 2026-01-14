@@ -82,14 +82,21 @@ class CreditCardValidator:
         if not card_number:
             return None
         
-        brand = None
-        for b in self.brands:
-            if b['_regexp_full'].match(card_number):
-                brand = b
-                break
+        # Collect all matching brands
+        matching_brands = [b for b in self.brands if b['_regexp_full'].match(card_number)]
         
-        if not brand:
+        if not matching_brands:
             return None
+        
+        # Resolve priority: a brand with priority_over takes precedence
+        brand = matching_brands[0]
+        if len(matching_brands) > 1:
+            matching_names = {b['name'] for b in matching_brands}
+            for candidate in matching_brands:
+                # Check if this candidate has priority over any other matching brand
+                if any(p in matching_names for p in candidate.get('priority_over', [])):
+                    brand = candidate
+                    break
         
         if detailed:
             detailed_brand = next(

@@ -1,0 +1,17 @@
+{
+  "scheme": "maestro",
+  "bins": [
+    {
+      "bin": "501041",
+      "type": "debit",
+      "issuer": "Banco de la Nación Argentina",
+      "countries": ["AR"]
+    },
+    {
+      "bin": "589562",
+      "type": "debit",
+      "issuer": "Naranja",
+      "countries": ["AR"]
+    }
+  ]
+}

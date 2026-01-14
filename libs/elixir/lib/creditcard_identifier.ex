@@ -66,9 +66,24 @@ defmodule CreditcardIdentifier do
   end
 
   defp find_brand_internal(card_number, brands, detailed) do
-    brand = Enum.find(brands, fn brand ->
+    # Collect all matching brands
+    matching_brands = Enum.filter(brands, fn brand ->
       Regex.match?(brand.regexp_full, card_number)
     end)
+
+    # Resolve priority
+    brand = case matching_brands do
+      [] -> nil
+      [single] -> single
+      multiple ->
+        matching_names = Enum.map(multiple, fn b -> b.name end)
+        # Find a brand that has priority over others
+        priority_winner = Enum.find(multiple, fn candidate ->
+          priority_over = Map.get(candidate, :priority_over, [])
+          Enum.any?(priority_over, fn p -> p in matching_names end)
+        end)
+        priority_winner || hd(multiple)
+    end
 
     case brand do
       nil -> nil

@@ -17,6 +17,7 @@ const LUHN_LOOKUP: [u8; 10] = [0, 2, 4, 6, 8, 1, 3, 5, 7, 9];
 /// Pre-compiled regex patterns for better performance
 struct CompiledBrand {
     name: &'static str,
+    priority_over: &'static [&'static str],
     min_length: usize,
     max_length: usize,
     regexp_bin: Regex,
@@ -63,6 +64,7 @@ fn get_compiled_brands() -> &'static Vec<CompiledBrand> {
                 
                 CompiledBrand {
                     name: brand.name,
+                    priority_over: brand.priority_over,
                     min_length: min_len,
                     max_length: max_len,
                     regexp_bin: Regex::new(brand.regexp_bin).unwrap(),
@@ -125,9 +127,10 @@ pub fn find_brand(card_number: &str) -> Option<&'static str> {
     let compiled = get_compiled_brands();
     let card_len = card_number.len();
     
-    compiled
+    // Collect all matching brands
+    let matching_brands: Vec<&CompiledBrand> = compiled
         .iter()
-        .find(|brand| {
+        .filter(|brand| {
             // Check length constraint if specified
             if brand.min_length > 0 && card_len < brand.min_length {
                 return false;
@@ -139,7 +142,30 @@ pub fn find_brand(card_number: &str) -> Option<&'static str> {
             // Check pattern match
             brand.regexp_full.is_match(card_number)
         })
-        .map(|brand| brand.name)
+        .collect();
+    
+    if matching_brands.is_empty() {
+        return None;
+    }
+    
+    if matching_brands.len() == 1 {
+        return Some(matching_brands[0].name);
+    }
+    
+    // Multiple matches - check priority_over
+    let matching_names: std::collections::HashSet<&str> = 
+        matching_brands.iter().map(|b| b.name).collect();
+    
+    for candidate in &matching_brands {
+        for priority in candidate.priority_over {
+            if matching_names.contains(priority) {
+                return Some(candidate.name);
+            }
+        }
+    }
+    
+    // No priority winner found, return first match
+    Some(matching_brands[0].name)
 }
 
 /// Find card brand with detailed information

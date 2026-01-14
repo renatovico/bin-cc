@@ -10,7 +10,7 @@ func TestLuhnValidNumbers(t *testing.T) {
 		"5533798818319497", // Mastercard
 		"378282246310005",  // Amex
 	}
-	
+
 	for _, cardNumber := range tests {
 		if !Luhn(cardNumber) {
 			t.Errorf("Luhn(%s) = false, expected true", cardNumber)
@@ -24,7 +24,7 @@ func TestLuhnInvalidNumbers(t *testing.T) {
 		"",
 		"4012001037141113",
 	}
-	
+
 	for _, cardNumber := range tests {
 		if Luhn(cardNumber) {
 			t.Errorf("Luhn(%s) = true, expected false", cardNumber)
@@ -38,7 +38,7 @@ func TestFindBrandVisa(t *testing.T) {
 		"4551870000000183",
 		"6367000000001022",
 	}
-	
+
 	for _, cardNumber := range tests {
 		brand := FindBrand(cardNumber)
 		if brand == nil || *brand != "visa" {
@@ -53,7 +53,7 @@ func TestFindBrandMastercard(t *testing.T) {
 		"5437251265160938",
 		"2221000000000000",
 	}
-	
+
 	for _, cardNumber := range tests {
 		brand := FindBrand(cardNumber)
 		if brand == nil || *brand != "mastercard" {
@@ -68,7 +68,7 @@ func TestFindBrandAmex(t *testing.T) {
 		"376411112222331",
 		"371449635398431",
 	}
-	
+
 	for _, cardNumber := range tests {
 		brand := FindBrand(cardNumber)
 		if brand == nil || *brand != "amex" {
@@ -82,7 +82,7 @@ func TestFindBrandDiscover(t *testing.T) {
 		"6011236044609927",
 		"6011091915358231",
 	}
-	
+
 	for _, cardNumber := range tests {
 		brand := FindBrand(cardNumber)
 		if brand == nil || *brand != "discover" {
@@ -97,7 +97,7 @@ func TestFindBrandDiners(t *testing.T) {
 		"30266056449987",
 		"36490102462661",
 	}
-	
+
 	for _, cardNumber := range tests {
 		brand := FindBrand(cardNumber)
 		if brand == nil || *brand != "diners" {
@@ -110,8 +110,49 @@ func TestFindBrandElo(t *testing.T) {
 	tests := []string{
 		"6362970000457013",
 		"6363680000000000",
+		// Static ELO BINs
+		"4011780000000000",
+		"4011790000000000",
+		"4312740000000000",
+		"4389350000000000",
+		"4514160000000000",
+		"4573930000000000",
+		"4576310000000000",
+		"4576320000000000",
+		"5041750000000000",
+		"6277800000000000",
+		"6362970000000000",
+		"6363680000000000",
+		// ELO ranges
+		"5066990000000000",
+		"5067770000000000",
+		"5090000000000000",
+		"5099980000000000",
+		"6500310000000000",
+		"6500320000000000",
+		"6500330000000000",
+		"6500350000000000",
+		"6500500000000000",
+		"6504050000000000",
+		"6504380000000000",
+		"6504850000000000",
+		"6505370000000000",
+		"6505410000000000",
+		"6505970000000000",
+		"6507000000000000",
+		"6507180000000000",
+		"6507210000000000",
+		"6507270000000000",
+		"6509010000000000",
+		"6509990000000000",
+		"6516520000000000",
+		"6516790000000000",
+		"6550000000000000",
+		"6550190000000000",
+		"6550210000000000",
+		"6550570000000000",
 	}
-	
+
 	for _, cardNumber := range tests {
 		brand := FindBrand(cardNumber)
 		if brand == nil || *brand != "elo" {
@@ -120,16 +161,111 @@ func TestFindBrandElo(t *testing.T) {
 	}
 }
 
+func TestFindBrandEloInvalid(t *testing.T) {
+	// These should NOT be ELO
+	tests := []string{
+		"4011770000000000",
+		"4011800000000000",
+		"5066980000000000",
+		"6500340000000000",
+	}
+
+	for _, cardNumber := range tests {
+		brand := FindBrand(cardNumber)
+		if brand != nil && *brand == "elo" {
+			t.Errorf("FindBrand(%s) = elo, expected NOT elo", cardNumber)
+		}
+	}
+}
+
+func TestFindBrandAura(t *testing.T) {
+	tests := []string{
+		"5000000000000000",
+		"5010000000000000",
+		"5020000000000000",
+		"5030000000000000",
+		"5040000000000000",
+		"5050000000000000",
+		"5060000000000000",
+		"5070000000000000",
+		"5080000000000000",
+		"5078601912345600019",
+		"5078601800003247449",
+		"5078601870000127985",
+	}
+
+	for _, cardNumber := range tests {
+		brand := FindBrand(cardNumber)
+		if brand == nil || *brand != "aura" {
+			t.Errorf("FindBrand(%s) = %v, expected aura", cardNumber, brand)
+		}
+	}
+}
+
+func TestFindBrandAuraInvalid(t *testing.T) {
+	// These should NOT be Aura (wrong length)
+	tests := []string{
+		"510000000000000",
+		"500000000000000",
+		"5100000000000000",
+	}
+
+	for _, cardNumber := range tests {
+		brand := FindBrand(cardNumber)
+		if brand != nil && *brand == "aura" {
+			t.Errorf("FindBrand(%s) = aura, expected NOT aura", cardNumber)
+		}
+	}
+}
+
 func TestFindBrandHipercard(t *testing.T) {
 	tests := []string{
 		"6062825624254001",
 		"6062821294950895",
+		"6062827452101536",
+		"6062827557052048",
+		"3841001111222233334",
+		"3841401111222233334",
+		"3841601111222233334",
 	}
-	
+
 	for _, cardNumber := range tests {
 		brand := FindBrand(cardNumber)
 		if brand == nil || *brand != "hipercard" {
 			t.Errorf("FindBrand(%s) = %v, expected hipercard", cardNumber, brand)
+		}
+	}
+}
+
+func TestFindBrandDinersInvalid(t *testing.T) {
+	// These should NOT be Diners
+	tests := []string{
+		"310000000000000",
+		"300000000000000",
+		"3060000000000000",
+		"370000000000000",
+		"390000000000000",
+	}
+
+	for _, cardNumber := range tests {
+		brand := FindBrand(cardNumber)
+		if brand != nil && *brand == "diners" {
+			t.Errorf("FindBrand(%s) = diners, expected NOT diners", cardNumber)
+		}
+	}
+}
+
+func TestFindBrandMastercardInvalid(t *testing.T) {
+	// These should NOT be Mastercard
+	tests := []string{
+		"500000000000000",
+		"56000000000000000",
+	}
+
+	for _, cardNumber := range tests {
+		brand := FindBrand(cardNumber)
+		if brand != nil && *brand == "mastercard" {
+			t.Errorf("FindBrand(%s) = mastercard, expected NOT mastercard", cardNumber)
 		}
 	}
 }
@@ -139,7 +275,7 @@ func TestFindBrandUnsupported(t *testing.T) {
 		"1234567890123456",
 		"",
 	}
-	
+
 	for _, cardNumber := range tests {
 		brand := FindBrand(cardNumber)
 		if brand != nil {
@@ -176,7 +312,7 @@ func TestValidateCVV(t *testing.T) {
 		{"", "visa", false},
 		{"123", "unknown", false},
 	}
-	
+
 	for _, tt := range tests {
 		got := ValidateCVV(tt.cvv, tt.brand)
 		if got != tt.want {
@@ -192,7 +328,7 @@ func TestGetBrandInfo(t *testing.T) {
 	} else if visaInfo.Name != "visa" {
 		t.Errorf("GetBrandInfo(visa).Name = %s, expected visa", visaInfo.Name)
 	}
-	
+
 	if GetBrandInfo("unknown") != nil {
 		t.Error("GetBrandInfo(unknown) != nil, expected nil")
 	}
@@ -213,7 +349,7 @@ func TestGetBrandInfoDetailed(t *testing.T) {
 			t.Error("GetBrandInfoDetailed(visa).NumberLengths is empty")
 		}
 	}
-	
+
 	if GetBrandInfoDetailed("unknown") != nil {
 		t.Error("GetBrandInfoDetailed(unknown) != nil, expected nil")
 	}
@@ -238,7 +374,7 @@ func TestListBrands(t *testing.T) {
 	if len(brands) == 0 {
 		t.Error("ListBrands() returned empty list")
 	}
-	
+
 	hasVisa := false
 	hasMastercard := false
 	for _, brand := range brands {
@@ -249,7 +385,7 @@ func TestListBrands(t *testing.T) {
 			hasMastercard = true
 		}
 	}
-	
+
 	if !hasVisa {
 		t.Error("ListBrands() does not contain visa")
 	}

@@ -1,0 +1,22 @@
+{
+  "scheme": "dankort",
+  "brand": "Dankort",
+  "priorityOver": ["visa"],
+  "patterns": [
+    {
+      "bin": "^5019",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^4571",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3,
+      "comment": "Visa co-branded"
+    }
+  ],
+  "type": "debit",
+  "countries": ["DK"]
+}

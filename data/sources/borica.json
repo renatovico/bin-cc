@@ -1,0 +1,14 @@
+{
+  "scheme": "borica",
+  "brand": "BORICA",
+  "patterns": [
+    {
+      "bin": "^2205",
+      "length": [16],
+      "luhn": true,
+      "cvvLength": 3
+    }
+  ],
+  "type": "debit",
+  "countries": ["BG"]
+}

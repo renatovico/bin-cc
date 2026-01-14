@@ -1,0 +1,27 @@
+{
+  "scheme": "maestro-uk",
+  "brand": "Maestro UK",
+  "priorityOver": ["maestro"],
+  "patterns": [
+    {
+      "bin": "^6759",
+      "length": [12, 13, 14, 15, 16, 17, 18, 19],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^676770",
+      "length": [12, 13, 14, 15, 16, 17, 18, 19],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^676774",
+      "length": [12, 13, 14, 15, 16, 17, 18, 19],
+      "luhn": true,
+      "cvvLength": 3
+    }
+  ],
+  "type": "debit",
+  "countries": ["GB"]
+}

@@ -1,0 +1,38 @@
+{
+  "scheme": "mastercard",
+  "bins": [
+    {
+      "bin": "525855",
+      "type": "credit",
+      "issuer": "Ualá",
+      "countries": ["AR"]
+    },
+    {
+      "bin": "532384",
+      "type": "credit",
+      "category": "standard",
+      "issuer": "Patagonia",
+      "countries": ["AR"]
+    },
+    {
+      "bin": "558353",
+      "type": "credit",
+      "category": "business",
+      "issuer": "BBVA Banco Francés",
+      "countries": ["AR"]
+    },
+    {
+      "bin": "521373",
+      "type": "credit",
+      "category": "platinum",
+      "issuer": "BBVA Banco Francés",
+      "countries": ["AR"]
+    },
+    {
+      "bin": "530456",
+      "type": "credit",
+      "issuer": "Banco de la Nación Argentina",
+      "countries": ["AR"]
+    }
+  ]
+}

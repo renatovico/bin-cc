@@ -1,0 +1,16 @@
+{
+  "scheme": "ukrcart",
+  "brand": "UkrCart",
+  "priorityOver": ["hipercard"],
+  "patterns": [
+    {
+      "bin": "^(60400[1-9][0-9]{2}|6040[1-9][0-9]{3}|604[1][0-9]{4}|6042[0][0][0-9]{2})",
+      "length": [16, 17, 18, 19],
+      "luhn": true,
+      "cvvLength": 3,
+      "comment": "60400100-60420099"
+    }
+  ],
+  "type": "debit",
+  "countries": ["UA"]
+}

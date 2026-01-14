@@ -1,0 +1,11 @@
+{
+  "scheme": "mastercard",
+  "bins": [
+    {
+      "bin": "540205",
+      "type": "debit",
+      "issuer": "Sabadell",
+      "countries": ["ES"]
+    }
+  ]
+}

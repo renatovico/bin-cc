@@ -1,0 +1,14 @@
+{
+  "scheme": "maestro",
+  "brand": "Maestro",
+  "patterns": [
+    {
+      "bin": "^(?:50|5[6-9]|6[0-9])",
+      "length": [12, 13, 14, 15, 16, 17, 18, 19],
+      "luhn": true,
+      "cvvLength": 3
+    }
+  ],
+  "type": "debit",
+  "countries": ["GLOBAL"]
+}

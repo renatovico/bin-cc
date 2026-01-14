@@ -1,0 +1,14 @@
+{
+  "scheme": "uatp",
+  "brand": "UATP",
+  "patterns": [
+    {
+      "bin": "^1",
+      "length": [15],
+      "luhn": true,
+      "cvvLength": 3
+    }
+  ],
+  "type": "credit",
+  "countries": ["GLOBAL"]
+}

@@ -1,0 +1,23 @@
+{
+  "scheme": "visa",
+  "bins": [
+    {
+      "bin": "405921",
+      "type": "credit",
+      "issuer": "Carrefour",
+      "countries": ["ES"]
+    },
+    {
+      "bin": "409015",
+      "type": "credit",
+      "issuer": "BBVA",
+      "countries": ["ES"]
+    },
+    {
+      "bin": "410626",
+      "type": "credit",
+      "issuer": "Sabadell",
+      "countries": ["ES"]
+    }
+  ]
+}

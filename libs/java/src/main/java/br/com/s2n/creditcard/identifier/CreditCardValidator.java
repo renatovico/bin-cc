@@ -84,15 +84,39 @@ public class CreditCardValidator {
             return null;
         }
         
-        // Iterate through brands in order to respect priority
+        // Collect all matching brands
+        java.util.List<BrandData.Brand> matchingBrands = new java.util.ArrayList<>();
         for (BrandData.Brand brand : brands) {
             CompiledBrand compiled = compiledBrands.get(brand);
             if (compiled.regexpFull.matcher(cardNumber).matches()) {
-                return compiled.brand.name;
+                matchingBrands.add(brand);
             }
         }
         
-        return null;
+        if (matchingBrands.isEmpty()) {
+            return null;
+        }
+        
+        if (matchingBrands.size() == 1) {
+            return matchingBrands.get(0).name;
+        }
+        
+        // Multiple matches - check priorityOver
+        java.util.Set<String> matchingNames = new java.util.HashSet<>();
+        for (BrandData.Brand brand : matchingBrands) {
+            matchingNames.add(brand.name);
+        }
+        
+        for (BrandData.Brand candidate : matchingBrands) {
+            for (String priority : candidate.priorityOver) {
+                if (matchingNames.contains(priority)) {
+                    return candidate.name;
+                }
+            }
+        }
+        
+        // No priority winner found, return first match
+        return matchingBrands.get(0).name;
     }
     
     /**
