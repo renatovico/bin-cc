@@ -8,12 +8,32 @@
       "countries": ["AR"]
     },
     {
+      "bin": "515073",
+      "type": "credit",
+      "issuer": "Mercado Pago",
+      "countries": ["AR", "BR", "MX", "CL", "CO", "PE", "UY"]
+    },
+    {
+      "bin": "515070",
+      "type": "credit",
+      "issuer": "Mercado Pago",
+      "countries": ["AR", "BR", "MX", "CL", "CO", "PE", "UY"]
+    },
+    {
       "bin": "532384",
       "type": "credit",
-      "category": "standard",
-      "issuer": "Patagonia",
-      "countries": ["AR"]
+      "issuer": "Mercado Pago",
+      "countries": ["AR", "BR", "MX", "CL", "CO", "PE", "UY"]
     },
+    {"bin": "520053", "type": "credit", "issuer": "Nativa", "countries": ["AR"]},
+    {"bin": "546553", "type": "credit", "issuer": "Nativa", "countries": ["AR"]},
+    {"bin": "554472", "type": "credit", "issuer": "Nativa", "countries": ["AR"]},
+    {"bin": "531847", "type": "credit", "issuer": "Nativa", "countries": ["AR"]},
+    {"bin": "527601", "type": "credit", "issuer": "Nativa", "countries": ["AR"]},
+    {"bin": "548740", "type": "credit", "issuer": "CMR Falabella", "countries": ["CL", "AR", "PE", "CO"]},
+    {"bin": "548742", "type": "credit", "issuer": "CMR Falabella", "category": "contactless", "countries": ["CL", "AR", "PE", "CO"]},
+    {"bin": "512269", "type": "credit", "issuer": "CMR Falabella", "category": "premium", "countries": ["CL", "AR", "PE", "CO"]},
+    {"bin": "522468", "type": "credit", "issuer": "CMR Falabella", "category": "elite", "countries": ["CL", "AR", "PE", "CO"]},
     {
       "bin": "558353",
       "type": "credit",

@@ -1,10 +1,10 @@
 {
-  "scheme": "naranja",
-  "brand": "Naranja",
-  "priorityOver": ["gpn", "maestro"],
+  "scheme": "argencard",
+  "brand": "Argencard",
+  "priorityOver": ["mastercard", "maestro", "aura", "gpn"],
   "patterns": [
     {
-      "bin": "^589562",
+      "bin": "^501105",
       "length": [16],
       "luhn": true,
       "cvvLength": 3

@@ -1,7 +1,7 @@
 {
   "scheme": "cabal",
   "brand": "Cabal",
-  "priorityOver": ["maestro"],
+  "priorityOver": ["maestro", "hipercard", "ukrcart", "rupay", "gpn", "unionpay"],
   "patterns": [
     {
       "bin": "^604400",
