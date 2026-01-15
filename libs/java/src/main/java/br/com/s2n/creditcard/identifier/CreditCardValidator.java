@@ -37,7 +37,7 @@ public class CreditCardValidator {
      */
     public CreditCardValidator() {
         this.brands = BrandData.BRANDS;
-        this.brandsDetailed = BrandDataDetailed.BRANDS;
+        this.brandsDetailed = BrandDataDetailed.getBrands();
         this.compiledBrands = new HashMap<>();
         
         // Pre-compile regex patterns for performance

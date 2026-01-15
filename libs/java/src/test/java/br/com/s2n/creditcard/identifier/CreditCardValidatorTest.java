@@ -111,7 +111,7 @@ public class CreditCardValidatorTest {
         assertNotNull("Visa detailed exists", visaDetailed);
         assertEquals("Visa scheme", "visa", visaDetailed.scheme);
         assertEquals("Visa brand name", "Visa", visaDetailed.brand);
-        assertTrue("Visa number lengths", visaDetailed.numberLengths.length > 0);
+        assertTrue("Visa number lengths", visaDetailed.number.lengths.length > 0);
         
         assertNull("Unknown scheme", validator.getBrandInfoDetailed("unknown"));
     }

@@ -36,11 +36,11 @@ func extractLengthFromRegex(pattern string) (cleanPattern string, minLen, maxLen
 	// Match (?=.{N}$) or (?=.{M,N}$) pattern
 	lookaheadPattern := regexp.MustCompile(`\(\?=\.\{(\d+)(,(\d+))?\}\$\)`)
 	matches := lookaheadPattern.FindStringSubmatch(pattern)
-	
+
 	if len(matches) > 0 {
 		// Remove the lookahead assertion from pattern
 		cleanPattern = lookaheadPattern.ReplaceAllString(pattern, "")
-		
+
 		// Extract length constraint
 		if matches[2] == "" {
 			// Exact length: (?=.{15}$)
@@ -60,7 +60,7 @@ func extractLengthFromRegex(pattern string) (cleanPattern string, minLen, maxLen
 			}
 		}
 	}
-	
+
 	return cleanPattern, minLen, maxLen
 }
 
@@ -69,7 +69,7 @@ func getCompiledBrands() []CompiledBrand {
 		compiledBrands = make([]CompiledBrand, len(Brands))
 		for i, brand := range Brands {
 			cleanFull, minLen, maxLen := extractLengthFromRegex(brand.RegexpFull)
-			
+
 			compiledBrands[i] = CompiledBrand{
 				Name:         brand.Name,
 				PriorityOver: brand.PriorityOver,
@@ -120,7 +120,7 @@ func FindBrand(cardNumber string) *string {
 
 	compiled := getCompiledBrands()
 	cardLen := len(cardNumber)
-	
+
 	// Collect all matching brands
 	var matchingBrands []CompiledBrand
 	for _, brand := range compiled {
@@ -131,7 +131,7 @@ func FindBrand(cardNumber string) *string {
 		if brand.MaxLength > 0 && cardLen > brand.MaxLength {
 			continue
 		}
-		
+
 		// Check pattern match
 		if brand.RegexpFull.MatchString(cardNumber) {
 			matchingBrands = append(matchingBrands, brand)
@@ -175,7 +175,7 @@ func FindBrandDetailed(cardNumber string) *BrandDetailed {
 		return nil
 	}
 
-	for _, brand := range BrandsDetailed {
+	for _, brand := range GetBrandsDetailed() {
 		if brand.Scheme == *brandName {
 			return &brand
 		}
@@ -217,7 +217,7 @@ func GetBrandInfo(brandName string) *Brand {
 
 // GetBrandInfoDetailed returns detailed brand information by scheme
 func GetBrandInfoDetailed(scheme string) *BrandDetailed {
-	for _, brand := range BrandsDetailed {
+	for _, brand := range GetBrandsDetailed() {
 		if brand.Scheme == scheme {
 			return &brand
 		}

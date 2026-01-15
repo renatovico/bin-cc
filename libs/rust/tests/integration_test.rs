@@ -213,7 +213,7 @@ fn test_get_brand_info_detailed() {
     let visa = visa_detailed.unwrap();
     assert_eq!(visa.scheme, "visa");
     assert_eq!(visa.brand, "Visa");
-    assert!(visa.number_lengths.len() > 0);
+    assert!(visa.number.lengths.len() > 0);
     
     assert!(get_brand_info_detailed("unknown").is_none());
 }

@@ -71,6 +71,7 @@ function generateGo(brands) {
 
 /**
  * Generate Go native data file (detailed)
+ * Loads bins from JSON at runtime to avoid huge source files
  */
 function generateGoDetailed(detailed) {
   const lines = [
@@ -79,93 +80,77 @@ function generateGoDetailed(detailed) {
     '',
     'package creditcard',
     '',
+    'import (',
+    '    _ "embed"',
+    '    "encoding/json"',
+    '    "sync"',
+    ')',
+    '',
+    '//go:embed cards-detailed.json',
+    'var cardsDetailedJSON []byte',
+    '',
     '// Pattern represents a BIN pattern for validation',
     'type Pattern struct {',
-    '    Bin       string',
-    '    Length    []int',
-    '    Luhn      bool',
-    '    CvvLength int',
+    '    Bin       string `json:"bin"`',
+    '    Length    []int  `json:"length"`',
+    '    Luhn      bool   `json:"luhn"`',
+    '    CvvLength int    `json:"cvvLength"`',
     '}',
     '',
     '// BinInfo represents detailed BIN information',
     'type BinInfo struct {',
-    '    Bin       string',
-    '    Type      string',
-    '    Category  string',
-    '    Issuer    string',
-    '    Countries []string',
+    '    Bin       string   `json:"bin"`',
+    '    Type      string   `json:"type"`',
+    '    Category  string   `json:"category"`',
+    '    Issuer    string   `json:"issuer"`',
+    '    Countries []string `json:"countries"`',
+    '}',
+    '',
+    '// NumberInfo represents card number validation info',
+    'type NumberInfo struct {',
+    '    Lengths []int `json:"lengths"`',
+    '    Luhn    bool  `json:"luhn"`',
+    '}',
+    '',
+    '// CvvInfo represents CVV validation info',
+    'type CvvInfo struct {',
+    '    Length int `json:"length"`',
     '}',
     '',
     '// BrandDetailed represents detailed credit card brand information',
     'type BrandDetailed struct {',
-    '    Scheme        string',
-    '    Brand         string',
-    '    Type          string',
-    '    NumberLengths []int',
-    '    NumberLuhn    bool',
-    '    CvvLength     int',
-    '    Patterns      []Pattern',
-    '    Countries     []string',
-    '    Metadata      map[string]interface{}',
-    '    PriorityOver  []string',
-    '    Bins          []BinInfo',
+    '    Scheme       string                 `json:"scheme"`',
+    '    Brand        string                 `json:"brand"`',
+    '    Type         string                 `json:"type"`',
+    '    Number       NumberInfo             `json:"number"`',
+    '    Cvv          CvvInfo                `json:"cvv"`',
+    '    Patterns     []Pattern              `json:"patterns"`',
+    '    Countries    []string               `json:"countries"`',
+    '    Metadata     map[string]interface{} `json:"metadata"`',
+    '    PriorityOver []string               `json:"priorityOver"`',
+    '    Bins         []BinInfo              `json:"bins"`',
     '}',
     '',
-    '// BrandsDetailed contains detailed information about all supported brands',
-    'var BrandsDetailed = []BrandDetailed{',
+    'var (',
+    '    brandsDetailedOnce sync.Once',
+    '    brandsDetailedData []BrandDetailed',
+    ')',
+    '',
+    '// GetBrandsDetailed returns detailed information about all supported brands (lazy-loaded from JSON)',
+    'func GetBrandsDetailed() []BrandDetailed {',
+    '    brandsDetailedOnce.Do(func() {',
+    '        if err := json.Unmarshal(cardsDetailedJSON, &brandsDetailedData); err != nil {',
+    '            panic("failed to parse cards-detailed.json: " + err.Error())',
+    '        }',
+    '    })',
+    '    return brandsDetailedData',
+    '}',
+    '',
+    '// BrandsDetailed is deprecated. Use GetBrandsDetailed() instead.',
+    'var BrandsDetailed = []BrandDetailed{}',
+    '',
   ];
 
-  for (const brand of detailed) {
-    const b = extractDetailedBrand(brand);
-    
-    lines.push('    {');
-    lines.push(`        Scheme:        ${toGoValue(b.scheme)},`);
-    lines.push(`        Brand:         ${toGoValue(b.brand)},`);
-    lines.push(`        Type:          ${toGoValue(b.type)},`);
-    lines.push(`        NumberLengths: ${toGoValue(b.number.lengths)},`);
-    lines.push(`        NumberLuhn:    ${toGoValue(b.number.luhn)},`);
-    lines.push(`        CvvLength:     ${b.cvv.length},`);
-    
-    // Patterns
-    lines.push('        Patterns: []Pattern{');
-    for (const pattern of b.patterns) {
-      lines.push('            {');
-      lines.push(`                Bin:       ${toGoValue(pattern.bin)},`);
-      lines.push(`                Length:    ${toGoValue(pattern.length)},`);
-      lines.push(`                Luhn:      ${toGoValue(pattern.luhn)},`);
-      lines.push(`                CvvLength: ${pattern.cvvLength},`);
-      lines.push('            },');
-    }
-    lines.push('        },');
-    
-    lines.push(`        Countries: ${toGoValue(b.countries)},`);
-    
-    // Metadata
-    lines.push('        Metadata: map[string]interface{}{');
-    for (const [key, value] of Object.entries(b.metadata)) {
-      lines.push(`            ${toGoValue(key)}: ${toGoValue(value)},`);
-    }
-    lines.push('        },');
-    
-    lines.push(`        PriorityOver: ${toGoValue(b.priorityOver)},`);
-    
-    // Bins
-    lines.push('        Bins: []BinInfo{');
-    for (const bin of b.bins) {
-      lines.push('            {');
-      lines.push(`                Bin:       ${toGoValue(bin.bin)},`);
-      lines.push(`                Type:      ${toGoValue(bin.type)},`);
-      lines.push(`                Category:  ${toGoValue(bin.category)},`);
-      lines.push(`                Issuer:    ${toGoValue(bin.issuer)},`);
-      lines.push(`                Countries: ${toGoValue(bin.countries || [])},`);
-      lines.push('            },');
-    }
-    lines.push('        },');
-    
-    lines.push('    },');
-  }
-
-  lines.push('}', '');
   return lines.join('\n');
 }
 

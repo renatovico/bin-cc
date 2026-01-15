@@ -8,8 +8,8 @@ pub use brands::Brand;
 pub use brands::BRANDS;
 pub use brands_detailed::BrandDetailed;
 pub use brands_detailed::Pattern;
-pub use brands_detailed::Bin;
-pub use brands_detailed::BRANDS as BRANDS_DETAILED;
+pub use brands_detailed::BinInfo;
+pub use brands_detailed::get_brands as get_brands_detailed;
 
 /// Luhn lookup table for doubling digits
 const LUHN_LOOKUP: [u8; 10] = [0, 2, 4, 6, 8, 1, 3, 5, 7, 9];
@@ -179,7 +179,7 @@ pub fn find_brand(card_number: &str) -> Option<&'static str> {
 /// Detailed brand information or `None` if not found
 pub fn find_brand_detailed(card_number: &str) -> Option<&'static BrandDetailed> {
     let brand_name = find_brand(card_number)?;
-    BRANDS_DETAILED
+    get_brands_detailed()
         .iter()
         .find(|b| b.scheme == brand_name)
 }
@@ -243,7 +243,7 @@ pub fn get_brand_info(brand_name: &str) -> Option<&'static Brand> {
 ///
 /// Detailed brand info or `None`
 pub fn get_brand_info_detailed(scheme: &str) -> Option<&'static BrandDetailed> {
-    BRANDS_DETAILED.iter().find(|b| b.scheme == scheme)
+    get_brands_detailed().iter().find(|b| b.scheme == scheme)
 }
 
 /// List all supported brands

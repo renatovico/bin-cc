@@ -76,91 +76,84 @@ function generateRust(brands) {
 
 /**
  * Generate Rust native data file (detailed)
+ * Loads bins from JSON at runtime to avoid huge source files
  */
 function generateRustDetailed(detailed) {
   const lines = [
     '// ' + fileHeader('//')[0].substring(3),
     '// ' + fileHeader('//')[1].substring(3),
     '',
-    '/// Credit card brand data (detailed).',
+    '//! Credit card brand data (detailed).',
+    '//! Loads bins from JSON at runtime to handle large data efficiently.',
     '',
-    '#[derive(Debug, Clone)]',
+    'use serde::Deserialize;',
+    'use std::sync::OnceLock;',
+    '',
+    'const CARDS_DETAILED_JSON: &str = include_str!("cards-detailed.json");',
+    '',
+    '#[derive(Debug, Clone, Deserialize)]',
+    '#[serde(rename_all = "camelCase")]',
     'pub struct Pattern {',
-    '    pub bin: &\'static str,',
-    '    pub length: &\'static [i32],',
+    '    pub bin: String,',
+    '    pub length: Vec<i32>,',
     '    pub luhn: bool,',
     '    pub cvv_length: i32,',
     '}',
     '',
-    '#[derive(Debug, Clone)]',
-    'pub struct Bin {',
-    '    pub bin: &\'static str,',
-    '    pub bin_type: &\'static str,',
-    '    pub category: &\'static str,',
-    '    pub issuer: &\'static str,',
-    '    pub countries: &\'static [&\'static str],',
+    '#[derive(Debug, Clone, Deserialize)]',
+    'pub struct BinInfo {',
+    '    pub bin: String,',
+    '    #[serde(rename = "type")]',
+    '    pub bin_type: Option<String>,',
+    '    pub category: Option<String>,',
+    '    pub issuer: Option<String>,',
+    '    pub countries: Option<Vec<String>>,',
     '}',
     '',
-    '#[derive(Debug, Clone)]',
+    '#[derive(Debug, Clone, Deserialize)]',
+    'pub struct NumberInfo {',
+    '    pub lengths: Vec<i32>,',
+    '    pub luhn: bool,',
+    '}',
+    '',
+    '#[derive(Debug, Clone, Deserialize)]',
+    'pub struct CvvInfo {',
+    '    pub length: i32,',
+    '}',
+    '',
+    '#[derive(Debug, Clone, Deserialize)]',
+    '#[serde(rename_all = "camelCase")]',
     'pub struct BrandDetailed {',
-    '    pub scheme: &\'static str,',
-    '    pub brand: &\'static str,',
-    '    pub brand_type: &\'static str,',
-    '    pub number_lengths: &\'static [i32],',
-    '    pub number_luhn: bool,',
-    '    pub cvv_length: i32,',
-    '    pub patterns: &\'static [Pattern],',
-    '    pub countries: &\'static [&\'static str],',
-    '    pub priority_over: &\'static [&\'static str],',
-    '    pub bins: &\'static [Bin],',
+    '    pub scheme: String,',
+    '    pub brand: String,',
+    '    #[serde(rename = "type")]',
+    '    pub brand_type: Option<String>,',
+    '    pub number: NumberInfo,',
+    '    pub cvv: CvvInfo,',
+    '    pub patterns: Vec<Pattern>,',
+    '    pub countries: Vec<String>,',
+    '    #[serde(default)]',
+    '    pub priority_over: Vec<String>,',
+    '    #[serde(default)]',
+    '    pub bins: Vec<BinInfo>,',
     '}',
     '',
-    'pub static BRANDS: &[BrandDetailed] = &[',
+    'static BRANDS_CACHE: OnceLock<Vec<BrandDetailed>> = OnceLock::new();',
+    '',
+    '/// Get detailed brand data (lazy-loaded from JSON).',
+    'pub fn get_brands() -> &\'static [BrandDetailed] {',
+    '    BRANDS_CACHE.get_or_init(|| {',
+    '        serde_json::from_str(CARDS_DETAILED_JSON)',
+    '            .expect("Failed to parse cards-detailed.json")',
+    '    })',
+    '}',
+    '',
+    '/// Deprecated: Use get_brands() instead.',
+    '#[deprecated(note = "Use get_brands() instead")]',
+    'pub static BRANDS: &[BrandDetailed] = &[];',
+    '',
   ];
 
-  for (const brand of detailed) {
-    const b = extractDetailedBrand(brand);
-    
-    lines.push('    BrandDetailed {');
-    lines.push(`        scheme: ${toRustValue(b.scheme)},`);
-    lines.push(`        brand: ${toRustValue(b.brand)},`);
-    lines.push(`        brand_type: ${toRustValue(b.type)},`);
-    lines.push(`        number_lengths: ${toRustValue(b.number.lengths)},`);
-    lines.push(`        number_luhn: ${toRustValue(b.number.luhn)},`);
-    lines.push(`        cvv_length: ${b.cvv.length},`);
-    
-    // Patterns
-    lines.push('        patterns: &[');
-    for (const pattern of b.patterns) {
-      lines.push('            Pattern {');
-      lines.push(`                bin: ${toRustValue(pattern.bin)},`);
-      lines.push(`                length: ${toRustValue(pattern.length)},`);
-      lines.push(`                luhn: ${toRustValue(pattern.luhn)},`);
-      lines.push(`                cvv_length: ${pattern.cvvLength},`);
-      lines.push('            },');
-    }
-    lines.push('        ],');
-    
-    lines.push(`        countries: ${toRustValue(b.countries)},`);
-    lines.push(`        priority_over: ${toRustValue(b.priorityOver)},`);
-    
-    // Bins
-    lines.push('        bins: &[');
-    for (const bin of b.bins) {
-      lines.push('            Bin {');
-      lines.push(`                bin: ${toRustValue(bin.bin)},`);
-      lines.push(`                bin_type: ${toRustValue(bin.type)},`);
-      lines.push(`                category: ${toRustValue(bin.category)},`);
-      lines.push(`                issuer: ${toRustValue(bin.issuer)},`);
-      lines.push(`                countries: ${toRustValue(bin.countries || [])},`);
-      lines.push('            },');
-    }
-    lines.push('        ],');
-    
-    lines.push('    },');
-  }
-
-  lines.push('];', '');
   return lines.join('\n');
 }
 

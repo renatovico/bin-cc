@@ -50,6 +50,7 @@ function generateElixir(brands) {
 
 /**
  * Generate Elixir native data file (detailed)
+ * Loads bins from JSON at runtime to avoid huge source files
  */
 function generateElixirDetailed(detailed) {
   const lines = [
@@ -59,70 +60,35 @@ function generateElixirDetailed(detailed) {
     'defmodule CreditcardIdentifier.DataDetailed do',
     '  @moduledoc """',
     '  Credit card brand data (detailed).',
+    '  Loads bins from JSON at runtime to handle large data efficiently.',
     '  """',
+    '',
+    '  @json_path Path.join(:code.priv_dir(:creditcard_identifier), "cards-detailed.json")',
     '',
     '  @doc """',
     '  Returns all credit card brands (detailed).',
+    '  Data is lazy-loaded from JSON file.',
     '  """',
     '  @spec brands() :: [map()]',
     '  def brands do',
-    '    ['
+    '    case :persistent_term.get(__MODULE__, nil) do',
+    '      nil ->',
+    '        data = load_from_json()',
+    '        :persistent_term.put(__MODULE__, data)',
+    '        data',
+    '      data ->',
+    '        data',
+    '    end',
+    '  end',
+    '',
+    '  defp load_from_json do',
+    '    @json_path',
+    '    |> File.read!()',
+    '    |> Jason.decode!(keys: :atoms)',
+    '  end',
+    'end',
+    '',
   ];
-
-  for (const brand of detailed) {
-    const b = extractDetailedBrand(brand);
-    lines.push('      %{');
-    lines.push(`        scheme: ${ex.string(b.scheme)},`);
-    lines.push(`        brand: ${ex.string(b.brand)},`);
-    lines.push(`        type: ${ex.string(b.type)},`);
-    lines.push('        number: %{');
-    lines.push(`          lengths: ${toNativeValue(b.number.lengths, 'elixir')},`);
-    lines.push(`          luhn: ${toNativeValue(b.number.luhn, 'elixir')}`);
-    lines.push('        },');
-    lines.push('        cvv: %{');
-    lines.push(`          length: ${b.cvv.length}`);
-    lines.push('        },');
-    lines.push('        patterns: [');
-    for (const pattern of b.patterns) {
-      lines.push('          %{');
-      lines.push(`            bin: ${ex.string(pattern.bin)},`);
-      lines.push(`            length: ${toNativeValue(pattern.length, 'elixir')},`);
-      lines.push(`            luhn: ${toNativeValue(pattern.luhn, 'elixir')},`);
-      lines.push(`            cvv_length: ${pattern.cvvLength}`);
-      lines.push('          },');
-    }
-    lines.push('        ],');
-    lines.push(`        countries: ${toNativeValue(b.countries, 'elixir')},`);
-    // Metadata uses string keys
-    const metadataEntries = Object.entries(b.metadata).map(([k, v]) => 
-      `"${k}" => ${toNativeValue(v, 'elixir')}`
-    ).join(', ');
-    lines.push(`        metadata: %{${metadataEntries}},`);
-    lines.push(`        priority_over: ${toNativeValue(b.priorityOver, 'elixir')},`);
-    
-    if (b.bins.length > 0) {
-      lines.push('        bins: [');
-      for (const bin of b.bins) {
-        lines.push('          %{');
-        lines.push(`            bin: ${ex.string(bin.bin)},`);
-        lines.push(`            type: ${toNativeValue(bin.type, 'elixir')},`);
-        lines.push(`            category: ${toNativeValue(bin.category, 'elixir')},`);
-        lines.push(`            issuer: ${toNativeValue(bin.issuer, 'elixir')},`);
-        lines.push(`            countries: ${toNativeValue(bin.countries || [], 'elixir')}`);
-        lines.push('          },');
-      }
-      lines.push('        ]');
-    } else {
-      lines.push('        bins: []');
-    }
-    
-    lines.push('      },');
-  }
-
-  lines.push('    ]');
-  lines.push('  end');
-  lines.push('end');
-  lines.push('');
 
   return lines.join('\n');
 }

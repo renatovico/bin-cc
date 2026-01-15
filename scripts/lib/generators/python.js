@@ -48,62 +48,64 @@ function generatePython(brands) {
 
 /**
  * Generate Python native data file (detailed)
+ * Loads bins from JSON at runtime to avoid huge source files
  */
 function generatePythonDetailed(detailed) {
   const lines = [
     ...fileHeader('#'),
-    '"""Credit card brand data (detailed)."""',
+    '"""Credit card brand data (detailed). Loads bins from JSON at runtime."""',
     '',
-    'BRANDS = ['
+    'import json',
+    'import os',
+    'from typing import Any, Dict, List',
+    '',
+    '',
+    'def _load_json() -> List[Dict[str, Any]]:',
+    '    """Load detailed brand data from JSON file."""',
+    '    json_path = os.path.join(os.path.dirname(__file__), "cards-detailed.json")',
+    '    with open(json_path, "r", encoding="utf-8") as f:',
+    '        return json.load(f)',
+    '',
+    '',
+    '# Lazy-loaded brands data',
+    '_brands_cache: List[Dict[str, Any]] = []',
+    '',
+    '',
+    'def get_brands() -> List[Dict[str, Any]]:',
+    '    """Get detailed brand data (lazy-loaded from JSON)."""',
+    '    global _brands_cache',
+    '    if not _brands_cache:',
+    '        _brands_cache = _load_json()',
+    '    return _brands_cache',
+    '',
+    '',
+    '# Module-level lazy property for backwards compatibility',
+    'class _BrandsProxy(list):',
+    '    """Proxy that loads data on first access."""',
+    '    _loaded = False',
+    '',
+    '    def _ensure_loaded(self):',
+    '        if not self._loaded:',
+    '            self.extend(get_brands())',
+    '            self._loaded = True',
+    '',
+    '    def __iter__(self):',
+    '        self._ensure_loaded()',
+    '        return super().__iter__()',
+    '',
+    '    def __len__(self):',
+    '        self._ensure_loaded()',
+    '        return super().__len__()',
+    '',
+    '    def __getitem__(self, key):',
+    '        self._ensure_loaded()',
+    '        return super().__getitem__(key)',
+    '',
+    '',
+    'BRANDS = _BrandsProxy()',
+    '',
   ];
 
-  for (const brand of detailed) {
-    const b = extractDetailedBrand(brand);
-    lines.push('    {');
-    lines.push(`        "scheme": ${toNativeValue(b.scheme, 'python')},`);
-    lines.push(`        "brand": ${toNativeValue(b.brand, 'python')},`);
-    lines.push(`        "type": ${toNativeValue(b.type, 'python')},`);
-    lines.push('        "number": {');
-    lines.push(`            "lengths": ${toNativeValue(b.number.lengths, 'python')},`);
-    lines.push(`            "luhn": ${toNativeValue(b.number.luhn, 'python')}`);
-    lines.push('        },');
-    lines.push('        "cvv": {');
-    lines.push(`            "length": ${b.cvv.length}`);
-    lines.push('        },');
-    lines.push('        "patterns": [');
-    for (const pattern of b.patterns) {
-      lines.push('            {');
-      lines.push(`                "bin": ${toNativeValue(pattern.bin, 'python')},`);
-      lines.push(`                "length": ${toNativeValue(pattern.length, 'python')},`);
-      lines.push(`                "luhn": ${toNativeValue(pattern.luhn, 'python')},`);
-      lines.push(`                "cvvLength": ${pattern.cvvLength}`);
-      lines.push('            },');
-    }
-    lines.push('        ],');
-    lines.push(`        "countries": ${toNativeValue(b.countries, 'python')},`);
-    lines.push(`        "metadata": ${toNativeValue(b.metadata, 'python')},`);
-    lines.push(`        "priorityOver": ${toNativeValue(b.priorityOver, 'python')},`);
-    
-    if (b.bins.length > 0) {
-      lines.push('        "bins": [');
-      for (const bin of b.bins) {
-        lines.push('            {');
-        lines.push(`                "bin": ${toNativeValue(bin.bin, 'python')},`);
-        lines.push(`                "type": ${toNativeValue(bin.type, 'python')},`);
-        lines.push(`                "category": ${toNativeValue(bin.category, 'python')},`);
-        lines.push(`                "issuer": ${toNativeValue(bin.issuer, 'python')},`);
-        lines.push(`                "countries": ${toNativeValue(bin.countries || [], 'python')}`);
-        lines.push('            },');
-      }
-      lines.push('        ]');
-    } else {
-      lines.push('        "bins": []');
-    }
-    
-    lines.push('    },');
-  }
-
-  lines.push(']', '');
   return lines.join('\n');
 }
 

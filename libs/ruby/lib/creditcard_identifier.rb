@@ -46,7 +46,7 @@ module CreditcardIdentifier
     # Initialize validator with brand data
     def initialize
       @brands = BRANDS
-      @brands_detailed = BRANDS_DETAILED
+      @brands_detailed = CreditcardIdentifier.brands_detailed
     end
 
     ##
@@ -202,13 +202,7 @@ module CreditcardIdentifier
       BRANDS
     end
 
-    ##
-    # Get all detailed brand data
-    #
-    # @return [Array<Hash>] List of detailed brand hashes
-    def brands_detailed
-      BRANDS_DETAILED
-    end
+    # Note: brands_detailed is defined in brands_detailed.rb
 
     ##
     # Identify the credit card brand

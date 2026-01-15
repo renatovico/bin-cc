@@ -55,7 +55,7 @@ fn main() {
     if let Some(visa_detailed) = get_brand_info_detailed("visa") {
         println!("  Scheme: {}", visa_detailed.scheme);
         println!("  Brand: {}", visa_detailed.brand);
-        println!("  Type: {}", visa_detailed.brand_type);
+        println!("  Type: {:?}", visa_detailed.brand_type);
     }
     println!();
 

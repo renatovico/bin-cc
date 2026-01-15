@@ -345,8 +345,8 @@ func TestGetBrandInfoDetailed(t *testing.T) {
 		if visaDetailed.Brand != "Visa" {
 			t.Errorf("GetBrandInfoDetailed(visa).Brand = %s, expected Visa", visaDetailed.Brand)
 		}
-		if len(visaDetailed.NumberLengths) == 0 {
-			t.Error("GetBrandInfoDetailed(visa).NumberLengths is empty")
+		if len(visaDetailed.Number.Lengths) == 0 {
+			t.Error("GetBrandInfoDetailed(visa).Number.Lengths is empty")
 		}
 	}
 

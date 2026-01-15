@@ -77,6 +77,7 @@ function generatePhp(brands) {
 
 /**
  * Generate PHP native data file (detailed)
+ * Loads bins from JSON at runtime to avoid huge source files
  */
 function generatePhpDetailed(detailed) {
   const lines = [
@@ -88,67 +89,41 @@ function generatePhpDetailed(detailed) {
     '',
     '/**',
     ' * Credit card brand data (detailed).',
+    ' * Loads bins from JSON at runtime to handle large data efficiently.',
     ' */',
     'class BrandDataDetailed',
     '{',
+    '    private static ?array $brandsCache = null;',
+    '',
     '    /**',
+    '     * Get all detailed brand data (lazy-loaded from JSON).',
     '     * @return array<array>',
     '     */',
     '    public static function getBrands(): array',
     '    {',
-    '        return [',
+    '        if (self::$brandsCache === null) {',
+    '            self::$brandsCache = self::loadFromJson();',
+    '        }',
+    '        return self::$brandsCache;',
+    '    }',
+    '',
+    '    private static function loadFromJson(): array',
+    '    {',
+    '        $jsonPath = __DIR__ . \'/cards-detailed.json\';',
+    '        $json = file_get_contents($jsonPath);',
+    '        if ($json === false) {',
+    '            throw new \\RuntimeException(\'Failed to read cards-detailed.json\');',
+    '        }',
+    '        $data = json_decode($json, true);',
+    '        if ($data === null) {',
+    '            throw new \\RuntimeException(\'Failed to parse cards-detailed.json\');',
+    '        }',
+    '        return $data;',
+    '    }',
+    '}',
+    '',
   ];
 
-  for (const brand of detailed) {
-    const b = extractDetailedBrand(brand);
-    
-    lines.push('            [');
-    lines.push(`                'scheme' => ${toPhpValue(b.scheme)},`);
-    lines.push(`                'brand' => ${toPhpValue(b.brand)},`);
-    lines.push(`                'type' => ${toPhpValue(b.type)},`);
-    lines.push('                \'number\' => [');
-    lines.push(`                    'lengths' => ${toPhpValue(b.number.lengths)},`);
-    lines.push(`                    'luhn' => ${toPhpValue(b.number.luhn)},`);
-    lines.push('                ],');
-    lines.push('                \'cvv\' => [');
-    lines.push(`                    'length' => ${b.cvv.length},`);
-    lines.push('                ],');
-    
-    // Patterns
-    lines.push('                \'patterns\' => [');
-    for (const pattern of b.patterns) {
-      lines.push('                    [');
-      lines.push(`                        'bin' => ${toPhpValue(pattern.bin)},`);
-      lines.push(`                        'length' => ${toPhpValue(pattern.length)},`);
-      lines.push(`                        'luhn' => ${toPhpValue(pattern.luhn)},`);
-      lines.push(`                        'cvvLength' => ${pattern.cvvLength},`);
-      lines.push('                    ],');
-    }
-    lines.push('                ],');
-    
-    lines.push(`                'countries' => ${toPhpValue(b.countries)},`);
-    lines.push(`                'metadata' => ${toPhpValue(b.metadata)},`);
-    lines.push(`                'priorityOver' => ${toPhpValue(b.priorityOver)},`);
-    
-    // Bins
-    lines.push('                \'bins\' => [');
-    for (const bin of b.bins) {
-      lines.push('                    [');
-      lines.push(`                        'bin' => ${toPhpValue(bin.bin)},`);
-      lines.push(`                        'type' => ${toPhpValue(bin.type)},`);
-      lines.push(`                        'category' => ${toPhpValue(bin.category)},`);
-      lines.push(`                        'issuer' => ${toPhpValue(bin.issuer)},`);
-      lines.push(`                        'countries' => ${toPhpValue(bin.countries || [])},`);
-      lines.push('                    ],');
-    }
-    lines.push('                ],');
-    
-    lines.push('            ],');
-  }
-
-  lines.push('        ];');
-  lines.push('    }');
-  lines.push('}', '');
   return lines.join('\n');
 }
 

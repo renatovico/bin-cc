@@ -81,6 +81,7 @@ function generateJava(brands) {
 
 /**
  * Generate Java native data file (detailed)
+ * Loads bins from JSON at runtime to avoid huge source files
  */
 function generateJavaDetailed(detailed) {
   const lines = [
@@ -89,106 +90,85 @@ function generateJavaDetailed(detailed) {
     '',
     'package br.com.s2n.creditcard.identifier;',
     '',
-    'import java.util.ArrayList;',
-    'import java.util.HashMap;',
+    'import com.google.gson.Gson;',
+    'import com.google.gson.reflect.TypeToken;',
+    '',
+    'import java.io.InputStream;',
+    'import java.io.InputStreamReader;',
+    'import java.lang.reflect.Type;',
+    'import java.nio.charset.StandardCharsets;',
     'import java.util.List;',
     'import java.util.Map;',
     '',
     '/**',
     ' * Credit card brand data (detailed).',
+    ' * Loads bins from JSON at runtime to handle large data efficiently.',
     ' */',
     'public class BrandDataDetailed {',
     '',
     '    public static class Pattern {',
-    '        public final String bin;',
-    '        public final int[] length;',
-    '        public final boolean luhn;',
-    '        public final int cvvLength;',
-    '',
-    '        public Pattern(String bin, int[] length, boolean luhn, int cvvLength) {',
-    '            this.bin = bin;',
-    '            this.length = length;',
-    '            this.luhn = luhn;',
-    '            this.cvvLength = cvvLength;',
-    '        }',
+    '        public String bin;',
+    '        public int[] length;',
+    '        public boolean luhn;',
+    '        public int cvvLength;',
     '    }',
     '',
     '    public static class Bin {',
-    '        public final String bin;',
-    '        public final String type;',
-    '        public final String category;',
-    '        public final String issuer;',
-    '        public final String[] countries;',
+    '        public String bin;',
+    '        public String type;',
+    '        public String category;',
+    '        public String issuer;',
+    '        public String[] countries;',
+    '    }',
     '',
-    '        public Bin(String bin, String type, String category, String issuer, String[] countries) {',
-    '            this.bin = bin;',
-    '            this.type = type;',
-    '            this.category = category;',
-    '            this.issuer = issuer;',
-    '            this.countries = countries;',
-    '        }',
+    '    public static class Number {',
+    '        public int[] lengths;',
+    '        public boolean luhn;',
+    '    }',
+    '',
+    '    public static class Cvv {',
+    '        public int length;',
     '    }',
     '',
     '    public static class BrandDetailed {',
-    '        public final String scheme;',
-    '        public final String brand;',
-    '        public final String type;',
-    '        public final int[] numberLengths;',
-    '        public final boolean numberLuhn;',
-    '        public final int cvvLength;',
-    '        public final List<Pattern> patterns;',
-    '        public final String[] countries;',
-    '        public final Map<String, Object> metadata;',
-    '        public final String[] priorityOver;',
-    '        public final List<Bin> bins;',
-    '',
-    '        public BrandDetailed(String scheme, String brand, String type, int[] numberLengths, boolean numberLuhn,',
-    '                            int cvvLength, List<Pattern> patterns, String[] countries, Map<String, Object> metadata,',
-    '                            String[] priorityOver, List<Bin> bins) {',
-    '            this.scheme = scheme;',
-    '            this.brand = brand;',
-    '            this.type = type;',
-    '            this.numberLengths = numberLengths;',
-    '            this.numberLuhn = numberLuhn;',
-    '            this.cvvLength = cvvLength;',
-    '            this.patterns = patterns;',
-    '            this.countries = countries;',
-    '            this.metadata = metadata;',
-    '            this.priorityOver = priorityOver;',
-    '            this.bins = bins;',
-    '        }',
+    '        public String scheme;',
+    '        public String brand;',
+    '        public String type;',
+    '        public Number number;',
+    '        public Cvv cvv;',
+    '        public List<Pattern> patterns;',
+    '        public String[] countries;',
+    '        public Map<String, Object> metadata;',
+    '        public String[] priorityOver;',
+    '        public List<Bin> bins;',
     '    }',
     '',
-    '    public static final List<BrandDetailed> BRANDS = new ArrayList<BrandDetailed>() {{',
+    '    private static List<BrandDetailed> brandsCache = null;',
+    '',
+    '    /**',
+    '     * Get all detailed brand data (lazy-loaded from JSON).',
+    '     */',
+    '    public static synchronized List<BrandDetailed> getBrands() {',
+    '        if (brandsCache == null) {',
+    '            brandsCache = loadBrandsFromJson();',
+    '        }',
+    '        return brandsCache;',
+    '    }',
+    '',
+    '    private static List<BrandDetailed> loadBrandsFromJson() {',
+    '        try (InputStream is = BrandDataDetailed.class.getResourceAsStream("/cards-detailed.json");',
+    '             InputStreamReader reader = new InputStreamReader(is, StandardCharsets.UTF_8)) {',
+    '            Gson gson = new Gson();',
+    '            Type listType = new TypeToken<List<BrandDetailed>>(){}.getType();',
+    '            return gson.fromJson(reader, listType);',
+    '        } catch (Exception e) {',
+    '            throw new RuntimeException("Failed to load cards-detailed.json", e);',
+    '        }',
+    '    }',
+    '}',
+    '',
   ];
 
-  for (let i = 0; i < detailed.length; i++) {
-    const b = extractDetailedBrand(detailed[i]);
-    
-    // Patterns - use unique variable name
-    lines.push(`        List<Pattern> patterns${i} = new ArrayList<Pattern>() {{`);
-    for (const pattern of b.patterns) {
-      lines.push(`            add(new Pattern(${toJavaValue(pattern.bin)}, ${toJavaValue(pattern.length)}, ${toJavaValue(pattern.luhn)}, ${pattern.cvvLength}));`);
-    }
-    lines.push('        }};');
-    
-    // Bins - use unique variable name
-    lines.push(`        List<Bin> bins${i} = new ArrayList<Bin>() {{`);
-    for (const bin of b.bins) {
-      lines.push(`            add(new Bin(${toJavaValue(bin.bin)}, ${toJavaValue(bin.type)}, ${toJavaValue(bin.category)}, ${toJavaValue(bin.issuer)}, ${toJavaValue(bin.countries || [])}));`);
-    }
-    lines.push('        }};');
-    
-    // Metadata - use unique variable name
-    lines.push(`        Map<String, Object> metadata${i} = new HashMap<>();`);
-    for (const [key, value] of Object.entries(b.metadata)) {
-      lines.push(`        metadata${i}.put(${toJavaValue(key)}, ${toJavaValue(value)});`);
-    }
-    
-    lines.push(`        add(new BrandDetailed(${toJavaValue(b.scheme)}, ${toJavaValue(b.brand)}, ${toJavaValue(b.type)}, ${toJavaValue(b.number.lengths)}, ${toJavaValue(b.number.luhn)}, ${b.cvv.length}, patterns${i}, ${toJavaValue(b.countries)}, metadata${i}, ${toJavaValue(b.priorityOver)}, bins${i}));`);
-  }
-
-  lines.push('    }};', '}', '');
   return lines.join('\n');
 }
 

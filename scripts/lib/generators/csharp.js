@@ -67,6 +67,7 @@ function generateCSharp(brands) {
 
 /**
  * Generate C# native data file (detailed)
+ * Loads bins from JSON at runtime to avoid huge source files
  */
 function generateCSharpDetailed(detailed) {
   const lines = [
@@ -75,34 +76,29 @@ function generateCSharpDetailed(detailed) {
     '',
     'using System;',
     'using System.Collections.Generic;',
+    'using System.IO;',
+    'using System.Reflection;',
+    'using System.Text.Json;',
     '',
     'namespace CreditCardIdentifier',
     '{',
     '    /// <summary>',
     '    /// Credit card brand data (detailed).',
+    '    /// Loads bins from JSON at runtime to handle large data efficiently.',
     '    /// </summary>',
     '    public static class BrandDataDetailed',
     '    {',
-    '        /// <summary>',
-    '        /// Number validation info',
-    '        /// </summary>',
     '        public class NumberInfo',
     '        {',
     '            public int[] Lengths { get; set; }',
     '            public bool Luhn { get; set; }',
     '        }',
     '',
-    '        /// <summary>',
-    '        /// CVV validation info',
-    '        /// </summary>',
     '        public class CvvInfo',
     '        {',
     '            public int Length { get; set; }',
     '        }',
     '',
-    '        /// <summary>',
-    '        /// Pattern info',
-    '        /// </summary>',
     '        public class Pattern',
     '        {',
     '            public string Bin { get; set; }',
@@ -111,9 +107,6 @@ function generateCSharpDetailed(detailed) {
     '            public int CvvLength { get; set; }',
     '        }',
     '',
-    '        /// <summary>',
-    '        /// BIN info',
-    '        /// </summary>',
     '        public class BinInfo',
     '        {',
     '            public string Bin { get; set; }',
@@ -123,9 +116,6 @@ function generateCSharpDetailed(detailed) {
     '            public string[] Countries { get; set; }',
     '        }',
     '',
-    '        /// <summary>',
-    '        /// Detailed brand info',
-    '        /// </summary>',
     '        public class Brand',
     '        {',
     '            public string Scheme { get; set; }',
@@ -140,78 +130,49 @@ function generateCSharpDetailed(detailed) {
     '            public BinInfo[] Bins { get; set; }',
     '        }',
     '',
+    '        private static Brand[] _brandsCache;',
+    '        private static readonly object _lock = new object();',
+    '',
     '        /// <summary>',
-    '        /// All detailed brand data',
+    '        /// Get all detailed brand data (lazy-loaded from JSON).',
     '        /// </summary>',
-    '        public static readonly Brand[] Brands = new Brand[]',
-    '        {'
+    '        public static Brand[] Brands',
+    '        {',
+    '            get',
+    '            {',
+    '                if (_brandsCache == null)',
+    '                {',
+    '                    lock (_lock)',
+    '                    {',
+    '                        if (_brandsCache == null)',
+    '                        {',
+    '                            _brandsCache = LoadBrandsFromJson();',
+    '                        }',
+    '                    }',
+    '                }',
+    '                return _brandsCache;',
+    '            }',
+    '        }',
+    '',
+    '        private static Brand[] LoadBrandsFromJson()',
+    '        {',
+    '            var assembly = Assembly.GetExecutingAssembly();',
+    '            using var stream = assembly.GetManifestResourceStream("CreditCardIdentifier.cards-detailed.json");',
+    '            if (stream == null)',
+    '            {',
+    '                throw new InvalidOperationException("Could not find embedded resource cards-detailed.json");',
+    '            }',
+    '            using var reader = new StreamReader(stream);',
+    '            var json = reader.ReadToEnd();',
+    '            return JsonSerializer.Deserialize<Brand[]>(json, new JsonSerializerOptions',
+    '            {',
+    '                PropertyNameCaseInsensitive = true',
+    '            });',
+    '        }',
+    '    }',
+    '}',
+    '',
   ];
-
-  for (const brand of detailed) {
-    const b = extractDetailedBrand(brand);
-    lines.push('            new Brand');
-    lines.push('            {');
-    lines.push(`                Scheme = ${cs.string(b.scheme)},`);
-    lines.push(`                BrandName = ${cs.string(b.brand)},`);
-    lines.push(`                Type = ${cs.string(b.type)},`);
-    lines.push('                Number = new NumberInfo');
-    lines.push('                {');
-    lines.push(`                    Lengths = ${cs.intArray(b.number.lengths)},`);
-    lines.push(`                    Luhn = ${toNativeValue(b.number.luhn, 'csharp')}`);
-    lines.push('                },');
-    lines.push('                Cvv = new CvvInfo');
-    lines.push('                {');
-    lines.push(`                    Length = ${b.cvv.length}`);
-    lines.push('                },');
-    lines.push('                Patterns = new Pattern[]');
-    lines.push('                {');
-    for (const pattern of b.patterns) {
-      lines.push('                    new Pattern');
-      lines.push('                    {');
-      lines.push(`                        Bin = ${cs.string(pattern.bin)},`);
-      lines.push(`                        Length = ${cs.intArray(pattern.length)},`);
-      lines.push(`                        Luhn = ${toNativeValue(pattern.luhn, 'csharp')},`);
-      lines.push(`                        CvvLength = ${pattern.cvvLength}`);
-      lines.push('                    },');
-    }
-    lines.push('                },');
-    lines.push(`                Countries = ${cs.stringArray(b.countries.map(c => cs.string(c)))},`);
-    
-    // Metadata - convert values to native C# values
-    const metadataEntries = Object.entries(b.metadata)
-      .map(([k, v]) => `{ ${cs.string(k)}, ${toNativeValue(v, 'csharp')} }`)
-      .join(', ');
-    lines.push(`                Metadata = new Dictionary<string, object> { ${metadataEntries} },`);
-    
-    // Priority over
-    lines.push(`                PriorityOver = ${cs.stringArray(b.priorityOver.map(p => cs.string(p)))},`);
-    
-    // Bins
-    if (b.bins.length > 0) {
-      lines.push('                Bins = new BinInfo[]');
-      lines.push('                {');
-      for (const bin of b.bins) {
-        lines.push('                    new BinInfo');
-        lines.push('                    {');
-        lines.push(`                        Bin = ${cs.string(bin.bin)},`);
-        lines.push(`                        Type = ${cs.string(bin.type || '')},`);
-        lines.push(`                        Category = ${cs.string(bin.category || '')},`);
-        lines.push(`                        Issuer = ${cs.string(bin.issuer || '')},`);
-        lines.push(`                        Countries = ${cs.stringArray((bin.countries || []).map(c => cs.string(c)))}`);
-        lines.push('                    },');
-      }
-      lines.push('                }');
-    } else {
-      lines.push('                Bins = Array.Empty<BinInfo>()');
-    }
-    
-    lines.push('            },');
-  }
-
-  lines.push('        };');
-  lines.push('    }');
-  lines.push('}');
-  lines.push('');
 
   return lines.join('\n');
 }
@@ -220,3 +181,4 @@ module.exports = {
   generateCSharp,
   generateCSharpDetailed,
 };
+
