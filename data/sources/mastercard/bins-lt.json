@@ -1,0 +1,461 @@
+{
+  "bins": [
+    {
+      "bin": "512603",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SEB BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "512693",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SEB BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "512694",
+      "type": "CREDIT",
+      "issuer": "JSC UKIO BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "515612",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NORDEA BANK FINLAND PLC LIETUVOS SKYRIUS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "515885",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANKAS SNORAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "516744",
+      "type": "DEBIT",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "516793",
+      "type": "DEBIT",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "521120",
+      "type": "CREDIT",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "521815",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "525463",
+      "type": "CREDIT",
+      "issuer": "SEB BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "528064",
+      "type": "CREDIT",
+      "issuer": "BANKAS SNORAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "528613",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NORDEA BANK FINLAND PLC LIETUVOS SKYRIUS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "528946",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANKAS SNORAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "529937",
+      "type": "CREDIT",
+      "issuer": "AB DNB NORD BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "531312",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SEB BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "531313",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SEB BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "532321",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANKAS SNORAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "532963",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "540023",
+      "type": "CREDIT",
+      "issuer": "JSC UKIO BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "541223",
+      "type": "CREDIT",
+      "issuer": "SEB BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "542632",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "543756",
+      "type": "CREDIT",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "544140",
+      "issuer": "AB BANKAS HANSABANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "544267",
+      "type": "CREDIT",
+      "issuer": "JSC UKIO BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "546303",
+      "issuer": "AB LIETPLIVES TAHPOMASIS BANKAS LITHUANIAN SAVING BANK",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "546762",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "AB DNB NORD BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "546763",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AB DNB NORD BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "546992",
+      "type": "CREDIT",
+      "issuer": "AB CITADELE BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "547304",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSC UKIO BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "547388",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "547429",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSC SIAULIU BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "547808",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AB DNB NORD BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "547873",
+      "issuer": "AB LIETPLIVES TAHPOMASIS BANKAS LITHUANIAN SAVING BANK",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "548131",
+      "issuer": "AB LIETPLIVES TAHPOMASIS BANKAS LITHUANIAN SAVING BANK",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "548297",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AB CITADELE BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "550071",
+      "type": "CREDIT",
+      "issuer": "BANKAS SNORAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "550072",
+      "issuer": "BANKAS SNORAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "553986",
+      "type": "CREDIT",
+      "issuer": "AB CITADELE BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "554399",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "554980",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "556039",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANKAS SNORAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "557001",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "JSC UKIO BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "557003",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSC UKIO BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "557020",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "JSC SIAULIU BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "557021",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSC SIAULIU BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "557063",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "AB CITADELE BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "557064",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AB CITADELE BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "557065",
+      "issuer": "AB PAREX BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "557816",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NORDEA BANK FINLAND PLC LIETUVOS SKYRIUS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "557817",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NORDEA BANK FINLAND PLC LIETUVOS SKYRIUS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "558282",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SEB BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "558329",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NORDEA BANK FINLAND PLC LIETUVOS SKYRIUS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "558375",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AB CITADELE BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "558595",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "LT"
+      ]
+    }
+  ]
+}

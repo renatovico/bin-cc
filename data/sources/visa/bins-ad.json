@@ -1,0 +1,447 @@
+{
+  "bins": [
+    {
+      "bin": "403615",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ANDORRA BANC AGRICOL REIG, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "403668",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SABADELL",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "403669",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO SABADELL",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "406282",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT ANDORRA",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "412615",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CREDIT ANDORRA",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "413713",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "413714",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "415077",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCA MORA, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "415575",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA MORA, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "415985",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ANDORRA BANC AGRICOL REIG, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "419809",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCA MORA, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "422020",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ANDORRA BANC AGRICOL REIG, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "422180",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ANDORRA BANC AGRICOL REIG, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "424353",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA MORA, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "424354",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA MORA, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "432279",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA MORA, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "432280",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA MORA, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "432703",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA MORA, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "434699",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "437954",
+      "issuer": "BANCA PRIVADA DANDORRA S.A. ANDORRA",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "440731",
+      "issuer": "ANDORRA BANC AGRICOL REIG, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "440733",
+      "issuer": "ANDORRA BANC AGRICOL REIG, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "441063",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "ANDORRA BANC AGRICOL REIG, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "446572",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BURNS NATIONAL BANK OF DURANGO",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "447548",
+      "issuer": "BANC INTERNACIONAL DANDORRA S.A. ANDORRA",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "450609",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA MORA, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "450876",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ANDORRA BANC AGRICOL REIG, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "452510",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCA MORA, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "452511",
+      "issuer": "BANC INTERNACIONAL D'ANDORRA",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "453294",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ANDORRA BANC AGRICOL REIG, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "453961",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA MORA, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "453962",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANC INTERNACIONAL DANDORRA, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "453991",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ANDORRA BANC AGRICOL REIG, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "454805",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT ANDORRA",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "455021",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDIT ANDORRA",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "455061",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "455283",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT ANDORRA",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "456085",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA PRIVADA D'ANDORRA, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "459986",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT ANDORRA",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "459987",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CAIXABANK S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "477564",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDIT ANDORRA",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "477565",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CAIXABANK S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "477566",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCA PRIVADA D'ANDORRA, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "479711",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT ANDORRA",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "484631",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "484632",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "493474",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ANDORRA BANC AGRICOL REIG, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "493775",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA MORA, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "498513",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "498514",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CITIBANK",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "498825",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDIT ANDORRA",
+      "countries": [
+        "AD"
+      ]
+    }
+  ]
+}

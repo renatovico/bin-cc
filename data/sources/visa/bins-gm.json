@@ -1,0 +1,85 @@
+{
+  "bins": [
+    {
+      "bin": "408381",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "GM"
+      ]
+    },
+    {
+      "bin": "411299",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "GM"
+      ]
+    },
+    {
+      "bin": "414611",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "GM"
+      ]
+    },
+    {
+      "bin": "458533",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GM"
+      ]
+    },
+    {
+      "bin": "458537",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GM"
+      ]
+    },
+    {
+      "bin": "467767",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GM"
+      ]
+    },
+    {
+      "bin": "484682",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GM"
+      ]
+    },
+    {
+      "bin": "484683",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "GM"
+      ]
+    },
+    {
+      "bin": "488969",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SKYE BANK (GAMBIA), LTD.",
+      "countries": [
+        "GM"
+      ]
+    },
+    {
+      "bin": "488970",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "SKYE BANK (GAMBIA), LTD.",
+      "countries": [
+        "GM"
+      ]
+    }
+  ]
+}

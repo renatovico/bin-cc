@@ -1,0 +1,370 @@
+{
+  "bins": [
+    {
+      "bin": "512030",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "515856",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "515881",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSCB - TBC BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "516746",
+      "type": "DEBIT",
+      "issuer": "Bank of Georgia",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "518037",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "519750",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "521828",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSC BANK OF GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "522234",
+      "type": "CREDIT",
+      "issuer": "JSC BANK OF GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "522235",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSC BANK OF GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "525826",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "526209",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "528058",
+      "type": "CREDIT",
+      "issuer": "JSCB - TBC BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "529058",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "529066",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "529597",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "532434",
+      "type": "CREDIT",
+      "issuer": "JSC LIBERTY BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "532575",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "JSC PRIVATBANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "533216",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "540407",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "JSC CARTU BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "541118",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "JSC PROCREDIT BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "542383",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "542833",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSC LIBERTY BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "543078",
+      "issuer": "INTELLECTBANK, JOINT STOCK SOCIETY",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "543094",
+      "issuer": "INTELLECTBANK, JOINT STOCK SOCIETY",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "544458",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSC CARTU BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "545063",
+      "type": "CREDIT",
+      "issuer": "JSC PRIVATBANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "545502",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSC PRIVATBANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "546722",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "546723",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "546724",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "546726",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "546728",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "546729",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "546730",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "546732",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "546733",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "547590",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSC LIBERTY BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "548076",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "548085",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "548835",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "JSC BANK OF GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "548888",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSC BANK OF GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "550545",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "552606",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSC CARTU BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "554244",
+      "issuer": "JSCB - TBC BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "554978",
+      "issuer": "JSC BANK OF GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "554979",
+      "issuer": "JSC BANK OF GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "556036",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSCB - TBC BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "558328",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSC BANK OF GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "558538",
+      "issuer": "JSC BANK OF GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "558590",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSC BANK OF GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    }
+  ]
+}

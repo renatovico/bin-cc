@@ -1,0 +1,8596 @@
+{
+  "bins": [
+    {
+      "bin": "510089",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "510147",
+      "type": "CREDIT",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "510168",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO TRIANGULO S/A",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "510400",
+      "type": "CREDIT",
+      "issuer": "PARANA BANCO S.A..",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "510414",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "510415",
+      "type": "CREDIT",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "510426",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "510447",
+      "type": "CREDIT",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "510461",
+      "type": "CREDIT",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "510476",
+      "type": "CREDIT",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "510512",
+      "type": "CREDIT",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "510524",
+      "type": "CREDIT",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "510542",
+      "type": "CREDIT",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "511706",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "511707",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512047",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512059",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512099",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512112",
+      "type": "CREDIT",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512119",
+      "type": "CREDIT",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512207",
+      "type": "CREDIT",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512286",
+      "type": "CREDIT",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512363",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512374",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512395",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO LUSO BRASILEIRO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512427",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512461",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512465",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC BANK BRASIL S.A. - BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512467",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC BANK BRASIL S.A. - BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512574",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512655",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512656",
+      "issuer": "HSBC BANK BRASIL S.A. - BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512657",
+      "issuer": "HSBC BANK BRASIL S.A. - BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512658",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512659",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512660",
+      "issuer": "UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512661",
+      "issuer": "UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512662",
+      "issuer": "UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512671",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512673",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512682",
+      "type": "CREDIT",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512683",
+      "issuer": "HSBC BANK BRASIL S.A. - BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512707",
+      "type": "CREDIT",
+      "issuer": "BANCO COOPERATIVO DO BRASIL S/A",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512759",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO PANAMERICANO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512779",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512813",
+      "type": "CREDIT",
+      "issuer": "BANCO PANAMERICANO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "512814",
+      "issuer": "HSBC BANK BRASIL S.A. - BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "513557",
+      "type": "CREDIT",
+      "issuer": "BANCO BMG S/A",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "513689",
+      "type": "CREDIT",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "514004",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "514009",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "514019",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "514078",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "514079",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "514085",
+      "type": "CREDIT",
+      "issuer": "BANCO PANAMERICANO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "514086",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "514087",
+      "type": "CREDIT",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "514090",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "514094",
+      "type": "CREDIT",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "514868",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "514895",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "514897",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "514898",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "514911",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "514936",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "514945",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "515590",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "515601",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO COOPERATIVO DO BRASIL S/A",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "515640",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "515743",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "515765",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "515767",
+      "type": "CREDIT",
+      "issuer": "BANCO PANAMERICANO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "515787",
+      "type": "CREDIT",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "515795",
+      "type": "CREDIT",
+      "issuer": "BANCO PANAMERICANO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "515836",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "515889",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "515891",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "515894",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO COOPERATIVO DO BRASIL S/A",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "516004",
+      "type": "CREDIT",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "516005",
+      "type": "DEBIT",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "516015",
+      "type": "CREDIT",
+      "issuer": "BANCO AZTECA DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "516064",
+      "type": "DEBIT",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "516066",
+      "type": "DEBIT",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "516070",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "516074",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK BRASIL S.A. - BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "516075",
+      "type": "DEBIT",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "516376",
+      "type": "DEBIT",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "516991",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "517634",
+      "type": "CREDIT",
+      "issuer": "GE CAPITAL DO BRASIL LTDA.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "517701",
+      "issuer": "BANCO FININVEST, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "517703",
+      "issuer": "UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "517718",
+      "issuer": "BANCO FININVEST, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "517756",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "517787",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "517823",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "517858",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "517914",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "517967",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "517973",
+      "type": "CREDIT",
+      "issuer": "BANCO BMG S/A",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "517974",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "517985",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "517986",
+      "issuer": "BANCO NACIONAL DE CREDITO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518020",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518032",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518045",
+      "type": "CREDIT",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518054",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518063",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518138",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518148",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518218",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518270",
+      "type": "CREDIT",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518277",
+      "type": "CREDIT",
+      "issuer": "BANCO TRIANGULO S/A",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518294",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518295",
+      "issuer": "BANCO ABN AMRO REAL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518296",
+      "issuer": "UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518306",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518307",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518309",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518311",
+      "type": "CREDIT",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518312",
+      "issuer": "BANCO ABN AMRO REAL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518313",
+      "issuer": "UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518326",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518327",
+      "category": "STANDARD",
+      "issuer": "UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518328",
+      "issuer": "UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518330",
+      "issuer": "UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518334",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518407",
+      "type": "CREDIT",
+      "issuer": "BANCO VOTORANTIM S/A",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518454",
+      "type": "CREDIT",
+      "issuer": "BANCO VOTORANTIM S/A",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518467",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518471",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO VOTORANTIM S/A",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518482",
+      "type": "CREDIT",
+      "issuer": "BANCO VOTORANTIM S/A",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518491",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518534",
+      "type": "CREDIT",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518544",
+      "type": "CREDIT",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518695",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518759",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518760",
+      "category": "STANDARD",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518763",
+      "type": "CREDIT",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518764",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518765",
+      "issuer": "UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518767",
+      "type": "CREDIT",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518768",
+      "type": "CREDIT",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518814",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO VOTORANTIM S/A",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518843",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO VOTORANTIM S/A",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518847",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518926",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518950",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "518967",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "519002",
+      "type": "CREDIT",
+      "issuer": "BANCO DAYCOVAL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "519004",
+      "type": "CREDIT",
+      "issuer": "BANCO DAYCOVAL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "519317",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "519339",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "519696",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "519698",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "519699",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "519759",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "520028",
+      "type": "CREDIT",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "520110",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "520132",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "520140",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "520141",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "520156",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DE BRASILIA, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "520164",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "520184",
+      "type": "CREDIT",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "520185",
+      "category": "STANDARD",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "520196",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "520199",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "520353",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "520359",
+      "type": "CREDIT",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "520360",
+      "category": "STANDARD",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "520362",
+      "type": "CREDIT",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "520363",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "520400",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "520401",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "520402",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "520403",
+      "issuer": "BANCO ITAU, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "520404",
+      "issuer": "BANCO ITAU, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "520405",
+      "issuer": "BANCO ITAU, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "520621",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "520898",
+      "type": "CREDIT",
+      "issuer": "BANCO PANAMERICANO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "520948",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "520977",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "520995",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "521039",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "521042",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "521043",
+      "category": "STANDARD",
+      "issuer": "BANCO ITAU, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "521157",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "521158",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "521160",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "521174",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "521179",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "521180",
+      "category": "STANDARD",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "521369",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO VOTORANTIM S/A",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "521370",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "521397",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "521501",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "521509",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "521524",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "521580",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "521592",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "521784",
+      "type": "CREDIT",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "521880",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "521940",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "522019",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "522073",
+      "type": "CREDIT",
+      "issuer": "BANCO DE BRASILIA, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "522192",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "522273",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE BRASILIA, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "522283",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "522400",
+      "type": "CREDIT",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "522446",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "522483",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "522499",
+      "type": "CREDIT",
+      "issuer": "CETELEM BRASIL S.A.- CREDITO, FINANCIAMENTO E INVESTIMENTO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "522699",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "522731",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "522746",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "522760",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "522808",
+      "type": "CREDIT",
+      "issuer": "CARUANA S.A. - SOCIEDADE DE CREDITO, FINANCIAMENTO E INVES",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "522815",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "522839",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "522840",
+      "category": "STANDARD",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "522949",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "522978",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "522979",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "522983",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "522984",
+      "category": "STANDARD",
+      "issuer": "BANCO NOSSA CAIXA, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "523100",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "523284",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "523431",
+      "type": "CREDIT",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "523432",
+      "type": "CREDIT",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "523433",
+      "type": "CREDIT",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "523575",
+      "category": "STANDARD",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "523791",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "524003",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "524315",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "524544",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "524555",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "524565",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "524575",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "524607",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "524671",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "524703",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "524820",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "524822",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "524935",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "525439",
+      "type": "CREDIT",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "525445",
+      "type": "CREDIT",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "525482",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "525487",
+      "type": "CREDIT",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "525496",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "525631",
+      "type": "CHARGE CARD",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "525640",
+      "type": "CREDIT",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "525661",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "525662",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "525663",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO ITAU, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "525664",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "525692",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "525694",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "525695",
+      "category": "STANDARD",
+      "issuer": "UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "525718",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "525802",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "525823",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "525824",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "525834",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "525921",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "525922",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO BMG S/A",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "525923",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "525925",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK BRASIL S.A. - BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "525926",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "525982",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC BANK BRASIL S.A. - BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "525989",
+      "type": "CREDIT",
+      "issuer": "BANCO LUSO BRASILEIRO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "526037",
+      "type": "CREDIT",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "526762",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "526769",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "526775",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "526778",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "526779",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "526785",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "526786",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "526787",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "526788",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "526800",
+      "type": "CREDIT",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "526811",
+      "type": "CREDIT",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "526831",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "526860",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO LUSO BRASILEIRO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "526862",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK BRASIL S.A. - BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "526863",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "526892",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "526895",
+      "issuer": "CANADA TRUST COMPANY",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "526944",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "526957",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "526959",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "526962",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "526963",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "526964",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "526965",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "526966",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "526967",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527010",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527018",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527308",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527405",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527407",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527425",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527430",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527437",
+      "type": "CREDIT",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527453",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527454",
+      "issuer": "BANCO ITAU, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527462",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527463",
+      "issuer": "BANCO ITAU, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527467",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527468",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527469",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527495",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527496",
+      "category": "STANDARD",
+      "issuer": "BANCO ITAU, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527497",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527531",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527532",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527533",
+      "issuer": "BANCO ITAU, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527538",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527539",
+      "category": "STANDARD",
+      "issuer": "UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527540",
+      "category": "STANDARD",
+      "issuer": "UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527541",
+      "category": "STANDARD",
+      "issuer": "UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527543",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527544",
+      "issuer": "UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527545",
+      "issuer": "UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527546",
+      "issuer": "BANCO ITAU, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527547",
+      "category": "STANDARD",
+      "issuer": "UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527548",
+      "category": "STANDARD",
+      "issuer": "UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527569",
+      "issuer": "BANCO ITAU, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527616",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527648",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527887",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527889",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527897",
+      "type": "CREDIT",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "527898",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "528052",
+      "type": "CREDIT",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "528075",
+      "type": "CREDIT",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "528076",
+      "category": "STANDARD",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "528077",
+      "type": "CREDIT",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "528078",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "528084",
+      "type": "CREDIT",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "528091",
+      "issuer": "BANCO DO ESTADO DE SANTA CATARINA, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "528151",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "528153",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "528160",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "528205",
+      "type": "CREDIT",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "528392",
+      "category": "STANDARD",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "528537",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "528590",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "528635",
+      "type": "CREDIT",
+      "issuer": "PERNAMBUCANAS FINANCIADORA S A - CFI",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "528822",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "528827",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "528841",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "528860",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "528941",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "529053",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "529068",
+      "type": "CREDIT",
+      "issuer": "BANCO LUSO BRASILEIRO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "529077",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "529133",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "529203",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "529205",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "529207",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "529235",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "529266",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "529268",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "529285",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "529309",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "529323",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "529416",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "529417",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "529418",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "529479",
+      "type": "CREDIT",
+      "issuer": "BANCO BMG S/A",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "529592",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EUROPAY FRANCE, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "529594",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EUROPAY FRANCE, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "529598",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EUROPAY FRANCE, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "529867",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "529869",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "529940",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "530032",
+      "type": "CREDIT",
+      "issuer": "CETELEM BRASIL S.A.- CREDITO, FINANCIAMENTO E INVESTIMENTO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "530033",
+      "type": "CREDIT",
+      "issuer": "BANCO CSF S/A",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "530034",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "530038",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "530073",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "530148",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "530228",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "530369",
+      "type": "CREDIT",
+      "issuer": "PARANA BANCO S.A..",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "530434",
+      "type": "CREDIT",
+      "issuer": "BANCO PANAMERICANO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "530452",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "530454",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "530599",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "530612",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "530632",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "530771",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "530780",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "530851",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "530994",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "530996",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "530997",
+      "type": "CREDIT",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "530998",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "531087",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "531243",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "531249",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "531304",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO BMG S/A",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "531339",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "531352",
+      "type": "CREDIT",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "531354",
+      "type": "CREDIT",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "531377",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "531381",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "531393",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "531394",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "531454",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "531455",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "531488",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "531492",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "531566",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "531654",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "531661",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "531671",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "531681",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "531699",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "531705",
+      "type": "CREDIT",
+      "category": "GLOBAL PAYMENT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "531714",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "531715",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "531727",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "532323",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "532324",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "532338",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "532340",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "532473",
+      "type": "CREDIT",
+      "issuer": "CETELEM BRASIL S.A.- CREDITO, FINANCIAMENTO E INVESTIMENTO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "532474",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "532543",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "532817",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "532820",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "532910",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "532924",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "532930",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "532942",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "533186",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO DAYCOVAL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "533228",
+      "type": "CREDIT",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "533515",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "533516",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "533716",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "533718",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "533729",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "534112",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "534113",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "534114",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO DAYCOVAL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "534246",
+      "type": "CREDIT",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "534249",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "534278",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "534350",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "534352",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "534361",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "534802",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "534806",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "534915",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "534916",
+      "issuer": "UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536269",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536352",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536367",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536371",
+      "issuer": "BANCO ITAU, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536377",
+      "issuer": "BANCO ITAU, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536380",
+      "issuer": "BANCO ITAU, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536381",
+      "issuer": "BANCO ITAU, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536382",
+      "issuer": "BANCO ITAU, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536390",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536391",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536424",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536425",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536426",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536427",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536428",
+      "type": "CREDIT",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536433",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536434",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536435",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536436",
+      "type": "CREDIT",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536437",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536445",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536450",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536452",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536458",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536467",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536471",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536477",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536480",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536481",
+      "issuer": "BANCO ITAU, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536482",
+      "issuer": "BANCO ITAU, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536491",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536512",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO VOTORANTIM S/A",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536516",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536517",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536518",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MIDWAY S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536529",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536537",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536552",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536558",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536567",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536571",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536577",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536580",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536581",
+      "issuer": "BANCO ITAU, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536582",
+      "issuer": "BANCO ITAU, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536588",
+      "type": "CREDIT",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "536591",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "537001",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO PANAMERICANO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "538406",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "538450",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "538451",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "538452",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "538453",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "538454",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "538455",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "538730",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "538740",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "538818",
+      "type": "CREDIT",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539000",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539001",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539002",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539003",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539010",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539011",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539012",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539013",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539016",
+      "type": "CREDIT",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539017",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539018",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539019",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539020",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539021",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539022",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539023",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539027",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539028",
+      "type": "CREDIT",
+      "issuer": "BANCO CITIBANK, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539029",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539030",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539031",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539033",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539038",
+      "type": "CREDIT",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539039",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539040",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539041",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539044",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539048",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539050",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539051",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539055",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539058",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539059",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539060",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539061",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539062",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539063",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539064",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539065",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539066",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539067",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539068",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539069",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539070",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539071",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539072",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539073",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539074",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539075",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539076",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539077",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539078",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539079",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539080",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539081",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539082",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539083",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539084",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539085",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539086",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539087",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539088",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539089",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539090",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539091",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539092",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539093",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539098",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539099",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "539614",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK BRASIL S.A. - BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "540064",
+      "type": "CREDIT",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "540084",
+      "type": "CREDIT",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "540099",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DAYCOVAL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "540101",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "540105",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "540106",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "540216",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "540245",
+      "type": "CREDIT",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "540500",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "540508",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "540535",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "540577",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "540593",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "540631",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "540645",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "540646",
+      "issuer": "UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "540747",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "540755",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "540760",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "540905",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO PANAMERICANO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "540922",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "541006",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "541100",
+      "type": "CREDIT",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "541143",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO BMG S/A",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "541187",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "541425",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "541426",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "541465",
+      "type": "CREDIT",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "541555",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "541759",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "541886",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "542244",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "542292",
+      "type": "CREDIT",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "542353",
+      "type": "CREDIT",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "542402",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "542477",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "542510",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "542528",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "542529",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "542579",
+      "type": "CREDIT",
+      "issuer": "BANCO PANAMERICANO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "542622",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "542639",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "542661",
+      "type": "CREDIT",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "542688",
+      "type": "CREDIT",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "542701",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "542711",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "542712",
+      "issuer": "UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "542820",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "542842",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "542865",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "542888",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "542974",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "542976",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "542982",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "542991",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "543021",
+      "type": "CREDIT",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "543051",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "543095",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "543280",
+      "type": "CREDIT",
+      "issuer": "BANCO PANAMERICANO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "543299",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "543391",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "543454",
+      "type": "CREDIT",
+      "issuer": "CARUANA S.A. - SOCIEDADE DE CREDITO, FINANCIAMENTO E INVES",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "543559",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "543658",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "543660",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "543690",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "543900",
+      "type": "CREDIT",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "543960",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544066",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544119",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544165",
+      "type": "CREDIT",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544166",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544169",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544199",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544296",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544300",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544315",
+      "type": "CREDIT",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544507",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544540",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544545",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544546",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544547",
+      "category": "STANDARD",
+      "issuer": "UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544554",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544560",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544570",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544571",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544586",
+      "type": "CREDIT",
+      "category": "PREPAID",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544597",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544599",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544654",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544665",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544668",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544673",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544731",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544810",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544811",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544812",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544814",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544816",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544817",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544818",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544819",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544820",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544821",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544822",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544823",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544824",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544827",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544828",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITIBANK, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544829",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544830",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544831",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544833",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544838",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544839",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544840",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544841",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544844",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544848",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544850",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544851",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544855",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544858",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544859",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544860",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544861",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544862",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544863",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544864",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544865",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544866",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544867",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544870",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544871",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544872",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544874",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544875",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544877",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544879",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544880",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544881",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544882",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544883",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544884",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544889",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544890",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544891",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544892",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544897",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544908",
+      "type": "CREDIT",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "544915",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DO ESTADO DO RIO GRANDE DO SUL S.A. (BANRISUL S.A.)",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "545053",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "545349",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "545366",
+      "type": "CREDIT",
+      "issuer": "NATIONAL BANK OF COMMERCE OF BIRMINGHAM",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "545391",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "545404",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "545430",
+      "type": "CREDIT",
+      "issuer": "BANCO PANAMERICANO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "545433",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "545462",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "545463",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "545500",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "545553",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "545653",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "545670",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "545712",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HSBC BANK BRASIL S.A. - BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "545719",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "545729",
+      "issuer": "CREDITO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "545768",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "545780",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "545805",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "545810",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "545823",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "545832",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "545850",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "545893",
+      "type": "CREDIT",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "545967",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "545973",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DO ESTADO DO RIO GRANDE DO SUL S.A. (BANRISUL S.A.)",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "546012",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "546017",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "546056",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "546094",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "546279",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "546282",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "546451",
+      "type": "CREDIT",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "546452",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "546456",
+      "type": "CREDIT",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "546460",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "546461",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "546479",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "546499",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "546559",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "546744",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "546754",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "546768",
+      "type": "CREDIT",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "546815",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "546852",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DO ESTADO DO RIO GRANDE DO SUL S.A. (BANRISUL S.A.)",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "546990",
+      "type": "CREDIT",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "546991",
+      "type": "CREDIT",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "547076",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "547109",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "547252",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "547408",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO COOPERATIVO DO BRASIL S/A",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "547414",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "547468",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "547483",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "547600",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "547604",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "547606",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "547666",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "547674",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "547693",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "547724",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "547749",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "547769",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "547803",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "547806",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "547874",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548045",
+      "type": "CREDIT",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548046",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548087",
+      "issuer": "REDECARD S/A",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548088",
+      "issuer": "REDECARD S/A",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548199",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548217",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548262",
+      "type": "CREDIT",
+      "issuer": "BANCO PANAMERICANO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548293",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548295",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548296",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548337",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548338",
+      "issuer": "BANCO FININVEST, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548364",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548384",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548474",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548572",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548573",
+      "type": "CREDIT",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548590",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HSBC BANK BRASIL S.A. - BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548591",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC BANK BRASIL S.A. - BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548595",
+      "type": "CREDIT",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548648",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548649",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548723",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548724",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548731",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548739",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548743",
+      "type": "CREDIT",
+      "issuer": "BANCO TRIANGULO S/A",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548794",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548822",
+      "type": "CREDIT",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548824",
+      "type": "CREDIT",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548826",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548827",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548886",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO PANAMERICANO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548929",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548937",
+      "type": "CREDIT",
+      "issuer": "BANCO TRIANGULO S/A",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548961",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548965",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548970",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548976",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548984",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "548985",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549090",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549159",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549167",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549207",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549296",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549297",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549300",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549301",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549310",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549311",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549312",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549316",
+      "type": "CREDIT",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549317",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549318",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549319",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549320",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549321",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549322",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549323",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549324",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549325",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549327",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549328",
+      "type": "CREDIT",
+      "issuer": "BANCO CITIBANK, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549329",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549330",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549331",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549332",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549333",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549334",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549335",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549336",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549337",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549339",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549340",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549341",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549343",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549344",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549348",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549350",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549351",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549355",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549358",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549359",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549360",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549361",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549362",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549363",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549364",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549365",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549366",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549367",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549368",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549370",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549371",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549372",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549373",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549374",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549375",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549377",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549378",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549379",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549380",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549381",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549382",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549383",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549384",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549386",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549390",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549391",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549392",
+      "type": "CREDIT",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549394",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549395",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549396",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549585",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "549833",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "550154",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "550159",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "550321",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "550587",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552063",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552070",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552072",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552074",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552128",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITIBANK, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552144",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552236",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552240",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO PANAMERICANO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552244",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552289",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552297",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO CITIBANK, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552305",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552316",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552317",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552530",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552531",
+      "category": "BUSINESS",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552544",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552556",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552567",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO DO ESTADO DO RIO GRANDE DO SUL S.A. (BANRISUL S.A.)",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552584",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552637",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DO ESTADO DO RIO GRANDE DO SUL S.A. (BANRISUL S.A.)",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552640",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552668",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552693",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552694",
+      "category": "STANDARD",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552697",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552713",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552741",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552780",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552781",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552855",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE BRASILIA, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552889",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552911",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552914",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552937",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552943",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "552964",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "553007",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HSBC BANK BRASIL S.A. - BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "553034",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "553096",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "553450",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO PANAMERICANO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "553457",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "553458",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "553473",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "553492",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "553524",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "553621",
+      "type": "CREDIT",
+      "issuer": "BANCO PANAMERICANO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "553624",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "553636",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "553637",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "553639",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "553645",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "553647",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "553659",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "553665",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "553666",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "553669",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO DAYCOVAL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554281",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554282",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554289",
+      "issuer": "BANCO BOAVISTA INTERATLANTICO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554290",
+      "issuer": "BANCO BOAVISTA INTERATLANTICO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554298",
+      "type": "CREDIT",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554299",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554309",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554389",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554460",
+      "type": "CREDIT",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554461",
+      "type": "CREDIT",
+      "issuer": "GE CAPITAL DO BRASIL LTDA.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554462",
+      "issuer": "BANCO PANAMERICANO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554463",
+      "type": "CREDIT",
+      "issuer": "BANCO DO ESTADO DO RIO GRANDE DO SUL S.A. (BANRISUL S.A.)",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554464",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554471",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554473",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DO ESTADO DO RIO GRANDE DO SUL S.A. (BANRISUL S.A.)",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554497",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554563",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554587",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554589",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554590",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554612",
+      "type": "CREDIT",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554613",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554634",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554635",
+      "issuer": "BANCO SANTANDER BRAZIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554722",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554729",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554767",
+      "type": "CREDIT",
+      "issuer": "GE CAPITAL DO BRASIL LTDA.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554773",
+      "type": "CREDIT",
+      "issuer": "BANCO DE BRASILIA, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554774",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554775",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554776",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554891",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554903",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554906",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554916",
+      "issuer": "BANCO NACIONAL DE CREDITO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554917",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554918",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554927",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554932",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554945",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554953",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554954",
+      "issuer": "UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "554969",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "555040",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "555109",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "555155",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "555428",
+      "category": "STANDARD",
+      "issuer": "1 BANCO ITAU, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "556023",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "556024",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "556026",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "556035",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO SANTANDER (BRASIL), S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "556600",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "556601",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "556615",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "556616",
+      "issuer": "BANCO ITAU, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "556670",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "556673",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557752",
+      "issuer": "BANCO FININVEST, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557768",
+      "type": "CREDIT",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557770",
+      "issuer": "BANCO FININVEST, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557771",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557779",
+      "type": "CREDIT",
+      "issuer": "BANCO IBI S.A. BANCO MULTIPLO",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557793",
+      "issuer": "BANCO BMG S/A",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557797",
+      "type": "CREDIT",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557900",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557901",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557902",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557903",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557904",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557906",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557911",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557913",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557914",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557916",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557917",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557918",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557921",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557923",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557925",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557926",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557927",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557928",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557929",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557930",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557931",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557932",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557933",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557934",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557936",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557937",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557938",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557939",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557940",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557943",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557950",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557958",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557961",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557974",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557979",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557982",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557983",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557984",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557985",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557988",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557989",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557990",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557991",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557992",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557993",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557994",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557996",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "557999",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "558285",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO BRADESCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "558297",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "558303",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "ITAU UNIBANCO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "558305",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "558307",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "558308",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "558309",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "558383",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "558394",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "558419",
+      "issuer": "UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "558645",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "558763",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CAIXA ECONOMICA FEDERAL",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "558779",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "558873",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "558874",
+      "issuer": "BANCO CITICARD, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "558876",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO LUSO BRASILEIRO, S.A.",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "559224",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "559226",
+      "countries": [
+        "BR"
+      ]
+    },
+    {
+      "bin": "559231",
+      "countries": [
+        "BR"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1173 @@
+{
+  "bins": [
+    {
+      "bin": "402581",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK ALFALAH, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "402582",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK ALFALAH, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "402583",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK ALFALAH, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "402818",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "407569",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "407808",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "410524",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "410525",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNITED BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "410526",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "UNITED BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "410527",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "UNITED BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "413447",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "418231",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "418232",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNITED BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "418792",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "419557",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "419558",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "421310",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNION BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "421339",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANK ALFALAH, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "421367",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "421435",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "421436",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "421461",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "421462",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "UNITED BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "421485",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HABIB BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "421486",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "HABIB BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "421500",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "421501",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "422070",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK ALFALAH, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "425578",
+      "type": "DEBIT",
+      "category": "TRAVEL MONEY",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "428273",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DUBAI ISLAMIC BANK PAKISTAN, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "428311",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK ALFALAH, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "428325",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FAYSAL BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "428344",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "FAYSAL BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "428667",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "428668",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "MCB BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "428921",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "428922",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "428923",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "428924",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "436532",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "437452",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "437453",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "437455",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "437459",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "437460",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "437525",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "437584",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "437585",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "437742",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "437743",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "437744",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "437791",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "437792",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "437793",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "439172",
+      "issuer": "BANK ALFALAH, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "441574",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "DUBAI ISLAMIC BANK PAKISTAN, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "442367",
+      "issuer": "ASKARI COMMERCIAL BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "445087",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "445890",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "446951",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "446952",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "446953",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "447246",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "450084",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "450085",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "450086",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "UNITED BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "450087",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "455588",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "456810",
+      "issuer": "UNION BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "457245",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "457723",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "458163",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNION BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "458164",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "458255",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "458256",
+      "type": "DEBIT",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "458257",
+      "type": "DEBIT",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "458258",
+      "type": "DEBIT",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "458480",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "458481",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "458539",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "458540",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "458547",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "458548",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "458574",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "458825",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "458826",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "458827",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "458866",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "461688",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SONERI BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "461689",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "SONERI BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "461758",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANK ALFALAH, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "462882",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "462883",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "462886",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "462891",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "462892",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "462897",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "MCB BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "462945",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MCB BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "462978",
+      "issuer": "UNITED BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "463728",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "464578",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "464951",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "464952",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "464954",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANK ALFALAH, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "466062",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "467849",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "467850",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "469340",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "470556",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MCB BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "472148",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "472439",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UNITED BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "472440",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "472441",
+      "type": "DEBIT",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "472468",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "472469",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "472470",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "472471",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "476215",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "477052",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "477057",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "478972",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MCB BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "479765",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "479766",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "480448",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "482106",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "483565",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "484171",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "484838",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "484839",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "484871",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SILKBANK LIMITED",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "486246",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "486247",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK ALFALAH, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "486248",
+      "type": "DEBIT",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "486250",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "486251",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANK ALFALAH, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "486262",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "486263",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ALLIED BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "486264",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ALLIED BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "490286",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HABIB BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "490287",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HABIB BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "490288",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HABIB BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "490471",
+      "type": "CREDIT",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "492124",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "493465",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "MCB BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "494122",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "494123",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PK"
+      ]
+    }
+  ]
+}

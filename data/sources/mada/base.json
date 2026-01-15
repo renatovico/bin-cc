@@ -1,0 +1,18 @@
+{
+  "scheme": "mada",
+  "brand": "Mada",
+  "patterns": [
+    {
+      "bin": "^9682",
+      "length": [
+        16
+      ],
+      "luhn": true,
+      "cvvLength": 3
+    }
+  ],
+  "countries": [
+    "GLOBAL"
+  ],
+  "unofficial": true
+}

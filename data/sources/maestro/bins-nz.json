@@ -1,0 +1,40 @@
+{
+  "bins": [
+    {
+      "bin": "500062",
+      "type": "DEBIT",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "502293",
+      "type": "DEBIT",
+      "issuer": "ONE WORLD BANCORP",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "504301",
+      "type": "DEBIT",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "588951",
+      "type": "DEBIT",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "589726",
+      "type": "DEBIT",
+      "countries": [
+        "NZ"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "bins": [
+    {
+      "bin": "408321",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INTERBANK BURUNDI (IBB) S.A.R.L.",
+      "countries": [
+        "BI"
+      ]
+    },
+    {
+      "bin": "408322",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "INTERBANK BURUNDI (IBB) S.A.R.L.",
+      "countries": [
+        "BI"
+      ]
+    },
+    {
+      "bin": "408323",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTERBANK BURUNDI (IBB) S.A.R.L.",
+      "countries": [
+        "BI"
+      ]
+    },
+    {
+      "bin": "408324",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BI"
+      ]
+    },
+    {
+      "bin": "419886",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE DE CREDIT DE BUJUMBURA (BCB)",
+      "countries": [
+        "BI"
+      ]
+    }
+  ]
+}

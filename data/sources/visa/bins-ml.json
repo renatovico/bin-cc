@@ -1,0 +1,154 @@
+{
+  "bins": [
+    {
+      "bin": "404189",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF AFRICA - MALI",
+      "countries": [
+        "ML"
+      ]
+    },
+    {
+      "bin": "404190",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF AFRICA - MALI",
+      "countries": [
+        "ML"
+      ]
+    },
+    {
+      "bin": "412760",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "ML"
+      ]
+    },
+    {
+      "bin": "413143",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ECOBANK MALI, S.A.",
+      "countries": [
+        "ML"
+      ]
+    },
+    {
+      "bin": "417366",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU MALI",
+      "countries": [
+        "ML"
+      ]
+    },
+    {
+      "bin": "418916",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "ML"
+      ]
+    },
+    {
+      "bin": "418917",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "ML"
+      ]
+    },
+    {
+      "bin": "431908",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE DE DEVELOPPEMENT DU MALI",
+      "countries": [
+        "ML"
+      ]
+    },
+    {
+      "bin": "446006",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF AFRICA - MALI",
+      "countries": [
+        "ML"
+      ]
+    },
+    {
+      "bin": "448376",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU MALI",
+      "countries": [
+        "ML"
+      ]
+    },
+    {
+      "bin": "448383",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU MALI",
+      "countries": [
+        "ML"
+      ]
+    },
+    {
+      "bin": "448384",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU MALI",
+      "countries": [
+        "ML"
+      ]
+    },
+    {
+      "bin": "457829",
+      "countries": [
+        "ML"
+      ]
+    },
+    {
+      "bin": "472549",
+      "countries": [
+        "ML"
+      ]
+    },
+    {
+      "bin": "472550",
+      "countries": [
+        "ML"
+      ]
+    },
+    {
+      "bin": "472551",
+      "countries": [
+        "ML"
+      ]
+    },
+    {
+      "bin": "472552",
+      "countries": [
+        "ML"
+      ]
+    },
+    {
+      "bin": "484687",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "ML"
+      ]
+    },
+    {
+      "bin": "484780",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE NATIONALE DE DEVELOPPEMENT AGRICOLE (BNDA)",
+      "countries": [
+        "ML"
+      ]
+    }
+  ]
+}

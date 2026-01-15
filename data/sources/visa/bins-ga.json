@@ -1,0 +1,125 @@
+{
+  "bins": [
+    {
+      "bin": "403189",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU GAB",
+      "countries": [
+        "GA"
+      ]
+    },
+    {
+      "bin": "403190",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU GAB",
+      "countries": [
+        "GA"
+      ]
+    },
+    {
+      "bin": "406610",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNION GABONAISE DE BANQUES",
+      "countries": [
+        "GA"
+      ]
+    },
+    {
+      "bin": "406611",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNION GABONAISE DE BANQUES",
+      "countries": [
+        "GA"
+      ]
+    },
+    {
+      "bin": "406612",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNION GABONAISE DE BANQUES",
+      "countries": [
+        "GA"
+      ]
+    },
+    {
+      "bin": "427373",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU GAB",
+      "countries": [
+        "GA"
+      ]
+    },
+    {
+      "bin": "437477",
+      "countries": [
+        "GA"
+      ]
+    },
+    {
+      "bin": "437478",
+      "countries": [
+        "GA"
+      ]
+    },
+    {
+      "bin": "437479",
+      "countries": [
+        "GA"
+      ]
+    },
+    {
+      "bin": "437480",
+      "countries": [
+        "GA"
+      ]
+    },
+    {
+      "bin": "447608",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET LINDUSTRIE DU GABON (BICI-G)",
+      "countries": [
+        "GA"
+      ]
+    },
+    {
+      "bin": "455028",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET LINDUSTRIE DU GABON (BICI-G)",
+      "countries": [
+        "GA"
+      ]
+    },
+    {
+      "bin": "457279",
+      "countries": [
+        "GA"
+      ]
+    },
+    {
+      "bin": "462524",
+      "countries": [
+        "GA"
+      ]
+    },
+    {
+      "bin": "472853",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "GA"
+      ]
+    },
+    {
+      "bin": "476086",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU GAB",
+      "countries": [
+        "GA"
+      ]
+    }
+  ]
+}

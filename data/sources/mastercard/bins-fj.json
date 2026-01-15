@@ -1,0 +1,37 @@
+{
+  "bins": [
+    {
+      "bin": "543628",
+      "type": "CREDIT",
+      "issuer": "NATIONAL BANK OF FIJI, LTD.",
+      "countries": [
+        "FJ"
+      ]
+    },
+    {
+      "bin": "543836",
+      "issuer": "ANZ BANKING GROUP (NEW ZEALAND), LTD.",
+      "countries": [
+        "FJ"
+      ]
+    },
+    {
+      "bin": "544325",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "FJ"
+      ]
+    },
+    {
+      "bin": "547190",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NATIONAL BANK OF FIJI, LTD.",
+      "countries": [
+        "FJ"
+      ]
+    }
+  ]
+}

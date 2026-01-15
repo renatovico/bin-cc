@@ -1,0 +1,471 @@
+{
+  "bins": [
+    {
+      "bin": "510484",
+      "type": "CREDIT",
+      "issuer": "COMMERCIAL BANK OF CEYLON PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "510491",
+      "type": "CREDIT",
+      "issuer": "HATTON NATIONAL BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "512104",
+      "issuer": "NATIONS TRUST BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "513096",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "515685",
+      "type": "CREDIT",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "517580",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "517661",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF CEYLON",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "517708",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK OF CEYLON",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "517964",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "521079",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANK OF CEYLON",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "521085",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "SEYLAN BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "522141",
+      "type": "CREDIT",
+      "issuer": "SAMPATH BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "523981",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "524051",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SAMPATH BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "524118",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SEYLAN BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "524615",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "526927",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "527370",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "529305",
+      "issuer": "STANDARD CHARTERED GRINDLAYS BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "530091",
+      "type": "CREDIT",
+      "issuer": "SEYLAN BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "532726",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF CEYLON",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "533140",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "534178",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SAMPATH BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "534274",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF CEYLON",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "535927",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "COMMERCIAL BANK OF CEYLON PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "539921",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK OF CEYLON",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "539986",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "540630",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SAMPATH BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "541134",
+      "issuer": "SAMPATH BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "541374",
+      "type": "CREDIT",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "541902",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SEYLAN BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "541973",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "542127",
+      "type": "CREDIT",
+      "issuer": "SAMPATH BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "542190",
+      "type": "CREDIT",
+      "issuer": "HATTON NATIONAL BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "542937",
+      "type": "CREDIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "542949",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "543202",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "545935",
+      "type": "CREDIT",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "545936",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "546523",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "BANK OF CEYLON",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "547127",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "547165",
+      "type": "CREDIT",
+      "issuer": "SAMPATH BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "548485",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "548804",
+      "type": "CREDIT",
+      "issuer": "HATTON NATIONAL BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "548805",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HATTON NATIONAL BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "548806",
+      "type": "CREDIT",
+      "issuer": "HATTON NATIONAL BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "548807",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HATTON NATIONAL BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "550489",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "COMMERCIAL BANK OF CEYLON PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "550490",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "COMMERCIAL BANK OF CEYLON PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "550598",
+      "issuer": "COMMERCIAL BANK OF CEYLON, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "552474",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "552773",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "COMMERCIAL BANK OF CEYLON PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "552805",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "SAMPATH BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "557583",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF CEYLON",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "557676",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SEYLAN BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "558339",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HATTON NATIONAL BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "559316",
+      "countries": [
+        "LK"
+      ]
+    }
+  ]
+}

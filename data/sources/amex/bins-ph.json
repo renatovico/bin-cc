@@ -1,0 +1,26 @@
+{
+  "bins": [
+    {
+      "bin": "374400",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS COMPANY",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "376981",
+      "type": "CREDIT",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "376989",
+      "type": "CREDIT",
+      "countries": [
+        "PH"
+      ]
+    }
+  ]
+}

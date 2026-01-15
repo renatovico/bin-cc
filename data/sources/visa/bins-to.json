@@ -1,0 +1,43 @@
+{
+  "bins": [
+    {
+      "bin": "422421",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "TO"
+      ]
+    },
+    {
+      "bin": "431495",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "TO"
+      ]
+    },
+    {
+      "bin": "434380",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "WESTPAC BANK OF TONGA",
+      "countries": [
+        "TO"
+      ]
+    },
+    {
+      "bin": "463721",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "TO"
+      ]
+    },
+    {
+      "bin": "468230",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "TO"
+      ]
+    }
+  ]
+}

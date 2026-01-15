@@ -1,0 +1,563 @@
+{
+  "bins": [
+    {
+      "bin": "510235",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "510417",
+      "type": "CREDIT",
+      "issuer": "ASIA COMMERCIAL BANK",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "510995",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "VIETNAM MARITIME COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "511409",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "VIETNAM MARITIME COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "511957",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "512341",
+      "type": "CREDIT",
+      "issuer": "SAIGON THUONG TIN COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "512414",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "VIETNAM JSCB FOR INDUSTRY A",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "512701",
+      "type": "CREDIT",
+      "issuer": "VIETNAM JSCB FOR INDUSTRY A",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "512824",
+      "type": "CREDIT",
+      "issuer": "VIETNAM INTERNATIONAL COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "516995",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "518685",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "520032",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "VIETNAM JSCB FOR INDUSTRY A",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "520395",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "VIETNAM PROSPERITY JSCB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "520399",
+      "type": "CREDIT",
+      "issuer": "VIETNAM PROSPERITY JSCB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "521093",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "MILITARY COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "521377",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "VIETNAM PROSPERITY JSCB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "521976",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "523975",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "524083",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "524394",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "VIETNAM PROSPERITY JSCB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "524686",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "526418",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "JSCB FOR FOREIGN TRADE OF VIETNAM",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "526790",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ASIA COMMERCIAL BANK",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "526830",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SAIGON THUONG TIN COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "526887",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "VIETNAM INTERNATIONAL COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "528626",
+      "type": "CREDIT",
+      "issuer": "VIETNAM PROSPERITY JSCB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "528643",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "528645",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "528658",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "529038",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "530515",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "530572",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "530581",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "VIETNAM JSCB FOR INDUSTRY A",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "531828",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "532451",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "533147",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "533398",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "533587",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "533825",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "VIETNAM INTERNATIONAL COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "533948",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "CITIBANK",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "533968",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "534146",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "537018",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ASIA COMMERCIAL BANK",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "537032",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "537158",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "SOUTHEAST ASIA COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "540392",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "SOUTHEAST ASIA COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "542172",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "542853",
+      "type": "CREDIT",
+      "issuer": "VIETNAM EXPORT IMPORT COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "543846",
+      "type": "CREDIT",
+      "issuer": "VIETNAM JSCB FOR INDUSTRY A",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "545579",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "545968",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ASIA COMMERCIAL BANK",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "546022",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK (VIETNAM), LTD.",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "546284",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "JSCB FOR FOREIGN TRADE OF VIETNAM",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "546285",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSCB FOR FOREIGN TRADE OF VIETNAM",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "546327",
+      "type": "CREDIT",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "546555",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ASIA COMMERCIAL BANK",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "546734",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "546750",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "547587",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "547886",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSCB FOR FOREIGN TRADE OF VIETNAM",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "548362",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "548370",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "VIETNAM EXPORT IMPORT COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "548471",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "548489",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "VIETNAM JSCB FOR INDUSTRY A",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "548566",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "MILITARY COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "548936",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "VIETNAM JSCB FOR INDUSTRY A",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "549054",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSCB FOR FOREIGN TRADE OF VIETNAM",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "549244",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "549794",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "550017",
+      "issuer": "A/P AUS AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "554571",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "554602",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "559312",
+      "countries": [
+        "VN"
+      ]
+    }
+  ]
+}

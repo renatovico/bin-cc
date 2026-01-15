@@ -1,0 +1,1397 @@
+{
+  "bins": [
+    {
+      "bin": "400121",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "401773",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "401877",
+      "issuer": "NATIONAL IRISH BANK, LTD.",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "402344",
+      "issuer": "AIB BANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "402345",
+      "issuer": "AIB BANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "402346",
+      "issuer": "AIB BANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "402347",
+      "issuer": "AIB BANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "402348",
+      "issuer": "AIB BANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "402349",
+      "issuer": "AIB BANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "402939",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TESCO PERSONAL FINANCE PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "403023",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALLIED IRISH BANKS PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "404744",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "404745",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "405926",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "405927",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "406410",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "AIB BANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "406411",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "AIB BANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "406412",
+      "issuer": "AIB BANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "408531",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ALLIED IRISH BANKS PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "408550",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "408569",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "AIB BANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "408570",
+      "issuer": "AIB BANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "408573",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "409810",
+      "issuer": "AIB BANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "411636",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "R RAPHAEL AND SONS PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "414261",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ALLIED IRISH BANKS PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "414262",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "ALLIED IRISH BANKS PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "415548",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "415670",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "420759",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "421683",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "423275",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "425717",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "426023",
+      "issuer": "AIB BANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "426397",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALLIED IRISH BANKS PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "426398",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ALLIED IRISH BANKS PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "427337",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "427377",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ALLIED IRISH BANKS PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "428384",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431369",
+      "issuer": "BANK OF SCOTLAND (IRELAND), LTD.",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431480",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITICORP",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431490",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITIBANK ESPANA, S.A.",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431930",
+      "type": "DEBIT",
+      "issuer": "HALIFAX",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431931",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ULSTER BANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431932",
+      "type": "DEBIT",
+      "issuer": "ULSTER BANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431933",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431934",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431935",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431936",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431937",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431938",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431939",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431940",
+      "type": "DEBIT",
+      "issuer": "BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431941",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431942",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431943",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431944",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431945",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431946",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431947",
+      "type": "DEBIT",
+      "issuer": "ALLIED IRISH BANKS PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431948",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431949",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431950",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431951",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431952",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431953",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431954",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431955",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431956",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431957",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431958",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431959",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431960",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431961",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431962",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431963",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431964",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431965",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431966",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431967",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431968",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431969",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431970",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431971",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431972",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431973",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431974",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431975",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431976",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431977",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431978",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "431979",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "433506",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "433507",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "433508",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "435614",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "PERMANENT TSB",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "440260",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALLIED IRISH BANKS PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "440287",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "440288",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "440296",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "448449",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "453925",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "453980",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "IRISH LIFE AND PERMANENT PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "454453",
+      "issuer": "AIB BANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "454454",
+      "issuer": "AIB BANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "454455",
+      "issuer": "AIB BANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "454456",
+      "issuer": "AIB BANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "454457",
+      "issuer": "AIB BANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "454458",
+      "issuer": "AIB BANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "454679",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "454778",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "455032",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "455073",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALLIED IRISH BANKS PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "455263",
+      "issuer": "AIB BANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "455373",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "ALLIED IRISH BANKS PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "455718",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ULSTER BANK, LTD.",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "455745",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "456705",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "458113",
+      "issuer": "NATIONAL IRISH BANK, LTD.",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "459922",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "460301",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITIBANK ESPANA, S.A.",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "466295",
+      "type": "DEBIT",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "469713",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TESCO PERSONAL FINANCE PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "469840",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "469841",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "469842",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "469843",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "469844",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "469846",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "469847",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "471501",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "PRUDENTIAL BANK AND TRUST COMPANY",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "471502",
+      "category": "PURCHASING",
+      "issuer": "BANK OF AMERICA",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "471560",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "ALLIED IRISH BANKS PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "472710",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "473664",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALLIED IRISH BANKS PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "473665",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AIB BANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "473666",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AIB BANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "474198",
+      "issuer": "AIB BANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "474199",
+      "issuer": "AIB BANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "475743",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "02 MONEY CARDS",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "475745",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "476210",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "476211",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "477104",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "477575",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "477576",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "477577",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "477578",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "477579",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "477580",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "477581",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "477582",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "477583",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "477584",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "477585",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "477586",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "477587",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "477588",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "487019",
+      "issuer": "IRISH LIFE AND PERMANENT PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "490938",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "IRISH NATIONWIDE BUILDING SOCIETY",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "491012",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "491086",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "491611",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF SCOTLAND (IRELAND), LTD.",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "491876",
+      "issuer": "IRISH NATIONWIDE BUILDING SOCIETY",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "491878",
+      "issuer": "EBS BUILDING SOCIETY",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "492109",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALLIED IRISH BANKS PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "492177",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "ALLIED IRISH BANKS PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "493413",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "494050",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "494051",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "496621",
+      "issuer": "AIB BANK",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "496662",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ALLIED IRISH BANKS PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "498833",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    }
+  ]
+}

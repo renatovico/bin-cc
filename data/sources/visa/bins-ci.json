@@ -1,0 +1,387 @@
+{
+  "bins": [
+    {
+      "bin": "403366",
+      "issuer": "SOCIETE IVOIRIENNE DE BANQUE",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "406601",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SOCIETE IVOIRIENNE DE BANQUE",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "406602",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SOCIETE IVOIRIENNE DE BANQUE",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "406603",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SOCIETE IVOIRIENNE DE BANQUE",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "406734",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "SOCIETE GENERALE DE BANQUES EN COTE D'IVOIRE (SGBCI)",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "406735",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "411985",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA COTE D'IVOIR",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "413133",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ECOBANK COTE D'IVOIRE",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "414056",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA COTE D'IVOIR",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "414456",
+      "issuer": "STANDARD CHARTERED BANK IVORY COAST",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "414608",
+      "issuer": "SOCIETE GENERALE DE BANQUES EN COTE D'IVOIRE (SGBCI)",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "414609",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SOCIETE GENERALE DE BANQUES EN COTE D'IVOIRE (SGBCI)",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "414613",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SOCIETE GENERALE DE BANQUES EN COTE D'IVOIRE (SGBCI)",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "417230",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA COTE D'IVOIR",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "418890",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "SOCIETE GENERALE DE BANQUES EN COTE D'IVOIRE (SGBCI)",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "420172",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF AFRICA-COTE D'IVOIRE",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "426160",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF AFRICA-COTE D'IVOIRE",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "426161",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF AFRICA-COTE D'IVOIRE",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "428691",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "428692",
+      "type": "DEBIT",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "428693",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "428694",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "429599",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET LINDUSTRIE DE LA COTE D'IVOIRE",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "430501",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ECOBANK COTE D'IVOIRE",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "431260",
+      "issuer": "SOCIETE GENERALE DE BANQUES EN COTE D'IVOIRE (SGBCI)",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "433338",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET LINDUSTRIE DE LA COTE D'IVOIRE",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "433339",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET LINDUSTRIE DE LA COTE D'IVOIRE",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "441336",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "441337",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "441338",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "441339",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE INTERNATIONALE POUR LAFRIQUE OCCIDENTALE - BIAO",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "446982",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "446983",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "446984",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "454436",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SOCIETE GENERALE DE BANQUES EN COTE D'IVOIRE (SGBCI)",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "455029",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA COTE D'IVOIR",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "459050",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE NATIONALE D'INVESTISSEMENT",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "459051",
+      "type": "DEBIT",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "459052",
+      "type": "DEBIT",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "459053",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE NATIONALE D'INVESTISSEMENT",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "459054",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANQUE NATIONALE D'INVESTISSEMENT",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "470331",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "472536",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "472537",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "472538",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "472539",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "472540",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "472541",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "484674",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CI"
+      ]
+    }
+  ]
+}

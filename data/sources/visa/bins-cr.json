@@ -1,0 +1,3387 @@
+{
+  "bins": [
+    {
+      "bin": "400943",
+      "issuer": "AVAL CARD (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "401607",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO IMPROSA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "401610",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO IMPROSA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "401630",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "401631",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "401632",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "401681",
+      "issuer": "BANCO DEL ISTMO (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "401682",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "402285",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "402478",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "402520",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "402560",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "402561",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "402666",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "402667",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "402721",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AVAL CARD (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "402722",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "VALES INTERCONTINENTALES, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "402751",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "VALES INTERCONTINENTALES, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "403816",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CUSCATLAN DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "403817",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CUSCATLAN DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "403818",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO CITIBANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "404144",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "404265",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "404901",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "404980",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "405104",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "405705",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "407287",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCA PROMERICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "407550",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCA PROMERICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "407557",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO INTERFIN, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "409375",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "409376",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "409377",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "409605",
+      "issuer": "PROSIX, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "409627",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "409707",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "409731",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "409962",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "409963",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "410346",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "410347",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "410348",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "410372",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "410443",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TARJETAS BCT, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "410864",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "410865",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "411061",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "411604",
+      "issuer": "AVAL CARD (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "411608",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SCOTIABANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "411757",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO HSBC (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "412799",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "413107",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO PROMERICA DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "413890",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "413891",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "413892",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "414282",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "414290",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITIBANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "414452",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "414453",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "414454",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "414455",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "414766",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO LAFISE, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "414783",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO CITIBANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "415276",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "415277",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "415278",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "415581",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CATHAY DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "415582",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CATHAY DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "415583",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO CATHAY DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "416826",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "416828",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "416829",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "418083",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "418084",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "418374",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO LAFISE, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "418375",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO LAFISE, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "418376",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO LAFISE, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "418929",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO LAFISE, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "418930",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO LAFISE, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "419229",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "419230",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CITIBANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "419231",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITIBANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "419232",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "419882",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "419884",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "420550",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "420551",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CITIBANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "421386",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "421387",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA PROMERICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "421415",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA PROMERICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "421416",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCA PROMERICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "421547",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "421548",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "421816",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO LAFISE, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "421909",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CITIBANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "423697",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO LAFISE, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "424101",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "424102",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SCOTIABANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "424903",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO HSBC (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "424904",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO HSBC (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "424905",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO HSBC (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "425482",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITIBANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "425484",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO HSBC (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "425485",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BANEX, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "425486",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO HSBC (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "425957",
+      "issuer": "INVERSIONES FEDEBAN, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "426016",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "426017",
+      "issuer": "AVAL CARD (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "426074",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CATHAY DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "427171",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "428207",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITIBANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "428292",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO CITIBANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "430286",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "431069",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "431884",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO LAFISE, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "431885",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO LAFISE, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "432087",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "432088",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "432131",
+      "type": "DEBIT",
+      "category": "GIFT",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "432394",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "432395",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "433191",
+      "issuer": "BANEX INVERSIONES, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "433406",
+      "issuer": "AVAL CARD (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "433584",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO LAFISE, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "433585",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO LAFISE, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "433586",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO LAFISE, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "434094",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA PROMERICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "434096",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA PROMERICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "434097",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO PROMERICA DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "434679",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO HSBC (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "435773",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BICSACARD, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "438078",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "438098",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "438167",
+      "issuer": "VALES INTERCONTINENTALES, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "438400",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO BANTEC CQ, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "438921",
+      "issuer": "VALES INTERCONTINENTALES, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "439168",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "439169",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "439170",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "CITITARJETAS DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441175",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TARJETAS BCT, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441176",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "TARJETAS BCT, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441178",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SCOTIABANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441576",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441577",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441578",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441579",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441580",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441581",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441582",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441583",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441584",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441585",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441586",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441587",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441588",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441589",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441590",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441591",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441592",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441593",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441594",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441705",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ELCA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441706",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO ELCA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441707",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO ELCA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441708",
+      "issuer": "BANCO ELCA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441715",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441732",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441733",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441734",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441735",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441736",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441737",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441738",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441739",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441740",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441741",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441742",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441743",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441744",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441745",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441746",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441747",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441748",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441749",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441750",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441751",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441752",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441753",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441754",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441755",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441756",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441757",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441758",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "441765",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "443952",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "443953",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "448442",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "CITITARJETAS DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "448705",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "448765",
+      "issuer": "TARJETAS BFA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "448766",
+      "issuer": "TARJETAS BFA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "448785",
+      "issuer": "CITIBANK",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "448786",
+      "issuer": "CITIBANK",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "449123",
+      "issuer": "BANCA PROMERICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "449191",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO HSBC (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "449194",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "449195",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CUSCATLAN DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "449196",
+      "issuer": "TARJETAS BFA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "449726",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CREDITO AGRICOLA DE CARTAGO",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "449830",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "450926",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "VALES INTERCONTINENTALES, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "450983",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VALES INTERCONTINENTALES, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "450998",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VALES INTERCONTINENTALES, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "451115",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AVAL CARD (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "451116",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AVAL CARD (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "451117",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AVAL CARD (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "451119",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "AVAL CARD (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "451124",
+      "issuer": "INVERSIONES ITSMICAS BANCRECEN, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "451125",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO BANEX, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "451314",
+      "issuer": "CREDIX INTERNACIONAL, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "451360",
+      "issuer": "CREST, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "451414",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CREDITO AGRICOLA DE CARTAGO",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "451415",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CREDITO AGRICOLA DE CARTAGO",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "451417",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "451418",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "451448",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "451477",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITITARJETAS DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "451482",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CITITARJETAS DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "451707",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "AVAL CARD (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "451708",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "AVAL CARD (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "451709",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AVAL CARD (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "451710",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AVAL CARD (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "451711",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AVAL CARD (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "451723",
+      "issuer": "INVERSIONES FEDEBAN, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "451724",
+      "issuer": "INVERSIONES FEDEBAN, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "451725",
+      "issuer": "INVERSIONES FEDEBAN, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "451789",
+      "issuer": "BANCO DEL ISTMO (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "452414",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "452415",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO PROMERICA DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "452418",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "454406",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CUSCATLAN DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "454692",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CREDITO AGRICOLA DE CARTAGO",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "454707",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CUSCATLAN DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "454726",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CITIBANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "454736",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "454737",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO CUSCATLAN DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "454738",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO CITIBANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "455199",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CREDITO AGRICOLA DE CARTAGO",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "455265",
+      "issuer": "TECNICARD, INC.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "455326",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "455337",
+      "issuer": "AVAL CARD (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "455374",
+      "issuer": "METROBAN, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "455380",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BANEX, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "455736",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO BANEX, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "456337",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "456338",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "456700",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CREDITO AGRICOLA DE CARTAGO",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "456701",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CREDITO AGRICOLA DE CARTAGO",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "456897",
+      "issuer": "BAC INTERNATIONAL BANK",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "457306",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "457332",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "457333",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "457334",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "457335",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "457336",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "457627",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "458103",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TARJETAS BCT, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "458106",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TARJETAS BCT, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "458107",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TARJETAS BCT, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "458108",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TARJETAS BCT, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "459009",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO GENERAL (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "459010",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO GENERAL (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "459011",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO GENERAL (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "459012",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO GENERAL (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "459013",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "461164",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "461207",
+      "issuer": "AVAL CARD (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "462979",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "462980",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCA PROMERICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "465564",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "468510",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO BANEX, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "472055",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "472056",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "472057",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "472244",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "472245",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "473213",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "473214",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "473215",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "473216",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "473218",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BICSACARD, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "473239",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AVAL CARD (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "473240",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITITARJETAS DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "473241",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "473298",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "SCOTIABANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "473299",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SCOTIABANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "474571",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "474581",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BAC SAN JOSE, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "476038",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "476399",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "476563",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO BANEX, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "476578",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "476821",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "477280",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "477370",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "477399",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO IMPROSA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "478787",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "478788",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "478789",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "478790",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "478791",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "478792",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "478793",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "478794",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "478924",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO IMPROSA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "478925",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO IMPROSA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "480853",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "482128",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "482129",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "482130",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "483073",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BAC SAN JOSE, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "483079",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "483093",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "483959",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "483960",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO PROMERICA DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "483961",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO PROMERICA DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "483962",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO PROMERICA DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "483963",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO PROMERICA DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "483964",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "484710",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "484711",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "485966",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "486405",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO ELCA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "486597",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "487029",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO CATHAY DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "487270",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO PROMERICA DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "489245",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO CREDITO AGRICOLA DE CARTAGO",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "489353",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "489771",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "SCOTIABANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "489931",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO PROMERICA DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "489935",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "489937",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "489941",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "489942",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO PROMERICA DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "489943",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "491211",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "491227",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "491261",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "491297",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PROCARD DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "491298",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO PROMERICA DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "491299",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "491550",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AVAL CARD (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "492151",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VALES INTERCONTINENTALES, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "492407",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "492408",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "492409",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "492465",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "492466",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "492467",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "493140",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERFIN, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "493141",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SCOTIABANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "493142",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "493143",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SCOTIABANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "493144",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "493189",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITITARJETAS DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "493190",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITITARJETAS DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "493191",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AVAL CARD (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "493199",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CITITARJETAS DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "493743",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "493744",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "493745",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "493823",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "493824",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "498454",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "498455",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "498456",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "498463",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO HSBC (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "498464",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BANEX, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "498465",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO HSBC (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "498505",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "498506",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "498507",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK INTERNATIONAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "499819",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO LAFISE, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "499822",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ATH COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "499823",
+      "type": "DEBIT",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "499824",
+      "type": "DEBIT",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "499825",
+      "type": "DEBIT",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "499826",
+      "type": "DEBIT",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "499827",
+      "type": "DEBIT",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "499828",
+      "type": "DEBIT",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "499829",
+      "type": "DEBIT",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "499830",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "499839",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "VALES INTERCONTINENTALES, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "499840",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "VALES INTERCONTINENTALES, S.A.",
+      "countries": [
+        "CR"
+      ]
+    }
+  ]
+}

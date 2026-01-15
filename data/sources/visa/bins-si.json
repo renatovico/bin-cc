@@ -1,0 +1,352 @@
+{
+  "bins": [
+    {
+      "bin": "400474",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "402430",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANKA KOPER D.D.",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "409664",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANKA KOPER D.D.",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "410669",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NOVA LJUBLJANSKA BANKA D.D.",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "417085",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT BANKA SLOVENIJA D.D.",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "417086",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNICREDIT BANKA SLOVENIJA D.D.",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "425752",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANK AUSTRIA CREDITANSTALT D.D. LJUBLJANA",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "429560",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANKA KOPER D.D.",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "430982",
+      "issuer": "BANKA KOPER D.D.",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "432416",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ABANKA VIPA D.D.",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "433343",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SKB BANKA D.D. LJUBLJANA",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "433348",
+      "issuer": "SKB BANKA D.D.",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "440640",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SKB BANKA D.D. LJUBLJANA",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "440641",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SKB BANKA D.D. LJUBLJANA",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "440642",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SKB BANKA D.D. LJUBLJANA",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "440713",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ABANKA VIPA D.D.",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "448313",
+      "issuer": "ABANKA VIPA D.D.",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "448320",
+      "issuer": "NOVA LJUBLJANSKA BANKA D.D.",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "448340",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANKA KOPER D.D.",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "448341",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANKA KOPER D.D.",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "448342",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANKA KOPER D.D.",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "449369",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ABANKA VIPA D.D.",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "454346",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NOVA LJUBLJANSKA BANKA D.D.",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "457039",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ABANKA VIPA D.D.",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "460330",
+      "issuer": "BANKA KOPER D.D.",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "462734",
+      "issuer": "ABANKA VIPA D.D.",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "465235",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ABANKA VIPA D.D.",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "467018",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ABANKA VIPA D.D.",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "467301",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "467303",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "467304",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "467305",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "474819",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NOVA LJUBLJANSKA BANKA D.D.",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "476138",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "476139",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "476656",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANKA KOPER D.D.",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "483787",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "492304",
+      "issuer": "ABANKA D.D. LJUBLJANA",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "498527",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "498528",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "498529",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "SI"
+      ]
+    },
+    {
+      "bin": "498708",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "countries": [
+        "SI"
+      ]
+    }
+  ]
+}

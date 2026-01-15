@@ -1,0 +1,22 @@
+{
+  "bins": [
+    {
+      "bin": "422342",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "SOCIETE GENERALE DE BANQUES EN GUINEE EQUATORIALE (SGBGE)",
+      "countries": [
+        "GQ"
+      ]
+    },
+    {
+      "bin": "485466",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SOCIETE GENERALE DE BANQUES EN GUINEE EQUATORIALE (SGBGE)",
+      "countries": [
+        "GQ"
+      ]
+    }
+  ]
+}

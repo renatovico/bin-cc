@@ -1,0 +1,37 @@
+{
+  "bins": [
+    {
+      "bin": "530365",
+      "type": "CREDIT",
+      "issuer": "BANQUE EXTERIEURE D'ALGERIE",
+      "countries": [
+        "DZ"
+      ]
+    },
+    {
+      "bin": "531497",
+      "countries": [
+        "DZ"
+      ]
+    },
+    {
+      "bin": "543088",
+      "issuer": "CREDIT POPULAIRE D'ALGERIE",
+      "countries": [
+        "DZ"
+      ]
+    },
+    {
+      "bin": "546562",
+      "countries": [
+        "DZ"
+      ]
+    },
+    {
+      "bin": "546979",
+      "countries": [
+        "DZ"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1603 @@
+{
+  "bins": [
+    {
+      "bin": "510432",
+      "type": "CREDIT",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "510433",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "510456",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "512055",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "512056",
+      "category": "STANDARD",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "512057",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "512058",
+      "category": "GOLD",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "512072",
+      "type": "CREDIT",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "512232",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "514055",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "514757",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "515238",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "516703",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "GRINDROD BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "517989",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "517990",
+      "type": "DEBIT",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "517991",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "517992",
+      "category": "GOLD",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "518103",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "518104",
+      "type": "CREDIT",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "518105",
+      "issuer": "NEDCOR BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "518106",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "518428",
+      "issuer": "CAPITEC BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "519260",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "519612",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "519614",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "520997",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "521091",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "522100",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "522110",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "522118",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "522126",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "522134",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "522142",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "522159",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "522167",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "522175",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "522183",
+      "type": "CREDIT",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "522191",
+      "type": "CREDIT",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "522250",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "522262",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "522263",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "522294",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "523909",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "523958",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "523982",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "526397",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "526440",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "526706",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "526722",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "526753",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "526791",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "527426",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "527431",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "527466",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "527634",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "528482",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "528483",
+      "type": "DEBIT",
+      "issuer": "AMALGAMATED BANKS OF SOUTH AFRICA LIMITED (ABSA BANK LIMITED)",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "528484",
+      "type": "DEBIT",
+      "issuer": "AMALGAMATED BANKS OF SOUTH AFRICA LIMITED (ABSA BANK LIMITED)",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "528486",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "528488",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "528489",
+      "type": "DEBIT",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "528490",
+      "type": "DEBIT",
+      "issuer": "AMALGAMATED BANKS OF SOUTH AFRICA LIMITED (ABSA BANK LIMITED)",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "528491",
+      "type": "DEBIT",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "528497",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "CAPITEC BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "528625",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "528644",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "528652",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "528718",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "531117",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "531162",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "531800",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "532657",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "532804",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "532853",
+      "type": "CREDIT",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "532854",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "532863",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "532864",
+      "issuer": "BOE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "532865",
+      "issuer": "BOE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "532866",
+      "issuer": "BOE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "533105",
+      "type": "DEBIT",
+      "category": "WORLD DEBIT EMBOSSED",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "533581",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "533822",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "533823",
+      "type": "DEBIT",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "533847",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "533848",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "533849",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "533885",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "533892",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "533916",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "534312",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "534910",
+      "type": "CREDIT",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "534911",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "535924",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "535949",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "535950",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "535968",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "535969",
+      "type": "DEBIT",
+      "issuer": "AMALGAMATED BANKS OF SOUTH AFRICA LIMITED (ABSA BANK LIMITED)",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "538422",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "538535",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "540546",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "540721",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "541222",
+      "type": "CREDIT",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "541281",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "541282",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "541283",
+      "category": "STANDARD",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "541300",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "541412",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "542028",
+      "type": "CREDIT",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "542065",
+      "issuer": "BOLAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "542150",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "542803",
+      "type": "CREDIT",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "542808",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "542839",
+      "type": "CREDIT",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "542972",
+      "type": "CREDIT",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "543020",
+      "type": "CREDIT",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "543036",
+      "type": "CREDIT",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "543552",
+      "type": "CREDIT",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "543934",
+      "issuer": "NEDBANK",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "544042",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "546007",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "547044",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "547119",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "547120",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "547471",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "547508",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "547971",
+      "issuer": "AMALGAMATED BANKS OF SOUTH AFRICA LIMITED (ABSA BANK LIMITED)",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "548159",
+      "type": "CREDIT",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "548160",
+      "issuer": "NEDCOR BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "548550",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "548576",
+      "type": "CREDIT",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "548578",
+      "type": "CREDIT",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "548579",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "549814",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "552039",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "552057",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "552065",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "552134",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "552367",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "552770",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "554435",
+      "type": "CREDIT",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "555025",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "555034",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "CITIBANK, N.A. SOUTH AFRICA",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "555036",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "CITIBANK, N.A. SOUTH AFRICA",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "555037",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "555925",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "STATE BANK OF INDIA",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "557678",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "GRINDROD BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "557695",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "557696",
+      "type": "DEBIT",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "557697",
+      "type": "DEBIT",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "558596",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ABSA BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "558598",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "558599",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "558732",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "558747",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "558753",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CITIBANK, N.A. SOUTH AFRICA",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "558842",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559200",
+      "type": "CREDIT",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559404",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559405",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559407",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559409",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559410",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559418",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559420",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559423",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559429",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559431",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559434",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559438",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559440",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559442",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559445",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559446",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559448",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559449",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559450",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559451",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559456",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559457",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559458",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559462",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559463",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559464",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559466",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559467",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559469",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559470",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559471",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559472",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559473",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559474",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559475",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559476",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559477",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559478",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559479",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559480",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559481",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559482",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559483",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559486",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559488",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559489",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559494",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559495",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559496",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559497",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559498",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "559499",
+      "countries": [
+        "ZA"
+      ]
+    }
+  ]
+}

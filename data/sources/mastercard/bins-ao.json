@@ -1,0 +1,63 @@
+{
+  "bins": [
+    {
+      "bin": "520022",
+      "type": "CREDIT",
+      "issuer": "BANCO DE NEGOCIOS INTERNACIONAL, S.A.",
+      "countries": [
+        "AO"
+      ]
+    },
+    {
+      "bin": "524102",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE NEGOCIOS INTERNACIONAL, S.A.",
+      "countries": [
+        "AO"
+      ]
+    },
+    {
+      "bin": "530819",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO DE NEGOCIOS INTERNACIONAL, S.A.",
+      "countries": [
+        "AO"
+      ]
+    },
+    {
+      "bin": "534197",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DE NEGOCIOS INTERNACIONAL, S.A.",
+      "countries": [
+        "AO"
+      ]
+    },
+    {
+      "bin": "534804",
+      "countries": [
+        "AO"
+      ]
+    },
+    {
+      "bin": "556679",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO DE NEGOCIOS INTERNACIONAL, S.A.",
+      "countries": [
+        "AO"
+      ]
+    },
+    {
+      "bin": "557662",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DE NEGOCIOS INTERNACIONAL, S.A.",
+      "countries": [
+        "AO"
+      ]
+    }
+  ]
+}

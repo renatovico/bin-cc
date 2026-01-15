@@ -1,0 +1,6297 @@
+{
+  "bins": [
+    {
+      "bin": "510108",
+      "type": "CREDIT",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "510111",
+      "type": "CREDIT",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "510174",
+      "issuer": "LONDON SCOTTISH BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "510180",
+      "issuer": "NATIONAL AUSTRALIA GROUP EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "510181",
+      "issuer": "NATIONAL AUSTRALIA GROUP EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "510182",
+      "issuer": "NATIONAL AUSTRALIA GROUP EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "510214",
+      "issuer": "ALLIED IRISH BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "510215",
+      "issuer": "AIB GROUP (UK) PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "510372",
+      "type": "DEBIT",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "511655",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "511656",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "511681",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "R RAPHAEL AND SONS PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "511682",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "R RAPHAEL AND SONS PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "511691",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "511844",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "IDT FINANCIAL SERVICES, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "512006",
+      "type": "CREDIT",
+      "issuer": "SANTANDER UK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "512198",
+      "type": "CREDIT",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "512199",
+      "type": "CREDIT",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "512491",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "512496",
+      "issuer": "J.P. MORGAN EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "512569",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "512591",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "512615",
+      "type": "CREDIT",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "512618",
+      "type": "CREDIT",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "512619",
+      "type": "CREDIT",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "512624",
+      "type": "CREDIT",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "512630",
+      "type": "CREDIT",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "512635",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "512687",
+      "type": "CREDIT",
+      "issuer": "BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "512775",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "513006",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "513007",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "513008",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "513009",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "513010",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "513014",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "515684",
+      "type": "CREDIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "516029",
+      "type": "DEBIT",
+      "issuer": "CITIFINANCIAL EUROPE",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "516483",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "516539",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "516830",
+      "type": "DEBIT",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "517633",
+      "category": "STANDARD",
+      "issuer": "CONISTER TRUST, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "518109",
+      "type": "CREDIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "518126",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "518142",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CAPITAL ONE (EUROPE) PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "518175",
+      "issuer": "MBNA",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "518581",
+      "issuer": "CAPITAL ONE (EUROPE) PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "518625",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "518644",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "518645",
+      "type": "CREDIT",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "518652",
+      "type": "CREDIT",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "518669",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "518675",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "518776",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "518791",
+      "type": "CREDIT",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "518982",
+      "issuer": "AIB GROUP (UK) PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "519345",
+      "type": "CREDIT",
+      "issuer": "BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "519520",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "R RAPHAEL AND SONS PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "519525",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "519772",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520013",
+      "type": "CREDIT",
+      "category": "QUANTUM",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520059",
+      "type": "CREDIT",
+      "issuer": "HFC BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520326",
+      "type": "CREDIT",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520334",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520338",
+      "type": "CREDIT",
+      "issuer": "BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520340",
+      "type": "CREDIT",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520470",
+      "issuer": "J.P. MORGAN EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520471",
+      "issuer": "J.P. MORGAN EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520472",
+      "issuer": "J.P. MORGAN EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520641",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520664",
+      "issuer": "CREATION FINANCIAL SERVICES",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520665",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520673",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520674",
+      "issuer": "ALLIANCE AND LEICESTER PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520675",
+      "type": "CREDIT",
+      "issuer": "SANTANDER CARDS UK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520726",
+      "issuer": "J.P. MORGAN EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520727",
+      "issuer": "J.P. MORGAN EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520749",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520750",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520751",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520752",
+      "issuer": "J.P. MORGAN EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520753",
+      "issuer": "J.P. MORGAN EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520754",
+      "issuer": "J.P. MORGAN EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520755",
+      "issuer": "J.P. MORGAN EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520756",
+      "issuer": "J.P. MORGAN EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520757",
+      "issuer": "J.P. MORGAN EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520758",
+      "issuer": "J.P. MORGAN EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520759",
+      "issuer": "J.P. MORGAN EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520760",
+      "issuer": "J.P. MORGAN EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520761",
+      "issuer": "J.P. MORGAN EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520903",
+      "issuer": "ALLIANCE AND LEICESTER INTERNATIONAL",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520904",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "520933",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "521040",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "521301",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "521788",
+      "type": "DEBIT",
+      "issuer": "CONISTER BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "521804",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "521863",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UBS AG",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "521962",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "521964",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "521965",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "521966",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "522008",
+      "issuer": "R RAPHAEL AND SONS PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "522009",
+      "issuer": "R RAPHAEL AND SONS PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "522093",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "522228",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "522308",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "522320",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "522692",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "522948",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "SANTANDER UK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "522996",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "523012",
+      "issuer": "CITIBANK INTERNATIONAL PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "523023",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "523065",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "523067",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "523074",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "523150",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "523283",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "523454",
+      "type": "CREDIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "523458",
+      "type": "CREDIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "523462",
+      "type": "CREDIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "523466",
+      "type": "CREDIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "523470",
+      "type": "CREDIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "523474",
+      "type": "CREDIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "523478",
+      "type": "CREDIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "523482",
+      "type": "CREDIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "523749",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "523783",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "523997",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "524738",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UBS AG",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "524813",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CONISTER BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "524850",
+      "type": "CREDIT",
+      "issuer": "SANTANDER CARDS UK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "524851",
+      "issuer": "GE MONEY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "524883",
+      "issuer": "VANQUIS BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "525302",
+      "type": "CREDIT",
+      "issuer": "BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "525303",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "525659",
+      "type": "CREDIT",
+      "issuer": "ISLAMIC BANK OF BRITAIN PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "525690",
+      "type": "CHARGE CARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "525730",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SANTANDER CARDS UK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "525785",
+      "issuer": "VANQUIS BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "526272",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "526279",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "526500",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "526529",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "527442",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "IDT FINANCIAL SERVICES, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "527654",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "528002",
+      "issuer": "VANQUIS BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "528166",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "528181",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "528182",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "528183",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "528184",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "528186",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "528187",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "528394",
+      "category": "STANDARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "528398",
+      "category": "STANDARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "528682",
+      "type": "CREDIT",
+      "issuer": "BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "528683",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "528684",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "528689",
+      "type": "CREDIT",
+      "issuer": "SANTANDER UK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "528691",
+      "issuer": "ABBEY NATIONAL BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "528692",
+      "issuer": "ABBEY NATIONAL BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "528693",
+      "issuer": "ABBEY NATIONAL BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "528694",
+      "issuer": "ABBEY NATIONAL BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "528830",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "528842",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529021",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "APS FINANCIAL, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529132",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529134",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529135",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529136",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529137",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529138",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529139",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529140",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529141",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529142",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529143",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529144",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529145",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529146",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529181",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529182",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529183",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529187",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529327",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529400",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529419",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529505",
+      "type": "CREDIT",
+      "issuer": "SANTANDER CARDS UK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529507",
+      "type": "CREDIT",
+      "issuer": "SANTANDER CARDS UK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529508",
+      "issuer": "EUROPAY FRANCE, S.A.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529511",
+      "type": "CREDIT",
+      "issuer": "SANTANDER CARDS UK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529513",
+      "type": "CREDIT",
+      "issuer": "SANTANDER CARDS UK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529514",
+      "type": "CREDIT",
+      "issuer": "SANTANDER UK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529565",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "TRANSACT NETWORK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529596",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529916",
+      "type": "CREDIT",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529921",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529930",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529932",
+      "type": "CREDIT",
+      "issuer": "CREATION FINANCIAL SERVICES",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529955",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529963",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529964",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529965",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529966",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529983",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "529987",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "530039",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "530072",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "530119",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "530120",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "530121",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "530122",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "530123",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "530124",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "530125",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "530126",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "530127",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "530128",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "530129",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "530264",
+      "issuer": "CITIBANK INTERNATIONAL PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "530418",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "530468",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "TRANSACT NETWORK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "530670",
+      "type": "DEBIT",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "530671",
+      "type": "DEBIT",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "530672",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "530673",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "530674",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "530675",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "530676",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "530823",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "IDT FINANCIAL SERVICES LIMITE D",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "530831",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "530850",
+      "type": "CREDIT",
+      "issuer": "TESCO PERSONAL FINANCE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "530971",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "531014",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "531045",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "531049",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SANTANDER CARDS UK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "531063",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CNG PROCESSING A/S",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "531065",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TESCO PERSONAL FINANCE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "531159",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "531160",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "531200",
+      "type": "DEBIT",
+      "category": "NEW WORLD",
+      "issuer": "CAPITAL ONE (EUROPE) PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "531214",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "531306",
+      "type": "PREPAID",
+      "issuer": "Wirecard Card Solutions",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "531307",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "531546",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "531569",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "IDT FINANCIAL SERVICES, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "531721",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "J.P. MORGAN EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "531722",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "531837",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "R RAPHAEL AND SONS PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "531977",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "531982",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "532693",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "532867",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "532868",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "532869",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "532870",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "532916",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "532927",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533040",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533141",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533142",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533143",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533145",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533161",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533162",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533163",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533164",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533165",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533200",
+      "type": "CREDIT",
+      "issuer": "METRO BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533319",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "EURONET PAYMENTS AND CARD SERVICES, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533332",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533603",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "R RAPHAEL AND SONS PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533801",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533803",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533805",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533809",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533834",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533840",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533842",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "TRANSACT NETWORK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533844",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533846",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "VINCENTO PAYMENT SOLUTIONS, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533859",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "J.P. MORGAN EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533865",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533867",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "R RAPHAEL AND SONS PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533869",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533884",
+      "issuer": "J.P. MORGAN EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533896",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "PREPAY TECHNOLOGIES, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533899",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "PREPAY TECHNOLOGIES, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533900",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533935",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "PSI- PAY, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533937",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "533947",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "534240",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "535335",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "535339",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "535341",
+      "category": "GOLD PREMIUM",
+      "issuer": "CAPITAL ONE",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "535923",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "535953",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "536386",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "536562",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "SECURE TRUST BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "536563",
+      "issuer": "R RAPHAEL AND SONS PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "538423",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "538424",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "538600",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "R RAPHAEL AND SONS PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "538628",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "R RAPHAEL AND SONS",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "538642",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "538669",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "R RAPHAEL AND SONS PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "538674",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "R RAPHAEL AND SONS PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "538675",
+      "type": "CREDIT",
+      "issuer": "R RAPHAEL AND SONS",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "538676",
+      "type": "CREDIT",
+      "issuer": "R RAPHAEL AND SONS",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "538677",
+      "type": "CREDIT",
+      "issuer": "R RAPHAEL AND SONS",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "538678",
+      "type": "CREDIT",
+      "issuer": "R RAPHAEL AND SONS",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "538679",
+      "type": "CREDIT",
+      "issuer": "R RAPHAEL AND SONS",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "538680",
+      "type": "CREDIT",
+      "issuer": "R RAPHAEL AND SONS",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "538681",
+      "type": "CREDIT",
+      "issuer": "R RAPHAEL AND SONS",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "538682",
+      "type": "CREDIT",
+      "issuer": "R RAPHAEL AND SONS",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "538683",
+      "type": "CREDIT",
+      "issuer": "R RAPHAEL AND SONS",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "538697",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "538698",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "538699",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "538937",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "539366",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "TRANSACT NETWORK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "539616",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540002",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540055",
+      "type": "CREDIT",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540059",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540081",
+      "issuer": "CREATION FINANCIAL SERVICES",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540100",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540152",
+      "type": "CREDIT",
+      "issuer": "BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540153",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540222",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540243",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540251",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540252",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540403",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540406",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540427",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540429",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540431",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540433",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540434",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540436",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540437",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540438",
+      "type": "CREDIT",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540439",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540440",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540441",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540442",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540450",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "APS FINANCIAL, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540451",
+      "type": "DEBIT",
+      "issuer": "APS FINANCIAL, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540453",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540454",
+      "type": "CREDIT",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540456",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540457",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540463",
+      "type": "CREDIT",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540464",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540471",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540485",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540493",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540563",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540635",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540758",
+      "type": "CREDIT",
+      "category": "BLUE",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540903",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "540964",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "541002",
+      "type": "CREDIT",
+      "issuer": "SANTANDER CARDS UK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "541156",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "541166",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "541170",
+      "type": "CREDIT",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "541293",
+      "issuer": "SIGNET LIMITED - EIRE",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "541361",
+      "type": "CREDIT",
+      "issuer": "SANTANDER UK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "541591",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CONISTER BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "541592",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CONISTER BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "541603",
+      "type": "CREDIT",
+      "issuer": "SANTANDER CARDS UK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "541647",
+      "type": "CREDIT",
+      "issuer": "SANTANDER CARDS UK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "541790",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "541868",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "541874",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "541890",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "541914",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "541976",
+      "issuer": "CITIBANK INTERNATIONAL PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542004",
+      "type": "CREDIT",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542011",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542064",
+      "issuer": "CITIBANK INTERNATIONAL PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542068",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542101",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542162",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542173",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITIBANK EUROPE PUBLIC LIMITED COMPANY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542180",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542195",
+      "type": "CREDIT",
+      "issuer": "BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542213",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542222",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542249",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542309",
+      "issuer": "LLOYDS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542451",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542502",
+      "type": "CREDIT",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542515",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542516",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542533",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542554",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542597",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542598",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542604",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542607",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542615",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542675",
+      "issuer": "GE MONEY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542676",
+      "issuer": "GE MONEY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542677",
+      "issuer": "GE MONEY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542678",
+      "issuer": "GE MONEY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542679",
+      "issuer": "GE MONEY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542680",
+      "issuer": "GE MONEY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542681",
+      "issuer": "GE MONEY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542682",
+      "issuer": "GE MONEY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542683",
+      "issuer": "GE MONEY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542786",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AIB GROUP (UK) PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542812",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "IDT FINANCIAL SERVICES, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542847",
+      "issuer": "CITIBANK INTERNATIONAL PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542851",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "542854",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543024",
+      "issuer": "CITIBANK EUROPE PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543025",
+      "issuer": "CITIBANK INTERNATIONAL PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543046",
+      "type": "CREDIT",
+      "issuer": "AIB GROUP (UK) PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543061",
+      "issuer": "MIDLAND BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543131",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543166",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543203",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543233",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543247",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543268",
+      "type": "CREDIT",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543269",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543276",
+      "issuer": "FRIZZELL BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543320",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543325",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543327",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543370",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543419",
+      "issuer": "CITIBANK INTERNATIONAL PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543429",
+      "type": "CREDIT",
+      "issuer": "BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543457",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543458",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543460",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543461",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543468",
+      "type": "CREDIT",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543469",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543470",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543471",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543473",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543474",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543475",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543477",
+      "type": "CREDIT",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543478",
+      "type": "CREDIT",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543480",
+      "type": "CREDIT",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543482",
+      "type": "CREDIT",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543483",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543484",
+      "type": "CREDIT",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543486",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543489",
+      "issuer": "CITIBANK INTERNATIONAL PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543556",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543557",
+      "type": "CREDIT",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543699",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543731",
+      "type": "CREDIT",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543864",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543869",
+      "issuer": "HFC BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543882",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543917",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543967",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543969",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "543994",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CONISTER BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "544005",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CONISTER BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "544136",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "544182",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "544465",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "544467",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "544501",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "544520",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "544521",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "544576",
+      "issuer": "HFC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "544608",
+      "issuer": "R RAPHAEL AND SONS PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "544624",
+      "type": "CREDIT",
+      "issuer": "HOME RETAIL GROUP PERSONAL FINANCE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "544631",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "544648",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "544725",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "544726",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "544743",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "544752",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "544781",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "544784",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "544798",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "544954",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SANTANDER CARDS UK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "544996",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545043",
+      "type": "CREDIT",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545061",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "R RAPHAEL AND SONS PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545100",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545108",
+      "type": "CREDIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545110",
+      "type": "CREDIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545112",
+      "type": "CREDIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545113",
+      "type": "CREDIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545121",
+      "type": "CREDIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545130",
+      "type": "CREDIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545135",
+      "type": "CREDIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545140",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545141",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545142",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545145",
+      "type": "CREDIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545149",
+      "type": "CREDIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545154",
+      "type": "CREDIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545156",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "AIB GROUP (UK) PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545172",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "UBS AG",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545175",
+      "type": "CREDIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545176",
+      "type": "CREDIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545186",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545187",
+      "type": "CREDIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545188",
+      "type": "CREDIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545191",
+      "type": "CREDIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545231",
+      "issuer": "NORTHERN BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545292",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545460",
+      "type": "CREDIT",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545461",
+      "issuer": "NATWEST STUDENT MASTERCARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545475",
+      "issuer": "NATWEST STUDENT MASTERCARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545501",
+      "issuer": "NATWEST STUDENT MASTERCARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545513",
+      "issuer": "NATWEST STUDENT MASTERCARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545514",
+      "issuer": "NATWEST STUDENT MASTERCARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545515",
+      "issuer": "NATWEST STUDENT MASTERCARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545516",
+      "issuer": "NATWEST STUDENT MASTERCARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545517",
+      "issuer": "NATWEST STUDENT MASTERCARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545518",
+      "issuer": "NATWEST STUDENT MASTERCARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545520",
+      "issuer": "NATWEST STUDENT MASTERCARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545521",
+      "issuer": "NATWEST STUDENT MASTERCARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545522",
+      "issuer": "NATWEST STUDENT MASTERCARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545523",
+      "issuer": "NATWEST STUDENT MASTERCARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545524",
+      "issuer": "NATWEST STUDENT MASTERCARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545578",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545664",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545665",
+      "issuer": "ALLIANCE AND LEICESTER PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545673",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545710",
+      "type": "CREDIT",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545760",
+      "issuer": "ABBEY NATIONAL BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545811",
+      "issuer": "NORTHERN ROCK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545852",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545900",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545902",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545903",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545904",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545905",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545906",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545907",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545908",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545909",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545910",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545911",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545912",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545913",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545995",
+      "type": "CREDIT",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "545997",
+      "issuer": "ALLIANCE AND LEICESTER PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "546016",
+      "type": "CREDIT",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "546019",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "546096",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CAPITAL ONE (EUROPE) PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "546097",
+      "type": "CREDIT",
+      "issuer": "CAPITAL ONE (EUROPE) PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "546099",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "546259",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "546261",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "546262",
+      "type": "CREDIT",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "546297",
+      "issuer": "PEOPLES BANK",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "546298",
+      "issuer": "PEOPLES BANK",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "546341",
+      "issuer": "NATIONAL AUSTRALIA GROUP (UK)",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "546342",
+      "issuer": "NATIONAL AUSTRALIA GROUP (UK)",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "546344",
+      "issuer": "NATIONAL AUSTRALIA GROUP (UK)",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "546349",
+      "issuer": "BENEFICIAL BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "546476",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "546779",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "546780",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "546811",
+      "type": "CREDIT",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "546895",
+      "type": "CREDIT",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "547018",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "547110",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "547114",
+      "type": "CREDIT",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "547116",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "547139",
+      "issuer": "FRIZZELL BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "547203",
+      "type": "CREDIT",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "547347",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "547353",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "547354",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "547356",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "547367",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "547410",
+      "type": "CREDIT",
+      "issuer": "PROGRESSIVE CREDIT, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "547460",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "547474",
+      "issuer": "CITIBANK INTERNATIONAL PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "547676",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "547735",
+      "issuer": "GE CAPITAL BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "547759",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "547772",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "547825",
+      "issuer": "GE CAPITAL BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "547853",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "548019",
+      "type": "CREDIT",
+      "issuer": "SANTANDER CARDS UK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "548021",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "EURONET PAYMENTS AND CARD SERVICES, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "548041",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "548099",
+      "type": "CREDIT",
+      "issuer": "SANTANDER CARDS UK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "548507",
+      "type": "CREDIT",
+      "issuer": "BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "548508",
+      "issuer": "ABBEY NATIONAL PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "548510",
+      "issuer": "ABBEY NATIONAL BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "548782",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "548840",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "548861",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "548862",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "548871",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "548942",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "549023",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "549031",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "549032",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "549046",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "549052",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "549056",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "549083",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "549298",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "549352",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "549503",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "549629",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "549872",
+      "issuer": "GE CAPITAL BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "550005",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "550136",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "550142",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SANTANDER CARDS UK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "550443",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "550450",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "550462",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "550500",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "550512",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "550522",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "550527",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "550533",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "550534",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "550543",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "550550",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "550551",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "550566",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "550614",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "IDT FINANCIAL SERVICES, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "550619",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "550640",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "550641",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "550642",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "IDT FINANCIAL SERVICES, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552028",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "IDT FINANCIAL SERVICES, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552068",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552073",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552085",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552140",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552148",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552157",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552188",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552201",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552211",
+      "category": "PLATINUM",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552213",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552217",
+      "category": "PLATINUM",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552222",
+      "category": "PLATINUM",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552230",
+      "category": "PLATINUM",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552242",
+      "category": "PLATINUM",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552246",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "IDT FINANCIAL SERVICES, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552249",
+      "category": "PLATINUM",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552270",
+      "category": "PLATINUM",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552276",
+      "category": "PLATINUM",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552282",
+      "category": "PLATINUM",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552294",
+      "category": "PLATINUM",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552295",
+      "category": "PLATINUM",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552296",
+      "category": "PLATINUM",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552298",
+      "category": "PLATINUM",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552538",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "J.P. MORGAN EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552560",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "METRO BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552728",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552895",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CAPITAL ONE (EUROPE) PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "552936",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CITIBANK INTERNATIONAL PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "553251",
+      "issuer": "J.P. MORGAN EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "553255",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "553256",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "553270",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "553403",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "LUFTHANSA AIRPLUS SERVICEKARTEN GMBH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "553421",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "553422",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CITIBANK INTERNATIONAL PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "553433",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "J.P. MORGAN EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "553482",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "553483",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "553485",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "553529",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "554112",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "554196",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "554201",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "554239",
+      "issuer": "BRITANNIA BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "554397",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "554544",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "554564",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "554740",
+      "issuer": "BANK OF AMERICA CANADA",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "554828",
+      "issuer": "HFC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "554987",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "554988",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "555002",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "555045",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "CITIBANK INTERNATIONAL PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "555146",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "555147",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "555158",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "555159",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "555963",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556084",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556085",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556086",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "J.P. MORGAN EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556092",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556093",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556103",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556106",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "J.P. MORGAN EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556110",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "MBNA EUROPE BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556111",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556115",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556116",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556296",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556311",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556314",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556343",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556352",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556353",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556354",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556355",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556645",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "J.P. MORGAN EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556654",
+      "issuer": "GE CAPITAL BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556655",
+      "issuer": "GE CAPITAL BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556657",
+      "issuer": "GE CAPITAL BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556677",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556741",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556902",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556905",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "J.P. MORGAN EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556950",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556951",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "556969",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557048",
+      "type": "CREDIT",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557061",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557062",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557098",
+      "type": "CREDIT",
+      "issuer": "BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557347",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557348",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557349",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557350",
+      "type": "DEBIT",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557351",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557352",
+      "type": "DEBIT",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557353",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "STATE BANK OF INDIA",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557354",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557355",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557356",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "FBN BANK (UK), LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557357",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557358",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "GUARANTY TRUST BANK (UK), LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557359",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557360",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "METRO BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557361",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "METRO BANK",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557362",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557363",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BUTTERFIELD BANK (UK), LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557364",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "UNITED NATIONAL BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557365",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557366",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557369",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557371",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557372",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557373",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557374",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557375",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557376",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557377",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557378",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557379",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557380",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557383",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557384",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557385",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557386",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557387",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557389",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557390",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557391",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557392",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557393",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557394",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557395",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557396",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557397",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557398",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557399",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557400",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557401",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557402",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557403",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557404",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557405",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557406",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557407",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557408",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557409",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557410",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557411",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557412",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557413",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557414",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557415",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557416",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557417",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557418",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557419",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557420",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557421",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557422",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557423",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557424",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557425",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557426",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557427",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557428",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557429",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557430",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557431",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557432",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557433",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557434",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557435",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557436",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557437",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557438",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557439",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557440",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557441",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557442",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557443",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557444",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557445",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557446",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557500",
+      "type": "DEBIT",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557712",
+      "type": "CREDIT",
+      "issuer": "SANTANDER CARDS UK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557843",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557963",
+      "issuer": "CITIBANK INTERNATIONAL PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557975",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "557978",
+      "issuer": "CITIBANK INTERNATIONAL PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "558364",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CAF BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "558542",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "558545",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "558714",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "J.P. MORGAN EUROPE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "558717",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CITIBANK INTERNATIONAL PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "558721",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "LUFTHANSA AIRPLUS SERVICEKARTEN GMBH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "558722",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "558731",
+      "category": "CORPORATE",
+      "issuer": "GE CAPITAL BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "559208",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "559210",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "GB"
+      ]
+    }
+  ]
+}

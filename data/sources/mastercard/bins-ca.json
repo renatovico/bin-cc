@@ -1,0 +1,7416 @@
+{
+  "bins": [
+    {
+      "bin": "510179",
+      "type": "CREDIT",
+      "issuer": "PEOPLES TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "511340",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "PEOPLES TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "511670",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DIRECTCASH BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "511671",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "511685",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITIBANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "512164",
+      "issuer": "HSBC BANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "512786",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DIRECTCASH BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "513056",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "513259",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "513429",
+      "issuer": "HSBC BANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "513430",
+      "issuer": "HSBC BANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "513431",
+      "issuer": "HSBC BANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "513432",
+      "issuer": "HSBC BANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "513433",
+      "issuer": "HSBC BANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "514879",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "516581",
+      "type": "DEBIT",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "517537",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "517690",
+      "issuer": "FIRST DATA LOAN COMPANY, CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "517699",
+      "issuer": "FIRST DATA LOAN COMPANY, CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "517759",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "517781",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "517843",
+      "issuer": "CITIBANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "517928",
+      "type": "CREDIT",
+      "issuer": "GE MONEY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "518116",
+      "type": "CREDIT",
+      "issuer": "PRESIDENTS CHOICE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "518127",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PRESIDENTS CHOICE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "518136",
+      "issuer": "NATIONAL BANK OF CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "518157",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "518165",
+      "issuer": "FIRST DATA LOAN COMPANY, CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "518347",
+      "issuer": "FIRST DATA LOAN COMPANY, CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "518452",
+      "issuer": "CITIBANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "518689",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "518873",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CAPITAL ONE BANK (CANADA BRANCH)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519000",
+      "type": "CREDIT",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519003",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519006",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519007",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519008",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519009",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519010",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519011",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519012",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519013",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519014",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519015",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519016",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519017",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519018",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519019",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519020",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519021",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519022",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519023",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519024",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519025",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519026",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519027",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519028",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519029",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519030",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519045",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519084",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519094",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519111",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519112",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519113",
+      "type": "CREDIT",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519114",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519115",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519116",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519117",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519118",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519119",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519120",
+      "type": "CREDIT",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519121",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519122",
+      "category": "STANDARD",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519123",
+      "category": "STANDARD",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519124",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519125",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519126",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519127",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519128",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519129",
+      "type": "CREDIT",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519131",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519132",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519133",
+      "type": "CREDIT",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519134",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519135",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519136",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519137",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519138",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519139",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519140",
+      "type": "CREDIT",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519141",
+      "category": "STANDARD",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519142",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519143",
+      "category": "STANDARD",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519144",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519145",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519146",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519147",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519148",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519150",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519151",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519152",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519154",
+      "type": "CREDIT",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519155",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519156",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519157",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519158",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519159",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519160",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519161",
+      "type": "CREDIT",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519162",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519164",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519165",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519166",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519167",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519168",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519170",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519171",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519173",
+      "type": "CREDIT",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519177",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519180",
+      "type": "CREDIT",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519181",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519182",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519183",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519185",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519193",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519200",
+      "type": "CREDIT",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519201",
+      "category": "STANDARD",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519202",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519203",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519204",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519205",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519206",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519207",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519208",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519210",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519211",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519212",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519213",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519214",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519215",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519216",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519217",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519218",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519219",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519220",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519221",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519222",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519223",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519225",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519226",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519227",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519228",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519230",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519231",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519232",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519233",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519234",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519240",
+      "type": "CREDIT",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519241",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519242",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519243",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519245",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519250",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519259",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519266",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519267",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519268",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519269",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519271",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519273",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519281",
+      "type": "CREDIT",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519283",
+      "type": "CREDIT",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519290",
+      "type": "CREDIT",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519293",
+      "type": "CREDIT",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519294",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519298",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519299",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519309",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519314",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519315",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519322",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519323",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519326",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519332",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519335",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519338",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519340",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519342",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519343",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519347",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519351",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519358",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519359",
+      "type": "CREDIT",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519361",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519369",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519371",
+      "type": "CREDIT",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519373",
+      "type": "CREDIT",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519378",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519380",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519381",
+      "type": "CREDIT",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519383",
+      "type": "CREDIT",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519389",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519390",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519391",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HSBC BANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519392",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HSBC BANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519393",
+      "category": "STANDARD",
+      "issuer": "HSBC BANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519394",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC BANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519395",
+      "category": "GOLD",
+      "issuer": "HSBC BANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519396",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HSBC BANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519397",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC BANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519398",
+      "category": "STANDARD",
+      "issuer": "HSBC BANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519400",
+      "type": "CREDIT",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519403",
+      "type": "CREDIT",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519409",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519412",
+      "type": "DEBIT",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519416",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519426",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519430",
+      "type": "CREDIT",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519431",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519433",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519434",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC BANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519435",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519436",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519437",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519438",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519443",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519444",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519445",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519446",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519448",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519458",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519464",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519472",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519474",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519476",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519477",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519479",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519480",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519482",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519484",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519487",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519489",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519490",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519491",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519493",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519494",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519503",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519506",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519510",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519511",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519512",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519519",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519523",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519524",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519526",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519527",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519528",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519529",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519531",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519532",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519533",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519534",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519535",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519536",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519538",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CITIBANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519539",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519540",
+      "type": "CREDIT",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519541",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519542",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519543",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519544",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519545",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519546",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519547",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519548",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519549",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519550",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519551",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519552",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519553",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519554",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519555",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519556",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519557",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519558",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519559",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519560",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519561",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519562",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519563",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519564",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519565",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519566",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519567",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519568",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519569",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519570",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519571",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519572",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519573",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519574",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519575",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519576",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519577",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519578",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519579",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519580",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519581",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519582",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519583",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519584",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519585",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519586",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519587",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519588",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519589",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519590",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519591",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519592",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519593",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519594",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519595",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519598",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519599",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519600",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519604",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519605",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519606",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519613",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519615",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519618",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519623",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519630",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519632",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519633",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519634",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519680",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519681",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519700",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519701",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519704",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519706",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519708",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519714",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519718",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519720",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519722",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519723",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519725",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519729",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519733",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519739",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519742",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519752",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519753",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519756",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519757",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519761",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519762",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519763",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519764",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519766",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519775",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519776",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519782",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519783",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519786",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519789",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519791",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519804",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519825",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519827",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519830",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519832",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519834",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519835",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519836",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519838",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519839",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519840",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519842",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519843",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519844",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519846",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519847",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519848",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519850",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519851",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519852",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519854",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519856",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519861",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519864",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519865",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519876",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519877",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519887",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519892",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519894",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519895",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519896",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519897",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519898",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519901",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519903",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519907",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519913",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519915",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519916",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519918",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519919",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519921",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519922",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519923",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519924",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519926",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519927",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519928",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519929",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519930",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519931",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519932",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519933",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519934",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519935",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519936",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519937",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519938",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519939",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519940",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519941",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519942",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519943",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519944",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519949",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519950",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519951",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519952",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519953",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519954",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519958",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519959",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519968",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519969",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519972",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519973",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519974",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519975",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519976",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519977",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519978",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519979",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519980",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519981",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519982",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519983",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519984",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519985",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519986",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519987",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519988",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519989",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519990",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519991",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519992",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519993",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "519994",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "520507",
+      "issuer": "WELLS FARGO FINANCIAL CORPORATION CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "520508",
+      "issuer": "WELLS FARGO FINANCIAL CORPORATION CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "520645",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "520762",
+      "issuer": "GE MONEY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "520781",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "520990",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "522013",
+      "type": "CREDIT",
+      "issuer": "JPMORGAN CHASE BANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "522122",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "522182",
+      "type": "CREDIT",
+      "issuer": "PEOPLES TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "522367",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "522371",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "522820",
+      "type": "CREDIT",
+      "issuer": "PRESIDENTS CHOICE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "522834",
+      "type": "CREDIT",
+      "issuer": "PRESIDENTS CHOICE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "522841",
+      "type": "CREDIT",
+      "issuer": "PRESIDENTS CHOICE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "522859",
+      "type": "CREDIT",
+      "issuer": "PRESIDENTS CHOICE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "522861",
+      "type": "CREDIT",
+      "issuer": "PRESIDENTS CHOICE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "522870",
+      "type": "CREDIT",
+      "issuer": "PRESIDENTS CHOICE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "522873",
+      "type": "CREDIT",
+      "issuer": "PRESIDENTS CHOICE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "522879",
+      "type": "CREDIT",
+      "issuer": "PRESIDENTS CHOICE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "522880",
+      "type": "CREDIT",
+      "issuer": "PRESIDENTS CHOICE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "522885",
+      "type": "CREDIT",
+      "issuer": "PRESIDENTS CHOICE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "522886",
+      "type": "CREDIT",
+      "issuer": "PRESIDENTS CHOICE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "522887",
+      "type": "CREDIT",
+      "issuer": "PRESIDENTS CHOICE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "522891",
+      "type": "CREDIT",
+      "issuer": "PRESIDENTS CHOICE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "522894",
+      "type": "CREDIT",
+      "issuer": "PRESIDENTS CHOICE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "522895",
+      "type": "CREDIT",
+      "issuer": "PRESIDENTS CHOICE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "522896",
+      "type": "CREDIT",
+      "issuer": "PRESIDENTS CHOICE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "522958",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JPMORGAN CHASE BANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "524300",
+      "issuer": "HUDSON'S BAY COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "524303",
+      "issuer": "HUDSON'S BAY COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "524304",
+      "issuer": "HUDSON'S BAY COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "524306",
+      "issuer": "HUDSON'S BAY COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "524307",
+      "issuer": "HUDSON'S BAY COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "524320",
+      "issuer": "HUDSON'S BAY COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "524336",
+      "issuer": "HUDSON'S BAY COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "524337",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CAPITAL ONE BANK (CANADA BRANCH)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "524338",
+      "issuer": "HUDSON'S BAY COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "524341",
+      "issuer": "HUDSON'S BAY COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "524353",
+      "issuer": "HUDSON'S BAY COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "524362",
+      "issuer": "HUDSON'S BAY COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "524370",
+      "issuer": "HUDSON'S BAY COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "524375",
+      "issuer": "HUDSON'S BAY COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "524378",
+      "issuer": "HUDSON'S BAY COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "524383",
+      "issuer": "HUDSON'S BAY COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "524387",
+      "issuer": "HUDSON'S BAY COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "524582",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "524911",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "525657",
+      "issuer": "PEOPLES TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "525800",
+      "type": "CREDIT",
+      "issuer": "NATIONAL BANK OF CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "525880",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "NATIONAL BANK OF CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "525881",
+      "category": "STANDARD",
+      "issuer": "NATIONAL BANK OF CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "525890",
+      "type": "CREDIT",
+      "issuer": "NATIONAL BANK OF CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "525891",
+      "issuer": "NATIONAL BANK OF CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "525892",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "NATIONAL BANK OF CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "525893",
+      "category": "STANDARD",
+      "issuer": "NATIONAL BANK OF CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "525894",
+      "category": "STANDARD",
+      "issuer": "NATIONAL BANK OF CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "525895",
+      "category": "STANDARD",
+      "issuer": "NATIONAL BANK OF CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "525896",
+      "category": "STANDARD",
+      "issuer": "NATIONAL BANK OF CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "525897",
+      "category": "STANDARD",
+      "issuer": "NATIONAL BANK OF CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "525898",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NATIONAL BANK OF CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "525899",
+      "issuer": "NATIONAL BANK OF CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "525995",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CANADIAN TIRE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526200",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526398",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JPMORGAN CHASE BANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526709",
+      "category": "STANDARD",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526711",
+      "category": "STANDARD",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526712",
+      "category": "STANDARD",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526713",
+      "category": "STANDARD",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526714",
+      "issuer": "PEOPLES TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526719",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "PEOPLES TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526720",
+      "category": "STANDARD",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526721",
+      "category": "STANDARD",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526723",
+      "category": "STANDARD",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526725",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PEOPLES TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526747",
+      "category": "STANDARD",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526761",
+      "category": "STANDARD",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526763",
+      "category": "STANDARD",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526772",
+      "category": "STANDARD",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526773",
+      "category": "STANDARD",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526783",
+      "category": "STANDARD",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526794",
+      "category": "STANDARD",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526796",
+      "category": "STANDARD",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526797",
+      "category": "STANDARD",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526798",
+      "category": "STANDARD",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526799",
+      "category": "STANDARD",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526801",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526805",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526806",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526807",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526809",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526812",
+      "issuer": "CANADA TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526813",
+      "issuer": "CANADA TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526815",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526822",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526824",
+      "issuer": "CANADA TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526825",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526829",
+      "issuer": "CANADA TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526840",
+      "issuer": "CANADA TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526854",
+      "issuer": "CANADA TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526864",
+      "issuer": "CANADA TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526865",
+      "issuer": "CANADA TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526879",
+      "issuer": "CANADA TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526880",
+      "issuer": "CANADA TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526882",
+      "issuer": "CANADA TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526886",
+      "issuer": "CANADA TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "526888",
+      "issuer": "CANADA TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "528030",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "528031",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "528061",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "529075",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "529083",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "529118",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "529558",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "PEOPLES TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "529563",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "ALL TRANS FINANCIAL SERVICES CREDIT UNION, LTD.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "529962",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DIRECTCASH BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "530111",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITIBANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "530117",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "JPMORGAN CHASE BANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "530469",
+      "type": "CREDIT",
+      "issuer": "PEOPLES TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "530542",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DIRECTCASH BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "530629",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "530785",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "JPMORGAN CHASE BANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "530786",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "530838",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531150",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "PEOPLES TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531225",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CITIBANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531244",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531431",
+      "type": "CREDIT",
+      "category": "PREPAID",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531610",
+      "type": "CREDIT",
+      "issuer": "CUETS FINANCIAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531612",
+      "type": "CREDIT",
+      "issuer": "CUETS FINANCIAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531613",
+      "type": "CREDIT",
+      "issuer": "CUETS FINANCIAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531614",
+      "type": "CREDIT",
+      "issuer": "CUETS FINANCIAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531615",
+      "type": "CREDIT",
+      "issuer": "CUETS FINANCIAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531616",
+      "type": "CREDIT",
+      "issuer": "CUETS FINANCIAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531617",
+      "type": "CREDIT",
+      "issuer": "CUETS FINANCIAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531618",
+      "type": "CREDIT",
+      "issuer": "CUETS FINANCIAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531619",
+      "type": "CREDIT",
+      "issuer": "CUETS FINANCIAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531620",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531621",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531622",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531624",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531625",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531626",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531627",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531630",
+      "type": "CREDIT",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531631",
+      "category": "STANDARD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531632",
+      "category": "STANDARD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531633",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531634",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531635",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531636",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531637",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531638",
+      "category": "STANDARD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531639",
+      "category": "STANDARD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531640",
+      "type": "CREDIT",
+      "category": "WORLD ELITE",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531641",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531642",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531643",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531644",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531645",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531646",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531650",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531655",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531656",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531660",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531664",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531665",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531670",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531673",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531675",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531676",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531680",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531685",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531686",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531690",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531691",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531695",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531696",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531702",
+      "type": "DEBIT",
+      "category": "GLOBAL PAYMENT",
+      "issuer": "CUETS FINANCIAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531704",
+      "type": "DEBIT",
+      "category": "GLOBAL PAYMENT",
+      "issuer": "CUETS FINANCIAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531706",
+      "type": "DEBIT",
+      "category": "GLOBAL PAYMENT",
+      "issuer": "CUETS FINANCIAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531708",
+      "type": "DEBIT",
+      "category": "GLOBAL PAYMENT",
+      "issuer": "CUETS FINANCIAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531709",
+      "type": "DEBIT",
+      "category": "GLOBAL PAYMENT",
+      "issuer": "CUETS FINANCIAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531710",
+      "type": "DEBIT",
+      "category": "GLOBAL PAYMENT",
+      "issuer": "CUETS FINANCIAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531711",
+      "type": "DEBIT",
+      "category": "GLOBAL PAYMENT",
+      "issuer": "CUETS FINANCIAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531718",
+      "type": "DEBIT",
+      "category": "GLOBAL PAYMENT",
+      "issuer": "CUETS FINANCIAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531729",
+      "type": "DEBIT",
+      "category": "GLOBAL PAYMENT",
+      "issuer": "CUETS FINANCIAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531732",
+      "type": "DEBIT",
+      "category": "GLOBAL PAYMENT",
+      "issuer": "CUETS FINANCIAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531733",
+      "type": "DEBIT",
+      "category": "GLOBAL PAYMENT",
+      "issuer": "CUETS FINANCIAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531736",
+      "type": "DEBIT",
+      "category": "GLOBAL PAYMENT",
+      "issuer": "CUETS FINANCIAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531737",
+      "type": "DEBIT",
+      "category": "GLOBAL PAYMENT",
+      "issuer": "CUETS FINANCIAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531738",
+      "type": "DEBIT",
+      "category": "GLOBAL PAYMENT",
+      "issuer": "CUETS FINANCIAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531740",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531741",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531742",
+      "category": "STANDARD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531743",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531744",
+      "type": "CREDIT",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531745",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531746",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531747",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531748",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531749",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531750",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531751",
+      "category": "STANDARD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531752",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531753",
+      "category": "STANDARD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531754",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531755",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531756",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531757",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531758",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531759",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531760",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531761",
+      "category": "STANDARD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531762",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531763",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531764",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531765",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531766",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531767",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531768",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531769",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531770",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531771",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531772",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531773",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531774",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531775",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531776",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531777",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531778",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531779",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531780",
+      "type": "CREDIT",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531781",
+      "category": "STANDARD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531782",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531783",
+      "category": "STANDARD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531784",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531785",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531786",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531787",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531788",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531789",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531790",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531791",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531792",
+      "category": "STANDARD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531793",
+      "category": "STANDARD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531794",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531795",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531796",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531797",
+      "type": "CREDIT",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531798",
+      "category": "STANDARD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "531799",
+      "category": "STANDARD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "532570",
+      "type": "DEBIT",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "532580",
+      "type": "CREDIT",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "533033",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "533039",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "533192",
+      "type": "CREDIT",
+      "issuer": "PEOPLES TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "533313",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "PEOPLES TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "533621",
+      "category": "PREPAID",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "533704",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "533833",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "PEOPLES TRUST",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "533835",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "533866",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "PRESIDENTS CHOICE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "533871",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BRIDGEWATER BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "533893",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "PRESIDENTS CHOICE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537840",
+      "type": "CREDIT",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537841",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537842",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537843",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537844",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537845",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537846",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537847",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537848",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537849",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537850",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537851",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537852",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537853",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537854",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537855",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537856",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537857",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537858",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537859",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537860",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537861",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537862",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537863",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537864",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537865",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537866",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537867",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537868",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537869",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537870",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537871",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537872",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537873",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537874",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537875",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537876",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537877",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537878",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537879",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537880",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537881",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537882",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537883",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537884",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537885",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537886",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537887",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537888",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537889",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537890",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537891",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537892",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537893",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537894",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537895",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537896",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537897",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537898",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "537899",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "538625",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "PEOPLES TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "538633",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "PEOPLES TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "538977",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "539847",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "PEOPLES TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "539967",
+      "type": "CREDIT",
+      "issuer": "BRIDGEWATER BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "540473",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "540534",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "JPMORGAN CHASE BANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "540545",
+      "type": "CREDIT",
+      "issuer": "BANK OF AMERICA CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "540556",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "JPMORGAN CHASE BANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "540886",
+      "type": "CREDIT",
+      "issuer": "BANK OF AMERICA CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "541049",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "541142",
+      "type": "CREDIT",
+      "category": "WORLD ELITE",
+      "issuer": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "541308",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CITIBANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "541590",
+      "type": "CREDIT",
+      "issuer": "RBC ROYAL BANK OF CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "541606",
+      "type": "CREDIT",
+      "issuer": "RBC ROYAL BANK OF CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "541703",
+      "issuer": "HSBC BANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "542346",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "542603",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "542609",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "542610",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "542611",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "542614",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "542619",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "542620",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "542623",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "542624",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "542628",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "542648",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "542649",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "542664",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "542665",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "542666",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "542668",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "542669",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "542674",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "542686",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "542693",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "542697",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "542699",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "543440",
+      "type": "CREDIT",
+      "issuer": "WAL-MART CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "543694",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "543871",
+      "type": "CREDIT",
+      "issuer": "BRIDGEWATER BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "543997",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "544006",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "ALL TRANS FINANCIAL SERVICES CREDIT UNION, LTD.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "544324",
+      "issuer": "FIRST DATA LOAN COMPANY, CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "544609",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DIRECTCASH BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "544612",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CANADIAN TIRE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "544613",
+      "issuer": "CANADIAN TIRE FINANCIAL SERVICES, LTD.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "544614",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CANADIAN TIRE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "544616",
+      "type": "CREDIT",
+      "issuer": "CANADIAN TIRE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "544618",
+      "type": "CREDIT",
+      "issuer": "CANADIAN TIRE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "544629",
+      "type": "CREDIT",
+      "issuer": "CANADIAN TIRE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "544630",
+      "type": "CREDIT",
+      "issuer": "CANADIAN TIRE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "544635",
+      "type": "CREDIT",
+      "issuer": "CANADIAN TIRE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "544644",
+      "type": "CREDIT",
+      "issuer": "CANADIAN TIRE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "544662",
+      "type": "CREDIT",
+      "issuer": "CANADIAN TIRE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "544667",
+      "type": "CREDIT",
+      "issuer": "CANADIAN TIRE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "544669",
+      "type": "CREDIT",
+      "issuer": "CANADIAN TIRE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "544697",
+      "type": "CREDIT",
+      "issuer": "CANADIAN TIRE BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "544826",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545200",
+      "issuer": "MBNA CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545206",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545208",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545215",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545217",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545222",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545223",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545227",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545228",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545232",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545239",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545240",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545241",
+      "category": "STANDARD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545242",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545243",
+      "category": "GOLD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545270",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545271",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545282",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545409",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BRIDGEWATER BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545706",
+      "issuer": "CAPITAL ONE BANK (CANADA)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545711",
+      "issuer": "CAPITAL ONE BANK (CANADA)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545714",
+      "issuer": "CAPITAL ONE BANK (CANADA)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545717",
+      "issuer": "CAPITAL ONE BANK (CANADA)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545718",
+      "issuer": "CAPITAL ONE BANK (CANADA)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545720",
+      "issuer": "CAPITAL ONE BANK (CANADA)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545721",
+      "issuer": "CAPITAL ONE BANK (CANADA)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545722",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545724",
+      "issuer": "CAPITAL ONE BANK (CANADA)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545725",
+      "issuer": "CAPITAL ONE BANK (CANADA)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545726",
+      "issuer": "CAPITAL ONE BANK (CANADA)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545727",
+      "issuer": "CAPITAL ONE BANK (CANADA)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545728",
+      "issuer": "CAPITAL ONE BANK (CANADA)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545731",
+      "issuer": "CAPITAL ONE BANK (CANADA)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545747",
+      "issuer": "CAPITAL ONE BANK (CANADA)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545749",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CAPITAL ONE BANK (CANADA BRANCH)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545750",
+      "issuer": "CAPITAL ONE BANK (CANADA)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545754",
+      "issuer": "CAPITAL ONE BANK (CANADA)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545755",
+      "issuer": "CAPITAL ONE BANK (CANADA)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545756",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CAPITAL ONE BANK (CANADA BRANCH)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545759",
+      "issuer": "CAPITAL ONE BANK (CANADA)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545767",
+      "issuer": "CAPITAL ONE BANK (CANADA)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545853",
+      "issuer": "CANADIAN TIRE ACCEPTANCE",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545923",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CAPITAL ONE BANK (CANADA BRANCH)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545945",
+      "issuer": "FIRST DATA LOAN COMPANY, CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "545998",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "546649",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "546840",
+      "type": "CREDIT",
+      "issuer": "CAPITAL ONE BANK (CANADA BRANCH)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "547456",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "GE MONEY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "547511",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "547612",
+      "issuer": "HOUSEHOLD FINANCE CORPORATION OF CANADA (BANK OF M",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "547716",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "547738",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "547802",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "WELLS FARGO FINANCIAL CORPORATION CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "547898",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "RBC ROYAL BANK OF CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "548050",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "548097",
+      "issuer": "FIRST DATA LOAN COMPANY, CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "548098",
+      "issuer": "FIRST DATA LOAN COMPANY, CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "548142",
+      "issuer": "FIRST DATA LOAN COMPANY, CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "548280",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "PEOPLES TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "548496",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CAPITAL ONE BANK (CANADA BRANCH)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "548533",
+      "issuer": "CANADA TRUST COMPANY",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "548923",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "549053",
+      "issuer": "FIRST DATA LOAN COMPANY, CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "549139",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CAPITAL ONE BANK (CANADA BRANCH)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "549191",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "549198",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "549199",
+      "category": "PLATINUM",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "549369",
+      "type": "CREDIT",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "549693",
+      "category": "PREPAID",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "549904",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "550003",
+      "issuer": "CU ELECTRONIC TRANSACTION SERVICES, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "550177",
+      "issuer": "FIRST DATA LOAN COMPANY, CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "550380",
+      "issuer": "FIRST DATA LOAN COMPANY, CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "550381",
+      "issuer": "FIRST DATA LOAN COMPANY, CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "550577",
+      "issuer": "NATIONAL BANK OF CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "551029",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "CASH STATION, INC.",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "552001",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "552187",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ALBERTA TREASURY BRANCHES",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "552380",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "CAPITAL ONE BANK (CANADA BRANCH)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "552396",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "552397",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "552399",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "552489",
+      "type": "CREDIT",
+      "category": "WORLD ELITE",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "552490",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "RBC ROYAL BANK OF CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "552496",
+      "type": "CREDIT",
+      "category": "WORLD ELITE",
+      "issuer": "CAPITAL ONE BANK (CANADA BRANCH)",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "552497",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "552522",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CITIBANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "552594",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "552612",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "RBC ROYAL BANK OF CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "552749",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "552822",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "552824",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "552825",
+      "issuer": "CITIBANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "552826",
+      "category": "STANDARD",
+      "issuer": "CITIBANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "552827",
+      "category": "STANDARD",
+      "issuer": "CITIBANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "552881",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MBNA CANADA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "553234",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "553265",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "COMERICA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "554108",
+      "issuer": "WELLS FARGO FINANCIAL CORPORATION CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "554170",
+      "issuer": "WELLS FARGO FINANCIAL CORPORATION CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "554647",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CITIBANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "555000",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "555006",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "NATIONAL BANK OF CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "555053",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "555077",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "555097",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "555098",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "555099",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "555100",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "555101",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "555102",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556051",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556312",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556344",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556345",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556346",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556347",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556372",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556651",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CITIBANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556707",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556714",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556759",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556785",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "COMERICA BANK",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556908",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556909",
+      "category": "CORPORATE",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556923",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "NATIONAL BANK OF CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556934",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556937",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "CITIBANK CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556960",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "BANK OF AMERICA CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556964",
+      "category": "STANDARD",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556987",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556989",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556990",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556991",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556992",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556993",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556994",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556995",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556996",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "556997",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "557962",
+      "category": "STANDARD",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "558346",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "558479",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "558700",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "558801",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "558831",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK OF MONTREAL",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "558974",
+      "type": "CREDIT",
+      "category": "WORLD FOR BUSINESS",
+      "issuer": "RBC ROYAL BANK OF CANADA",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "559326",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "559990",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "559991",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "559992",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "559993",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "559994",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "559995",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "559996",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "559997",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "559998",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "bin": "559999",
+      "countries": [
+        "CA"
+      ]
+    }
+  ]
+}

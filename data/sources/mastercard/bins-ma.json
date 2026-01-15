@@ -1,0 +1,386 @@
+{
+  "bins": [
+    {
+      "bin": "510163",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BNP PARIBAS",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "510473",
+      "type": "CREDIT",
+      "issuer": "CETELEM",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "510548",
+      "type": "CREDIT",
+      "issuer": "BARID AL MAGHRIB",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "513057",
+      "issuer": "SOCIETE INTERBANK",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "518822",
+      "type": "CREDIT",
+      "issuer": "CENTRE MONETIQUE INTERBANCAIRE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "518860",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "518861",
+      "issuer": "SOCIETE INTERBANK",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "521062",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BNP PARIBAS",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "521092",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "CREDIT AGRICOLE DU MAROC",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "521177",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANQUE CENTRALE POPULAIRE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "521185",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ATTIJARIWAFA BANK",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "522058",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "523418",
+      "type": "CREDIT",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "524076",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BARID AL MAGHRIB",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "524155",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANQUE CENTRALE POPULAIRE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "524252",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "525433",
+      "type": "CREDIT",
+      "issuer": "BARID AL MAGHRIB",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "525765",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "527421",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ATTIJARIWAFA BANK",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "527435",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANQUE CENTRALE POPULAIRE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "527578",
+      "type": "CREDIT",
+      "issuer": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "529927",
+      "type": "CREDIT",
+      "issuer": "BNP PARIBAS",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "530110",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BARID AL MAGHRIB",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "531140",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "532196",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "532331",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANQUE CENTRALE POPULAIRE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "533179",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CREDIT AGRICOLE DU MAROC",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "534317",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "536451",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "536520",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BNP PARIBAS",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "537014",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDIT AGRICOLE DU MAROC",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "540190",
+      "type": "CREDIT",
+      "issuer": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "540498",
+      "type": "CREDIT",
+      "issuer": "ATTIJARIWAFA BANK",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "540785",
+      "issuer": "WAFABANK",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "541003",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ATTIJARIWAFA BANK",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "541017",
+      "type": "CREDIT",
+      "issuer": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "541024",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDIT DU MAROC",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "541026",
+      "issuer": "SOCIETE INTERBANK",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "541027",
+      "type": "CREDIT",
+      "issuer": "CREDIT DU MAROC",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "541750",
+      "type": "CREDIT",
+      "issuer": "BANQUE CENTRALE POPULAIRE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "541751",
+      "type": "CREDIT",
+      "issuer": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "541755",
+      "type": "CREDIT",
+      "issuer": "ATTIJARIWAFA BANK",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "542006",
+      "issuer": "SOCIETE INTERBANK",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "548747",
+      "type": "CREDIT",
+      "issuer": "BANQUE CENTRALE POPULAIRE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "552969",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "553484",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CREDIT DU MAROC",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "558810",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "countries": [
+        "MA"
+      ]
+    }
+  ]
+}

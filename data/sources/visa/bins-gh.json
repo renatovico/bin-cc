@@ -1,0 +1,543 @@
+{
+  "bins": [
+    {
+      "bin": "401764",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "GE CAPITAL CONSUMER CARD CO.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "401919",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNITED BANK FOR AFRICA GHANA, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "402144",
+      "issuer": "BARCLAYS BANK OF GHANA, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "404214",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "404215",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "GUARANTY TRUST BANK GHANA, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "404216",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "404299",
+      "issuer": "ECOBANK GHANA, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "406910",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANBIC BANK GHANA, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "406929",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "STANBIC BANK GHANA, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "406931",
+      "issuer": "STANBIC BANK GHANA, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "406932",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "406933",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "406942",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "407356",
+      "type": "DEBIT",
+      "category": "TRAVEL MONEY",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "407471",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "INTERCONTINENTAL BANK (GHANA), LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "408319",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "409628",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "SG-SSB, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "409629",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "issuer": "SG-SSB, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "409630",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SG-SSB, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "409631",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SG-SSB, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "409632",
+      "issuer": "SG-SSB, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "412030",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "412031",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "412032",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "412656",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "413102",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "416929",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "422043",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ECOBANK GHANA, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "422126",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK GHANA, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "422170",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ECOBANK GHANA, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "422679",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "422800",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD CHARTERED BANK GHANA, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "422804",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "STANDARD CHARTERED BANK GHANA, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "422805",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD CHARTERED BANK GHANA, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "429058",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BARCLAYS BANK OF GHANA, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "430541",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ECOBANK GHANA, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "430545",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ECOBANK GHANA, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "432246",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED BANK FOR AFRICA GHANA, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "432247",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNITED BANK FOR AFRICA GHANA, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "432248",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UNITED BANK FOR AFRICA GHANA, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "437358",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "439957",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "444569",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "445598",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "445617",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "INTERCONTINENTAL BANK (GHANA), LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "445619",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTERCONTINENTAL BANK (GHANA), LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "445823",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INTERCONTINENTAL BANK (GHANA), LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "445824",
+      "type": "DEBIT",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "448334",
+      "issuer": "STANDARD CHARTERED BANK GHANA, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "448335",
+      "issuer": "STANDARD CHARTERED BANK GHANA, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "450006",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "450009",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "452340",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "452341",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "457648",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "466038",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "466039",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "467797",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BARCLAYS",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "471473",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "471474",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "471475",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "472876",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "STANDARD CHARTERED BANK GHANA, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "483988",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "UT BANK LIMITED",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "484680",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "484681",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "486039",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "486040",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "issuer": "STANDARD CHARTERED BANK GHANA, LTD.",
+      "countries": [
+        "GH"
+      ]
+    }
+  ]
+}

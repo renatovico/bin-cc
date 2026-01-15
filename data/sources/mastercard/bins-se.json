@@ -1,0 +1,868 @@
+{
+  "bins": [
+    {
+      "bin": "510096",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SC CITADELE BANKA",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "511672",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DANSKE BANK AKTIESELSKAB, DENMARK, SWEDEN BRANCH",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "512586",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ICA BANKEN AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "512587",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ICA BANKEN AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "512606",
+      "type": "CREDIT",
+      "issuer": "CERDO BANKPARTNER AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "512610",
+      "type": "CREDIT",
+      "issuer": "CERDO BANKPARTNER AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "512611",
+      "issuer": "CERDO BANKPARTNER AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "512612",
+      "issuer": "CERDO BANKPARTNER AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "512613",
+      "issuer": "CERDO BANKPARTNER AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "512614",
+      "category": "STANDARD",
+      "issuer": "CERDO BANKPARTNER AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "512617",
+      "type": "CREDIT",
+      "issuer": "SC CITADELE BANKA",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "515675",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "516020",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "IKANO BANK SE",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "516382",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NORDEA BANK AB (PUBL)",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "518620",
+      "type": "CREDIT",
+      "issuer": "ENTERCARD SVERIGE AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "520327",
+      "issuer": "DANSKE BANK AKTIESELSKAB, DENMARK, SWEDEN BRANCH",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "520952",
+      "type": "CREDIT",
+      "issuer": "ENTERCARD SVERIGE AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "520991",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "521358",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SVENSKA HANDELSBANKEN AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "522660",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "SVENSKA HANDELSBANKEN AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "522661",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SVENSKA HANDELSBANKEN AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "522662",
+      "issuer": "SVENSKA HANDELSBANKEN",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "522663",
+      "issuer": "SVENSKA HANDELSBANKEN",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "522664",
+      "issuer": "SVENSKA HANDELSBANKEN",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "522665",
+      "issuer": "SVENSKA HANDELSBANKEN",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "522706",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "522767",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "523936",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DANSKE BANK AKTIESELSKAB, DENMARK, SWEDEN BRANCH",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "525235",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "LANSFORSAKRINGAR BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "525409",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NORDNET BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "525412",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "527500",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "527501",
+      "type": "CREDIT",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "527502",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "527503",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "528248",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "529588",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "EUROPAY FRANCE, S.A.",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "529924",
+      "type": "CREDIT",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "529925",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "529926",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "529928",
+      "type": "CREDIT",
+      "issuer": "SVENSKA HANDELSBANKEN AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "529936",
+      "type": "CREDIT",
+      "issuer": "ENTERCARD SVERIGE AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "530112",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "530992",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CERDO BANKPARTNER AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "531717",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "NORDEA BANK AB (PUBL)",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "531719",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "531720",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "533980",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "534243",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ICA BANKEN AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "534244",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ICA BANKEN AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "535922",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "538991",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "539881",
+      "type": "CREDIT",
+      "issuer": "CERDO BANKPARTNER AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "541253",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "NORDEA BANK AB (PUBL)",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "541255",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "541256",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "541277",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NORDEA BANK AB (PUBL)",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "542250",
+      "issuer": "ICA BANKEN AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "542542",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "543066",
+      "type": "CREDIT",
+      "issuer": "NORDEA BANK AB (PUBL)",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "543077",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SVENSKA HANDELSBANKEN AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "543288",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "NORDEA BANK AB (PUBL)",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "543321",
+      "type": "CREDIT",
+      "issuer": "NORDEA BANK AB (PUBL)",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "543558",
+      "issuer": "SVENSKA HANDELSBANKEN AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "543560",
+      "type": "CREDIT",
+      "issuer": "ENTERCARD SVERIGE AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "543831",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DANSKE BANK AKTIESELSKAB, DENMARK, SWEDEN BRANCH",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "543870",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "543873",
+      "issuer": "FORENINGSSPARBANKEN AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "544249",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "544313",
+      "type": "CREDIT",
+      "issuer": "ENTERCARD SVERIGE AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "544481",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "544660",
+      "issuer": "LANSFORSAKRINGAR BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "544902",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DANSKE BANK AKTIESELSKAB, DENMARK, SWEDEN BRANCH",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "545045",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "DANSKE BANK AKTIESELSKAB, DENMARK, SWEDEN BRANCH",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "545104",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "545173",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "DANSKE BANK AKTIESELSKAB, DENMARK, SWEDEN BRANCH",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "545190",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "NORDEA BANK AB (PUBL)",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "545416",
+      "type": "CREDIT",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "545856",
+      "type": "CREDIT",
+      "issuer": "ENTERCARD SVERIGE AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "547048",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "CERDO BANKPARTNER AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "547049",
+      "type": "DEBIT",
+      "issuer": "FRISPAR SERVICE AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "547282",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DANSKE BANK AKTIESELSKAB, DENMARK, SWEDEN BRANCH",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "547621",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "548104",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "548945",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "548946",
+      "type": "CREDIT",
+      "issuer": "ENTERCARD SVERIGE AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "549879",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MARGINALEN BANK BANKAKTIEBOLAG",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "552048",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NORDEA BANK AB (PUBL)",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "552084",
+      "type": "CREDIT",
+      "issuer": "ENTERCARD SVERIGE AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "552513",
+      "type": "CREDIT",
+      "issuer": "NORDEA BANK AB (PUBL)",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "552723",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "552724",
+      "type": "CREDIT",
+      "category": "DIREKT",
+      "issuer": "DANSKE BANK AKTIESELSKAB, DENMARK, SWEDEN BRANCH",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "552750",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "DANSKE BANK AKTIESELSKAB, DENMARK, SWEDEN BRANCH",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "552764",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "554477",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "554501",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "554666",
+      "issuer": "FORENINGSSPARBANKEN AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "554758",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DANSKE BANK AKTIESELSKAB, DENMARK, SWEDEN BRANCH",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "555958",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "556663",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "557097",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "557447",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "DANSKE BANK AKTIESELSKAB, DENMARK, SWEDEN BRANCH",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "557839",
+      "issuer": "FRISPAR SERVICE AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "557840",
+      "issuer": "DEN DANSKE BANK AKTIESELSKAB, DENMARK, SWEDISH BRANCH",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "557887",
+      "issuer": "POSTGIROT BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "558487",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "SE"
+      ]
+    }
+  ]
+}

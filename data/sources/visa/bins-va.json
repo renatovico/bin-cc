@@ -1,0 +1,58 @@
+{
+  "bins": [
+    {
+      "bin": "406305",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ISTITUTO PER LE OPERE DI RELIGIONE",
+      "countries": [
+        "VA"
+      ]
+    },
+    {
+      "bin": "406306",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ISTITUTO PER LE OPERE DI RELIGIONE",
+      "countries": [
+        "VA"
+      ]
+    },
+    {
+      "bin": "427343",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ISTITUTO PER LE OPERE DI RELIGIONE",
+      "countries": [
+        "VA"
+      ]
+    },
+    {
+      "bin": "429569",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ISTITUTO PER LE OPERE DI RELIGIONE",
+      "countries": [
+        "VA"
+      ]
+    },
+    {
+      "bin": "460326",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ISTITUTO PER LE OPERE DI RELIGIONE",
+      "countries": [
+        "VA"
+      ]
+    },
+    {
+      "bin": "460327",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ISTITUTO PER LE OPERE DI RELIGIONE",
+      "countries": [
+        "VA"
+      ]
+    }
+  ]
+}

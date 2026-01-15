@@ -1,44 +1,322 @@
 {
   "scheme": "maestro",
   "bins": [
-    {"bin": "501059", "type": "debit", "countries": ["AR"]},
-    {"bin": "557909", "type": "debit", "countries": ["AR"]},
-    {"bin": "501066", "type": "debit", "countries": ["AR"]},
-    {"bin": "589633", "type": "debit", "countries": ["AR"]},
-    {"bin": "588729", "type": "debit", "countries": ["AR"]},
-    {"bin": "501089", "type": "debit", "countries": ["AR"]},
-    {"bin": "501083", "type": "debit", "countries": ["AR"]},
-    {"bin": "501075", "type": "debit", "countries": ["AR"]},
-    {"bin": "501067", "type": "debit", "countries": ["AR"]},
-    {"bin": "501062", "type": "debit", "countries": ["AR"]},
-    {"bin": "501061", "type": "debit", "countries": ["AR"]},
-    {"bin": "501060", "type": "debit", "countries": ["AR"]},
-    {"bin": "501058", "type": "debit", "countries": ["AR"]},
-    {"bin": "501057", "type": "debit", "countries": ["AR"]},
-    {"bin": "501056", "type": "debit", "countries": ["AR"]},
-    {"bin": "501055", "type": "debit", "countries": ["AR"]},
-    {"bin": "501054", "type": "debit", "countries": ["AR"]},
-    {"bin": "501053", "type": "debit", "countries": ["AR"]},
-    {"bin": "501051", "type": "debit", "countries": ["AR"]},
-    {"bin": "501049", "type": "debit", "countries": ["AR"]},
-    {"bin": "501047", "type": "debit", "countries": ["AR"]},
-    {"bin": "501045", "type": "debit", "countries": ["AR"]},
-    {"bin": "501043", "type": "debit", "countries": ["AR"]},
-    {"bin": "501041", "type": "debit", "issuer": "Banco de la Nación Argentina", "countries": ["AR"]},
-    {"bin": "501040", "type": "debit", "countries": ["AR"]},
-    {"bin": "501039", "type": "debit", "countries": ["AR"]},
-    {"bin": "501038", "type": "debit", "countries": ["AR"]},
-    {"bin": "501029", "type": "debit", "countries": ["AR"]},
-    {"bin": "501028", "type": "debit", "countries": ["AR"]},
-    {"bin": "501027", "type": "debit", "countries": ["AR"]},
-    {"bin": "501026", "type": "debit", "countries": ["AR"]},
-    {"bin": "501025", "type": "debit", "countries": ["AR"]},
-    {"bin": "501024", "type": "debit", "countries": ["AR"]},
-    {"bin": "501023", "type": "debit", "countries": ["AR"]},
-    {"bin": "501021", "type": "debit", "countries": ["AR"]},
-    {"bin": "501020", "type": "debit", "countries": ["AR"]},
-    {"bin": "501018", "type": "debit", "countries": ["AR"]},
-    {"bin": "501016", "type": "debit", "countries": ["AR"]},
-    {"bin": "501015", "type": "debit", "countries": ["AR"]}
+    {
+      "bin": "501015",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501016",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501018",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501020",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501021",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501023",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501024",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501025",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501026",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501027",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501028",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501029",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501038",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501039",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501040",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501041",
+      "type": "debit",
+      "issuer": "Banco de la Nación Argentina",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501043",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501045",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501047",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501049",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501051",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501053",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501054",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501055",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501056",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501057",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501058",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501059",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501060",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501061",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501062",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501066",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501067",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501075",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501083",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "501089",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "557909",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "588729",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "589244",
+      "type": "DEBIT",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "589471",
+      "type": "DEBIT",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "589562",
+      "type": "DEBIT",
+      "issuer": "TARJETA NARANJA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "589605",
+      "type": "DEBIT",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "589633",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "589647",
+      "type": "DEBIT",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "601070",
+      "type": "DEBIT",
+      "countries": [
+        "AR"
+      ]
+    }
   ]
 }

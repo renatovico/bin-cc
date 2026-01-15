@@ -1,0 +1,305 @@
+{
+  "bins": [
+    {
+      "bin": "406776",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KAZKOMMERTZBANK KYRGYZSTAN",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "416959",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "OJSC UNICREDIT BANK",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "416960",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OJSC UNICREDIT BANK",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "416961",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "OJSC UNICREDIT BANK",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "416962",
+      "issuer": "JSC ENERGOBANK",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "417219",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEMIR KYRGYZ INTERNATIONAL BANK",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "417220",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "417221",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DEMIR KYRGYZ INTERNATIONAL BANK",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "417747",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC BANK KYRGYZSTAN",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "417748",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "JSC BANK KYRGYZSTAN",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "417749",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC BANK KYRGYZSTAN",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "419672",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "419673",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "426882",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CC BTA BANK",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "426883",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CC BTA BANK",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "426884",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CC BTA BANK",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "444673",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "444674",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "444675",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "444679",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "458466",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "458467",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "458468",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "458469",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "458702",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "458703",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "458704",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "458705",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "458706",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "458818",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "470346",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "470639",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "470640",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "471470",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "472414",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "472415",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "472416",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "KG"
+      ]
+    },
+    {
+      "bin": "472417",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "KG"
+      ]
+    }
+  ]
+}

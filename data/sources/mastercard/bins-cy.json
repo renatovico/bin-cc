@@ -1,0 +1,366 @@
+{
+  "bins": [
+    {
+      "bin": "518486",
+      "type": "CREDIT",
+      "issuer": "OJSC PROMSVYAZBANK",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "518951",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "OJSC PROMSVYAZBANK",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "519456",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "520627",
+      "type": "CREDIT",
+      "issuer": "HELLENIC BANK PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "521029",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "521089",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "521189",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "FBME CARD SERVICES, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "521190",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "FBME CARD SERVICES, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "523779",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "523949",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "524933",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "525401",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "525406",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "526764",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "531806",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "531830",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "531930",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "533001",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "FBME CARD SERVICES, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "540666",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MARFIN POPULAR BANK PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "540944",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FBME CARD SERVICES, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "540976",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FBME CARD SERVICES, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "541085",
+      "type": "CREDIT",
+      "issuer": "HELLENIC BANK PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "541593",
+      "type": "CREDIT",
+      "issuer": "NATIONAL BANK OF GREECE (CYPRUS), LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "542022",
+      "type": "CREDIT",
+      "issuer": "BANK OF CYPRUS (HOLDINGS), LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "542365",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "542434",
+      "type": "CREDIT",
+      "issuer": "HELLENIC BANK PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "543238",
+      "issuer": "BANK OF CYPRUS (HOLDINGS), LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "543689",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MARFIN POPULAR BANK PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "543727",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "FBME CARD SERVICES, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "544087",
+      "type": "CREDIT",
+      "issuer": "MARFIN POPULAR BANK PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "545122",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "545123",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "HELLENIC BANK PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "549118",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "549119",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "549772",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "550043",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "FBME CARD SERVICES, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "552141",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF CYPRUS (HOLDINGS), LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "552142",
+      "issuer": "BANK OF CYPRUS (HOLDINGS), LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "552146",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HELLENIC BANK PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "552147",
+      "issuer": "HELLENIC BANK, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "554205",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "FBME CARD SERVICES, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "554844",
+      "category": "STANDARD",
+      "issuer": "FBME CARD SERVICES, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "554965",
+      "issuer": "FEDERAL BANK OF THE MIDDLE EAST, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "556046",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "OJSC PROMSVYAZBANK",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "557027",
+      "type": "CREDIT",
+      "issuer": "FBME CARD SERVICES, LTD.",
+      "countries": [
+        "CY"
+      ]
+    }
+  ]
+}

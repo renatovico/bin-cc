@@ -1,0 +1,656 @@
+{
+  "bins": [
+    {
+      "bin": "402653",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "KHAN BANK",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "402967",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GOLOMT BANK OF MONGOLIA",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "402968",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "406144",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "XACBANK LLC",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "406145",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "XACBANK LLC",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "406146",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "406147",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "406148",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "406347",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SAVINGS BANK OF MONGOLIA",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "406348",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "SAVINGS BANK OF MONGOLIA",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "406350",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "406351",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "407357",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "GOLOMT BANK OF MONGOLIA",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "407519",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ULAANBAATAR CITY BANK",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "407520",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "410415",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "MONGOL POST BANK",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "414161",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ANOD BANK OF MONGOLIA",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "414162",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "414163",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "414164",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "414165",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "414166",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "418162",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "GOLOMT BANK OF MONGOLIA",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "420731",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GOLOMT BANK OF MONGOLIA",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "420732",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "GOLOMT BANK OF MONGOLIA",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "420733",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "GOLOMT BANK OF MONGOLIA",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "420734",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "GOLOMT BANK OF MONGOLIA",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "420735",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "GOLOMT BANK OF MONGOLIA",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "420736",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "GOLOMT BANK OF MONGOLIA",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "421891",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "GOLOMT BANK OF MONGOLIA",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "421925",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ULAANBAATAR CITY BANK",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "421926",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "421927",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ULAANBAATAR CITY BANK",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "421928",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "422071",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GOLOMT BANK OF MONGOLIA",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "422259",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "GOLOMT BANK OF MONGOLIA",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "428446",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "428466",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "428467",
+      "type": "DEBIT",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "438053",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "KHAN BANK",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "438054",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "KHAN BANK",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "438055",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "KHAN BANK",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "439145",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TRADE AND DEVELOPMENT BANK OF MONGOLIA",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "450012",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "MONGOL POST BANK",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "450013",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "MONGOL SHYYDAN BANK",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "450015",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "MONGOL POST BANK",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "450016",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "MONGOL POST BANK",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "450315",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HUDALDAA HUGJLIIN BANK",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "450316",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HUDALDAA HUGJLIIN BANK",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "450317",
+      "issuer": "TRADE AND DEVELOPMENT BANK OF MONGOLIA",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "450318",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TRADE AND DEVELOPMENT BANK OF MONGOLIA",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "450319",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TRADE AND DEVELOPMENT BANK OF MONGOLIA",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "450320",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TRADE AND DEVELOPMENT BANK OF MONGOLIA",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "452919",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "457360",
+      "type": "DEBIT",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "457363",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "457535",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "457536",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "462868",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GOLOMT BANK OF MONGOLIA",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "463772",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "KHAN BANK",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "463773",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "KHAN BANK",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "463774",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "KHAN BANK",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "464938",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "464939",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "466549",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "466550",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "466551",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "478905",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "478906",
+      "type": "DEBIT",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "486285",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "486286",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "486287",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "487008",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "TRADE AND DEVELOPMENT BANK OF MONGOLIA",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "490248",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "490249",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TRADE AND DEVELOPMENT BANK OF MONGOLIA",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "490250",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "490251",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "492430",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GOLOMT BANK OF MONGOLIA",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "499939",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "KHAN BANK",
+      "countries": [
+        "MN"
+      ]
+    },
+    {
+      "bin": "499999",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "KHAN BANK",
+      "countries": [
+        "MN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "bins": [
+    {
+      "bin": "622226",
+      "type": "DEBIT",
+      "issuer": "BANK OF COMMUNICATIONS PACIFIC",
+      "countries": [
+        "HK"
+      ]
+    },
+    {
+      "bin": "622252",
+      "type": "CREDIT",
+      "issuer": "BANK OF COMMUNICATIONS/HSBC",
+      "countries": [
+        "HK"
+      ]
+    },
+    {
+      "bin": "622372",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF EAST ASIA",
+      "countries": [
+        "HK"
+      ]
+    },
+    {
+      "bin": "622381",
+      "type": "CREDIT",
+      "issuer": "CCB (ASIA) CUP",
+      "countries": [
+        "HK"
+      ]
+    },
+    {
+      "bin": "625040",
+      "type": "CREDIT",
+      "issuer": "BOC CUP",
+      "countries": [
+        "HK"
+      ]
+    },
+    {
+      "bin": "625041",
+      "type": "CREDIT",
+      "issuer": "BOC CUP",
+      "countries": [
+        "HK"
+      ]
+    }
+  ]
+}

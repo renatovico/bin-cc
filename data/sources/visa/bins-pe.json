@@ -1,0 +1,2301 @@
+{
+  "bins": [
+    {
+      "bin": "400310",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "400494",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "400917",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "CITIBANK DEL PERU, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "402160",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "402161",
+      "issuer": "BANCA ROMANA DE COMERT EXTERIOR, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "402162",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "402610",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "402701",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AMBANK ILLINOIS",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "404165",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK DEL PERU, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "404208",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "404293",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "404699",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIRST NATIONAL BANK",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "405742",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "405893",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "406293",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "406774",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO INTERAMERICANO DE FINANZAS, S.A.E.M.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "407411",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "407423",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "407606",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "409623",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MIBANCO, BANCO DE LA MICROEMPRESA, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "409807",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "409980",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "410334",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "410335",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "411074",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "411075",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "411090",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "411091",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "411093",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "411822",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO SANTANDER CENTRAL HISPANO - PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "411823",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "414064",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "414068",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "414075",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "414089",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "414782",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO INTERAMERICANO DE FINANZAS, S.A.E.M.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "414791",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "415297",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "419175",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "419577",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "420390",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "421350",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "421355",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "421410",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA NACION",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "421531",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "421813",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "421918",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "422052",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDISCOTIA FINANCIERA, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "422142",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "422224",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "422252",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "422406",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO FINANCIERO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "422433",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO FINANCIERO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "422434",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO FINANCIERO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "422435",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO FINANCIERO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "422436",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO FINANCIERO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "422781",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PERSONALES S. A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "422782",
+      "issuer": "PERSONALES S. A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "423617",
+      "issuer": "COMPANIA PERUANA DE MEDIOS DE PAGO, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "423632",
+      "issuer": "COMPANIA PERUANA DE MEDIOS DE PAGO, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "424137",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "424138",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "424933",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "MIBANCO, BANCO DE LA MICROEMPRESA, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "425900",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO INTERAMERICANO DE FINANZAS, S.A.E.M.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "425901",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO INTERAMERICANO DE FINANZAS, S.A.E.M.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "425902",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO INTERAMERICANO DE FINANZAS, S.A.E.M.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "425924",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NBK BANK",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "426153",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNIBANCA, S.A",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "426154",
+      "type": "DEBIT",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "426155",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "427248",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MIBANCO, BANCO DE LA MICROEMPRESA, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "428072",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "428073",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "428074",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "428078",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "428082",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "428083",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "428581",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK DEL PERU, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "428582",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CITIBANK DEL PERU, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "428597",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "431037",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "431038",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "432082",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "433169",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "433450",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "433459",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER CENTRAL HISPANO - PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "433466",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MIBANCO, BANCO DE LA MICROEMPRESA, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "433894",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "433895",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "433896",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "434925",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "435704",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL TRABAJO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "435705",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL TRABAJO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "438043",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MIBANCO, BANCO DE LA MICROEMPRESA, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "438168",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "439045",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "439046",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "439071",
+      "issuer": "COMPANIA PERUANA DE MEDIOS DE PAGO, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "440822",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CAJA METROPOLITANA, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "441331",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "442771",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "442772",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "444686",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "447310",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "447311",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK PERU, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "447312",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HSBC BANK PERU, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "447313",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "HSBC BANK PERU, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "447314",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK PERU, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "447315",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK PERU, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "447409",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO FALABELLA PERU, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "447410",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO FALABELLA PERU, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "447411",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO FALABELLA PERU, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "448700",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK DEL PERU, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "448701",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK DEL PERU, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "448702",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITIBANK DEL PERU, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "448703",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CITIBANK DEL PERU, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "448706",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DEL TRABAJO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "448717",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "448780",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SOLUCION FINANCIERA DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "448781",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SOLUCION FINANCIERA DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "448782",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SOLUCION FINANCIERA DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "450000",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "450007",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "450034",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO RIPLEY, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "450035",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO RIPLEY, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "450645",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "450646",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "450791",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE COMERCIO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "450792",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "451340",
+      "issuer": "BANCO BANEX",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "451386",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DEL NUEVO MUNDO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "451387",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DEL NUEVO MUNDO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "451775",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERAMERICANO DE FINANZAS, S.A.E.M.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "451863",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL TRABAJO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "451864",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO DEL TRABAJO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "452530",
+      "issuer": "BANCO REPUBLICA",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "452533",
+      "issuer": "BANCO REPUBLICA",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "452534",
+      "issuer": "BANCO SANTANDER",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "452535",
+      "issuer": "BANCO SANTANDER",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "452536",
+      "issuer": "BANCO SANTANDER",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "452537",
+      "issuer": "BANCO SANTANDER",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "453935",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "453967",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "454448",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "454449",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "454764",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "454765",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "454766",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "454775",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "454776",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "454777",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "454779",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "454857",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "455101",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "455102",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "455103",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "455107",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "455113",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "455170",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "455723",
+      "type": "DEBIT",
+      "issuer": "BANK OF CREDIT (BCP)",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "455746",
+      "type": "DEBIT",
+      "issuer": "BANK OF CREDIT (BCP)",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "455747",
+      "type": "DEBIT",
+      "issuer": "BANK OF CREDIT (BCP)",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "455754",
+      "type": "DEBIT",
+      "issuer": "BANK OF CREDIT (BCP)",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "455755",
+      "type": "DEBIT",
+      "issuer": "BANK OF CREDIT (BCP)",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "455781",
+      "type": "DEBIT",
+      "issuer": "BANK OF CREDIT (BCP)",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "455786",
+      "type": "DEBIT",
+      "issuer": "BANK OF CREDIT (BCP)",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "455787",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "455788",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "455789",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "456814",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "457032",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER CENTRAL HISPANO - PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "457033",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "457034",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "457035",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "457044",
+      "issuer": "UNIBANCA, S.A",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "457339",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "457420",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "457421",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "457562",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "457571",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "458076",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE COMERCIO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "458077",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE COMERCIO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "458102",
+      "type": "DEBIT",
+      "category": "PROPRIETARY",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "458181",
+      "issuer": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "459334",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "459350",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "462771",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITICORP",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "463401",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "463402",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "463403",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "467109",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL NUEVO MUNDO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "467948",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO FINANCIERO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "469710",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "469894",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "473244",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "473245",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "474566",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "474568",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE COMERCIO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "474574",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE COMERCIO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "474631",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "474642",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "475796",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "477049",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "477113",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "477151",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "477200",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "477289",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "477290",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "477295",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "477357",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "482403",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO INTERAMERICANO DE FINANZAS, S.A.E.M.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "482404",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO INTERAMERICANO DE FINANZAS, S.A.E.M.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "482468",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "482483",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE COMERCIO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "482499",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE COMERCIO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "483039",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "483955",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO FINANCIERO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "485025",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "485481",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNIBANCA, S.A",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "486352",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNIBANCA, S.A",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "486353",
+      "type": "DEBIT",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "487272",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "489068",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "489486",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNIBANCA, S.A",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "490641",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "490777",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO DEL NUEVO MUNDO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "490781",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL NUEVO MUNDO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "490783",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DEL NUEVO MUNDO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "490784",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL NUEVO MUNDO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "491245",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NBK BANK",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "491246",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "491247",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO STANDARD CHARTERED",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "491248",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "491249",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE COMERCIO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "491251",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO WIESE SUDAMERIS S.A.A. - BWS",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "491337",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "491606",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERAMERICANO DE FINANZAS, S.A.E.M.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "491607",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERAMERICANO DE FINANZAS, S.A.E.M.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "491907",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "491908",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CREDITO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "491909",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "491910",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "491911",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "491912",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "491913",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "491914",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "491931",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "491946",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "491947",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "491955",
+      "issuer": "COMPANIA PERUANA DE MEDIOS DE PAGO, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "492112",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "492173",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "NBK BANK",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "492174",
+      "issuer": "NBK BANK",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "492439",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "492491",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNIBANCA, S.A",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "493119",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "494163",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE COMERCIO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "494164",
+      "issuer": "BANCO SANTANDER CENTRAL HISPANO - PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "494166",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NBK BANK",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "494168",
+      "issuer": "BANCO REPUBLICA",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "494169",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO WIESE SUDAMERIS S.A.A. - BWS",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "494195",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER CENTRAL HISPANO - PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "494383",
+      "issuer": "BANCO SUDAMERICANO, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "494384",
+      "issuer": "BANCO SUDAMERICANO, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "494385",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO SUDAMERICANO, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "494386",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "494387",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "496018",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE COMERCIO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "498503",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERAMERICANO DE FINANZAS, S.A.E.M.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "498544",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "498829",
+      "issuer": "BANCO REGIONAL SUR MEDIO Y CALLAO (SURMEBAN)",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "499879",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "499882",
+      "countries": [
+        "PE"
+      ]
+    }
+  ]
+}

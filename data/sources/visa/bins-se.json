@@ -1,0 +1,1191 @@
+{
+  "bins": [
+    {
+      "bin": "400262",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "COOP BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "400263",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "COOP BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "401690",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VISA SWEDEN ASSOCIATION",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "401731",
+      "issuer": "VISA SWEDEN ASSOCIATION",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "402005",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "KAUPTHING BANK SVERIGE AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "402150",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LANSFORSAKRINGAR BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "403252",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "404889",
+      "issuer": "DANSKE BANK AS DANMARK, SVERIGE FILIAL",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "405091",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA SWEDEN ASSOCIATION",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "406272",
+      "issuer": "NORDEA BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "406289",
+      "issuer": "VISA SWEDEN ASSOCIATION",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "406461",
+      "issuer": "SEB KORT AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "406736",
+      "issuer": "VISA SWEDEN ASSOCIATION",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "407451",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "407513",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "SKANDINAVISKA ENSKILDA BANKEN AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "408962",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "408963",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "410806",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "LANSFORSAKRINGAR BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "411824",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "412495",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "SPARBANKEN ORESUND AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "412496",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SPARBANKEN ORESUND AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "412497",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SPARBANKEN FINN",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "412498",
+      "issuer": "SPARBANKEN FINN",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "412563",
+      "issuer": "VISA SWEDEN ASSOCIATION",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "413483",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "IKANO BANK SE",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "414935",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TRYGG BANKEN AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "415367",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "415471",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FORENINGSSPARBANKEN AB (PUBL).",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "416057",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "416744",
+      "issuer": "BANK2",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "417438",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FOREX BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "417771",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FOREX BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "417772",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FOREX BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "417773",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FOREX BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "417774",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FOREX BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "417775",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FOREX BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "418540",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "ENTERCARD SVERIGE AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "418758",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "418849",
+      "issuer": "VISA SWEDEN ASSOCIATION",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "419035",
+      "issuer": "DANSKE BANK AS DANMARK, SVERIGE FILIAL",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "420571",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NORDEA BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "421199",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK INTERNATIONAL PLC, SVERIGE FILIAL",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "422165",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VOLVOFINANS BANK AB (PUBL)",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "422860",
+      "issuer": "NORDEA BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "424339",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SKANDIABANKEN",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "424340",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "VISA SWEDEN ASSOCIATION",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "424471",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "VISA SWEDEN ASSOCIATION",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "425345",
+      "issuer": "BNP PARIBAS OSLO BRANCH",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "425661",
+      "issuer": "VISA SWEDEN ASSOCIATION",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "426387",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SVENSKA HANDELSBANKEN AB (PUBL)",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "426388",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SVENSKA HANDELSBANKEN AB (PUBL)",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "427374",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SPARBANKEN ORESUND AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "427375",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SPARBANKEN FINN",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "427723",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SVENSKA HANDELSBANKEN AB (PUBL)",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "430004",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "430005",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "430176",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "IKANO BANK SE",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "430437",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "COOP BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "430438",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "COOP BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "430705",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "430706",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "432957",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "COOP BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "432958",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "COOP BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "434355",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "434356",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "434934",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA SWEDEN ASSOCIATION",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "434952",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "434953",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "434954",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "434983",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FOREX BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "447519",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TRYGG BANKEN AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "447579",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SKANDIABANKEN",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "448477",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "NORDEA BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "449326",
+      "issuer": "SVENSKA HANDELSBANKEN AB (PUBL)",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "451110",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DANSKE BANK A/S SVERIGE FILAL",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "453900",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NORDEA BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "453901",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NORDEA BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "453902",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NORDEA FINANS SVERIGE AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "453903",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NORDEA BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "453904",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NORDEA BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "453905",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NORDEA BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "453906",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NORDEA BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "453907",
+      "issuer": "VISA SWEDEN ASSOCIATION",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "453908",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NORDEA BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "453909",
+      "issuer": "POSTGIROT BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "453912",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NORDEA BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "453970",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SKANDINAVISKA ENSKILDA BANKEN AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "454108",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SKANDINAVISKA ENSKILDA BANKEN AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "454109",
+      "issuer": "SKANDINAVISKA ENSKILDA BANKEN AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "454330",
+      "issuer": "POSTGIROT BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "455262",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SKANDINAVISKA ENSKILDA BANKEN AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "456754",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "456759",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "456870",
+      "issuer": "POSTGIROT BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "457000",
+      "issuer": "VISA SWEDEN ASSOCIATION",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "457001",
+      "issuer": "VISA SWEDEN ASSOCIATION",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "457002",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ENTERCARD SVERIGE AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "457004",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NORDEA BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "457005",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NORDEA BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "457009",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TERRA KORTBANK, A.S.",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "457241",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "LANSFORSAKRINGAR BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "458109",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "458117",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "458125",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "458133",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "458141",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "458158",
+      "issuer": "SPARBANKEN FINANS",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "458166",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "458174",
+      "issuer": "SPARBANKEN FINANS",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "458182",
+      "issuer": "SPARBANKEN FINANS",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "458190",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ENTERCARD SVERIGE AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "458191",
+      "type": "CREDIT",
+      "category": "PROPRIETARY",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "458192",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "458193",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "458194",
+      "type": "CREDIT",
+      "category": "PROPRIETARY",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "458195",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "458196",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ENTERCARD SVERIGE AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "458197",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "458198",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "458199",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ENTERCARD SVERIGE AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "459027",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "459028",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "459029",
+      "type": "DEBIT",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "459030",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "462763",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SKANDIABANKEN",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "464437",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TERRA KORTBANK, A.S.",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "464438",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "474861",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "480930",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SVENSKA HANDELSBANKEN AB (PUBL)",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "482466",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "482467",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "484093",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "486417",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "NORDEA BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "489498",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "NORDEA BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "490929",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VISA SWEDEN ASSOCIATION",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "491000",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NORDEA BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "491030",
+      "issuer": "POSTGIROT BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "491819",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NORDEA BANK AB",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "491859",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DANSKE BANK A/S SVERIGE FILAL",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "491868",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FORENINGSSPARBANKEN AB (PUBL).",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "491889",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SKANDIABANKEN",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "bin": "498857",
+      "type": "DEBIT",
+      "category": "PROPRIETARY",
+      "countries": [
+        "SE"
+      ]
+    }
+  ]
+}

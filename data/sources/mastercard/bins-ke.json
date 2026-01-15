@@ -1,0 +1,329 @@
+{
+  "bins": [
+    {
+      "bin": "510210",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "512471",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EQUATORIAL COMMERCIAL BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "512627",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "516342",
+      "type": "CREDIT",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "516377",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "516998",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "519457",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "519601",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "519621",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "EQUATORIAL COMMERCIAL BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "519914",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "520193",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "KENYA COMMERCIAL BANK LTD. (KCB)",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "522323",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "522374",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "522395",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "522469",
+      "issuer": "SOUTHERN CREDIT BANKING CORPORATION",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "523906",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EQUATORIAL COMMERCIAL BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "524188",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "524550",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "524634",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "524925",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "525456",
+      "type": "CREDIT",
+      "issuer": "EQUATORIAL COMMERCIAL BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "527316",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "527698",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "529076",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "531494",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "531506",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "EQUATORIAL COMMERCIAL BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "532950",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "533029",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CITIBANK NA KENYA",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "533041",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "533432",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "534198",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "534320",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "540147",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "541683",
+      "issuer": "TRUST BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "542460",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "546567",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "549771",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "EQUATORIAL COMMERCIAL BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "553511",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "EQUATORIAL COMMERCIAL BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "555063",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "CITIBANK NA KENYA",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "555064",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "555065",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "CITIBANK NA KENYA",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "556630",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "KENYA COMMERCIAL BANK LTD. (KCB)",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "557315",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "559335",
+      "countries": [
+        "KE"
+      ]
+    }
+  ]
+}

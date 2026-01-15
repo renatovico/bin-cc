@@ -1,0 +1,545 @@
+{
+  "bins": [
+    {
+      "bin": "511816",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO M",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "511860",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "511861",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "511862",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "511967",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "512969",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO G AND T CONTINENTAL, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "513767",
+      "type": "CREDIT",
+      "issuer": "BANCO AZTECA EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "514920",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "514942",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "515666",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO M",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "517589",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "517595",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "518477",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO M",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "518769",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO M",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "518773",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO M",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "518845",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO M",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "519353",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO AGRICOLA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "519712",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "520002",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "520052",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDOMATIC DE CENTROAMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "520087",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO AGRICOLA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "520160",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "520392",
+      "type": "CREDIT",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "520393",
+      "category": "STANDARD",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "521325",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO M",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "522763",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "523045",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDOMATIC DE CENTROAMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "523445",
+      "type": "CREDIT",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "523573",
+      "category": "STANDARD",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "525733",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "526429",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO G AND T CONTINENTAL, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "526703",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "526704",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "526705",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "526803",
+      "type": "CREDIT",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "526934",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "526936",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "526938",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "527428",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "529428",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "530299",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "530340",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDOMATIC DE CENTROAMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "532536",
+      "type": "CREDIT",
+      "issuer": "CREDOMATIC DE CENTROAMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "536256",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "536561",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "540120",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDOMATIC DE CENTROAMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "540135",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "541034",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "541411",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDOMATIC DE CENTROAMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "541629",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "541974",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO M",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "543487",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "543495",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "CREDOMATIC DE CENTROAMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "544207",
+      "type": "CREDIT",
+      "issuer": "CREDOMATIC DE CENTROAMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "545276",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO M",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "545401",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO M",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "545651",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "546685",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CREDOMATIC DE CENTROAMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "547167",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDOMATIC DE CENTROAMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "547181",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO M",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "547615",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CREDOMATIC DE CENTROAMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "548096",
+      "issuer": "CREDOMATIC DE CENTROAMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "548253",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "548258",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "548275",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO M",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "548978",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO M",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "549766",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO AZTECA EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "552796",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CREDOMATIC DE CENTROAMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "554943",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO AGRICOLA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    }
+  ]
+}

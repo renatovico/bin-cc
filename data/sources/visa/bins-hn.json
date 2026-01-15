@@ -1,0 +1,1909 @@
+{
+  "bins": [
+    {
+      "bin": "400068",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "400446",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "400950",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDUREQA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "400951",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDUREQA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "400952",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDUREQA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "400953",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDUREQA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "400954",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDUREQA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "401127",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "402437",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "403357",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CONTINENTAL, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "403773",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "404041",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "404042",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "404155",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DEL PAIS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "404182",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "404352",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO ATLANTIDA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "404368",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO ATLANTIDA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "404399",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO ATLANTIDA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "404845",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "405400",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "AVAL CARD, S.A. DE C.V.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "405401",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "AVAL CARD, S.A. DE C.V.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "405412",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "405642",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO HONDURENO DEL CAFE S.A. (BANHCAFE)",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "406123",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDURENA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "406124",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDUREQA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "406125",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDUREQA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "407318",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO HSBC HONDURAS S.A. (BANCO HSBC S.A.)",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "407382",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CONTINENTAL, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "407459",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDUREQA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "407592",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDUREQA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "410875",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDURENA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "410876",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDITOS Y SERVICIOS S.A. DE C.V. (CRESER)",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "410883",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDITOS Y SERVICIOS S.A. DE C.V. (CRESER)",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "410884",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CREDITOS Y SERVICIOS S.A. DE C.V. (CRESER)",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "411052",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO HSBC HONDURAS S.A. (BANCO HSBC S.A.)",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "411451",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CHASE MANHATTAN BANK",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "411452",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDUREQA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "411453",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "411454",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDUREQA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "411455",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "411753",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDUREQA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "412100",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DEL PAIS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "412288",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "412937",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AVAL CARD, S.A. DE C.V.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "414771",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "BANCO ATLANTIDA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "415237",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO HSBC HONDURAS S.A. (BANCO HSBC S.A.)",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "420075",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO ATLANTIDA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "420325",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "420591",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "421004",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL PAIS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "421005",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DEL PAIS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "421045",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "421046",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "421047",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "421050",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AVAL CARD, S.A. DE C.V.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "421052",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "AVAL CARD, S.A. DE C.V.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "421388",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "421498",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDUREQA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "421527",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CUSCATLAN DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "421542",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDUREQA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "421543",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDUREQA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "421574",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO HONDURENO DEL CAFE S.A. (BANHCAFE)",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "421575",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO HONDURENO DEL CAFE S.A. (BANHCAFE)",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "421840",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "421842",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "422010",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDUREQA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "422229",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDUREQA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "424926",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "BANCO CUSCATLAN DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "424927",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO CUSCATLAN DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "425118",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDURENA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "425655",
+      "type": "DEBIT",
+      "category": "CHECK CARD",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "425673",
+      "type": "DEBIT",
+      "category": "CHECK CARD",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "425937",
+      "issuer": "BANCO DEL PAIS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "426041",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "427850",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "428281",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "428290",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO CUSCATLAN DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "428296",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "428358",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "428369",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "428370",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "428391",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "428392",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "428393",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "430348",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO HSBC HONDURAS S.A. (BANCO HSBC S.A.)",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "430349",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO HSBC HONDURAS S.A. (BANCO HSBC S.A.)",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "430350",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO HSBC HONDURAS S.A. (BANCO HSBC S.A.)",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "430453",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO ATLANTIDA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "430461",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDUREQA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "431839",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "431840",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "431869",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "431891",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "431892",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "431894",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "431895",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "431896",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "432256",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "432257",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "432258",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "432290",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "432292",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "432441",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DEL PAIS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "433132",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDURENA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "433133",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDURENA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "433134",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDURENA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "433135",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDURENA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "433136",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDURENA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "433422",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITITARJETAS DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "433499",
+      "issuer": "AVAL CARD",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "433979",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "434072",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "434152",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "434661",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "434683",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITITARJETAS DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "435755",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CREDITOS Y SERVICIOS S.A. DE C.V. (CRESER)",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "438129",
+      "issuer": "VENTAS INTERNACIONALES, S.A. DE C.V.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "439228",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDUREQA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "439268",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "VENTAS INTERNACIONALES, S.A. DE C.V.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "439373",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "440818",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDURENA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "441177",
+      "issuer": "AVAL CARD, S.A. DE C.V.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "442177",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "443954",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "444065",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "444685",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "446824",
+      "issuer": "TOTAL SYSTEM SERVICES, INC.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "446876",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "VENTAS INTERNACIONALES, S.A. DE C.V.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "448490",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "CITITARJETAS DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "450402",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "CITITARJETAS DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "450421",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITITARJETAS DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "450425",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITITARJETAS DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "450429",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITITARJETAS DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "450450",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AVAL CARD, S.A. DE C.V.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "450451",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AVAL CARD, S.A. DE C.V.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "450452",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AVAL CARD, S.A. DE C.V.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "450567",
+      "issuer": "VENTAS INTERNACIONALES, S.A. DE C.V.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "450761",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CONTINENTAL, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "454661",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO HSBC HONDURAS S.A. (BANCO HSBC S.A.)",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "455129",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO ATLANTIDA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "455130",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ATLANTIDA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "455146",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITITARJETAS DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "455147",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VENTAS INTERNACIONALES, S.A. DE C.V.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "456018",
+      "issuer": "BANCAJEROS BANET S.A. DE C.V.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "456055",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CONTINENTAL, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "456540",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VENTAS INTERNACIONALES, S.A. DE C.V.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "456541",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VENTAS INTERNACIONALES, S.A. DE C.V.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "456823",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO HSBC HONDURAS S.A. (BANCO HSBC S.A.)",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "456824",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO HSBC HONDURAS S.A. (BANCO HSBC S.A.)",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "457025",
+      "issuer": "BANCO ATLANTIDA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "457026",
+      "issuer": "BANCO ATLANTIDA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "457405",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "457490",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "457491",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "459066",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "459404",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "459405",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "459406",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "459407",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "462014",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "466710",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "466711",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "466727",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "468550",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "469749",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL PAIS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "469753",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "469754",
+      "type": "DEBIT",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "469755",
+      "type": "DEBIT",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "469756",
+      "type": "DEBIT",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "473004",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO LAFISE, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "473005",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO LAFISE, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "473242",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CONTINENTAL, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "473243",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO CONTINENTAL, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "473279",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITITARJETAS DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "473877",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "474636",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "475490",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO LAFISE, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "475491",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO LAFISE, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "475492",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO LAFISE, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "477133",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "477136",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "477383",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "477384",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO CUSCATLAN DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "477385",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CUSCATLAN DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "480246",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "CITITARJETAS DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "480295",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "CITITARJETAS DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "480297",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CITITARJETAS DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "480992",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITITARJETAS DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "480993",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AVAL CARD, S.A. DE C.V.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "480994",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITITARJETAS DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "480995",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "AVAL CARD, S.A. DE C.V.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "482184",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "483075",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "484650",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "485959",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "486669",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "487033",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VENTAS INTERNACIONALES, S.A. DE C.V.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "487034",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VENTAS INTERNACIONALES, S.A. DE C.V.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "487035",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VENTAS INTERNACIONALES, S.A. DE C.V.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "487036",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VENTAS INTERNACIONALES, S.A. DE C.V.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "489476",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "489930",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO ATLANTIDA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "490717",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITITARJETAS DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "491087",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO GRUPO EL AHORRO HONDUREO S.A. (BANCO BGA)",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "491088",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO GRUPO EL AHORRO HONDUREO S.A. (BANCO BGA)",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "491507",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "491518",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "491522",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "491523",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "491556",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "491557",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "491558",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "493192",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITITARJETAS DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "493193",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITITARJETAS DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "494190",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "VENTAS INTERNACIONALES, S.A. DE C.V.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "496074",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "496075",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "496076",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "496077",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "496078",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "498461",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ATLANTIDA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,616 @@
+{
+  "bins": [
+    {
+      "bin": "510375",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "510543",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "512008",
+      "type": "CREDIT",
+      "issuer": "ITHMAAR BANK B.S.C.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "512686",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "513420",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY (E.C.)",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "514913",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY (E.C.)",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "516054",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "517728",
+      "type": "CREDIT",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "517733",
+      "type": "CREDIT",
+      "issuer": "CREDIMAX",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "518543",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "518715",
+      "type": "CREDIT",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "518719",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "518817",
+      "type": "CREDIT",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "518867",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITHMAAR BANK B.S.C.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "520073",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "520074",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY (E.C.)",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "520075",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY (E.C.)",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "520076",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY (E.C.)",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "523965",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "524124",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "524177",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "524259",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "526848",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "527017",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "527432",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NATIONAL BANK OF BAHRAIN",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "527580",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY (E.C.)",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "528508",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "528522",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CREDIMAX",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "529070",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "529283",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "531221",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "UNIVERSAL FINANCING SERVICES",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "532189",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NETWORK INTERNATIONAL",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "532677",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "AHLI UNITED BANK B.S.C.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "532714",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "533178",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "533768",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "540273",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDIMAX",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "540683",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "540729",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NATIONAL BANK OF BAHRAIN",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "542057",
+      "type": "CREDIT",
+      "issuer": "BAHRAIN COMMERCIAL FACILITIES COMPANY B.S.C.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "542629",
+      "type": "CREDIT",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "542830",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "543041",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "543256",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NATIONAL BANK OF BAHRAIN",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "543277",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDIMAX",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "543719",
+      "issuer": "AL BARAKA ISLAMIC INVESTMENT BANK",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "543774",
+      "issuer": "AL BARAKA ISLAMIC INVESTMENT BANK",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "543777",
+      "issuer": "AL BARAKA ISLAMIC INVESTMENT BANK",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "544097",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AHLI UNITED BANK B.S.C.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "545070",
+      "type": "CREDIT",
+      "issuer": "AHLI UNITED BANK B.S.C.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "545594",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "545788",
+      "type": "CREDIT",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "546024",
+      "type": "CREDIT",
+      "issuer": "ITHMAAR BANK B.S.C.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "546758",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITHMAAR BANK B.S.C.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "547010",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "547019",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "547047",
+      "issuer": "CARDS FINANCIAL SERVICES COMPANY, B.S.C. <<<",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "547052",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "548108",
+      "type": "CREDIT",
+      "issuer": "ITHMAAR BANK B.S.C.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "548109",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITHMAAR BANK B.S.C.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "548110",
+      "type": "CREDIT",
+      "issuer": "ITHMAAR BANK B.S.C.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "548111",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ITHMAAR BANK B.S.C.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "548139",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "548162",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "548542",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "552107",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "552110",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CREDIMAX",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "552349",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "552785",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "555004",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "555007",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "555013",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "555923",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "STATE BANK OF INDIA",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "555926",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ITHMAAR BANK B.S.C.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "555931",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "AL BARAK ISLAMIC BANK, B.S.C. (C) BAHRAIN",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "555938",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDIMAX",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "557668",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "AHLI UNITED BANK B.S.C.",
+      "countries": [
+        "BH"
+      ]
+    }
+  ]
+}

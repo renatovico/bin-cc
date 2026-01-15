@@ -1,0 +1,1801 @@
+{
+  "bins": [
+    {
+      "bin": "402385",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT AGRICOLE EGYPT S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "402386",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDIT AGRICOLE EGYPT S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "402387",
+      "issuer": "CREDIT AGRICOLE EGYPT S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "402435",
+      "issuer": "EGYPTIAN GULF BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "402652",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT AGRICOLE EGYPT S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "402668",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT AGRICOLE EGYPT S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "402694",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CREDIT AGRICOLE EGYPT S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "403185",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF ALEXANDRIA",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "403498",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK AUDI S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "404238",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SUEZ CANAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "404239",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SUEZ CANAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "404316",
+      "issuer": "CREDIT AGRICOLE EGYPT S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "405107",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "405108",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "405866",
+      "issuer": "FAISAL ISLAMIC BANK OF EGYPT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "409000",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF ALEXANDRIA",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "409080",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF ALEXANDRIA",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "409090",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF ALEXANDRIA",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "409091",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NATIONAL SOCIETE GENERALE BANK S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "409092",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL SOCIETE GENERALE BANK S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "409093",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "NATIONAL SOCIETE GENERALE BANK S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "409094",
+      "issuer": "NATIONAL SOCIETE GENERALE BANK S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "409095",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NATIONAL SOCIETE GENERALE BANK S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "409096",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NATIONAL SOCIETE GENERALE BANK S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "409097",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "409789",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EGYPTIAN NATIONAL POST ORGANISATION",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "410101",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BARCLAYS BANK - EGYPT SAE",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "410110",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BARCLAYS BANK - EGYPT SAE",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "410111",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BARCLAYS BANK - EGYPT SAE",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "410112",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BARCLAYS BANK - EGYPT SAE",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "410190",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BARCLAYS BANK - EGYPT SAE",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "410191",
+      "issuer": "BARCLAYS BANK - EGYPT SAE",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "410327",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNION NATIONAL BANK - EGYPT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "410328",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNION NATIONAL BANK - EGYPT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "410522",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED BANK, S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "410560",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE MISR",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "410566",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNITED BANK, S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "410572",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PIRAEUS BANK EGYPT, S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "410573",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "PIRAEUS BANK EGYPT, S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "410574",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PIRAEUS BANK EGYPT, S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "410575",
+      "issuer": "PIRAEUS BANK EGYPT, S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "410592",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PIRAEUS BANK EGYPT, S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "410724",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE MISR",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "412723",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "412724",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "412784",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK OF EGYPT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "412785",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NATIONAL BANK OF EGYPT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "413049",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMMERCIAL INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "413081",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "413088",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "COMMERCIAL INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "413094",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMMERCIAL INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "413095",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "COMMERCIAL INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "413096",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "COMMERCIAL INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "414079",
+      "issuer": "BANQUE DU CAIRE",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "414479",
+      "issuer": "HSBC BANK - EGYPT SAE",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "414940",
+      "issuer": "BANQUE MISR",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "415052",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK OF OMAN LTD. (S.A.O.G.)",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "415053",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NATIONAL BANK OF OMAN LTD. (S.A.O.G.)",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "415321",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AHLI UNITED BANK - EGYPT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "415326",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ARAB AFRICAN INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "415684",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ARAB BANKING CORPORATION - EGYPT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "415830",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EMPIRE NATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "416752",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT AGRICOLE EGYPT S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "417326",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK OF ABU DHABI",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "417327",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NATIONAL BANK OF ABU DHABI",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "417328",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NATIONAL BANK OF ABU DHABI",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "417329",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NATIONAL BANK OF ABU DHABI",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "417330",
+      "issuer": "NATIONAL BANK OF ABU DHABI",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "417439",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANK OF ALEXANDRIA",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "417447",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EGYPTIAN NATIONAL POST ORGANISATION",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "417448",
+      "issuer": "EGYPTIAN NATIONAL POST ORGANISATION",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "418829",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NATIONAL SOCIETE GENERALE BANK S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "418833",
+      "issuer": "CITIBANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "418969",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK FOR DEVELOPMENT S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "418970",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NATIONAL BANK FOR DEVELOPMENT S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "419286",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "419287",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "419754",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AHLI UNITED BANK - EGYPT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "420585",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE MISR",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "420598",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE MISR",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "421192",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NATIONAL SOCIETE GENERALE BANK S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "421929",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CREDIT AGRICOLE EGYPT S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "422880",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED BANK, S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "422881",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "422882",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNITED BANK, S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "422883",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ARAB INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "422979",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EGYPTIAN GULF BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "423235",
+      "issuer": "BANK OF ALEXANDRIA",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "423249",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF ALEXANDRIA",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "424263",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SUEZ CANAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "424264",
+      "issuer": "SUEZ CANAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "424626",
+      "issuer": "ARAB AFRICAN INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "426309",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FAISAL ISLAMIC BANK OF EGYPT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "426317",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE MISR",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "426336",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE MISR",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "426355",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK - EGYPT SAE",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "426356",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HSBC BANK - EGYPT SAE",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "427820",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "427821",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "427822",
+      "issuer": "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "427837",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BNP PARIBAS BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "427838",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BNP PARIBAS BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "427839",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BNP PARIBAS BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "429740",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALWATANY BANK OF EGYPT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "429741",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ALWATANY BANK OF EGYPT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "429742",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ALWATANY BANK OF EGYPT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "429743",
+      "issuer": "ALWATANY BANK OF EGYPT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "430105",
+      "issuer": "FAISAL ISLAMIC BANK OF EGYPT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "431513",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "432066",
+      "issuer": "HSBC BANK - EGYPT SAE",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "432504",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST NATIONAL BANK OF ATLANTA",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "432507",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRST NATIONAL BANK OF ATLANTA",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "432587",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "432588",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "433307",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ARAB INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "433910",
+      "issuer": "NATIONAL SOCIETE GENERALE BANK S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "434102",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NATIONAL SOCIETE GENERALE BANK S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "434126",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL SOCIETE GENERALE BANK S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "434127",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NATIONAL SOCIETE GENERALE BANK S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "434175",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NATIONAL SOCIETE GENERALE BANK S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "434176",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL SOCIETE GENERALE BANK S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "434177",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "NATIONAL SOCIETE GENERALE BANK S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "434694",
+      "issuer": "ARAB AFRICAN INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "434941",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK AUDI S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "434942",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK AUDI S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "437545",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "NATIONAL SOCIETE GENERALE BANK S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "440207",
+      "issuer": "ARAB INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "440208",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED BANK, S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "440575",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "440576",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ARAB INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "440700",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE DU CAIRE",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "440701",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE DU CAIRE",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "440703",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE DU CAIRE",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "441004",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ARAB INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "441193",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE MISR",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "441194",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE MISR",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "445815",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK - EGYPT SAE",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "446273",
+      "issuer": "ARAB BANKING CORPORATION - EGYPT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "446458",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "446459",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ARAB INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "447527",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "447529",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "447560",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ARAB INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "447561",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ARAB INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "447562",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ARAB INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "447563",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "UNITED BANK, S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "447564",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ARAB INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "447565",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ARAB INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "447566",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "447567",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "447568",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNITED BANK, S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "447569",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "447570",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "450899",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB AFRICAN INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "454315",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "454773",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ARAB INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "454814",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AHLI UNITED BANK - EGYPT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "454835",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB AFRICAN INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "454874",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ARAB AFRICAN INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "454875",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ARAB AFRICAN INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "454877",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB AFRICAN INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "457338",
+      "type": "DEBIT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "457376",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "457638",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "457871",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "458243",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "458244",
+      "type": "DEBIT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "458245",
+      "type": "DEBIT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "458479",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "458783",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ARAB AFRICAN INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "458830",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK - EGYPT SAE",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "458832",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK - EGYPT SAE",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "458834",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK - EGYPT SAE",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "460014",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "464480",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EGYPTIAN GULF BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "464481",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "EGYPTIAN GULF BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "465566",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE MISR",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "465727",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "467738",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ALWATANY BANK OF EGYPT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "469361",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "CITIBANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "469578",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ARAB BANKING CORPORATION - EGYPT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "469579",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB BANKING CORPORATION - EGYPT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "469580",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "469680",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "470363",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "470599",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "470693",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BLOM BANK EGYPT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "470694",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BLOM BANK EGYPT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "470695",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BLOM BANK EGYPT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "470696",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BLOM BANK EGYPT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "471445",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE MISR",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "472920",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "474124",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "474733",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "478749",
+      "issuer": "BANQUE MISR",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "479031",
+      "issuer": "NATIONAL BANK OF EGYPT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "479063",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNITED BANK, S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "479069",
+      "issuer": "COMMERCIAL INTERNATIONAL BANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "484889",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "NATIONAL SOCIETE GENERALE BANK S.A.E.",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "485494",
+      "type": "DEBIT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "485495",
+      "type": "DEBIT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "486393",
+      "type": "DEBIT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "486667",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "CITIBANK",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "489092",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NATIONAL BANK OF ABU DHABI",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "491727",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF ALEXANDRIA",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "494606",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NATIONAL BANK OF EGYPT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "494608",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK OF EGYPT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "494609",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NATIONAL BANK OF EGYPT",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "498813",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE MISR",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "498835",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE MISR",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "498880",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE MISR",
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "bin": "498881",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE MISR",
+      "countries": [
+        "EG"
+      ]
+    }
+  ]
+}

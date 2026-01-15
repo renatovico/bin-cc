@@ -1,0 +1,41 @@
+{
+  "bins": [
+    {
+      "bin": "463723",
+      "issuer": "ANZ BANK (SAMOA), LTD.",
+      "countries": [
+        "WS"
+      ]
+    },
+    {
+      "bin": "465526",
+      "issuer": "WESTPAC BANK SAMOA, LTD.",
+      "countries": [
+        "WS"
+      ]
+    },
+    {
+      "bin": "465540",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "WESTPAC BANK SAMOA, LTD.",
+      "countries": [
+        "WS"
+      ]
+    },
+    {
+      "bin": "468231",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "WS"
+      ]
+    },
+    {
+      "bin": "493754",
+      "issuer": "ANZ BANK (SAMOA), LTD.",
+      "countries": [
+        "WS"
+      ]
+    }
+  ]
+}

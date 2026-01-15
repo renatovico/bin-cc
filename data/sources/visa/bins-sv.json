@@ -1,0 +1,1558 @@
+{
+  "bins": [
+    {
+      "bin": "400976",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "401608",
+      "issuer": "CITY BANK",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "401615",
+      "issuer": "CITY BANK",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "401636",
+      "issuer": "CITY BANK",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "401662",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "401663",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "401664",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "401665",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "401680",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO CUSCATLAN, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "401969",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "EMISOR DE TARJETAS BR S.A. DE C.V.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "402654",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CUSCATLAN, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "402738",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO HSBC SALVADORENO, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "403329",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SISTEMAS INTERNACIONALES S.A. DE C.V.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "403774",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO AGRICOLA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "403858",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "403859",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "403860",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "403861",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "403862",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "403863",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "403864",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "404314",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "404327",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TARJETAS DE ORO S.A. DE C.V.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "404328",
+      "issuer": "TARJETAS DE ORO S.A. DE C.V.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "404852",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "405510",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "TARJETAS DE ORO S.A. DE C.V.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "405933",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "406385",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "TARJETAS DE ORO S.A. DE C.V.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "407245",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF LAKEVIEW",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "407319",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO AGRICOLA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "408440",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EMISOR DE TARJETAS BR S.A. DE C.V.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "408441",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "EMISOR DE TARJETAS BR S.A. DE C.V.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "408442",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "409606",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "410015",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "411841",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO AGRICOLA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "412289",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "412605",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "412955",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "415265",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TARJETAS DE ORO S.A. DE C.V.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "419538",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SISTEMAS INTERNACIONALES S.A. DE C.V.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "421020",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SISTEMAS INTERNACIONALES S.A. DE C.V.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "421021",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "SISTEMAS INTERNACIONALES S.A. DE C.V.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "421042",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "421338",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CUSCATLAN, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "421400",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "421448",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "421557",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO AGRICOLA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "421558",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO AGRICOLA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "421559",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO AGRICOLA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "421622",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "421852",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "422157",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "422237",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROCREDIT, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "422285",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "422303",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "422794",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "425129",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "426210",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "426369",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AVAL CARD, S.A. DE C.V.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "427217",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO HSBC SALVADORENO, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "428291",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "428322",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "428323",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "428595",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "429518",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO HSBC SALVADORENO, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "429519",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO HSBC SALVADORENO, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "430417",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "430418",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "430419",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "430498",
+      "issuer": "BANCO HIPOTECARIO DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "431063",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "431064",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "431065",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "431514",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "431825",
+      "issuer": "BANCO PROCREDIT, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "431886",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "432965",
+      "issuer": "CORPORACION DE CREDITOS Y SERVICIOS S.A.DE C.V. (SERVICREDIT S.A. DE C.V.)",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "433146",
+      "issuer": "SISTEMAS INTERNACIONALES S.A. DE C.V.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "434153",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CUSCATLAN, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "434154",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CUSCATLAN, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "434647",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "434648",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "434649",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "434693",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "434945",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO AGRICOLA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "435746",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "438630",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO AGRICOLA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "439001",
+      "issuer": "CHEQUEMAX",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "439002",
+      "issuer": "CHEQUEMAX",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "439015",
+      "issuer": "CHEQUEMAX",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "439042",
+      "issuer": "CHEQUEMAX",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "439043",
+      "issuer": "CHEQUEMAX",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "439044",
+      "issuer": "CHEQUEMAX",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "439047",
+      "issuer": "CHEQUEMAX",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "439048",
+      "issuer": "CHEQUEMAX",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "439063",
+      "issuer": "CHEQUEMAX",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "439067",
+      "issuer": "CHEQUEMAX",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "439068",
+      "issuer": "CHEQUEMAX",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "439069",
+      "issuer": "CHEQUEMAX",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "439072",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO AGRICOLA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "439075",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO AGRICOLA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "439086",
+      "issuer": "CHEQUEMAX",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "439092",
+      "issuer": "CHEQUEMAX",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "439093",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO AGRICOLA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "439097",
+      "issuer": "CHEQUEMAX",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "439150",
+      "issuer": "BANCO SALVADORENO, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "439194",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "439195",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "440411",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO AGRICOLA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "440412",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO AGRICOLA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "440413",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO AGRICOLA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "440675",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "440676",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "440677",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "441019",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "441182",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO HSBC SALVADORENO, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "441183",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO HSBC SALVADORENO, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "442357",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "443858",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "444671",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "448447",
+      "category": "PURCHASING",
+      "issuer": "AVAL CARD, S.A. DE C.V.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "450070",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "450071",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "450072",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "450422",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "450426",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "450430",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "450570",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "450571",
+      "issuer": "SISTEMAS INTERNACIONALES S.A. DE C.V.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "450575",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO CUSCATLAN, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "451353",
+      "issuer": "AVAL CARD, S.A. DE C.V.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "451354",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "451357",
+      "issuer": "BANCO MULTIVALORES, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "451358",
+      "issuer": "BANCO MULTIVALORES, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "453921",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AVAL CARD, S.A. DE C.V.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "455001",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO AGRICOLA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "455004",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO HSBC SALVADORENO, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "455005",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SALVADORENO, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "455006",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO HSBC SALVADORENO, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "456051",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CUSCATLAN, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "456330",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SISTEMAS INTERNACIONALES S.A. DE C.V.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "456794",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO AGRICOLA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "456795",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO AGRICOLA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "456796",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO AGRICOLA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "456846",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SISTEMAS INTERNACIONALES S.A. DE C.V.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "457374",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "457495",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "457614",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "457628",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "458137",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "459372",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "459377",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "459378",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "462039",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "462931",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO AGRICOLA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "462960",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "465826",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "465827",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "465896",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "465897",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "467896",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRST USA BANK",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "469296",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "472052",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "476277",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "476279",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "477119",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "479430",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SISTEMAS INTERNACIONALES S.A. DE C.V.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "485949",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "TARJETAS DE ORO S.A. DE C.V.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "485998",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "489983",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO HSBC SALVADORENO, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "490780",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO AGRICOLA, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "491305",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "491347",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "491382",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "491383",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "491387",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "491500",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "491504",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AVAL CARD, S.A. DE C.V.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "491505",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "491506",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CITIBANK DE EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "491582",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "491949",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SISTEMAS INTERNACIONALES S.A. DE C.V.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "493194",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "AVAL CARD, S.A. DE C.V.",
+      "countries": [
+        "SV"
+      ]
+    },
+    {
+      "bin": "493415",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "SV"
+      ]
+    }
+  ]
+}

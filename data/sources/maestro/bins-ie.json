@@ -1,0 +1,43 @@
+{
+  "bins": [
+    {
+      "bin": "560390",
+      "type": "DEBIT",
+      "issuer": "BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "630490",
+      "type": "DEBIT",
+      "issuer": "BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "630499",
+      "type": "DEBIT",
+      "issuer": "TSB",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "670302",
+      "type": "DEBIT",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "670695",
+      "type": "DEBIT",
+      "issuer": "AIB BANK",
+      "countries": [
+        "IE"
+      ]
+    }
+  ]
+}

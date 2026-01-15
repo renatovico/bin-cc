@@ -1,0 +1,212 @@
+{
+  "bins": [
+    {
+      "bin": "406607",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT LYONNAIS CAMEROUN",
+      "countries": [
+        "CM"
+      ]
+    },
+    {
+      "bin": "406608",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LYONNAIS CAMEROUN",
+      "countries": [
+        "CM"
+      ]
+    },
+    {
+      "bin": "406609",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LYONNAIS CAMEROUN",
+      "countries": [
+        "CM"
+      ]
+    },
+    {
+      "bin": "409614",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE INTERNATIONALE DE CAMEROUN POUR LEPARGNE ET LE CREDIT",
+      "countries": [
+        "CM"
+      ]
+    },
+    {
+      "bin": "409615",
+      "issuer": "BANQUE INTERNATIONALE DE CAMEROUN POUR LEPARGNE ET LE CREDIT",
+      "countries": [
+        "CM"
+      ]
+    },
+    {
+      "bin": "411715",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE INTERNATIONALE DE CAMEROUN POUR LEPARGNE ET LE CREDIT",
+      "countries": [
+        "CM"
+      ]
+    },
+    {
+      "bin": "411716",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE INTERNATIONALE DE CAMEROUN POUR LEPARGNE ET LE CREDIT",
+      "countries": [
+        "CM"
+      ]
+    },
+    {
+      "bin": "416491",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "CM"
+      ]
+    },
+    {
+      "bin": "417060",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "CM"
+      ]
+    },
+    {
+      "bin": "417839",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CM"
+      ]
+    },
+    {
+      "bin": "418762",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CM"
+      ]
+    },
+    {
+      "bin": "432547",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "SOCIETE GENERALE DE BANQUES AU CAMEROUN",
+      "countries": [
+        "CM"
+      ]
+    },
+    {
+      "bin": "432573",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SOCIETE GENERALE DE BANQUES AU CAMEROUN",
+      "countries": [
+        "CM"
+      ]
+    },
+    {
+      "bin": "433022",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SOCIETE GENERALE DE BANQUES AU CAMEROUN",
+      "countries": [
+        "CM"
+      ]
+    },
+    {
+      "bin": "441342",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CM"
+      ]
+    },
+    {
+      "bin": "441343",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "CM"
+      ]
+    },
+    {
+      "bin": "441344",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "CM"
+      ]
+    },
+    {
+      "bin": "441345",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CM"
+      ]
+    },
+    {
+      "bin": "441346",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CM"
+      ]
+    },
+    {
+      "bin": "441347",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CM"
+      ]
+    },
+    {
+      "bin": "445538",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CM"
+      ]
+    },
+    {
+      "bin": "445539",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "CM"
+      ]
+    },
+    {
+      "bin": "455031",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUST",
+      "countries": [
+        "CM"
+      ]
+    },
+    {
+      "bin": "484675",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CM"
+      ]
+    },
+    {
+      "bin": "490999",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "SOCIETE GENERALE DE BANQUES AU CAMEROUN",
+      "countries": [
+        "CM"
+      ]
+    }
+  ]
+}

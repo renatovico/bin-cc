@@ -1,0 +1,699 @@
+{
+  "bins": [
+    {
+      "bin": "400282",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OMAN ARAB BANK, SAOC",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "401751",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NATIONAL BANK OF ABU DHABI",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "402004",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANKMUSCAT LTD. (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "404743",
+      "issuer": "BANKMUSCAT LTD. (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "405706",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "406956",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "410356",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "410357",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "410358",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK SOHAR (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "410359",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "410360",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "411651",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK DHOFAR (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "411688",
+      "issuer": "OMAN ARAB BANK, SAOC",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "413293",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "417245",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OMAN ARAB BANK, SAOC",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "417610",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "417611",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "417612",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "417652",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK OF ABU DHABI",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "417653",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NATIONAL BANK OF ABU DHABI",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "419241",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AHLI BANK LTD. (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "419242",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AHLI BANK LTD. (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "419243",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "419244",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "419291",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "420595",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "OMAN INTERNATIONAL BANK S.A.O.",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "420596",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "OMAN INTERNATIONAL BANK S.A.O.",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "422537",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "BANKMUSCAT LTD. (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "422681",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANKMUSCAT LTD. (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "422914",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NATIONAL BANK OF OMAN LTD. (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "425851",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "426112",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANKMUSCAT LTD. (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "428257",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANKMUSCAT LTD. (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "429524",
+      "issuer": "BANKMUSCAT LTD. (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "432063",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "433379",
+      "issuer": "NATIONAL BANK OF OMAN LTD. (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "433916",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "OMAN ARAB BANK SAO",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "433917",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OMAN ARAB BANK SAO",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "433918",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "OMAN ARAB BANK SAO",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "434173",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OMAN INTERNATIONAL BANK S.A.O.",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "437425",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "437426",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "437427",
+      "type": "DEBIT",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "437569",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "439357",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANKMUSCAT LTD. (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "439950",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "447627",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANKMUSCAT LTD. (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "449315",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK OF OMAN LTD. (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "449316",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NATIONAL BANK OF OMAN LTD. (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "453932",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "453933",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "455242",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OMAN INTERNATIONAL BANK S.A.O.",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "455392",
+      "issuer": "BRITISH BANK OF THE MIDDLE EAST",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "457325",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "457904",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "460012",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "464425",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK DHOFAR (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "464426",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK DHOFAR (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "464427",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK DHOFAR (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "467063",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "OMAN INTERNATIONAL BANK S.A.O.",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "467092",
+      "issuer": "CITIBANK",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "467362",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "468554",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "471453",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "OMAN ARAB BANK SAO",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "475184",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NATIONAL BANK OF OMAN LTD. (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "476023",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OMAN ARAB BANK SAO",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "476320",
+      "issuer": "BANK DHOFAR (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "477940",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMMERCIAL BANK OF OMAN (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "477941",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "COMMERCIAL BANK OF OMAN (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "478783",
+      "issuer": "COMMERCIAL BANK OF OMAN (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "479089",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "OMAN INTERNATIONAL BANK S.A.O.",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "479710",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NATIONAL BANK OF OMAN LTD. (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "484130",
+      "type": "DEBIT",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "484131",
+      "type": "DEBIT",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "484172",
+      "type": "DEBIT",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "489076",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "489090",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "BANK DHOFAR (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "489091",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "490903",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANKMUSCAT LTD. (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "490905",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANKMUSCAT LTD. (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "490907",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANKMUSCAT LTD. (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "490921",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OMAN INTERNATIONAL BANK S.A.O.",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "490989",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANKMUSCAT LTD. (S.A.O.G.)",
+      "countries": [
+        "OM"
+      ]
+    },
+    {
+      "bin": "494029",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "OMAN INTERNATIONAL BANK S.A.O.",
+      "countries": [
+        "OM"
+      ]
+    }
+  ]
+}

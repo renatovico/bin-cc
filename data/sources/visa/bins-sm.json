@@ -1,0 +1,35 @@
+{
+  "bins": [
+    {
+      "bin": "483045",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "SM"
+      ]
+    },
+    {
+      "bin": "487717",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "countries": [
+        "SM"
+      ]
+    },
+    {
+      "bin": "488080",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "countries": [
+        "SM"
+      ]
+    },
+    {
+      "bin": "488081",
+      "type": "DEBIT",
+      "countries": [
+        "SM"
+      ]
+    }
+  ]
+}

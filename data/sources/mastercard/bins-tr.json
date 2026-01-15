@@ -1,0 +1,3202 @@
+{
+  "bins": [
+    {
+      "bin": "510005",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "510054",
+      "type": "CREDIT",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "510056",
+      "type": "CREDIT",
+      "issuer": "TURKIYE HALK BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "510063",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "510083",
+      "issuer": "IKTISAT BANKASI TURK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "510106",
+      "issuer": "AKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "510118",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "510119",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "510138",
+      "type": "CREDIT",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "510139",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "510151",
+      "type": "CREDIT",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "510152",
+      "type": "CREDIT",
+      "issuer": "TURKIYE IS BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "510221",
+      "type": "CREDIT",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "510238",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "511583",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "511660",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "KUVEYT TURK KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "512017",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "512117",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "512360",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "512440",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "512446",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "512595",
+      "type": "CREDIT",
+      "issuer": "KUVEYT TURK KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "512651",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "512753",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "512754",
+      "type": "CREDIT",
+      "issuer": "AKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "512803",
+      "type": "CREDIT",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "513045",
+      "issuer": "SEKERBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "514025",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TEKSTIL BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "514915",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "514924",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "515755",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "515849",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ASYA KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "515865",
+      "type": "CREDIT",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "515895",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "516458",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "516731",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "516740",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "516741",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "516742",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "516835",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "516840",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "516841",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "516843",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "516912",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "516914",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "516943",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "516944",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "516961",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "517040",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "517041",
+      "type": "DEBIT",
+      "issuer": "GARANTI",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "517042",
+      "type": "DEBIT",
+      "issuer": "GARANTI",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "517047",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "517048",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "517049",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "518599",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TURKISH BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "518679",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIBABANKA, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "518896",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "KUVEYT TURK KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "519261",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "519324",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "519399",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "519780",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "520017",
+      "type": "CREDIT",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "520019",
+      "type": "CREDIT",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "520097",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "520180",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "KUVEYT TURK KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "520303",
+      "type": "CREDIT",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "520653",
+      "issuer": "TURKIYE IS BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "520909",
+      "type": "CREDIT",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "520922",
+      "type": "CREDIT",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "520932",
+      "type": "CREDIT",
+      "issuer": "AKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "520940",
+      "type": "CREDIT",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "520988",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "521022",
+      "type": "CREDIT",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "521045",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "521368",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "521376",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "521378",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TURKIYE HALK BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "521394",
+      "type": "CREDIT",
+      "issuer": "SEKERBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "521807",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "521824",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "521825",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "521827",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SEKERBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "521836",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "521848",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TURKIYE FINANS KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "521875",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "521942",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "522054",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "522204",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "522221",
+      "issuer": "BANCA TURCO ROMANA S.A.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "522240",
+      "type": "CREDIT",
+      "issuer": "ANADOLUBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "522241",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ANADOLUBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "522347",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "522356",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "522362",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "522517",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "523416",
+      "type": "CREDIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "523515",
+      "category": "STANDARD",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "524346",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "524347",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "524384",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ASYA KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "524659",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "524677",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "524839",
+      "type": "CREDIT",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "524840",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "525312",
+      "type": "CREDIT",
+      "issuer": "KUVEYT TURK KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "525314",
+      "type": "CREDIT",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "525404",
+      "type": "CREDIT",
+      "issuer": "SEKERBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "525413",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "525795",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "526289",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "TURKIYE HALK BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "526290",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "526952",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "526955",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "526973",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "526975",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "527369",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "527383",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "527396",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "527585",
+      "type": "CREDIT",
+      "issuer": "ASYA KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "527682",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "528208",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "528293",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "528823",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "528825",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "528920",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "528939",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "528956",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "529462",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "529545",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "529572",
+      "type": "CREDIT",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "529876",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "529939",
+      "type": "CREDIT",
+      "issuer": "TURKISH BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "530597",
+      "type": "CREDIT",
+      "issuer": "CITIBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "530818",
+      "type": "CREDIT",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "530853",
+      "type": "CREDIT",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "530866",
+      "type": "CREDIT",
+      "issuer": "SEKERBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "530905",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "T.C. ZIRAAT BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "531102",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "531157",
+      "type": "CREDIT",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "531245",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "531334",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ASYA KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "532443",
+      "type": "CREDIT",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "533149",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "533169",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "533293",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "533330",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "533796",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "534261",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "534264",
+      "type": "CREDIT",
+      "issuer": "ALBARAKA TURK KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "534913",
+      "type": "CREDIT",
+      "issuer": "FIBABANKA, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "534981",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "T.C. ZIRAAT BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "536255",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "537719",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TURKIYE FINANS KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "537833",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "539605",
+      "type": "CREDIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "539703",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SEKERBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "540024",
+      "type": "CREDIT",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "540025",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "540036",
+      "type": "CREDIT",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "540037",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "540045",
+      "type": "CREDIT",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "540046",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "540061",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "540062",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "540063",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "540118",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "540122",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "540129",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "540130",
+      "type": "CREDIT",
+      "issuer": "T.C. ZIRAAT BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "540134",
+      "type": "CREDIT",
+      "issuer": "T.C. ZIRAAT BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "540206",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "540226",
+      "type": "CREDIT",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "540227",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "540284",
+      "issuer": "PAMUKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "540435",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TURKIYE HALK BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "540643",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "540667",
+      "type": "CREDIT",
+      "issuer": "TURKIYE IS BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "540668",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TURKIYE IS BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "540669",
+      "type": "CREDIT",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "540709",
+      "type": "CREDIT",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "541001",
+      "type": "CREDIT",
+      "issuer": "T.C. ZIRAAT BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "541033",
+      "issuer": "TURKIYE EMLAK BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "541073",
+      "issuer": "IKTISAT BANKASI TURK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "541074",
+      "issuer": "IKTISAT BANKASI TURK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "541076",
+      "issuer": "IKTISAT BANKASI TURK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "541865",
+      "type": "CREDIT",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "541932",
+      "issuer": "IKTISAT BANKASI TURK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "542029",
+      "type": "CREDIT",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "542030",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "542110",
+      "issuer": "AKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "542117",
+      "type": "CREDIT",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "542119",
+      "type": "CREDIT",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "542254",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "542259",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "542374",
+      "type": "CREDIT",
+      "issuer": "T.C. ZIRAAT BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "542404",
+      "type": "CREDIT",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "542605",
+      "type": "CREDIT",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "542616",
+      "issuer": "ETIBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "542798",
+      "type": "CREDIT",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "542804",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "542868",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "542965",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "542967",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "543039",
+      "issuer": "PAMUKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "543081",
+      "type": "CREDIT",
+      "issuer": "TURKIYE HALK BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "543358",
+      "type": "CREDIT",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "543400",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "543427",
+      "type": "CREDIT",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "543624",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIBABANKA, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "543738",
+      "type": "CREDIT",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "543771",
+      "type": "CREDIT",
+      "issuer": "TURKIYE IS BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "543943",
+      "type": "CREDIT",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "543944",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "544078",
+      "type": "CREDIT",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "544127",
+      "type": "CREDIT",
+      "issuer": "CITIBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "544294",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "544445",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CITIBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "544460",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CITIBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "544836",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "545102",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "545103",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "545117",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "545120",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "545124",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "545148",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "545183",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "HSBC BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "545616",
+      "type": "CREDIT",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "545769",
+      "type": "CREDIT",
+      "issuer": "TEKSTIL BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "545770",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TEKSTIL BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "545771",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "545783",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "545847",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "546001",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "546764",
+      "type": "CREDIT",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "547161",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CITIBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "547170",
+      "issuer": "ETIBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "547234",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ALBARAKA TURK KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "547244",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "547287",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "T.C. ZIRAAT BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "547302",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "547311",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SEKERBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "547466",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "547524",
+      "issuer": "ETIBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "547564",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "KUVEYT TURK KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "547567",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "547680",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "547712",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CITIBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "547765",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "547799",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ASYA KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "547800",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "547840",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIBABANKA, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "547985",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "548232",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ALBARAKA TURK KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "548375",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "548818",
+      "issuer": "OYAK BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "548819",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "548935",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "549208",
+      "type": "CREDIT",
+      "issuer": "SEKERBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "549220",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CITIBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "549294",
+      "type": "CREDIT",
+      "issuer": "TURKIYE FINANS KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "549938",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "549998",
+      "type": "CREDIT",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "550074",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "550291",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "550383",
+      "issuer": "AKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "550449",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "550472",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "550473",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "552094",
+      "issuer": "ETIBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "552095",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "552096",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TURKIYE IS BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "552098",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TURKISH BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "552101",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "552143",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "552207",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "552529",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "ASYA KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "552547",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "SEKERBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "552608",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "552609",
+      "issuer": "AKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "552610",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "552645",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "552659",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "552679",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "552879",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TURKIYE HALK BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "553056",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "553058",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TURKIYE IS BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "553090",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "553130",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "553493",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "554297",
+      "type": "CREDIT",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "554301",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ANADOLUBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "554422",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "554427",
+      "issuer": "TOPRAKBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "554483",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "554509",
+      "issuer": "AKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "554548",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "554549",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "554566",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "554570",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "554600",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "554796",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "554832",
+      "issuer": "INTERBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "554958",
+      "issuer": "TOPRAKBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "554960",
+      "type": "CREDIT",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "555087",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "556030",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HSBC BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "556031",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "556033",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "556034",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HSBC BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "556665",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "HSBC BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "557023",
+      "type": "CREDIT",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "557113",
+      "type": "CREDIT",
+      "issuer": "AKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "557829",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "557945",
+      "type": "CREDIT",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "558340",
+      "issuer": "OYAK BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "558399",
+      "issuer": "TURKIYE GARANTI BANKASI",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "558400",
+      "issuer": "OSMANLI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "558443",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "558446",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "558448",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "558451",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "558460",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "558485",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "558502",
+      "issuer": "TURKIYE IS BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "558514",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "558593",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ANADOLUBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "558597",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIBABANKA, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "558634",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "558699",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559500",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559501",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559502",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559503",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559504",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559505",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559506",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559507",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559508",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559509",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559510",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559511",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559512",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559513",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559514",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559515",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559516",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559517",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559518",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559519",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559520",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559521",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559522",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559523",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559524",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559525",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559526",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559527",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559528",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559529",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559530",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559531",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559532",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559533",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559534",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559535",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559536",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559537",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559538",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559539",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559540",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559541",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559542",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559543",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559544",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559545",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559546",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559547",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559548",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559549",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559550",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559551",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559552",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559553",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559554",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559555",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559556",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559557",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559558",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559559",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559560",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559561",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559562",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559563",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559564",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559565",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559566",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559567",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559568",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559569",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559570",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559571",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559572",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559573",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559574",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559575",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559576",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559577",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559578",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559579",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559580",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559581",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559582",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559583",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559584",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559585",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559586",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559587",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559588",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559589",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559590",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559591",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559592",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559593",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559594",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559595",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559596",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559597",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559598",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "559599",
+      "countries": [
+        "TR"
+      ]
+    }
+  ]
+}

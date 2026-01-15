@@ -1,0 +1,34 @@
+{
+  "bins": [
+    {
+      "bin": "376555",
+      "type": "CREDIT",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "376556",
+      "type": "CREDIT",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "376655",
+      "type": "CREDIT",
+      "issuer": "SAUDI INVESTMENT BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "376656",
+      "type": "CREDIT",
+      "issuer": "ITHAD BANK",
+      "countries": [
+        "SA"
+      ]
+    }
+  ]
+}

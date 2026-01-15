@@ -1,0 +1,1514 @@
+{
+  "bins": [
+    {
+      "bin": "510000",
+      "type": "CREDIT",
+      "issuer": "RBS BANK (ROMANIA), S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "510007",
+      "issuer": "ABN AMRO BANK (ROMANIA), S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "510160",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ROMANIAN COMMERCIAL BANK, S.A. - BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "510161",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ROMANIAN COMMERCIAL BANK, S.A. - BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "512343",
+      "issuer": "RAIFFEISEN BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "512672",
+      "type": "CREDIT",
+      "issuer": "CETELEM IFN, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "512696",
+      "type": "CREDIT",
+      "issuer": "BRD GROUPE SOCIETE GENERALE",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "512784",
+      "type": "CREDIT",
+      "issuer": "ROMANIAN COMMERCIAL BANK, S.A. - BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "512787",
+      "type": "CREDIT",
+      "issuer": "ROMANIAN COMMERCIAL BANK, S.A. - BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "515901",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "RBS BANK (ROMANIA), S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "516734",
+      "type": "DEBIT",
+      "issuer": "CREDIT EUROPE BANK",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "517045",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "ROMANIAN COMMERCIAL BANK, S.A. - BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "518492",
+      "type": "CREDIT",
+      "issuer": "GARANTI BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "518594",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCA COMERCIALA FEROVIARA",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "518655",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "RAIFFEISEN BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "518823",
+      "issuer": "BANCA C.R. FIRENZE ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "518825",
+      "type": "CREDIT",
+      "issuer": "PIRAEUS BANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "519153",
+      "type": "CREDIT",
+      "issuer": "BLOM BANK FRANCE, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "519306",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CREDIT EUROPE BANK",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "519320",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "VOLKSBANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "519432",
+      "type": "CREDIT",
+      "issuer": "BANCA COMERCIALA FEROVIARA",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "520012",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "RAIFFEISEN BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "520316",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MKB ROMEXTERRA BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "520323",
+      "type": "CREDIT",
+      "issuer": "UNICREDIT TIRIAC BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "520390",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "GARANTI BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "520647",
+      "issuer": "BANCA ROMANESCA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "520926",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK LEUMI ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "520927",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "UNICREDIT TIRIAC BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "520999",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ALPHA BANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "521350",
+      "type": "CREDIT",
+      "issuer": "GARANTI BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "521391",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "RBS BANK (ROMANIA), S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "521831",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "OTP BANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "522034",
+      "type": "CREDIT",
+      "issuer": "TBI CREDIT IFN, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "522062",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BRD GROUPE SOCIETE GENERALE",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "522720",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "522736",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "522884",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "ROMANIAN COMMERCIAL BANK, S.A. - BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "523904",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "RBS BANK (ROMANIA), S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "524386",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "GARANTI BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "524893",
+      "type": "CREDIT",
+      "issuer": "VOLKSBANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "524899",
+      "type": "CREDIT",
+      "issuer": "GARANTI BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "525411",
+      "type": "CREDIT",
+      "issuer": "BRD GROUPE SOCIETE GENERALE",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "525764",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BLOM BANK FRANCE, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "525771",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "VOLKSBANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "526480",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDIT EUROPE BANK",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "526481",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ROMANIAN COMMERCIAL BANK, S.A. - BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "526490",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "OTP BANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "526700",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCA COMERCIALA INTESA SANPAOLO ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "526993",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "527452",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "OTP BANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "527529",
+      "type": "CREDIT",
+      "issuer": "OTP BANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "528026",
+      "type": "CREDIT",
+      "issuer": "LIBRA BANK",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "528038",
+      "type": "CREDIT",
+      "issuer": "ING BANK N.V. AMSTERDAM - BUCHAREST BRANCH",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "528067",
+      "type": "CREDIT",
+      "issuer": "ROMANIAN COMMERCIAL BANK, S.A. - BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "528079",
+      "type": "CREDIT",
+      "issuer": "CEC BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "528082",
+      "type": "CREDIT",
+      "issuer": "EMPORIKI BANK - ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "528600",
+      "type": "CREDIT",
+      "issuer": "ATE BANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "528610",
+      "type": "CREDIT",
+      "issuer": "CEC BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "528616",
+      "type": "CREDIT",
+      "issuer": "RBS BANK (ROMANIA), S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "528703",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "GARANTI BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "528832",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "528833",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "529211",
+      "type": "CREDIT",
+      "issuer": "BANCA MILLENNIUM, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "529402",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "GARANTI BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "529405",
+      "type": "CREDIT",
+      "issuer": "BANCA MILLENNIUM, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "529458",
+      "type": "CREDIT",
+      "issuer": "BANCA MILLENNIUM, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "529459",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "529475",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCA COMERCIALA CARPATICA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "529591",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "529912",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCA TRANSILVANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "529913",
+      "issuer": "BANCA TRANSILVANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "530410",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "RAIFFEISEN BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "530805",
+      "type": "CREDIT",
+      "issuer": "BRD GROUPE SOCIETE GENERALE",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "531068",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "531331",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CETELEM IFN, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "531337",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MKB ROMEXTERRA BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "531342",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CETELEM IFN, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "531421",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ROMANIAN COMMERCIAL BANK, S.A. - BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "531563",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "531591",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "532332",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "532686",
+      "type": "CREDIT",
+      "issuer": "ATE BANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "533155",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "RAIFFEISEN BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "533687",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "RAIFFEISEN BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "534164",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCA COMERCIALA INTESA SANPAOLO ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "534188",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ATE BANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "534189",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "LIBRA BANK",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "534253",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "RBS BANK (ROMANIA), S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "534267",
+      "type": "CREDIT",
+      "issuer": "BRD GROUPE SOCIETE GENERALE",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "536432",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "LIBRA BANK",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "536441",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "RAIFFEISEN BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "536447",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCA ROMANESCA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "539729",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UNICREDIT TIRIAC BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "539833",
+      "type": "CREDIT",
+      "issuer": "PROCREDIT BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "539836",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TBI CREDIT IFN, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "540049",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BRD GROUPE SOCIETE GENERALE",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "541010",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "RAIFFEISEN BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "541025",
+      "type": "CREDIT",
+      "issuer": "LIBRA BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "541086",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCA COMERCIALA INTESA SANPAOLO ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "541356",
+      "type": "CREDIT",
+      "issuer": "BRD GROUPE SOCIETE GENERALE",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "541615",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BRD GROUPE SOCIETE GENERALE",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "541671",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDIT EUROPE BANK",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "542343",
+      "type": "CREDIT",
+      "issuer": "BANCA COMERCIALA CARPATICA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "543029",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ROMANIAN COMMERCIAL BANK, S.A. - BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "543332",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "RAIFFEISEN BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "544396",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BRD GROUPE SOCIETE GENERALE",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "545077",
+      "type": "CREDIT",
+      "issuer": "BANCA ROMANESCA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "545213",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BRD GROUPE SOCIETE GENERALE",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "545593",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCA TRANSILVANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "545820",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "545894",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCA COMERCIALA CARPATICA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "545921",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "546020",
+      "issuer": "ROMANIAN COMMERCIAL BANK (BANCA COMERCIALA ROMANA",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "546488",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ROMANIAN COMMERCIAL BANK, S.A. - BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "546665",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UNICREDIT TIRIAC BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "546761",
+      "type": "CREDIT",
+      "issuer": "UNICREDIT TIRIAC BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "546805",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "546915",
+      "type": "CREDIT",
+      "issuer": "ROMANIAN COMMERCIAL BANK, S.A. - BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "547309",
+      "issuer": "RAIFFEISEN BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "547340",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA COMERCIALA FEROVIARA",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "547379",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BRD GROUPE SOCIETE GENERALE",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "547530",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "547565",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "547599",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BLOM BANK FRANCE, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "547812",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ROMANIAN COMMERCIAL BANK, S.A. - BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "547848",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "GARANTI BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "547861",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "RBS BANK (ROMANIA), S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "547862",
+      "type": "CREDIT",
+      "issuer": "RBS BANK (ROMANIA), S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "547885",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EMPORIKI BANK - ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "548215",
+      "type": "CREDIT",
+      "issuer": "CREDIT EUROPE BANK",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "548359",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "RAIFFEISEN BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "548536",
+      "type": "CREDIT",
+      "issuer": "ING BANK N.V. AMSTERDAM - BUCHAREST BRANCH",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "548700",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANC POST, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "548773",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "RAIFFEISEN BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "549073",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "RBS BANK (ROMANIA), S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "549291",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BRD GROUPE SOCIETE GENERALE",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "549532",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCA TRANSILVANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "549835",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BRD GROUPE SOCIETE GENERALE",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "549869",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "LIBRA BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "550101",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "RAIFFEISEN BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "550324",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "551967",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "552593",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BRD GROUPE SOCIETE GENERALE",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "552647",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MKB ROMEXTERRA BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "552648",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA COMERCIALA CARPATICA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "552649",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT TIRIAC BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "552678",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ROMANIAN COMMERCIAL BANK, S.A. - BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "552696",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA TRANSILVANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "552722",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BRD GROUPE SOCIETE GENERALE",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "552772",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BRD GROUPE SOCIETE GENERALE",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "552873",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK LEUMI ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "552878",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA COMERCIALA INTESA SANPAOLO ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "553424",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BRD GROUPE SOCIETE GENERALE",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "553491",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "UNICREDIT TIRIAC BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "553589",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ROMANIAN INTERNATIONAL BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "553590",
+      "category": "BUSINESS",
+      "issuer": "ROMANIAN INTERNATIONAL BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "553688",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "553689",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "553692",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "553695",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "553901",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "553905",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "553974",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "553996",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "554190",
+      "issuer": "BANCA ROMANA PENTRU DEZVOLTARE, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "554593",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "UNICREDIT TIRIAC BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "554734",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BRD GROUPE SOCIETE GENERALE",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "554826",
+      "type": "CREDIT",
+      "issuer": "BANCA TRANSILVANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "554841",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ROMANIAN INTERNATIONAL BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "554854",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UNICREDIT TIRIAC BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "554861",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ROMANIAN INTERNATIONAL BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "556041",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CEC BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "556077",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BRD GROUPE SOCIETE GENERALE",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "556078",
+      "issuer": "BRD GROUPE SOCIETE GENERALE",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "557641",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "558432",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ROMANIAN COMMERCIAL BANK, S.A. - BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "558464",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "RBS BANK (ROMANIA), S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "558465",
+      "category": "BUSINESS",
+      "issuer": "RBS BANK (ROMANIA), S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "558683",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ROMANIAN INTERNATIONAL BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "558684",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT TIRIAC BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "559090",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "559201",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ROMANIAN COMMERCIAL BANK, S.A. - BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "559487",
+      "countries": [
+        "RO"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2958 @@
+{
+  "bins": [
+    {
+      "bin": "400154",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "400974",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "401683",
+      "issuer": "INVESTEC",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "401689",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "402151",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "402167",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "INVESTEC BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "402168",
+      "issuer": "INVESTEC BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "402374",
+      "type": "DEBIT",
+      "category": "PRIVATE LABEL",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "402754",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "402771",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "402772",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "402837",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "402838",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "403204",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "403736",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "403737",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "403822",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "404304",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "404307",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "404323",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "404866",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "405201",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AFRICAN BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "405278",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AFRICAN BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "405282",
+      "type": "DEBIT",
+      "category": "TRAVEL MONEY",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "405767",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "405768",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "405769",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "406486",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TEBA BANK",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "406947",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "406948",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "408369",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AFRICAN BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "408370",
+      "issuer": "AFICAN BANK",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "410324",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "410325",
+      "type": "DEBIT",
+      "issuer": "AMALGAMATED BANKS OF SOUTH AFRICA LIMITED (ABSA BANK LIMITED)",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "410326",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "410329",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "410374",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "410375",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "410586",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "410587",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "410588",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "410589",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "410621",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "410654",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ITHALA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "410665",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "411689",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TEBA BANK",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "411695",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "411696",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "411707",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "411708",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "411709",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "411710",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "411926",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "411973",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "412078",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "412502",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AFRICAN BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "412503",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "412504",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "412505",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "412506",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "412748",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "412752",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "413086",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "413294",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "413456",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "413476",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "414040",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "414041",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "414042",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "414043",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "414044",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "414045",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "414073",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "415452",
+      "issuer": "UNIBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "416454",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "416455",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "417062",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "417063",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "417246",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "417247",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "417290",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "417359",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "INVESTEC BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "417647",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INVESTEC BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "417677",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "417678",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "418606",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "418736",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BIDVEST BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "418737",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BIDVEST BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "418738",
+      "type": "DEBIT",
+      "issuer": "BIDVEST BANK",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "418739",
+      "type": "DEBIT",
+      "issuer": "BIDVEST BANK",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "418832",
+      "issuer": "UNIBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "418839",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "419564",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "419565",
+      "issuer": "FNB",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "419566",
+      "issuer": "FNB",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "419567",
+      "issuer": "FNB",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "419568",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "419569",
+      "issuer": "FNB",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "419570",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FNB",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "419571",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "419572",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "419692",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "419693",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "419694",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "419794",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "419795",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "419800",
+      "type": "CREDIT",
+      "category": "ELECTRON",
+      "issuer": "INVESTEC BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "420554",
+      "issuer": "BIDVEST BANK",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "420965",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "421457",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AFRICAN BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "421515",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "421516",
+      "issuer": "NEDBANK",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "421576",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "421666",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "422217",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "422218",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "422254",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "INVESTEC BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "422601",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TEBA BANK",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "424318",
+      "issuer": "RENNIES BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "424477",
+      "issuer": "CAPITEC BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "424512",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CAPITEC BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "424513",
+      "issuer": "BIDVEST BANK",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "424514",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BIDVEST BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "424515",
+      "type": "DEBIT",
+      "issuer": "BIDVEST BANK",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "424516",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "RENNIES BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "424517",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "RENNIES BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "424518",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "424575",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BIDVEST BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "424576",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "RENNIES BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "424577",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "RENNIES BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "424956",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BIDVEST BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "424957",
+      "type": "DEBIT",
+      "issuer": "BIDVEST BANK",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "425177",
+      "issuer": "INTERPAYMENT SERVICES",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "425178",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "425537",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "425668",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BIDVEST BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "425701",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "425703",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "425715",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "426089",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "426286",
+      "issuer": "AMALGAMATED BANKS OF SOUTH AFRICA LTD. (ABSA BANK LTD.)",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "427701",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "427703",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "427773",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "427775",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "427819",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "427863",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "428680",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "429093",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "429323",
+      "issuer": "NBS BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "429734",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ALBARAKA",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "430340",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "430341",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "430342",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "430343",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "431139",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "431284",
+      "issuer": "BANK OF AMERICA",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "431412",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "431413",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "431414",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "NEDCOR BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "431462",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "432013",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "432434",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "432557",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "432559",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "432563",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "433001",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "433002",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "433308",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "433320",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "434165",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "434166",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "434181",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "434184",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NEDCOR BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "434185",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NEDCOR BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "434186",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NEDCOR BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "434187",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NEDCOR BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "434188",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "434189",
+      "issuer": "NEDCOR BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "434190",
+      "issuer": "NEDCOR BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "434191",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NEDCOR BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "434192",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NEDCOR BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "434193",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NEDCOR BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "434195",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "434196",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "436322",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "437448",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "438987",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "443200",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "445120",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "445121",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "445122",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "445143",
+      "type": "DEBIT",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "445144",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "445145",
+      "type": "DEBIT",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "445146",
+      "type": "DEBIT",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "445147",
+      "type": "DEBIT",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "446348",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "446349",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "447573",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "448370",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "448373",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "448374",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "448381",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "448465",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "448513",
+      "category": "PURCHASING",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "449322",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "449323",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "449324",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "449325",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AMALGAMATED BANKS OF SOUTH AFRICA LTD. (ABSA BANK LTD.)",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "449394",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "NEDCOR BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "449395",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "NEDCOR BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "449396",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NEDCOR BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "450236",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "450237",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "450340",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "450660",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "453570",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "454858",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "455019",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "455027",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "455074",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "455075",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "455076",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "455077",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "455078",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "455079",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "455200",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "455216",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "456502",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "456519",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "456520",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "456536",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "456538",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "456546",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "456553",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "456558",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "456559",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "456560",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "456595",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "456597",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "457023",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "457433",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "457896",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "457897",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "457898",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "457899",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "458252",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "458253",
+      "type": "DEBIT",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "458254",
+      "type": "DEBIT",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "458262",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "458855",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460001",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460019",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460020",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460021",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460023",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460025",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460026",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460027",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460029",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460032",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460033",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460039",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460040",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460045",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460047",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460059",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460060",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460064",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460066",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460069",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460070",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460071",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460076",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460077",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460080",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460082",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460087",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460091",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460092",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460093",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460098",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "460099",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "462817",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "464475",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "464476",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "464477",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "464478",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "465276",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "467769",
+      "type": "DEBIT",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "467770",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "467846",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "467899",
+      "issuer": "FIRST USA BANK",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "468595",
+      "type": "DEBIT",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "470352",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "470720",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "470724",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "471348",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "471413",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "472311",
+      "type": "DEBIT",
+      "category": "TRAVEL MONEY",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "472335",
+      "type": "DEBIT",
+      "category": "TRAVEL MONEY",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "472349",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "472868",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "472883",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "472921",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "474126",
+      "type": "DEBIT",
+      "category": "TRAVEL MONEY",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "477939",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "NEDCOR BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "477945",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "478743",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "478744",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "478769",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "478795",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "479012",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "479023",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "479026",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "479027",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "479036",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "479050",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "479051",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "479052",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "479054",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "479055",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "479056",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "479058",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "479081",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "482105",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "484162",
+      "type": "DEBIT",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "485442",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "485457",
+      "type": "DEBIT",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "485458",
+      "type": "DEBIT",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "485459",
+      "type": "DEBIT",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "485460",
+      "type": "DEBIT",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "485461",
+      "type": "DEBIT",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "485703",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "485902",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "485909",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "486364",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "486651",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "487475",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NEDCOR BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "487476",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "NEDCOR BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "489061",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "490107",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "490115",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "490130",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "490135",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "490136",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "490137",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "490138",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "490139",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "491711",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "FIRSTRAND BANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "492213",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "492303",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "492305",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "492311",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "492312",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NEDBANK, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "492911",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "ZA"
+      ]
+    },
+    {
+      "bin": "493805",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ABSA GROUP, LTD.",
+      "countries": [
+        "ZA"
+      ]
+    }
+  ]
+}

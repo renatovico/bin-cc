@@ -1,0 +1,1027 @@
+{
+  "bins": [
+    {
+      "bin": "510009",
+      "issuer": "EUROPAY (SWITZERLAND), S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "510011",
+      "issuer": "EUROPAY (SWITZERLAND), S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "510021",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDIT SUISSE",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "510022",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDIT SUISSE",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "510023",
+      "issuer": "EUROPAY (SWITZERLAND), S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "510032",
+      "issuer": "EUROPAY",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "510042",
+      "issuer": "EUROPAY",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "510044",
+      "issuer": "EUROPAY",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "510058",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDIT SUISSE",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "510101",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "510103",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "510127",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "510164",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "510169",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "510178",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "510189",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "510192",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "510197",
+      "type": "CREDIT",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "510198",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "510199",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "510200",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "510203",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "510204",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "510207",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "511688",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "513659",
+      "type": "CREDIT",
+      "issuer": "GE MONEY BANK AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "517732",
+      "issuer": "CREDIT SUISSE",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "517743",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CREDIT SUISSE",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "521167",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "521841",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "521842",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "522077",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "522882",
+      "type": "CREDIT",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "523486",
+      "type": "CREDIT",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "523490",
+      "type": "CREDIT",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "523494",
+      "type": "CREDIT",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "523498",
+      "type": "CREDIT",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "523514",
+      "category": "STANDARD",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "525816",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "526750",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "526808",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "529566",
+      "type": "CREDIT",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "529946",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "529947",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "530517",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "530772",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "SWISS BANKERS PREPAID SERVICES AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "530804",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DIE SCHWEIZERISCHE POST",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "530826",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DIE SCHWEIZERISCHE POST",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "531548",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "531549",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "533292",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "533864",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "539831",
+      "type": "CREDIT",
+      "issuer": "ACCARDA, LTD.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "539973",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "539976",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "539977",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "540089",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDIT SUISSE",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "540107",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDIT SUISSE",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "540108",
+      "issuer": "CREDIT SUISSE",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "540109",
+      "issuer": "CREDIT SUISSE",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "540114",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDIT SUISSE",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "540148",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDIT SUISSE",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "540443",
+      "issuer": "EUROPAY (SWITZERLAND), S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "540444",
+      "type": "CREDIT",
+      "issuer": "CREDIT SUISSE",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "540445",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "CREDIT SUISSE",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "540446",
+      "type": "CREDIT",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "540448",
+      "type": "CREDIT",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "540449",
+      "issuer": "EUROPAY (SWITZERLAND), S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "540490",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDIT SUISSE",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "540659",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "540752",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "540780",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDIT SUISSE",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "540948",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "540950",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "541245",
+      "type": "CREDIT",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "541257",
+      "type": "CREDIT",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "541472",
+      "type": "CREDIT",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "542809",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "SWISS BANKERS PREPAID SERVICES AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "543151",
+      "issuer": "TELEKURS MULTIPAY AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "544677",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "544694",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "545109",
+      "issuer": "EUROPAY (SWITZERLAND), S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "545165",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "545166",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "545167",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "546887",
+      "type": "CREDIT",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "547034",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "547426",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "547427",
+      "issuer": "EUROPAY (SWITZERLAND), S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "547428",
+      "issuer": "EUROPAY (SWITZERLAND), S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "547823",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CREDIT SUISSE",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "547869",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "547988",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "547989",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "547990",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "547991",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "548659",
+      "type": "CREDIT",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "548719",
+      "type": "CREDIT",
+      "issuer": "DIE SCHWEIZERISCHE POST",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "549021",
+      "issuer": "EUROPAY (SWITZERLAND), S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "549160",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "549863",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "549894",
+      "type": "CREDIT",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "550018",
+      "type": "CREDIT",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "550020",
+      "type": "CREDIT",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "550021",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "550022",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "550026",
+      "type": "CREDIT",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "550137",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "550138",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "550139",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "550140",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "550141",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "553404",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "LUFTHANSA AIRPLUS SERVICEKARTEN GMBH",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "554371",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "554839",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "554983",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "554984",
+      "issuer": "EUROPAY (SWITZERLAND), S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "554985",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "554986",
+      "type": "CREDIT",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "558085",
+      "issuer": "EUROPAY (SWITZERLAND), S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "558265",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CREDIT SUISSE",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "558266",
+      "issuer": "CREDIT SUISSE",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "558484",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CREDIT SUISSE",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "558609",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "558610",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "558611",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "558612",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "558613",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "558614",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "558782",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    }
+  ]
+}

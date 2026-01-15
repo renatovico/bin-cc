@@ -1,0 +1,49 @@
+{
+  "bins": [
+    {
+      "bin": "500745",
+      "type": "DEBIT",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "589292",
+      "type": "DEBIT",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "676100",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "676121",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "676125",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "677262",
+      "type": "DEBIT",
+      "countries": [
+        "NO"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "bins": [
+    {
+      "bin": "521868",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UBS (MONACO), S.A.",
+      "countries": [
+        "MC"
+      ]
+    },
+    {
+      "bin": "524740",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UBS (MONACO), S.A.",
+      "countries": [
+        "MC"
+      ]
+    }
+  ]
+}

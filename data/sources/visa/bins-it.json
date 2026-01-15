@@ -1,0 +1,4403 @@
+{
+  "bins": [
+    {
+      "bin": "400221",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "400311",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "400312",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CASSA DI RISPARMIO DI CIVITAVECCHIA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "400313",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CASSA DI RISPARMIO DI ORVIETO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "400314",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "400315",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "400316",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA CARIGE S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "400317",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CASSA DI RISPARMIO DI SAN MINIATO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "400318",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDITO EMILIANO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "400319",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "400320",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "400321",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CASSA DI RISPARMIO DI PISTOIA E PESCIA",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "400322",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CASSA DI RISPARMIO DI CIVITAVECCHIA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "400323",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CASSA DI RISPARMIO DI ORVIETO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "400324",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "400325",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA DI SASSARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "400326",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "400327",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNICREDITO ITALIANO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "400328",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNICREDITO ITALIANO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "400329",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA NAZIONALE DEL LAVORO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "400330",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA CARIGE S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "400331",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "400332",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SANPAOLO IMI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "400333",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SANPAOLO IMI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "400334",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SANPAOLO IMI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "400335",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SANPAOLO IMI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "401191",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINCONSUMO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "401805",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "401810",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "401820",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "401831",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA DI SASSARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "401832",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "401875",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "COMPASS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "402041",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "402042",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "402043",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "402044",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "402169",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "402170",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "402186",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "402222",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "402268",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DI SARDEGNA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "402274",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA INTESA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "402290",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "402360",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "POSTE ITALIANE S.P.A. (BANCO POSTA)",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "402361",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "POSTE ITALIANE S.P.A. (BANCO POSTA)",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "402425",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "402426",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "402427",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "402428",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "402547",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "402574",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "403003",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINECOBANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "403025",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "403026",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SANPAOLO IMI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "403027",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "403028",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA AGRICOLA MANTOVANA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "403029",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "403030",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA CARIGE S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "403031",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "403032",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "403033",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "403035",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "POSTE ITALIANE S.P.A. (BANCO POSTA)",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "403084",
+      "issuer": "CITIBANK",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "403088",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINECOBANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "403089",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "403328",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "403549",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "403593",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA ANTONIANA POPOLARE VENETA",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "403826",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "404101",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "404130",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "404131",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "404251",
+      "issuer": "ICBPI - ISTITUTO CENTRALE DELLE BANCHE POPOLARI ITALIANE",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "404600",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FINCONSUMO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "404800",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA POPOLARE DI MILANO S.C.A.R.L.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "404817",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA POPOLARE DELLEMILIA ROMAGNA S.C.R.L.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "405601",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "405656",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "405785",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "406109",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "406110",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "406111",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "406207",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INTESABCI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "406261",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "406277",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "406278",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "406279",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "406314",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "406390",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "406710",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CONSEL S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "407464",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCA DI SASSARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "408089",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "408200",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA POPOLARE DI MILANO S.C.A.R.L.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "408443",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "KEY CLIENT CARDS AND SOLUTIONS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "408444",
+      "type": "DEBIT",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "408700",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "408970",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "409100",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNION SAFE DEPOSIT BANK",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "409442",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDITIS SERVIZI FINANZIARI S.P.A",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "409633",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDITO EMILIANO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "409644",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AGOS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "409925",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "409926",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "409927",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "409928",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "409929",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "409930",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "409931",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "409932",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "409933",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "409934",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "409964",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "409965",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "409977",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "410089",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LINEA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "410650",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIDITALIA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "410666",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ICCREA BANCA S.P.A. - ISTITUTO CENTRALE DEL CREDITO COOPERAT",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "410823",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "B@NCA 24-7 S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "411652",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA DI SASSARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "411786",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA DI SASSARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "411787",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA DI SASSARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "411788",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCA DI SASSARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "411789",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA DI SASSARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "411883",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA SELLA HOLDING S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "412553",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "B@NCA 24-7 S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "412554",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "B@NCA 24-7 S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "413280",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LINEA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "413397",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "413428",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMPASS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "413443",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "413463",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "413560",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "413561",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "413562",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "413563",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "413564",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "413565",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "413566",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "413567",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "413568",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "413569",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "415023",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA MEDIOLANUM S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "415033",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA SELLA HOLDING S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "415181",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDITO BERGAMASCO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "415183",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA MEDIOLANUM S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "415184",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA CARIGE S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "415185",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDITO EMILIANO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "415462",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "415489",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO POPOLARE DI VERONA E NOVARA",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "416027",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "416028",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "416029",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "416635",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "416636",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "416637",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "417257",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "417258",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINECOBANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "417259",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINECOBANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "417357",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA DI SASSARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "417489",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BIPITALIA DUCATO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "417631",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "POSTE ITALIANE S.P.A. (BANCO POSTA)",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "417654",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "417783",
+      "type": "CREDIT",
+      "category": "ELECTRON",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "417789",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AGOS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "418664",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "418841",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA DI SASSARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "418850",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BIPITALIA DUCATO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "418851",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BIPITALIA DUCATO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "418874",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA DI SASSARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "419037",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "419038",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "419039",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "419040",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "419345",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CONSUM.IT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "419346",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "419347",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CONSUM.IT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "419348",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "419704",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ING DIRECT, N.V.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "419858",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNIPOL BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "419859",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNIPOL BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "419860",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNIPOL BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "420208",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "420900",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "420901",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "420902",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "420967",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "422309",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDITO EMILIANO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "422351",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CONSEL S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "423121",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "423128",
+      "issuer": "POSTE ITALIANE S.P.A. (BANCO POSTA)",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "423248",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "423312",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "KEY CLIENT CARDS AND SOLUTIONS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "423353",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK INTERNATIONAL PLC",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "424328",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "425711",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "425733",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCA SELLA HOLDING S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "426006",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "426007",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "426008",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "426009",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "426389",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "427283",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FINECOBANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "427324",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA SELLA HOLDING S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "427341",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "427376",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "427380",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "428988",
+      "issuer": "BANCA NAZIONALE DEL LAVORO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "428994",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ICCREA BANCA S.P.A. - ISTITUTO CENTRALE DEL CREDITO COOPERAT",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "428999",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ICCREA BANCA S.P.A. - ISTITUTO CENTRALE DEL CREDITO COOPERAT",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "429013",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "FINECOBANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "429073",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FINECOBANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "429441",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA SELLA HOLDING S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "429525",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BIPITALIA DUCATO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "429526",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KEY CLIENT CARDS AND SOLUTIONS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "429563",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SETEFI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "430102",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KEY CLIENT CARDS AND SOLUTIONS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "430151",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AGOS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "430152",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AGOS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "430159",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "430413",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "430510",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SETEFI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "430596",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "430597",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CITIBANK",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "431261",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "IW BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "431262",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "IW BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "431486",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "431487",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "431488",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "431489",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "431771",
+      "issuer": "BANCA SELLA HOLDING S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "431887",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "432046",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDITO EMILIANO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "432047",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDITO EMILIANO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "432451",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA POPOLARE DI MILANO S.C.A.R.L.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "432452",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA POPOLARE DI MILANO S.C.A.R.L.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "432453",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCA POPOLARE DI MILANO S.C.A.R.L.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "432454",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA POPOLARE DI MILANO S.C.A.R.L.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "432455",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCA POPOLARE DI MILANO S.C.A.R.L.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "432456",
+      "type": "DEBIT",
+      "category": "CORPORATE T",
+      "issuer": "BANCA POPOLARE DI MILANO S.C.A.R.L.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "432610",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA DI SASSARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "432917",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "432918",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "432919",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "432920",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "432930",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "432931",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "432932",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "432933",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "432983",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BIPITALIA DUCATO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "432984",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BIPITALIA DUCATO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "433974",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "433975",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "433976",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "433977",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "434322",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "434494",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "434495",
+      "issuer": "SETEFI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "434497",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "434498",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "434994",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "437863",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "438152",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "438153",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT CLARIMA BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "438284",
+      "type": "DEBIT",
+      "category": "PLUS",
+      "issuer": "BANCA INTESA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "440769",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "440797",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "442720",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "446256",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CONSEL S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "448386",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITICORP",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "448436",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "448437",
+      "category": "PURCHASING",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "448438",
+      "category": "PURCHASING",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "448439",
+      "category": "PURCHASING",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "451184",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SETEFI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "453220",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "453221",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "453222",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "453223",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "453997",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "453998",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "453999",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "454727",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "454746",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNIPOL BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "455071",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNIPOL BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "455072",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNIPOL BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "455561",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "455574",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "455776",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "455777",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "456335",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "456364",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "456542",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ICCREA BANCA S.P.A. - ISTITUTO CENTRALE DEL CREDITO COOPERAT",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "456805",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "456806",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "456807",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "456808",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "457662",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "459025",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "459422",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "459465",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA SELLA HOLDING S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "459489",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "459807",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "459812",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "459819",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "459822",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "459825",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "459831",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "460334",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FINCONSUMO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "462277",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "464414",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "464415",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "464971",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA ANTONVENETA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "465549",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA SELLA HOLDING S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "466230",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "466231",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "466232",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "466233",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "466234",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "466235",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "466276",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "468501",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINECOBANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "468530",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINECOBANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "472675",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "473113",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "473116",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "474177",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "B@NCA 24-7 S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "474178",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "B@NCA 24-7 S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "474179",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA POPOLARE COMMERCIO E INDUSTRIA",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "474180",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "B@NCA 24-7 S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "474181",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "B@NCA 24-7 S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "474227",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDITO EMILIANO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "476615",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SETEFI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "477571",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA SELLA HOLDING S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "477572",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA SELLA HOLDING S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "477900",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCA SELLA HOLDING S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "477950",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "477985",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA CARIGE S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "482463",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "482498",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "483008",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "483051",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA ANTONVENETA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "483054",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "483063",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "485767",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "FINECOBANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "485781",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "FINECOBANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "485802",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CREDITO EMILIANO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "486339",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "486340",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "486379",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "486420",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "B@NCA 24-7 S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "486470",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "ICCREA BANCA S.P.A. - ISTITUTO CENTRALE DEL CREDITO COOPERAT",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "486471",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "ICCREA - ISTITUTO CENTRALE DELLE BANCHE DI CREDITO COOPERATIVO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "486474",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCA NAZIONALE DEL LAVORO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "487700",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "BANCA CARIGE S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "487701",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "487702",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "BANCA DI SASSARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "487703",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "487704",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "487705",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "487706",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "FINECOBANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "487707",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "CASSA DI RISPARMIO DI SAN MINIATO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "487708",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "487709",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "487710",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "ING DIRECT, N.V.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "487711",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "487712",
+      "type": "DEBIT",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "487713",
+      "type": "DEBIT",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "487714",
+      "type": "DEBIT",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "487715",
+      "type": "DEBIT",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "487716",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "487718",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "BANCA ANTONVENETA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "487719",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "487721",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "487722",
+      "type": "DEBIT",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "487723",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "BANCA CARIGE S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "487724",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "489066",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "489447",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNIPOL BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "489448",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "489449",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "489452",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "489460",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "489461",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "489462",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "489463",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "489464",
+      "type": "DEBIT",
+      "category": "PREPAID - ELECTRON",
+      "issuer": "BANCA CARIGE S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "489972",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "490822",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "490824",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "490825",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "491688",
+      "issuer": "SOCIETA PER I SERVIZI BANCARI S.P.A. (SSB)",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "491691",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "491692",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "491693",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "491694",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "491780",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "492295",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "492296",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "492297",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "492298",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493404",
+      "issuer": "EUFISERV",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493500",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493501",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493502",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493503",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493504",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493505",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493506",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493507",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493508",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493509",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493510",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493511",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493512",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493513",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493514",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493515",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493516",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493517",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493518",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493519",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493520",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493521",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493522",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493523",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493524",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493525",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493526",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493527",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493528",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493529",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493530",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493531",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493532",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493533",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493534",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493535",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493536",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493537",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493538",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493539",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493540",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493541",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493542",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493543",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493544",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493545",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493546",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493547",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493548",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493549",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493550",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493551",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493552",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493553",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493554",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493555",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493556",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493557",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493558",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493559",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493560",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493561",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493562",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493563",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493564",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493565",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493566",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493567",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493568",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493569",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493570",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493571",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493572",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493573",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493574",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493575",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493576",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493577",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493578",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493579",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493580",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493581",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493582",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493583",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493584",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493585",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493586",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493587",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493588",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493589",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493590",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493591",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493592",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493593",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493594",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493595",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493596",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493597",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493598",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "493599",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "494330",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SETEFI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "494331",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SETEFI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "499803",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA SELLA HOLDING S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "499807",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA DI SASSARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "499813",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "IT"
+      ]
+    }
+  ]
+}

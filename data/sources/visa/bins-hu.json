@@ -1,0 +1,1325 @@
+{
+  "bins": [
+    {
+      "bin": "402110",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "MKB BANK ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "402111",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "MKB BANK ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "403503",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "SANWA BANK CALIFORNIA",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "403560",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "403561",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ALLIANZ BANK ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "403837",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "K AND H BANK ZRT. (KERESKEDELMI ES HITELBANK ZARTKOERUEEN MUEKOE",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "406210",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OTP BANK NYRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "406342",
+      "issuer": "CITIBANK RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "408076",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HUNGARIAN VOLKSBANK, LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "409360",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BUDAPEST BANK, LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "410067",
+      "issuer": "OTP BANK RT (NATIONAL SAVINGS AND COMMERCIAL BANK LTD.)",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "413032",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITIBANK RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "413130",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "414099",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BUDAPEST BANK, LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "414292",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "OTP BANK NYRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "414610",
+      "issuer": "BUDAPEST BANK, LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "415484",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "K BANK RT. (KERESKEDELMI ES HITELBANK RT)",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "416098",
+      "issuer": "INTER-EUROPA BANK RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "417006",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VOLKSBANK HUNGARY PRIVATE, LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "418834",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CIB BANK ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "419677",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "419678",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "420579",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "K AND H BANK ZRT. (KERESKEDELMI ES HITELBANK ZARTKOERUEEN MUEKOE",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "420963",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AXA BANK EUROPE, S.A.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "421597",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ERSTE BANK HUNGARY ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "422861",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ING BANK RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "423759",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AXA BANK EUROPE, S.A.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "424441",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIGEN BANK RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "425659",
+      "issuer": "MKB BANK RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "425726",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "CITIBANK RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "426122",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALLIANZ BANK ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "426123",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ALLIANZ BANK ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "426124",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ALLIANZ BANK ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "426274",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VOLKSBANK HUNGARY PRIVATE, LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "427351",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ERSTE BANK HUNGARY ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "427710",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "KDB BANK (HUNGARY), LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "427711",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "AE BANK RT. (GENERAL BANKING AND TRUST LTD)",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "427720",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "KONZUMBANK KERESKEDELMI BANK RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "427762",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISEN BANK ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "428302",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VOLKSBANK HUNGARY PRIVATE, LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "428312",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "428753",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "MKB BANK RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "428942",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ERSTE BANK HUNGARY ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "428993",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "VOLKSBANK HUNGARY PRIVATE, LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "430879",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DEL-DUNANTULI REGIONALIS BANK ZARTKOERUEN MUKOEDO RESZVENYTA",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "431737",
+      "issuer": "ERSTE BANK HUNGARY RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "432084",
+      "issuer": "INTER-EUROPA BANK RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "432085",
+      "issuer": "INTER-EUROPA BANK RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "432528",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNICREDIT BANK HUNGARY ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "432529",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CITIBANK RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "432530",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CITIBANK RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "433311",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISEN BANK ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "433312",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "RAIFFEISEN BANK ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "433313",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "RAIFFEISEN BANK ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "433340",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "433374",
+      "issuer": "INTER-EUROPA BANK RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "433947",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "VOLKSBANK HUNGARY PRIVATE, LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "433978",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HUNGARIAN VOLKSBANK, LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "435230",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MKB BANK ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "438979",
+      "issuer": "HVB BANK HUNGARY RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "440220",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "KDB BANK (HUNGARY), LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "440221",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "KDB BANK (HUNGARY), LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "440222",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "KDB BANK (HUNGARY), LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "440223",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KDB BANK (HUNGARY), LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "440234",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AE BANK RT. (GENERAL BANKING AND TRUST LTD)",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "440235",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AE BANK RT. (GENERAL BANKING AND TRUST LTD)",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "440236",
+      "issuer": "ING BANK RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "440327",
+      "issuer": "ERSTE BANK HUNGARY RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "440531",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ING BANK RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "440542",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ERSTE BANK HUNGARY RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "440549",
+      "issuer": "KDB BANK (HUNGARY), LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "440551",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "KONZUMBANK KERESKEDELMI BANK RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "440552",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KONZUMBANK KERESKEDELMI BANK RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "440554",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "K AND H BANK ZRT. (KERESKEDELMI ES HITELBANK ZARTKOERUEEN MUEKOE",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "440580",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "K AND H BANK ZRT. (KERESKEDELMI ES HITELBANK ZARTKOERUEEN MUEKOE",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "440601",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OTP BANK NYRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "440602",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "K AND H BANK ZRT. (KERESKEDELMI ES HITELBANK ZARTKOERUEEN MUEKOE",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "440618",
+      "issuer": "MAGYAR KULKERESKEDELMI BANK RT. (HUNGARIAN FOREIGN TRADE BANK)",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "445964",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MKB BANK ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "447631",
+      "issuer": "BANK AUSTRIA CREDITANSTALT HUNGARY RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "447632",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT BANK HUNGARY ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "447875",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VOLKSBANK HUNGARY PRIVATE, LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "447876",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "VOLKSBANK HUNGARY PRIVATE, LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "448310",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VOLKSBANK HUNGARY PRIVATE, LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "448311",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DUNAKANYAR SAVINGS CO-OPERATIVE",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "451128",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "K AND H BANK ZRT. (KERESKEDELMI ES HITELBANK ZARTKOERUEEN MUEKOEDOE RESZVENYTARSASAG",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "451168",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "K AND H BANK ZRT. (KERESKEDELMI ES HITELBANK ZARTKOERUEEN MUEKOE",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "451180",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ERSTE BANK HUNGARY RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "455022",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "K BANK RT. (KERESKEDELMI ES HITELBANK RT)",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "455026",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "K BANK RT. (KERESKEDELMI ES HITELBANK RT)",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "455052",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "K AND H BANK ZRT. (KERESKEDELMI ES HITELBANK ZARTKOERUEEN MUEKOE",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "455356",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "MKB BANK ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "455602",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "MKB BANK ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "455648",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "MKB BANK ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "457253",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "457988",
+      "issuer": "MAGYAR KULKERESKEDELMI BANK RT. (HUNGARIAN FOREIGN TRADE BANK)",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "459303",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "459339",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "459540",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SZECHENYI KERESKEDELMI BANK ZRT",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "459541",
+      "type": "DEBIT",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "459542",
+      "type": "DEBIT",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "459543",
+      "type": "DEBIT",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "462496",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "462497",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "462498",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "462499",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "464498",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "K AND H BANK ZRT. (KERESKEDELMI ES HITELBANK ZARTKOERUEEN MUEKOE",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "465957",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AE BANK RT. (GENERAL BANKING AND TRUST LTD)",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "465958",
+      "issuer": "AE BANK RT. (GENERAL BANKING AND TRUST LTD)",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "465959",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AE BANK RT. (GENERAL BANKING AND TRUST LTD)",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "465960",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "AE BANK RT. (GENERAL BANKING AND TRUST LTD)",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "467145",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VOLKSBANK HUNGARY PRIVATE, LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "467146",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "VOLKSBANK HUNGARY PRIVATE, LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "469813",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "469814",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "469815",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "472818",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VOLKSBANK HUNGARY PRIVATE, LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "477207",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "477208",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "477589",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "MKB BANK ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "477933",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CIB BANK ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "477934",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CIB BANK ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "477935",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CIB BANK ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "478708",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VOLKSBANK HUNGARY PRIVATE, LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "478709",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FUZESABONY ES VIDEKE SAVINGS CO-OPERATIVE",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "478710",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NAGYKATA ES VIDEKE SAVINGS CO-OPERATIVE",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "478711",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DEL-DUNANTULI REGIONALIS BANK ZARTKOERUEN MUKOEDO RESZVENYTA",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "478712",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VOLKSBANK HUNGARY PRIVATE, LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "478713",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SZEGVAR ES VIDEKE SAVINGS CO-OPERATIVE",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "478714",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TISZAFOLDVAR ES VIDEKE SAVINGS CO-OPERATIVE",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "478715",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VOLKSBANK HUNGARY PRIVATE, LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "478716",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VOLKSBANK HUNGARY PRIVATE, LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "478717",
+      "issuer": "HUNGARIAN VOLKSBANK, LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "478736",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ERSTE BANK HUNGARY ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "478737",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ERSTE BANK HUNGARY RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "478738",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ERSTE BANK HUNGARY ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "478748",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VOLKSBANK HUNGARY PRIVATE, LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "478774",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VOLKSBANK HUNGARY PRIVATE, LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "478780",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VOLKSBANK HUNGARY PRIVATE, LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "479079",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CIB BANK ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "479097",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "K AND H BANK ZRT. (KERESKEDELMI ES HITELBANK ZARTKOERUEEN MUEKOE",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "480248",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT BANK HUNGARY ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "480249",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT BANK HUNGARY ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "487030",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ERSTE BANK HUNGARY ZRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "487414",
+      "issuer": "CIB BANK RT. (CIB KOZEP-EUROPAI NEMZETKOZI BANK RT.)",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "487484",
+      "issuer": "POST BANK AND SAVINGS BANK CORPORATION (POSTABANK RT.)",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "490826",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "MAGYAR KULKERESKEDELMI BANK RT. (HUNGARIAN FOREIGN TRADE BANK)",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "490827",
+      "issuer": "ABN AMRO (MAGYAR) BANK RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "490828",
+      "issuer": "ABN AMRO (MAGYAR) BANK RT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "490836",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OTP BANK NYRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "490982",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OTP BANK NYRT.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "491762",
+      "issuer": "BUDAPEST BANK, LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "491763",
+      "issuer": "BUDAPEST BANK, LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "491764",
+      "issuer": "BUDAPEST BANK, LTD.",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "494048",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "POST BANK AND SAVINGS BANK CORPORATION (POSTABANK RT.)",
+      "countries": [
+        "HU"
+      ]
+    },
+    {
+      "bin": "494049",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "POST BANK AND SAVINGS BANK CORPORATION (POSTABANK RT.)",
+      "countries": [
+        "HU"
+      ]
+    }
+  ]
+}

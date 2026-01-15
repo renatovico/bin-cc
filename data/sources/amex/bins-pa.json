@@ -1,0 +1,39 @@
+{
+  "bins": [
+    {
+      "bin": "370240",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BAC INTERNATIONAL BANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "370241",
+      "type": "CREDIT",
+      "category": "DORADA",
+      "issuer": "BAC INTERNATIONAL BANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "370242",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BAC INTERNATIONAL BANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "372650",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "PA"
+      ]
+    }
+  ]
+}

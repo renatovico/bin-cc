@@ -1,0 +1,43 @@
+{
+  "bins": [
+    {
+      "bin": "431491",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "CK"
+      ]
+    },
+    {
+      "bin": "438223",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "CK"
+      ]
+    },
+    {
+      "bin": "464082",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "CK"
+      ]
+    },
+    {
+      "bin": "469527",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "CK"
+      ]
+    },
+    {
+      "bin": "476051",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "CK"
+      ]
+    }
+  ]
+}

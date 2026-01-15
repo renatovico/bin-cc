@@ -1,0 +1,156 @@
+{
+  "bins": [
+    {
+      "bin": "400273",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF PALESTINE PLC",
+      "countries": [
+        "PS"
+      ]
+    },
+    {
+      "bin": "416953",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF JORDAN",
+      "countries": [
+        "PS"
+      ]
+    },
+    {
+      "bin": "424434",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF JORDAN",
+      "countries": [
+        "PS"
+      ]
+    },
+    {
+      "bin": "424435",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF JORDAN",
+      "countries": [
+        "PS"
+      ]
+    },
+    {
+      "bin": "431376",
+      "issuer": "BANK OF JORDAN",
+      "countries": [
+        "PS"
+      ]
+    },
+    {
+      "bin": "432506",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "PS"
+      ]
+    },
+    {
+      "bin": "432509",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PS"
+      ]
+    },
+    {
+      "bin": "432584",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "PS"
+      ]
+    },
+    {
+      "bin": "432598",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "PS"
+      ]
+    },
+    {
+      "bin": "432599",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "PS"
+      ]
+    },
+    {
+      "bin": "447513",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "PS"
+      ]
+    },
+    {
+      "bin": "458589",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "PS"
+      ]
+    },
+    {
+      "bin": "458590",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "PS"
+      ]
+    },
+    {
+      "bin": "465976",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF PALESTINE PLC",
+      "countries": [
+        "PS"
+      ]
+    },
+    {
+      "bin": "465977",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF PALESTINE PLC",
+      "countries": [
+        "PS"
+      ]
+    },
+    {
+      "bin": "474715",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "PS"
+      ]
+    },
+    {
+      "bin": "478771",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PS"
+      ]
+    },
+    {
+      "bin": "484167",
+      "type": "DEBIT",
+      "countries": [
+        "PS"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "bins": [
+    {
+      "bin": "518815",
+      "type": "CREDIT",
+      "issuer": "BANK OF MALDIVES (PLC), LTD.",
+      "countries": [
+        "MV"
+      ]
+    },
+    {
+      "bin": "518837",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF MALDIVES (PLC), LTD.",
+      "countries": [
+        "MV"
+      ]
+    },
+    {
+      "bin": "552223",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF MALDIVES (PLC), LTD.",
+      "countries": [
+        "MV"
+      ]
+    }
+  ]
+}

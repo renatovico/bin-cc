@@ -1,0 +1,1964 @@
+{
+  "bins": [
+    {
+      "bin": "400810",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "LIBRA BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "400836",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MKB ROMEXTERRA BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "402117",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "MKB ROMEXTERRA BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "402159",
+      "issuer": "BANCA ROMANA DE COMERT EXTERIOR, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "402388",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISEN BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "402389",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISEN BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "402586",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "403312",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "404081",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "404082",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "404309",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "404310",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "404311",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "404312",
+      "issuer": "FINANSBANK (ROMANIA), S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "405223",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISEN BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "405224",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISEN BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "406371",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "406424",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCA TRANSILVANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "407570",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANC POST, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "408418",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "408419",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "409746",
+      "issuer": "ING BANK, N.V.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "409805",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "410342",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "410343",
+      "type": "DEBIT",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "410539",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "MKB ROMEXTERRA BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "410540",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MKB ROMEXTERRA BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "410541",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "MKB ROMEXTERRA BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "410542",
+      "issuer": "ROMEXTERRA BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "410925",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT TIRIAC BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "411428",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "411429",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "411680",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "411681",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "UNICREDIT ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "411682",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNICREDIT ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "411683",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT TIRIAC BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "411684",
+      "issuer": "UNICREDIT ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "411947",
+      "issuer": "BANC POST, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "411967",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA ITALO ROMENA SPA ITALIA TREVISO SUCURSALA BUCURESTI",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "411968",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCA ITALO ROMENA SPA ITALIA TREVISO SUCURSALA BUCURESTI",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "411969",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA ITALO ROMENA SPA ITALIA TREVISO SUCURSALA BUCURESTI",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "411970",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA ITALO ROMENA SPA ITALIA TREVISO SUCURSALA BUCURESTI",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "411971",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA ITALO ROMENA SPA ITALIA TREVISO SUCURSALA BUCURESTI",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "411972",
+      "issuer": "BANCA ITALO ROMENA SPA, ROMA BUCHAREST BRANCH",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "411986",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "411987",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "411988",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "412583",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "412727",
+      "issuer": "BANCA COMERCIALA HVB TIRIAC, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "412919",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "413005",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "414048",
+      "issuer": "BANCA TRANSILVANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "414049",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA TRANSILVANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "414309",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "415034",
+      "issuer": "PIRAEUS BANK ROMANIA",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "416735",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "416736",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "416737",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "416738",
+      "issuer": "BANCA C.R. FIRENZE ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "417213",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EMPORIKI BANK - ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "417214",
+      "issuer": "EMPORIKI BANK - ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "417408",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PIRAEUS BANK ROMANIA",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "417409",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PIRAEUS BANK ROMANIA",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "417950",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RBS BANK (ROMANIA), S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "417951",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "RBS BANK (ROMANIA), S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "418325",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "LIBRA BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "418326",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "LIBRA BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "419269",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISEN BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "419650",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "419651",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "419801",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LIBRA BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "419802",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "LIBRA BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "419803",
+      "issuer": "LIBRA BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "419995",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VOLKSBANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "419996",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "419997",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VOLKSBANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "419998",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "VOLKSBANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "420957",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA ROMANEASCA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "420958",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCA ROMANEASCA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "420959",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA ROMANEASCA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "420960",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA ROMANEASCA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "421143",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "421144",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "421145",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "421773",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANC POST, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "422606",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CREDIT EUROPE BANK (ROMANIA), S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "423177",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA TRANSILVANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "423230",
+      "issuer": "BANCA ROMANEASCA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "423231",
+      "issuer": "VOLKSBANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "424319",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANC POST, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "424320",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANC POST, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "424321",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANC POST, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "424382",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CEC BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "424383",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CEC BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "424404",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BRD - GROUPE SOCIETE GENERALE, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "424453",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA TRANSILVANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "424502",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "424503",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "424504",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "424505",
+      "issuer": "PROCREDIT BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "424535",
+      "issuer": "CASA DE ECONOMII SI CONSEMNATIUNI S.A. (CEC -ROMANIAN SAVINGS BANK)",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "424732",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "RAIFFEISEN BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "425601",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ING BANK, N.V.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "425602",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "ING BANK, N.V.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "425603",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ING BANK, N.V.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "425604",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ING BANK, N.V.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "425605",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ING BANK, N.V.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "425606",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ING BANK, N.V.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "425610",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "426147",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "426148",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "426235",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA TRANSILVANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "426700",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PIRAEUS BANK ROMANIA",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "426734",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PIRAEUS BANK ROMANIA",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "426735",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PIRAEUS BANK ROMANIA",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "427216",
+      "issuer": "ING BANK, N.V.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "427249",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "427398",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BRD - GROUPE SOCIETE GENERALE, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "427735",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISEN BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "427829",
+      "issuer": "BRD - GROUPE SOCIETE GENERALE, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "427845",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "427846",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "427847",
+      "issuer": "BANCA COMERCIALA CARPATICA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "428256",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "428282",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "429779",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "OTP BANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "429780",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "OTP BANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "429781",
+      "issuer": "OTP BANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "429930",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PIRAEUS BANK ROMANIA",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "430219",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OTP BANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "431251",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "431378",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ALPHA BANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "432254",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ING BANK, N.V.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "432255",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ING BANK, N.V.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "433440",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA ROMANEASCA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "434902",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OTP BANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "434903",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "OTP BANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "434950",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANC POST, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "438134",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PIRAEUS BANK ROMANIA",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "438955",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISEN BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "440135",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNICREDIT TIRIAC BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "440660",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANC POST, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "440661",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANC POST, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "441048",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ALPHA BANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "444588",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "444816",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK LEUMI ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "444817",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK LEUMI ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "444818",
+      "type": "DEBIT",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "444819",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK LEUMI ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "446160",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA MILLENNIUM, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "446161",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCA MILLENNIUM, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "446162",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA MILLENNIUM, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "446164",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA MILLENNIUM, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "446165",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA MILLENNIUM, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "446295",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT TIRIAC BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "446296",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "UNICREDIT TIRIAC BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "446297",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA COMERCIALA HVB TIRIAC, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "446298",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT TIRIAC BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "446299",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT TIRIAC BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "446450",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "446451",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "446452",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "446453",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "446454",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "446455",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "446456",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "446457",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "447810",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "447811",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "447812",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "447813",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "447814",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "449318",
+      "issuer": "NICU DINU'S BANK",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "449335",
+      "issuer": "NICU DINU'S BANK",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "449336",
+      "issuer": "NICU DINU'S BANK",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "449337",
+      "issuer": "NICU DINU'S BANK",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "449344",
+      "issuer": "NICU DINU'S BANK",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "449345",
+      "issuer": "NICU DINU'S BANK",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "449346",
+      "issuer": "NICU DINU'S BANK",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "449359",
+      "issuer": "NICU DINU'S BANK",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "449384",
+      "issuer": "NICU DINU'S BANK",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "449385",
+      "issuer": "NICU DINU'S BANK",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "449386",
+      "issuer": "NICU DINU'S BANK",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "449390",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "449391",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "450053",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "450054",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "455753",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRD - GROUPE SOCIETE GENERALE, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "456400",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BRD - GROUPE SOCIETE GENERALE, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "457985",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA COMERCIALA HVB TIRIAC, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "457990",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISEN BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "459527",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "PIRAEUS BANK ROMANIA",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "459528",
+      "type": "DEBIT",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "459529",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PIRAEUS BANK ROMANIA",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "459809",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "465543",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "465544",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CITIBANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "465545",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "466286",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "466287",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "467093",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALPHA BANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "467094",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ALPHA BANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "467095",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ALPHA BANK ROMANIA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "468918",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "469297",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "469298",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "469739",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "469740",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "469741",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "469742",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "473031",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "issuer": "ING BANK, N.V.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "474573",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRD - GROUPE SOCIETE GENERALE, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "476140",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "476141",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "476652",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BRD - GROUPE SOCIETE GENERALE, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "476653",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BRD - GROUPE SOCIETE GENERALE, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "477118",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "477146",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "477147",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "477196",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "477197",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "477202",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "477541",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA COMERCIALA HVB TIRIAC, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "479032",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRD - GROUPE SOCIETE GENERALE, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "479033",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BRD - GROUPE SOCIETE GENERALE, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "479034",
+      "issuer": "BRD - GROUPE SOCIETE GENERALE, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "479739",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANC POST, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "483007",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "485704",
+      "issuer": "BANCA TURCO ROMANA S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "487413",
+      "issuer": "RAIFFEISEN BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "489366",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LIBRA BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "489367",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "LIBRA BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "489368",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "LIBRA BANK, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "491210",
+      "issuer": "BANCA ROMANA DE COMERT EXTERIOR, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "493417",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA COMERCIALA ROMANA, S.A.",
+      "countries": [
+        "RO"
+      ]
+    },
+    {
+      "bin": "498552",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "RO"
+      ]
+    }
+  ]
+}

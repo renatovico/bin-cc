@@ -1,0 +1,709 @@
+{
+  "bins": [
+    {
+      "bin": "514877",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "515689",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "515830",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "517731",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "519697",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "520394",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "521119",
+      "type": "CREDIT",
+      "issuer": "BANCO SANTANDER SOCIEDAD ANONIMA",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "521889",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "522128",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "524087",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NUEVO BANCO COMERCIAL, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "524093",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NUEVO BANCO COMERCIAL, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "524885",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "525407",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "525459",
+      "type": "CREDIT",
+      "issuer": "NUEVO BANCO COMERCIAL, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "525460",
+      "issuer": "NUEVO BANCO COMERCIAL, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "525473",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NUEVO BANCO COMERCIAL, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "525486",
+      "type": "CREDIT",
+      "issuer": "NUEVO BANCO COMERCIAL, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "527602",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "529121",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "529130",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO SANTANDER SOCIEDAD ANONIMA",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "530779",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "531739",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532390",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532391",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532392",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532393",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532394",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532395",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532396",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532397",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532398",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532399",
+      "category": "STANDARD",
+      "issuer": "FIRST DATA CONO SUR, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532400",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532401",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532402",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532403",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532404",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532405",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532406",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532407",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532408",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532409",
+      "category": "STANDARD",
+      "issuer": "FIRST DATA CONO SUR, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532410",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532411",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532412",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532413",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532414",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532415",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532416",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532417",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532418",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532419",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "532978",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "534262",
+      "type": "CREDIT",
+      "issuer": "BANCO SANTANDER SOCIEDAD ANONIMA",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "534263",
+      "category": "STANDARD",
+      "issuer": "BANCO SANTANDER SOCIEDAD ANONIMA",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "536560",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "539910",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "539911",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "539912",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "539913",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "539914",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "539915",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "539916",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "539917",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "539918",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "539919",
+      "category": "STANDARD",
+      "issuer": "FIRST DATA CONO SUR, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "541753",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "541785",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "542189",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "543746",
+      "type": "CREDIT",
+      "issuer": "NUEVO BANCO COMERCIAL, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "543753",
+      "type": "CREDIT",
+      "issuer": "NUEVO BANCO COMERCIAL, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "544787",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NUEVO BANCO COMERCIAL, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "545612",
+      "type": "CREDIT",
+      "issuer": "BANCO SANTANDER SOCIEDAD ANONIMA",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "545703",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO SANTANDER SOCIEDAD ANONIMA",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "546625",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "547278",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "547295",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "547296",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "548227",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO SANTANDER SOCIEDAD ANONIMA",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "548333",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "548479",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "548726",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "548729",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "548801",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "549019",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "552161",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "552506",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO SANTANDER SOCIEDAD ANONIMA",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "553445",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "553446",
+      "category": "STANDARD",
+      "issuer": "FIRST DATA CONO SUR, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "554667",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "UY"
+      ]
+    }
+  ]
+}

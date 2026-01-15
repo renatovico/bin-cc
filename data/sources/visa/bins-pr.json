@@ -1,0 +1,2074 @@
+{
+  "bins": [
+    {
+      "bin": "401639",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "FIRSTBANK PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "403518",
+      "issuer": "METABANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "404910",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DORAL BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "405024",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "405025",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "406730",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "DORAL BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "407560",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "DORAL BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "409743",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "409747",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "RG PREMIER BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "410833",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "WESTERNBANK PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "411070",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "411190",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "411191",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "411192",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "411358",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAPITAL ONE BANK (USA), N.A.",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "411750",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "411751",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "411813",
+      "issuer": "FIRSTBANK PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "411814",
+      "issuer": "FIRSTBANK PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "411845",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DORAL BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "411847",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "411848",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "411855",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "411857",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "412986",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITICORP",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "413800",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SENECA NATIONAL BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "414765",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "414977",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "416068",
+      "issuer": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "416444",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "416445",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "418067",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "418068",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "418610",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "419910",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COOPERATIVA DE AHORRO Y CREDITO DE ARECIBO (COOPACA)",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "419911",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COOPERATIVA DE AHORRO Y CREDITO DE AGUADA",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "419912",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "419913",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "419914",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "419915",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "419916",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "419917",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "419918",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "419919",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "419920",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "419921",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COOPERATIVA DE AHORRO Y CREDITO ORIENTAL",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "419922",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "419923",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "419925",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COOPERATIVA DE AHORRO Y CREDITO SAN JOSE",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "421976",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "421977",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "421978",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "421979",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "421980",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "422946",
+      "issuer": "RG PREMIER BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "424308",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTBANK PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "425495",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SYNOVUS BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "425968",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIA CARD SERVICES PR",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "425969",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRSTBANK PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "427204",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "429630",
+      "issuer": "RG PREMIER BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "430460",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "433445",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "434609",
+      "issuer": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "434997",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DORAL BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "437305",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "438097",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "440047",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "440054",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "440064",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "440687",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "441772",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "442332",
+      "issuer": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "446532",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DORAL BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "446851",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ORIENTAL BANK AND TRUST",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "448577",
+      "category": "PURCHASING",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "448757",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "448758",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "WESTERNBANK PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "449134",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ORIENTAL BANK AND TRUST",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "449764",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "449765",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "449770",
+      "issuer": "WESTERNBANK PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450671",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450672",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450673",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450675",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "EUROBANK AND TRUST COMPANY",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450678",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIA CARD SERVICES PR",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450679",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "FIA CARD SERVICES PR",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450680",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "WESTERNBANK PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450681",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "WESTERNBANK PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450682",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450683",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450684",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450686",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450687",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450688",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450689",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450690",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450691",
+      "issuer": "FIRSTBANK PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450692",
+      "issuer": "FIRSTBANK PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450693",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EUROBANK AND TRUST COMPANY",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450694",
+      "issuer": "EUROBANK AND TRUST COMPANY",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450695",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450698",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EUROBANK AND TRUST COMPANY",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450821",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450872",
+      "issuer": "ROIG COMMERCIAL BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450884",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450931",
+      "issuer": "ROIG COMMERCIAL BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450932",
+      "issuer": "ROIG COMMERCIAL BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450940",
+      "issuer": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450963",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIA CARD SERVICES PR",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "450968",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "FIA CARD SERVICES PR",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "451255",
+      "issuer": "JPMORGAN CHASE BANK PR",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "451256",
+      "issuer": "FLEET NATIONAL BANK MERCHANT SERVICES",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "451350",
+      "issuer": "ROIG COMMERCIAL BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "451486",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "451737",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "451738",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SCOTIABANK DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "451797",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "451798",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "451802",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "453963",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "RG PREMIER BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "453964",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "RG PREMIER BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454177",
+      "issuer": "ROIG COMMERCIAL BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454189",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454900",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454901",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454902",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454903",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454904",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454905",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454906",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454907",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454908",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454910",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454911",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454912",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454913",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454914",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454915",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454916",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454917",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454918",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454919",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454920",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454921",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454922",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454923",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454924",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454925",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454926",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454927",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454928",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454930",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454931",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454932",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454933",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454934",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454935",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454936",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454937",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454938",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454939",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454940",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454943",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454944",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454947",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454948",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454949",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454950",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454951",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454952",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454953",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454954",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454955",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454956",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454957",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454958",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454959",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454962",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454963",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454964",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454970",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454979",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454980",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454986",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454987",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454988",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454990",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454991",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454992",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454993",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454994",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454995",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454996",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454997",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454998",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "454999",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "455145",
+      "issuer": "ROIG COMMERCIAL BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "455222",
+      "issuer": "ROIG COMMERCIAL BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "455978",
+      "issuer": "PUEBLO BANK AND TRUST COMPANY",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "456001",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "456345",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "456346",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SCOTIABANK DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "456493",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DORAL BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "456857",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "456858",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "456861",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "456877",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "EUROBANK AND TRUST COMPANY",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "457539",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "457813",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "459374",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "459910",
+      "issuer": "FIFTH THIRD BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "460698",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "464644",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "465542",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DORAL BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "472290",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "472864",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "473261",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ORIENTAL BANK AND TRUST",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "473278",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "474406",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIA CARD SERVICES PR",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "474407",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIA CARD SERVICES PR",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "474408",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIA CARD SERVICES PR",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "474409",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIA CARD SERVICES PR",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "476422",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SCOTIABANK DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "476423",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SCOTIABANK DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "476525",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "478431",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "484151",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "484152",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "484153",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "484154",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "487038",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTBANK PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "487039",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTBANK PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "487040",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTBANK PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "487045",
+      "issuer": "FIRSTBANK PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "489205",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "489206",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "489207",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "490100",
+      "issuer": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "490104",
+      "issuer": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "490151",
+      "issuer": "BASE INTERCHANGE SYSTEM ASSOCIATION PUERTO RICO LEAGUE, INC.",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "490779",
+      "issuer": "WESTERNBANK PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "491515",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SCOTIABANK DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "491706",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "492200",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "492411",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "492412",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "492413",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "492414",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "494341",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "496646",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "496675",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    }
+  ]
+}

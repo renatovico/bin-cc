@@ -1,0 +1,1065 @@
+{
+  "bins": [
+    {
+      "bin": "400208",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NATIONAL BANK OF ABU DHABI",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "402639",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NATIONAL BANK OF KUWAIT, S.A.K.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "403641",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "405749",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "407470",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "407710",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "408365",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "408366",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "410537",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANKMUSCAT INTERNATIONAL B.S.C. (CLOSED)",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "410538",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANKMUSCAT INTERNATIONAL B.S.C. (CLOSED)",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "412478",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NATIONAL BANK OF BAHRAIN B. S. C.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "412540",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "412587",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "413742",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BAHRAIN ISLAMIC BANK BSC",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "413743",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BAHRAIN ISLAMIC BANK BSC",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "413744",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BAHRAIN ISLAMIC BANK BSC",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "413745",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BAHRAIN ISLAMIC BANK BSC",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "413861",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "414619",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "CITIBANK",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "415078",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AHLI UNITED BANK B.S.C.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "415079",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AHLI UNITED BANK B.S.C.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "415286",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BAHRAIN ISLAMIC BANK BSC",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "415464",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CAJA RURAL PROVINCIAL DE ALMERIA",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "416065",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "416066",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "416813",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "417075",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIMAX B.S.C. (CLOSED)",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "417215",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "417216",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "418766",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NATIONAL BANK OF KUWAIT, S.A.K.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "419170",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "419171",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "420179",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANKMUSCAT INTERNATIONAL B.S.C. (CLOSED)",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "421612",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "421613",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CITIBANK",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "421635",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ICICI BANK, LTD.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "423209",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "423210",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "423211",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "423824",
+      "issuer": "CREDIMAX B.S.C. (CLOSED)",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "426227",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "426228",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "428113",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "428114",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "428115",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "428345",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "428674",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "428973",
+      "issuer": "AHLI UNITED BANK B.S.C.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "431364",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "KUWAIT FINANCE HOUSE",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "431365",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "KUWAIT FINANCE HOUSE",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "432061",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "432118",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AHLI UNITED BANK B.S.C.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "432227",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "432585",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "432586",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "436798",
+      "issuer": "CITIBANK",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "437397",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK OF BAHRAIN B. S. C.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "437535",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "438990",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BAHRAIN ISLAMIC BANK BSC",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "438991",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "438992",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "438993",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "438994",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "438995",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "438996",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BAHRAIN ISLAMIC BANK BSC",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "438997",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "438998",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "438999",
+      "type": "CREDIT",
+      "category": "GOLD/PREM",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "440250",
+      "issuer": "BANK OF BAHRAIN AND KUWAIT B.S.C.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "440309",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CREDIMAX B.S.C. (CLOSED)",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "444030",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "444031",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "444032",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "445813",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "447525",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "450828",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NATIONAL BANK OF BAHRAIN B. S. C.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "450829",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK OF BAHRAIN B. S. C.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "453930",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "453931",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "455012",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF BAHRAIN AND KUWAIT B.S.C.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "455013",
+      "issuer": "BANK OF BAHRAIN AND KUWAIT B.S.C.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "455050",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "455053",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "455257",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "455277",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "455393",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "456060",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "456391",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDIMAX B.S.C. (CLOSED)",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "457852",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "458231",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "458241",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "458267",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "458268",
+      "type": "DEBIT",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "458269",
+      "type": "DEBIT",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "458487",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HABIB BANK, LTD.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "458591",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "460041",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "465961",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "466507",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "466516",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "468546",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "468547",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "471397",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "471398",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "471399",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "471400",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "472295",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "474719",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "474735",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "479090",
+      "issuer": "NATIONAL BANK OF BAHRAIN B. S. C.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "480935",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIMAX B.S.C. (CLOSED)",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "484081",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "484082",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "484083",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "484713",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "484832",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "484833",
+      "type": "DEBIT",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "484834",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "484835",
+      "type": "DEBIT",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "484836",
+      "type": "DEBIT",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "484837",
+      "type": "DEBIT",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "488978",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "492053",
+      "issuer": "CITIBANK",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "493814",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "CREDIMAX B.S.C. (CLOSED)",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "493838",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIMAX B.S.C. (CLOSED)",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "494004",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "THE HOUSING BANK FOR TRADE & FINANCE",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "494005",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HOUSING BANK FOR TRADE AND FINANCE",
+      "countries": [
+        "BH"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "bins": [
+    {
+      "bin": "403880",
+      "type": "DEBIT",
+      "countries": [
+        "CG"
+      ]
+    },
+    {
+      "bin": "403881",
+      "type": "DEBIT",
+      "countries": [
+        "CG"
+      ]
+    },
+    {
+      "bin": "406616",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT DU CONGO",
+      "countries": [
+        "CG"
+      ]
+    },
+    {
+      "bin": "406617",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT DU CONGO",
+      "countries": [
+        "CG"
+      ]
+    },
+    {
+      "bin": "406618",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LYONNAIS CONGO",
+      "countries": [
+        "CG"
+      ]
+    },
+    {
+      "bin": "416921",
+      "countries": [
+        "CG"
+      ]
+    },
+    {
+      "bin": "416923",
+      "countries": [
+        "CG"
+      ]
+    },
+    {
+      "bin": "416924",
+      "countries": [
+        "CG"
+      ]
+    },
+    {
+      "bin": "416925",
+      "countries": [
+        "CG"
+      ]
+    },
+    {
+      "bin": "445410",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE COMMERCIALE INTERNATIONALE",
+      "countries": [
+        "CG"
+      ]
+    },
+    {
+      "bin": "445411",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE COMMERCIALE INTERNATIONALE",
+      "countries": [
+        "CG"
+      ]
+    },
+    {
+      "bin": "445412",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE COMMERCIALE INTERNATIONALE",
+      "countries": [
+        "CG"
+      ]
+    }
+  ]
+}

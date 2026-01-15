@@ -1,0 +1,470 @@
+{
+  "bins": [
+    {
+      "bin": "510145",
+      "type": "CREDIT",
+      "issuer": "JSB KAZKOMMERTSBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "512085",
+      "type": "CREDIT",
+      "issuer": "JSC SB RBS (KAZAKHSTAN)",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "512095",
+      "type": "CREDIT",
+      "issuer": "JSC ATF BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "512752",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSC BTA BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "512769",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSC ATF BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "512801",
+      "type": "CREDIT",
+      "issuer": "JSC BTA BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "513223",
+      "type": "CREDIT",
+      "issuer": "JSC ALLIANCE BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "515627",
+      "type": "CREDIT",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "516730",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "SB HSBC BANK KAZAKHSTAN JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "516979",
+      "type": "DEBIT",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "520418",
+      "type": "CREDIT",
+      "issuer": "JSC BANK CENTERCREDIT",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "524345",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSC BTA BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "524354",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSC ALLIANCE BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "525752",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSC ALLIANCE BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "530180",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "530796",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSB KAZKOMMERTSBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "530935",
+      "type": "CREDIT",
+      "issuer": "SB OF BTA BANK JSC TEMIRBANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "531328",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "JSC ALLIANCE BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "532424",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "532427",
+      "type": "CREDIT",
+      "issuer": "JSC ALLIANCE BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "532456",
+      "type": "CREDIT",
+      "issuer": "SB HSBC BANK KAZAKHSTAN JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "534180",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSC ALLIANCE BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "539894",
+      "type": "CREDIT",
+      "issuer": "NURBANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "540411",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANKPOZITIV KAZAKHSTAN JSC (SUBSIDIARY OF BANK HAPOALIM B",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "540652",
+      "type": "CREDIT",
+      "issuer": "JSB KAZKOMMERTSBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "540797",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANKPOZITIV KAZAKHSTAN JSC (SUBSIDIARY OF BANK HAPOALIM B",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "540813",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSB KAZKOMMERTSBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "542364",
+      "type": "CREDIT",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "542384",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SB OF BTA BANK JSC TEMIRBANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "542762",
+      "issuer": "MOST-BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "543271",
+      "type": "CREDIT",
+      "issuer": "SB HSBC BANK KAZAKHSTAN JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "544772",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSC BANK CENTERCREDIT",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "546875",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "JOINT STOCK HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "546876",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JOINT STOCK HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "547371",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANKPOZITIV KAZAKHSTAN JSC (SUBSIDIARY OF BANK HAPOALIM B",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "547673",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSB KAZKOMMERTSBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "547752",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSC ALLIANCE BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "547844",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "547856",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SB OF BTA BANK JSC TEMIRBANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "548000",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JOINT STOCK HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "548318",
+      "type": "CREDIT",
+      "issuer": "JSB KAZKOMMERTSBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "548319",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSB KAZKOMMERTSBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "548763",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NURBANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "548800",
+      "issuer": "JOINT STOCK HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "548828",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSC BANK CENTERCREDIT",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "549886",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANKPOZITIV KAZAKHSTAN JSC (SUBSIDIARY OF BANK HAPOALIM B",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "550485",
+      "issuer": "JSC BANK TURANALEM",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "552186",
+      "issuer": "JSC BANK TURANALEM",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "552204",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSB KAZKOMMERTSBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "553089",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSC BTA BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "553107",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSC ATF BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "553481",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "NURBANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "557834",
+      "type": "CREDIT",
+      "issuer": "JSB KAZKOMMERTSBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "557957",
+      "type": "CREDIT",
+      "issuer": "BANKPOZITIV KAZAKHSTAN JSC (SUBSIDIARY OF BANK HAPOALIM B",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "558291",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSB KAZKOMMERTSBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "558508",
+      "issuer": "JSC BANK TURANALEM",
+      "countries": [
+        "KZ"
+      ]
+    }
+  ]
+}

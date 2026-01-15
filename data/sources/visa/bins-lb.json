@@ -1,0 +1,2622 @@
+{
+  "bins": [
+    {
+      "bin": "400690",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "401335",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "401347",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "401352",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "402974",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "403258",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BYBLOS BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "403527",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "404135",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "404354",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBAC S.A.L",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "404355",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBAC S.A.L",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "404357",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBAC S.A.L",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "404605",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "404847",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "404950",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK AUDI S.A.L. - AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "405680",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "405765",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "406379",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "406738",
+      "type": "CREDIT",
+      "category": "ELECTRON",
+      "issuer": "BANKMED S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "406899",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AL-MAWARID BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "407448",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANK AUDI S.A.L. - AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "408458",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "409735",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "409736",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "409737",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "409738",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "409779",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "409780",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "409786",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF BEIRUT S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "409787",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "BANK OF BEIRUT S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "409791",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF BEIRUT S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "409792",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "409793",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "409854",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "409863",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "410173",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "410251",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "410736",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANKMED S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "410737",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANKMED S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "410769",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "BANK AUDI S.A.L. - AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "410790",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANKMED S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "411654",
+      "issuer": "BLOM BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "411922",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BNP PARIBAS INTERCONTINENTALE",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "412588",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK AUDI S.A.L. - AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "412766",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "412767",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "412771",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BYBLOS BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "412772",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BYBLOS BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "413050",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BLOM BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "414057",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK AUDI S.A.L. - AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "414605",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BLOM BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "414606",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ALLIED BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "414614",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "414617",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "414672",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L (SGBL)",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "414673",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L (SGBL)",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "414674",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L (SGBL)",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "414693",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "414694",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "414695",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "415349",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "416020",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "416901",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "416976",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF BEIRUT S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "417077",
+      "issuer": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L (SGBL)",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "417078",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BNP PARIBAS INTERCONTINENTALE",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "417081",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "417082",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "417344",
+      "issuer": "BANK AUDI S.A.L. - AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "417350",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANKMED S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "417486",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "417734",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "417735",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "418089",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "418804",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "418822",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANKMED S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "418825",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANKMED S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "418828",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANKMED S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "418854",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALLIED BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "418855",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ALLIED BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "418856",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANKMED S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "418899",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "419516",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BYBLOS BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "419517",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BYBLOS BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "419518",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BYBLOS BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "421044",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "BYBLOS BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "421119",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "421970",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "422875",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "422876",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "423265",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "423832",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANKMED S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "423899",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANKMED S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "424478",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "424534",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "424565",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "425179",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BLOM BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "425180",
+      "issuer": "ALLIED BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "425190",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ALLIED BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "425191",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AUDI SARADAR PRIVATE BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "425192",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "AUDI SARADAR PRIVATE BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "425193",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AUDI SARADAR PRIVATE BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "425194",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "425195",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "425325",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "425326",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "425681",
+      "issuer": "BLOM BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "425875",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "426337",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "426394",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "426867",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "426868",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "426869",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "426870",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "427887",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AL-MAWARID BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "427888",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AL-MAWARID BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "428229",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "428230",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "428231",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "428745",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF BEIRUT S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "429110",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANKMED S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "429111",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "BANKMED S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "429425",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDITCARD SERVICES CO. S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "429427",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDITCARD SERVICES CO. S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "429559",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "429719",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "429720",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "429816",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BLOM BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "429927",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "429928",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "429929",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "429940",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AUDI SARADAR PRIVATE BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "429949",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "AUDI SARADAR PRIVATE BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "430702",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "SAUDI LEBANESE BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "430772",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SAUDI LEBANESE BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "430773",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "SAUDI LEBANESE BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "430774",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SAUDI LEBANESE BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "431716",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "AUDI SARADAR PRIVATE BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "431717",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ALLIED BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "432064",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "432252",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "432253",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "432517",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "432519",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "432556",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "432592",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "432593",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "433007",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "433008",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "433009",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "433010",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "433808",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANKMED S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "433811",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "433813",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF BEIRUT S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "433814",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "433825",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANKMED S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "433829",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF BEIRUT S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "433836",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF BEIRUT S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "433980",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "433981",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDITCARD SERVICES CO. S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "433982",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "433983",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "437494",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "437495",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "438910",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "439073",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "440033",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "440034",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "440037",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "440038",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "440545",
+      "issuer": "BLOM BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "440546",
+      "issuer": "BANK AUDI S.A.L. - AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "440568",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "440569",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "440662",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBAC S.A.L",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "440663",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BBAC S.A.L",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "440714",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE AUDI S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "440715",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANQUE AUDI S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "440717",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK AUDI S.A.L. - AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "440718",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANK AUDI S.A.L. - AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "440786",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BLOM BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "440788",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BLOM BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "440789",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANQUE AUDI S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "443182",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "445150",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "445556",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "445557",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "445558",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "445955",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L (SGBL)",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "445956",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L (SGBL)",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "445960",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "LEBANON AND GULF BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "446523",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "447316",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF BEIRUT S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "447317",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF BEIRUT S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "447390",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF BEIRUT S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "447524",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "447528",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "447635",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "447636",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "447644",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "448300",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "448302",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "448303",
+      "issuer": "LEBANON AND GULF BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "448319",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBAC S.A.L",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "448339",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "456078",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "457230",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "457231",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "457285",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "457831",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "458561",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "459043",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "459044",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "459045",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "459046",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "460333",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "AUDI SARADAR PRIVATE BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "461665",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "461666",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "461667",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "462018",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "462211",
+      "type": "DEBIT",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "462212",
+      "type": "DEBIT",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "462214",
+      "type": "DEBIT",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "462215",
+      "type": "DEBIT",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "462749",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "463470",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "464401",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANKMED S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "464402",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANKMED S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "464403",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANKMED S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "464418",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANKMED S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "464429",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "WEDGE BANK MIDDLE EAST S.A.L",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "464430",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "WEDGE BANK MIDDLE EAST S.A.L",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "464456",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "464457",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "464493",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "464499",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANKMED S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "465212",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "465219",
+      "issuer": "LEBANON AND GULF BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "465222",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "465223",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BBAC S.A.L",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "465224",
+      "issuer": "BBAC S.A.L",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "465237",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ALLIED BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "465238",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ALLIED BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "465244",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BBAC S.A.L",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "465271",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBAC S.A.L",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "465275",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK AUDI S.A.L. - AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "465282",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "465561",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BLOM BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "467903",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "LEBANON AND GULF BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "468548",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "469398",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "469515",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "469532",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "469581",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF BEIRUT S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "469582",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF BEIRUT S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "470351",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "471451",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "471483",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANKMED S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "472266",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "472859",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "474141",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "474142",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "474143",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "474144",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "474185",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK AUDI S.A.L. - AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "476015",
+      "issuer": "BANKMED S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "476028",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "476029",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "476030",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "476130",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "476131",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "476281",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "476873",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "477508",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "477509",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "477570",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "478723",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "478724",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "478725",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "478730",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "478731",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "478732",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "478733",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "478734",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "478735",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "478740",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "480928",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "483952",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "484174",
+      "type": "DEBIT",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "484175",
+      "type": "DEBIT",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "484176",
+      "type": "DEBIT",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "484841",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "484882",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "485015",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "486087",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "486099",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JAMMAL TRUST BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "486100",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "WACHOVIA BANK - WELLS FARGO COMPANY",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "487052",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BLOM BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "489009",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "489336",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "490951",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "490952",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "490953",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "490954",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "490955",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "490956",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "491726",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "491772",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "493789",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "496605",
+      "issuer": "UNION BANK OF JAMAICA, LTD.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "496699",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    }
+  ]
+}

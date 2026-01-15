@@ -1,0 +1,215 @@
+{
+  "bins": [
+    {
+      "bin": "413208",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TOJIKSODIROTBONK JSC",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "413209",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TOJIKSODIROTBONK JSC",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "413210",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TOJIKSODIROTBONK JSC",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "413846",
+      "issuer": "TOJIKSODIROTBONK JSC",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "416753",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC ORIENBANK",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "416754",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "OJSC ORIENBANK",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "416755",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OJSC ORIENBANK",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "416756",
+      "issuer": "OJSC ORIENBANK",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "423314",
+      "type": "DEBIT",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "425550",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC AGROINVESTBANK",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "425551",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "OJSC AGROINVESTBANK",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "425552",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OJSC AGROINVESTBANK",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "426848",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "426849",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "TJS CBRD TAJPROMBANK",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "426850",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "443919",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC BANK ESKHATA",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "443920",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "OJSC BANK ESKHATA",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "443921",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OJSC BANK ESKHATA",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "445168",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "445572",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "STATE SAVINGS BANK OF THE REPUBLIC OF TADJIKISTAN (AMONA",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "445573",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "STATE SAVINGS BANK OF THE REPUBLIC OF TADJIKISTAN (AMONA",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "445574",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STATE SAVINGS BANK OF THE REPUBLIC OF TADJIKISTAN (AMONA",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "466097",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "471338",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "471339",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "TJ"
+      ]
+    }
+  ]
+}

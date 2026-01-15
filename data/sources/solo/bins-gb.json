@@ -1,0 +1,863 @@
+{
+  "bins": [
+    {
+      "bin": "633454",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633456",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633461",
+      "type": "DEBIT",
+      "issuer": "HSBC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633473",
+      "type": "DEBIT",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633476",
+      "type": "DEBIT",
+      "issuer": "YORKSHIRE BANK",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633478",
+      "type": "DEBIT",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633481",
+      "type": "DEBIT",
+      "issuer": "YORKSHIRE BANK",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633490",
+      "type": "DEBIT",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633491",
+      "type": "DEBIT",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633492",
+      "type": "DEBIT",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633493",
+      "type": "DEBIT",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633494",
+      "type": "DEBIT",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633495",
+      "type": "DEBIT",
+      "issuer": "HALIFAX",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633496",
+      "type": "DEBIT",
+      "issuer": "HALIFAX",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633497",
+      "type": "DEBIT",
+      "issuer": "HALIFAX",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633499",
+      "type": "DEBIT",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676701",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "NATWEST BANK",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676702",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676703",
+      "type": "DEBIT",
+      "issuer": "HSBC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676704",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676705",
+      "type": "DEBIT",
+      "issuer": "YORKSHIRE BANK",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676706",
+      "type": "DEBIT",
+      "issuer": "HALIFAX",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676707",
+      "type": "DEBIT",
+      "issuer": "HALIFAX",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676708",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676709",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676710",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676711",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676712",
+      "type": "DEBIT",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676713",
+      "type": "DEBIT",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676714",
+      "type": "DEBIT",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676715",
+      "type": "DEBIT",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676716",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676717",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676718",
+      "type": "DEBIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676719",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676720",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676721",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676722",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676723",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676724",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676725",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676726",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676727",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676728",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676729",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676730",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676731",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676732",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676733",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676734",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676735",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676736",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676737",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676738",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676739",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676740",
+      "type": "DEBIT",
+      "issuer": "HSBC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676741",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676742",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676743",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676744",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676745",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676746",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676747",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676748",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676749",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676750",
+      "type": "DEBIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676751",
+      "type": "DEBIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676752",
+      "type": "DEBIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676753",
+      "type": "DEBIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676754",
+      "type": "DEBIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676755",
+      "type": "DEBIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676756",
+      "type": "DEBIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676757",
+      "type": "DEBIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676758",
+      "type": "DEBIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676759",
+      "type": "DEBIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676760",
+      "type": "DEBIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676761",
+      "type": "DEBIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676762",
+      "type": "DEBIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676763",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676764",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676765",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676766",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676767",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676768",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676769",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676770",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676771",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676772",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676773",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676774",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676775",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676776",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676777",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676778",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676779",
+      "type": "DEBIT",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676780",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676781",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676782",
+      "type": "DEBIT",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676783",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676784",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676785",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676786",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676787",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676788",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676789",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676790",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676791",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676792",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676793",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676794",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676795",
+      "type": "DEBIT",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676796",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676797",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676798",
+      "type": "DEBIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676799",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    }
+  ]
+}

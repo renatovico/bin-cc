@@ -1,0 +1,325 @@
+{
+  "bins": [
+    {
+      "bin": "405315",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NATIONAL BANK OF GREECE - TIRANA BRANCH",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "410034",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PROCREDIT BANK SH.A.",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "410035",
+      "issuer": "PROCREDIT BANK SH.A.",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "410188",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTESA SANPAOLO BANK ALBANIA SHA.",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "410189",
+      "issuer": "AMERICAN BANK OF ALBANIA SH.A.",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "410725",
+      "issuer": "TIRANA BANK, S.A.",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "410748",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TIRANA BANK, S.A.",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "411418",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDINS BANK SH.A.",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "411419",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDINS BANK SH.A.",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "411925",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PROCREDIT BANK SH.A.",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "413251",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "RAIFFEISEN BANK SH.A.",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "413253",
+      "issuer": "RAIFFEISEN BANK SH.A.",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "418697",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK OF GREECE - TIRANA BRANCH",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "424331",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRST INVESTMENT BANK",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "424332",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRST INVESTMENT BANK",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "424333",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRST INVESTMENT BANK",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "424334",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FIRST INVESTMENT BANK",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "424335",
+      "issuer": "FIRST INVESTMENT BANK",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "424470",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INTESA SANPAOLO BANK ALBANIA SHA.",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "424946",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "424947",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "428060",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "EMPORIKI BANK - ALBANIA, S.A.",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "428061",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EMPORIKI BANK - ALBANIA, S.A.",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "429931",
+      "issuer": "FIRST INVESTMENT BANK",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "432166",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "432477",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "432478",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "432479",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANKA KOMBETARE TREGTARE SH.A.",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "440042",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "445416",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INTESA SANPAOLO BANK ALBANIA SHA.",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "445417",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTESA SANPAOLO BANK ALBANIA SHA.",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "447662",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PROCREDIT BANK SH.A.",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "459048",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VENETO BANKA SH.A.",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "467724",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VENETO BANKA SH.A.",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "478707",
+      "issuer": "TIRANA BANK, S.A.",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "478727",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MOST-BANK",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "484656",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CREDINS BANK SH.A.",
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "bin": "484657",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CREDINS BANK SH.A.",
+      "countries": [
+        "AL"
+      ]
+    }
+  ]
+}

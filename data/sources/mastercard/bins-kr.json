@@ -1,0 +1,2967 @@
+{
+  "bins": [
+    {
+      "bin": "510003",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "510737",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "512351",
+      "type": "CREDIT",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "512352",
+      "category": "STANDARD",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "512353",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "512354",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "512355",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "512359",
+      "type": "CREDIT",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "512365",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "512462",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "LOTTE CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "512609",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "514020",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "514473",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "514876",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK KOREA, INC.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "514931",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "515197",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "515594",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "516078",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "516411",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "HANASK CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "516450",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HANASK CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "516453",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "516574",
+      "type": "DEBIT",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "517662",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "517709",
+      "type": "CREDIT",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "517820",
+      "type": "CREDIT",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "517827",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "518185",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "KOREA EXCHANGE BANK",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "518283",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "KOREA EXCHANGE BANK",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "518319",
+      "type": "CREDIT",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "518420",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "518831",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "518928",
+      "type": "CREDIT",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "518929",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "518930",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "519303",
+      "type": "CREDIT",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "519635",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "519657",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HANASK CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "520025",
+      "type": "CREDIT",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "520045",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "LOTTE CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "520172",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "520421",
+      "type": "CREDIT",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "520422",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "522108",
+      "type": "CREDIT",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "522109",
+      "type": "CREDIT",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "522111",
+      "type": "CREDIT",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "522112",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "522114",
+      "type": "CREDIT",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "522115",
+      "category": "STANDARD",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "522119",
+      "type": "CREDIT",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "522123",
+      "type": "CREDIT",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "522124",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "522125",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "522129",
+      "type": "CREDIT",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "522509",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "522802",
+      "type": "CREDIT",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "522855",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "522971",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "523027",
+      "type": "CREDIT",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "523401",
+      "type": "CREDIT",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "523402",
+      "type": "CREDIT",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "523424",
+      "type": "CREDIT",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "523521",
+      "category": "STANDARD",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "523830",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "KOREA EXCHANGE BANK",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "523832",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "523930",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "524012",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "524013",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "524014",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "524015",
+      "category": "STANDARD",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "524019",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "524021",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "524022",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "524023",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "524024",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "524025",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "524028",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "524029",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "524041",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "524140",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NATIONAL AGRICULTURAL COOPERATIVE FEDERATION",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "524141",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "524144",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK KOREA, INC.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "524180",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HANASK CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "524220",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "524223",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK KOREA, INC.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "524242",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HANASK CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "524285",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "524286",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "524333",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "524335",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "KOREA EXCHANGE BANK",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "524531",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "524603",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "524713",
+      "type": "CREDIT",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "525676",
+      "type": "CREDIT",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "526878",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "527419",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "528054",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "528268",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "528523",
+      "type": "CREDIT",
+      "issuer": "HANASK CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "528936",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "528937",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "LOTTE CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "528949",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "528951",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "529269",
+      "type": "CREDIT",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "529899",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "530432",
+      "type": "CREDIT",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "531070",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "531072",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "531080",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "531082",
+      "type": "CREDIT",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "531085",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "531408",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "531838",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "HANASK CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "532188",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "532913",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "533032",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "533349",
+      "type": "DEBIT",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "533522",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "533827",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "534204",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "HANASK CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "534291",
+      "type": "CREDIT",
+      "issuer": "LOTTE CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "535020",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "536323",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "536460",
+      "type": "CREDIT",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "537620",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "537703",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "537706",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "537711",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "537712",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "537720",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "537721",
+      "category": "GOLD",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "537722",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "537723",
+      "category": "GOLD",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "537724",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "537725",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HANASK CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "537727",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "537731",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "537732",
+      "category": "GOLD",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "537733",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HANASK CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "537736",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "537739",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "538695",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "STANDARD CHARTERED FIRST BANK KOREA",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "538720",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "538803",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "538806",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "538811",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "538812",
+      "category": "STANDARD",
+      "issuer": "NONGHYUP LOCAL BANKS",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "538820",
+      "type": "CREDIT",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "538821",
+      "category": "STANDARD",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "538822",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "538823",
+      "category": "STANDARD",
+      "issuer": "SC FIRST BANK",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "538824",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "538825",
+      "type": "CREDIT",
+      "issuer": "HANASK CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "538827",
+      "type": "CREDIT",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "538831",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "538832",
+      "category": "STANDARD",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "538833",
+      "type": "CREDIT",
+      "issuer": "HANASK CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "538836",
+      "type": "CREDIT",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "538839",
+      "type": "CREDIT",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "538920",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "539771",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "540388",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "540447",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "540486",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "540487",
+      "issuer": "L.G. CREDIT CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "540497",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "KOREA EXCHANGE BANK",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "540528",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "540537",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "540538",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "540554",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "KOREA EXCHANGE BANK",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "540799",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "540926",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "540929",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "540935",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "540936",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "540947",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "540988",
+      "type": "CREDIT",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "541145",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "541259",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "541707",
+      "type": "CREDIT",
+      "issuer": "HANASK CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "542158",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "542184",
+      "type": "CREDIT",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "542265",
+      "type": "CREDIT",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "542416",
+      "type": "CREDIT",
+      "issuer": "NATIONAL AGRICULTURAL COOPERATIVE FEDERATION",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "542586",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NATIONAL AGRICULTURAL COOPERATIVE FEDERATION",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "542879",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "543017",
+      "type": "CREDIT",
+      "issuer": "NATIONAL AGRICULTURAL COOPERATIVE FEDERATION",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "543241",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NATIONAL AGRICULTURAL COOPERATIVE FEDERATION",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "543333",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "543341",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "543617",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "KOREA EXCHANGE BANK",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "544004",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "544090",
+      "issuer": "KOREA EXCHANGE BANK CREDIT SERVICE CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "544174",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HANASK CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "545089",
+      "type": "CREDIT",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "546111",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "546112",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "546252",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HANASK CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "547227",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "547422",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "547609",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "LOTTE CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "547671",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "547924",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "548020",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "548213",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CITIBANK KOREA, INC.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "548238",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "LOTTE CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "548596",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CITIBANK KOREA, INC.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "548732",
+      "type": "CREDIT",
+      "category": "WORLD FOR BUSINESS",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "548841",
+      "type": "CREDIT",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "548869",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "548870",
+      "type": "CREDIT",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "549153",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "549155",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "549840",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "549861",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "KOREA EXCHANGE BANK",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552014",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552051",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552052",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552087",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552103",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552106",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552111",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552112",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552120",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552121",
+      "category": "PLATINUM",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552122",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552123",
+      "category": "PLATINUM",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552124",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552125",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HANASK CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552127",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552131",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552132",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552133",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HANASK CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552136",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "LOTTE CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552139",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552164",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552194",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552220",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552290",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552323",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "HANASK CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552376",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552377",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552407",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "HANASK CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552412",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552432",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552441",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552445",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552521",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552527",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552532",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552533",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552537",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552576",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552803",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552806",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552811",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552812",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552820",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552821",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552823",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552831",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552839",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "552920",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553078",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553142",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553144",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553146",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553147",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553150",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553151",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553152",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553155",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "LOTTE CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553168",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "KOREA EXCHANGE BANK",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553169",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "LOTTE CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553171",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NATIONAL AGRICULTURAL COOPERATIVE FEDERATION",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553172",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553173",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HANASK CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553176",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553177",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HANASK CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553178",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553179",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HANASK CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553184",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553190",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553211",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553212",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553406",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553423",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553478",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553488",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "HANASK CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553531",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "553820",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "554345",
+      "type": "CREDIT",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "554346",
+      "type": "DEBIT",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "554349",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "554382",
+      "type": "CREDIT",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "554578",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "554620",
+      "type": "CREDIT",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "554959",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "554963",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "554973",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "555078",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "556608",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "LOTTE CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "556659",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "KOREA EXCHANGE BANK",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "556678",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558370",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558420",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558453",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558503",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558506",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558511",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558512",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558520",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558521",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558522",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558523",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558524",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558525",
+      "category": "BUSINESS",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558526",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558527",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558531",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558532",
+      "category": "BUSINESS",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558533",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558539",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558725",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558735",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558738",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "HANASK CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558749",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558768",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558817",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558822",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "KOREA EXCHANGE BANK",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558875",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558881",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HANASK CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558885",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558903",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558906",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "KB KOOKMIN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558911",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558912",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558915",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558920",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558921",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558922",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558923",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558925",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558927",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558931",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558932",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558933",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558939",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558950",
+      "type": "CREDIT",
+      "category": "WORLD FOR BUSINESS",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558953",
+      "type": "CREDIT",
+      "category": "WORLD FOR BUSINESS",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558961",
+      "type": "CREDIT",
+      "category": "WORLD FOR BUSINESS",
+      "issuer": "HANASK CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558970",
+      "type": "CREDIT",
+      "category": "WORLD FOR BUSINESS",
+      "issuer": "HYUNDAICARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558971",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558972",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "558978",
+      "type": "CREDIT",
+      "category": "WORLD FOR BUSINESS",
+      "issuer": "SAMSUNG CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "559123",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BC CARD CO., LTD.",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "559620",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "559631",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "559632",
+      "countries": [
+        "KR"
+      ]
+    },
+    {
+      "bin": "559639",
+      "countries": [
+        "KR"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "bins": [
+    {
+      "bin": "406451",
+      "issuer": "BARCLAYS BANK OF UGANDA, LTD.",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "406918",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "STANBIC BANK UGANDA, LTD.",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "406919",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANBIC BANK UGANDA, LTD.",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "406920",
+      "issuer": "STANBIC BANK UGANDA, LTD.",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "406921",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "406922",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "406945",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "406946",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "411706",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BARCLAYS BANK OF UGANDA, LTD.",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "418761",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "419830",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "419831",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "422121",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "422809",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "431917",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CRANE BANK, LTD.",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "432281",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "444568",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "456596",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "457344",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "458293",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "458294",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "460044",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "462255",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CRANE BANK, LTD.",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "462256",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CRANE BANK, LTD.",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "462257",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CRANE BANK, LTD.",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "471372",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "471373",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "471374",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "484688",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "486033",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "486034",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "486061",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "bin": "490480",
+      "type": "CREDIT",
+      "countries": [
+        "UG"
+      ]
+    }
+  ]
+}

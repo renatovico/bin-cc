@@ -1,0 +1,2085 @@
+{
+  "bins": [
+    {
+      "bin": "510529",
+      "type": "CREDIT",
+      "issuer": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "512084",
+      "issuer": "CHINA CONSTRUCTION BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "512315",
+      "type": "CREDIT",
+      "issuer": "BANK OF CHINA, LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "512316",
+      "category": "STANDARD",
+      "issuer": "BANK OF CHINA, LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "512411",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF CHINA, LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "512412",
+      "category": "STANDARD",
+      "issuer": "BANK OF CHINA, LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "512425",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "512431",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CHINA UNIONPAY CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "512466",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "512600",
+      "type": "CREDIT",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "512695",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "512732",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "513092",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "513685",
+      "type": "CREDIT",
+      "issuer": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "514027",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AGRICULTURAL BANK OF CHINA",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "514906",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "CHINA CITIC BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "514957",
+      "type": "DEBIT",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "514958",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF CHINA, LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "515672",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SHANGHAI PUDONG DEVELOPMENT BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "516464",
+      "type": "DEBIT",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "516466",
+      "type": "DEBIT",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517601",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517602",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517603",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517604",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517606",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517607",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517608",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517610",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517611",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517612",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517613",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517614",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517615",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517616",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517617",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517619",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517620",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517621",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517622",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517623",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517624",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517625",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517626",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517629",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517630",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517631",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517636",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517649",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517650",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SHANGHAI PUDONG DEVELOPMENT BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517659",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517664",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517670",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517672",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517673",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517674",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517675",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517676",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517677",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517678",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517679",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517680",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517681",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517682",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517683",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517685",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517687",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517688",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517693",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517696",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517697",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517698",
+      "type": "CREDIT",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "517956",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518212",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CHINA CITIC BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518229",
+      "issuer": "HUA XIA BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518262",
+      "issuer": "AGRICULTURAL BANK OF CHINA",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518377",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF CHINA, LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518378",
+      "type": "DEBIT",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518379",
+      "type": "DEBIT",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518475",
+      "type": "DEBIT",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518476",
+      "issuer": "BANK OF CHINA",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518708",
+      "type": "CREDIT",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518710",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518711",
+      "type": "CREDIT",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518712",
+      "type": "CREDIT",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518713",
+      "type": "CREDIT",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518717",
+      "type": "CREDIT",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518718",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518721",
+      "type": "CREDIT",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518724",
+      "type": "CREDIT",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518731",
+      "type": "CREDIT",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518733",
+      "type": "CREDIT",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518734",
+      "type": "CREDIT",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518735",
+      "type": "CREDIT",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518736",
+      "type": "CREDIT",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518741",
+      "type": "CREDIT",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518742",
+      "type": "CREDIT",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518743",
+      "type": "CREDIT",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518744",
+      "type": "CREDIT",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518746",
+      "type": "CREDIT",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "518903",
+      "issuer": "CHINA UNIONPAY CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "519413",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "AGRICULTURAL BANK OF CHINA",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "519498",
+      "type": "CREDIT",
+      "issuer": "BANK OF SHANGHAI",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "519961",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "520083",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AGRICULTURAL BANK OF CHINA",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "520108",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CHINA CITIC BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "520131",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF SHANGHAI",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "520152",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CHINA GUANGFA BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "520169",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF COMMUNICATIONS",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "520194",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CHINA UNIONPAY CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "520382",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CHINA GUANGFA BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "520703",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "521302",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "521530",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "521899",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK OF COMMUNICATIONS",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "522001",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF BEIJING CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "522153",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "522964",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF COMMUNICATIONS",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "523036",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "INDUSTRIAL BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "523056",
+      "issuer": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "523955",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK (CHINA) CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "523959",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HUA XIA BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "523961",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CHINA GUANGFA BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "523966",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CHINA GUANGFA BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "524011",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "524031",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF SHANGHAI",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "524047",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "524055",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "524070",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "INDUSTRIAL BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "524090",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CHINA EVERBRIGHT BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "524091",
+      "type": "DEBIT",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "524094",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CHINA CONSTRUCTION BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "524152",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "524206",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF CHINA, LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "524207",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "524219",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK (CHINA) CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "524374",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "524625",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "524864",
+      "type": "CREDIT",
+      "issuer": "BANK OF CHINA, LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "524865",
+      "issuer": "BANK OF CHINA, LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "525745",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF CHINA, LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "525746",
+      "issuer": "BANK OF CHINA, LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "525998",
+      "type": "CREDIT",
+      "issuer": "SHANGHAI PUDONG DEVELOPMENT BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "526410",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CHINA CONSTRUCTION BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "526836",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "526855",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PING AN BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "526974",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "526996",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "527324",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "527414",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "INDUSTRIAL BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "527661",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "528020",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PING AN BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "528057",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "INDUSTRIAL BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "528609",
+      "issuer": "LIU CHONG HING BANK, LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "528708",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HUA XIA BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "528709",
+      "issuer": "HUA XIA BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "528856",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "528931",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "CHINA GUANGFA BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "528948",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "529408",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "529868",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "530970",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "530990",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "531659",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PING AN BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "531693",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CHINA CONSTRUCTION BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "531851",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF BEIJING CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "531948",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "532423",
+      "issuer": "CHINA CONSTRUCTION BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "532450",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CHINA CONSTRUCTION BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "532458",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CHINA CONSTRUCTION BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "532588",
+      "type": "CREDIT",
+      "issuer": "SHANGHAI RURAL COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "532932",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "533525",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "533742",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "534141",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "535910",
+      "type": "DEBIT",
+      "issuer": "AGRICULTURAL BANK OF CHINA, THE",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "535911",
+      "issuer": "AGRICULTURAL BANK OF CHINA",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "535912",
+      "issuer": "AGRICULTURAL BANK OF CHINA",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "535913",
+      "issuer": "AGRICULTURAL BANK OF CHINA",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "535914",
+      "issuer": "AGRICULTURAL BANK OF CHINA",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "535915",
+      "issuer": "AGRICULTURAL BANK OF CHINA",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "535916",
+      "issuer": "AGRICULTURAL BANK OF CHINA",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "535917",
+      "issuer": "AGRICULTURAL BANK OF CHINA",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "535918",
+      "issuer": "AGRICULTURAL BANK OF CHINA",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "535919",
+      "issuer": "AGRICULTURAL BANK OF CHINA",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "538401",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "538402",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "538403",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "539867",
+      "type": "CREDIT",
+      "issuer": "HUA XIA BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "539868",
+      "issuer": "HUA XIA BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "540864",
+      "issuer": "AGRICULTURAL BANK OF CHINA",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "541709",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CHINA GUANGFA BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "541710",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CHINA GUANGFA BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "541717",
+      "issuer": "GUANGDONG DEVELOPMENT BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "541867",
+      "issuer": "BANK OF CHINA",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "543098",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "543159",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CHINA EVERBRIGHT BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "543230",
+      "issuer": "AGRICULTURAL BANK OF CHINA",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "544210",
+      "type": "CREDIT",
+      "issuer": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "544243",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "544350",
+      "issuer": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "544887",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CHINA CONSTRUCTION BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "545392",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "545393",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "545431",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "545447",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "545621",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "545782",
+      "issuer": "AGRICULTURAL BANK OF CHINA",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "545948",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "545950",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK (CHINA) CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "548132",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "548259",
+      "type": "CREDIT",
+      "issuer": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "548421",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "548727",
+      "type": "CREDIT",
+      "issuer": "CITIBANK (CHINA) CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "548738",
+      "type": "CREDIT",
+      "issuer": "INDUSTRIAL BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "548744",
+      "type": "DEBIT",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "548838",
+      "type": "CREDIT",
+      "issuer": "BANK OF SHANGHAI",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "548943",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "549633",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "INDUSTRIAL BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "550150",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SHANGHAI RURAL COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "550213",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "552245",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CHINA CONSTRUCTION BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "552259",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "CITIBANK (CHINA) CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "552288",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "552388",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BANK OF BEIJING CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "552398",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "INDUSTRIAL BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "552408",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "SHANGHAI RURAL COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "552534",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "552587",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "552742",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK OF CHINA, LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "552794",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CHINA GUANGFA BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "552801",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CHINA CONSTRUCTION BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "552938",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "553131",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK OF CHINA, LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "553134",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "553183",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "553185",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "553486",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "554018",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "554515",
+      "issuer": "BANK OF BEIJING CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "554652",
+      "issuer": "CHINA CONSTRUCTION BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "554663",
+      "issuer": "BANK OF COMMUNICATIONS",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "554684",
+      "issuer": "AGRICULTURAL BANK OF CHINA",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "554749",
+      "issuer": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "555028",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "556610",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CHINA MINSHENG BANKING CORP., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "556617",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CHINA CITIC BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "557060",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "557080",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CHINA CONSTRUCTION BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "557108",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "558360",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "558363",
+      "issuer": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "558368",
+      "issuer": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "558730",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "AGRICULTURAL BANK OF CHINA",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "558869",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BANK OF CHINA, LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "558890",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "558894",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CHINA GUANGFA BANK CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "558895",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CHINA CONSTRUCTION BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "558916",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CHINA CITIC BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "559051",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CHINA CONSTRUCTION BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "559121",
+      "issuer": "CHINA CONSTRUCTION BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "559139",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK (CHINA) CO., LTD.",
+      "countries": [
+        "CN"
+      ]
+    }
+  ]
+}

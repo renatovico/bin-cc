@@ -1,0 +1,33 @@
+{
+  "bins": [
+    {
+      "bin": "406914",
+      "issuer": "STANDARD BANK SWAZILAND, LTD.",
+      "countries": [
+        "SZ"
+      ]
+    },
+    {
+      "bin": "407817",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "SZ"
+      ]
+    },
+    {
+      "bin": "431461",
+      "countries": [
+        "SZ"
+      ]
+    },
+    {
+      "bin": "443962",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "SZ"
+      ]
+    }
+  ]
+}

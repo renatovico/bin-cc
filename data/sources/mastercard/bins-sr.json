@@ -1,0 +1,53 @@
+{
+  "bins": [
+    {
+      "bin": "519792",
+      "countries": [
+        "SR"
+      ]
+    },
+    {
+      "bin": "522991",
+      "type": "CREDIT",
+      "issuer": "HAKRINBANK, N.V.",
+      "countries": [
+        "SR"
+      ]
+    },
+    {
+      "bin": "525743",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HAKRINBANK, N.V.",
+      "countries": [
+        "SR"
+      ]
+    },
+    {
+      "bin": "544028",
+      "type": "CREDIT",
+      "issuer": "DE SURINAAMSCHE BANK, N.V.",
+      "countries": [
+        "SR"
+      ]
+    },
+    {
+      "bin": "544029",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DE SURINAAMSCHE BANK, N.V.",
+      "countries": [
+        "SR"
+      ]
+    },
+    {
+      "bin": "558776",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HAKRINBANK, N.V.",
+      "countries": [
+        "SR"
+      ]
+    }
+  ]
+}

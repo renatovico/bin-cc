@@ -1,0 +1,934 @@
+{
+  "bins": [
+    {
+      "bin": "402559",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO UNION, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "404715",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO UNION, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "404716",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO UNION, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "404717",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO UNION, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "404718",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO UNION, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "404719",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SOLIDARIO S.A. (BANCOSOL S.A.)",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "404941",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "404942",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "404943",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "404944",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "405637",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO UNION, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "405638",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO UNION, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "405639",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO UNION, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "405640",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO UNION, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "407400",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "408318",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "409085",
+      "issuer": "LINKSER S.A. - SERVICIOS FINANCIEROS ESPECIALIZADOS",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "409910",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO GANADERO, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "409911",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO GANADERO, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "409912",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO GANADERO, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "409913",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO GANADERO, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "409961",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO GANADERO, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "411044",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BISA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "411045",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BISA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "411046",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO BISA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "411768",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SOLIDARIO S.A. (BANCOSOL S.A.)",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "412552",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SOLIDARIO S.A. (BANCOSOL S.A.)",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "412950",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "413897",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "416446",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO UNION, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "420584",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "421669",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ECONOMICO, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "421828",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO GANADERO, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "422286",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ECONOMICO, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "422715",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO MERCANTIL SANTA CRUZ, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "423930",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO UNION, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "423931",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO UNION, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "428305",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BISA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "428341",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BISA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "430493",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO UNION, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "430494",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO UNION, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "432877",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO UNION, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "432939",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO UNION, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "439895",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO NACIONAL DE BOLIVIA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "444022",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "444688",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO UNION, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "446696",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "446697",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "446698",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "446699",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "446853",
+      "issuer": "BANCO BISA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "449192",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CREDITO DE BOLIVIA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "450416",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO UNION, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "450893",
+      "issuer": "BANCO DE CREDITO DE BOLIVIA",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "450973",
+      "issuer": "BANCO DE CREDITO DE BOLIVIA",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "454043",
+      "issuer": "BANCO DE CREDITO DE BOLIVIA",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "454097",
+      "issuer": "BANCO DE CREDITO DE BOLIVIA",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "454474",
+      "issuer": "BANCO BOLIVIANO AMERICANO",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "454821",
+      "issuer": "BANCO BOLIVIANO AMERICANO",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "454826",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO NACIONAL DE BOLIVIA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "454827",
+      "issuer": "BANCO NACIONAL DE BOLIVIA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "454829",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO NACIONAL DE BOLIVIA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "455782",
+      "issuer": "LINKSER S.A. - SERVICIOS FINANCIEROS ESPECIALIZADOS",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "455784",
+      "issuer": "BANCO DE CREDITO DE BOLIVIA",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "455785",
+      "issuer": "BANCO DE CREDITO DE BOLIVIA",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "455790",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO UNION, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "455791",
+      "issuer": "BANCO UNION, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "455792",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO UNION, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "455793",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO UNION, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "456014",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ECONOMICO, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "456015",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO ECONOMICO, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "456016",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ECONOMICO, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "456801",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MERCANTIL SANTA CRUZ, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "457701",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "459352",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "465953",
+      "issuer": "BANCO DE CREDITO DE BOLIVIA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "465980",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CREDITO DE BOLIVIA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "465981",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE CREDITO DE BOLIVIA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "465982",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE CREDITO DE BOLIVIA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "465983",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE CREDITO DE BOLIVIA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "465984",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CREDITO DE BOLIVIA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "465985",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE CREDITO DE BOLIVIA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "465986",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE CREDITO DE BOLIVIA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "465987",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE CREDITO DE BOLIVIA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "467792",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "469826",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "469827",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "469828",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "474580",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "475785",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "477143",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "477217",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO NACIONAL DE BOLIVIA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "477218",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO NACIONAL DE BOLIVIA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "477219",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO NACIONAL DE BOLIVIA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "477220",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO NACIONAL DE BOLIVIA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "478785",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO BISA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "478786",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "479314",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "479315",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "485024",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "489997",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO UNION, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "489998",
+      "issuer": "BANCO UNION, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "490774",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO ECONOMICO, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "491445",
+      "issuer": "BANCO DE CREDITO DE BOLIVIA",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "492004",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO MERCANTIL SANTA CRUZ, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "492062",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO MERCANTIL SANTA CRUZ, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "492063",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO NACIONAL DE BOLIVIA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "492064",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO MERCANTIL SANTA CRUZ, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "492147",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MERCANTIL SANTA CRUZ, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "492148",
+      "issuer": "BANCO SANTA CRUZ, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "492149",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO MERCANTIL SANTA CRUZ, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "492150",
+      "issuer": "ADMINISTRADORA DE TARJETAS DE CREDITO (A.T.C.), S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "498565",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CITIBANK",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "499871",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BO"
+      ]
+    }
+  ]
+}

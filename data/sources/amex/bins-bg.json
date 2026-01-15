@@ -1,0 +1,21 @@
+{
+  "bins": [
+    {
+      "bin": "377665",
+      "type": "CREDIT",
+      "issuer": "BULGARIAN POSTBANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "377758",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "POSTBANK",
+      "countries": [
+        "BG"
+      ]
+    }
+  ]
+}

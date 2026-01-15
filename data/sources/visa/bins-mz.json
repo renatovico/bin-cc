@@ -1,0 +1,508 @@
+{
+  "bins": [
+    {
+      "bin": "402542",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BARCLAYS BANK MOCAMBIQUE, S.A.",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "402543",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BARCLAYS BANK MOCAMBIQUE, S.A.",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "402544",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BARCLAYS BANK MOCAMBIQUE, S.A.",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "402545",
+      "issuer": "BANCO AUSTRAL SARL",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "402546",
+      "issuer": "BANCO AUSTRAL SARL",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "402806",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BARCLAYS BANK MOCAMBIQUE, S.A.",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "402807",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "ASIANBANK CORPORATION",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "404749",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A.R.L.",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "405594",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "405595",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "406939",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "STANDARD BANK SARL",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "406940",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD BANK SARL",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "406941",
+      "issuer": "STANDARD BANK SARL",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "406943",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "408472",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "408473",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FNB MOCAMBIQUE, S.A.",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "410306",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO PROCREDIT, S.A.",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "410743",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "411982",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A.R.L.",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "411983",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A.R.L.",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "414643",
+      "issuer": "BANCO AUSTRAL SARL",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "414644",
+      "issuer": "BANCO AUSTRAL SARL",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "417320",
+      "issuer": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "428670",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "428961",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "428962",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "431377",
+      "issuer": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "432433",
+      "issuer": "BANCO AUSTRAL SARL",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "433373",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A.R.L.",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "433864",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "433865",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "433866",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "433867",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "433868",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "433869",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "446943",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "457206",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "457207",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "457208",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "457209",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "458219",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "458220",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "458221",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "458222",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "458223",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "458224",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "458225",
+      "type": "DEBIT",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "458226",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "458227",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "458228",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "458229",
+      "type": "DEBIT",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "468917",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MAURITIUS COMMERCIAL BANK (MOCAMBIQUE), S.A.",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "472224",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "472225",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "472226",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "472846",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "472872",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "473851",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "474113",
+      "type": "DEBIT",
+      "category": "TRAVEL MONEY",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "478703",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A.R.L.",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "478704",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A.R.L.",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "478705",
+      "issuer": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A.R.L.",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "478706",
+      "issuer": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A.R.L.",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "484133",
+      "type": "DEBIT",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "484876",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+      "countries": [
+        "MZ"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,910 @@
+{
+  "bins": [
+    {
+      "bin": "400159",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "AMINIT, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "405611",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "406423",
+      "type": "DEBIT",
+      "category": "PLUS",
+      "issuer": "BANK LEUMI LE-ISRAEL B.M.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "407516",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "BANK LEUMI LE-ISRAEL B.M.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "407517",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK LEUMI LE-ISRAEL B.M.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "407518",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK LEUMI LE-ISRAEL B.M.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "410927",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "419265",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "419266",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "419267",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "419268",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "421910",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANK LEUMI LE-ISRAEL B.M.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "421911",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANK LEUMI LE-ISRAEL B.M.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "421912",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK LEUMI LE-ISRAEL B.M.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "421913",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK LEUMI LE-ISRAEL B.M.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "421914",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK LEUMI LE-ISRAEL B.M.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "421915",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK LEUMI LE-ISRAEL B.M.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "428565",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "428566",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "428567",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "428568",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "431905",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AMINIT, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "431906",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AMINIT, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "431907",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AMINIT, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "440303",
+      "issuer": "BANK LEUMI LE-ISRAEL B.M.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "455743",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK HAPOALIM B M",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "455744",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK HAPOALIM B M",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458000",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458001",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458002",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB ISRAEL BANK, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458003",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK LEUMI LE-ISRAEL B.M.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458004",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458005",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458006",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458007",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458008",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458009",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458010",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK LEUMI LE-ISRAEL B.M.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458011",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK LEUMI LE-ISRAEL B.M.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458012",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK LEUMI LE-ISRAEL B.M.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458013",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458014",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK LEUMI LE-ISRAEL B.M.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458015",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK LEUMI LE-ISRAEL B.M.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458016",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458017",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458018",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458019",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458020",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK LEUMI LE-ISRAEL B.M.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458021",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458022",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ARAB ISRAEL BANK, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458023",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANK LEUMI LE-ISRAEL B.M.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458024",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458025",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458026",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458027",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458028",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458029",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458030",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458031",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458032",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458033",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "MERCANTILE DISCOUNT BANK, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458034",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "MERCANTILE DISCOUNT BANK, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458035",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "MERCANTILE DISCOUNT BANK, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458036",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRST INTERNATIONAL BANK OF ISRAEL, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458037",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRST INTERNATIONAL BANK OF ISRAEL, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458038",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRST INTERNATIONAL BANK OF ISRAEL, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458039",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458041",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK LEUMI LE-ISRAEL B.M.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458042",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK LEUMI LE-ISRAEL B.M.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458043",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK LEUMI LE-ISRAEL B.M.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458044",
+      "issuer": "LEUMI CARD",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458045",
+      "issuer": "LEUMI CARD",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458047",
+      "issuer": "LEUMI CARD",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458048",
+      "issuer": "LEUMI CARD",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458049",
+      "issuer": "LEUMI CARD",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458050",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458051",
+      "issuer": "LEUMI CARD",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458052",
+      "issuer": "LEUMI CARD",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458053",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458054",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458055",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458057",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458078",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458079",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458080",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458081",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458082",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458083",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458085",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458086",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458087",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458090",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK LEUMI LE-ISRAEL B.M.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458091",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458092",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ARAB ISRAEL BANK, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458093",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK LEUMI LE-ISRAEL B.M.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458094",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458095",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458096",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458097",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458098",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "458099",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ISRAEL CREDIT CARDS, LTD.",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "459440",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "459523",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "480982",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "480983",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "480984",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "494055",
+      "issuer": "UNITED MIZRAHI BANK",
+      "countries": [
+        "IL"
+      ]
+    },
+    {
+      "bin": "494056",
+      "issuer": "UNITED MIZRAHI BANK",
+      "countries": [
+        "IL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "bins": [
+    {
+      "bin": "510920",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "515869",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MAURITIUS POST AND COOPERATIVE BANK, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "518160",
+      "issuer": "INDIAN OCEAN INTERNATIONAL BANK, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "521087",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "523974",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CIM FINANCE, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "523979",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CIM FINANCE, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "523995",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CIM FINANCE, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "524709",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CIM FINANCE, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "525428",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CIM FINANCE, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "527418",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MAURITIUS COMMERCIAL BANK, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "528165",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "530149",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CIM FINANCE, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "531834",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "STATE BANK OF MAURITIUS, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "533116",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "541638",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MAURITIUS COMMERCIAL BANK, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "543395",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "543603",
+      "type": "CREDIT",
+      "issuer": "STATE BANK OF MAURITIUS, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "543928",
+      "type": "CREDIT",
+      "issuer": "MAURITIUS POST AND COOPERATIVE BANK, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "544541",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MAURITIUS COMMERCIAL BANK, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "545304",
+      "issuer": "MAURITIUS COMMERCIAL BANK LIMITED",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "545486",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "545643",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "545644",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "546075",
+      "issuer": "MAURITIUS COMMERCIAL BANK LIMITED",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "547124",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STATE BANK OF MAURITIUS, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "547528",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MAURITIUS COMMERCIAL BANK, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "548583",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "549388",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "549398",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "549399",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "550108",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "550144",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "550151",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "550152",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "552898",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CIM FINANCE, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "556666",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "MAURITIUS COMMERCIAL BANK, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "559304",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "559305",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "559306",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "559403",
+      "countries": [
+        "MU"
+      ]
+    }
+  ]
+}

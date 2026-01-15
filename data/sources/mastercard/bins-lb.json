@@ -1,0 +1,2356 @@
+{
+  "bins": [
+    {
+      "bin": "510085",
+      "type": "CREDIT",
+      "issuer": "BBAC S.A.L",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "510440",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BBAC S.A.L",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "510446",
+      "type": "CREDIT",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "510451",
+      "type": "CREDIT",
+      "issuer": "BLC BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "510454",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "510459",
+      "type": "CREDIT",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "510513",
+      "type": "CREDIT",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "510522",
+      "issuer": "CREDITCARD SERVICES COMPANY S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "510531",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "510532",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "510533",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "510534",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "511841",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "512052",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "512061",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "512252",
+      "type": "CREDIT",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "512263",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "512301",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "512339",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "512373",
+      "type": "CREDIT",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "512404",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "512433",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "512714",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "512751",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "512798",
+      "type": "CREDIT",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "512983",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "512994",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "514028",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "514075",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "514076",
+      "type": "CREDIT",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "514443",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BLOM BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "514734",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "515562",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "515585",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "515838",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "516073",
+      "type": "CREDIT",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "516343",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "516378",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "516440",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "516475",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "517568",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "517577",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "517658",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "517704",
+      "type": "CREDIT",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "517941",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BBAC S.A.L",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "517994",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BBAC S.A.L",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "517995",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "518107",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BBAC S.A.L",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "518108",
+      "type": "CREDIT",
+      "issuer": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "518162",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "518437",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "518485",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "518493",
+      "issuer": "BANQUE AUDI S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "518575",
+      "issuer": "BANK OF BEIRUT AND THE ARAB COUNTRIESS.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "518750",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "518883",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "519316",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "519441",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "519451",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "519857",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "519964",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "520065",
+      "type": "CREDIT",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "520069",
+      "type": "CREDIT",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "520107",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "520124",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "520150",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "520398",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "520420",
+      "type": "CREDIT",
+      "issuer": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "520433",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "520748",
+      "issuer": "CREDITCARD SERVICES COMPANY S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "521082",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "521323",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AL-MAWARID BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "521949",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "522053",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BLOM BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "522067",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "522133",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BLOM BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "522197",
+      "type": "CREDIT",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "522986",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "523408",
+      "type": "CREDIT",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "524061",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AL-MAWARID BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "524062",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "524065",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BLOM BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "524103",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "524127",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "524145",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "524160",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "524194",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "524195",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "524215",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "524235",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "524269",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "524334",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BLOM BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "524350",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "524733",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "525691",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "525924",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "526405",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "526406",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "526407",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "526432",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "526486",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "526774",
+      "type": "CREDIT",
+      "issuer": "BBAC S.A.L",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "526902",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "526928",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "526932",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "527408",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "527570",
+      "type": "CREDIT",
+      "issuer": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "528003",
+      "type": "CREDIT",
+      "issuer": "BLC BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "528493",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "528496",
+      "category": "STANDARD",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "528646",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "528810",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "528886",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "529128",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANKMED S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "529223",
+      "type": "CREDIT",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "529559",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BLC BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "529622",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "529722",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "529724",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "529954",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "529977",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "530031",
+      "type": "CREDIT",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "530540",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L. /COMMERCE AND FINANCE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "530761",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "530762",
+      "category": "STANDARD",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L. /COMMERCE AND FINANCE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "530763",
+      "category": "STANDARD",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L. /COMMERCE AND FINANCE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "530764",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L. /COMMERCE AND FINANCE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "530765",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L. /COMMERCE AND FINANCE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "530933",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "531130",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "531131",
+      "issuer": "LEBANON AND GULF BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "531132",
+      "category": "STANDARD",
+      "issuer": "CREDITCARD SERVICES COMPANY S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "531133",
+      "issuer": "LEBANON AND GULF BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "531134",
+      "issuer": "LEBANON AND GULF BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "531135",
+      "issuer": "LEBANON AND GULF BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "531136",
+      "issuer": "LEBANON AND GULF BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "531137",
+      "issuer": "LEBANON AND GULF BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "531138",
+      "issuer": "LEBANON AND GULF BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "531139",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "531151",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "531182",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "531183",
+      "category": "STANDARD",
+      "issuer": "CREDITCARD SERVICES COMPANY S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "531184",
+      "issuer": "LEBANON AND GULF BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "531185",
+      "category": "STANDARD",
+      "issuer": "CREDITCARD SERVICES COMPANY S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "531188",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "531189",
+      "category": "STANDARD",
+      "issuer": "CREDITCARD SERVICES COMPANY S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "531279",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BLOM BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "531653",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK AUDI S.A.L. - AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "531716",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "531824",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "532852",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "533207",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "533750",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "533758",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "533761",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "533984",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANK AUDI S.A.L. - AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "534318",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "535967",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "537028",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "537052",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "537163",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "BLOM BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "537791",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "538980",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "539920",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "539963",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "540030",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "540710",
+      "issuer": "LEBANON AND GULF BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "540998",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "541059",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "541261",
+      "type": "CREDIT",
+      "issuer": "BANKMED S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "541408",
+      "issuer": "LEBANON AND GULF BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "541409",
+      "issuer": "LEBANON AND GULF BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "541876",
+      "type": "CREDIT",
+      "issuer": "BLC BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "542164",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "542205",
+      "type": "CREDIT",
+      "issuer": "AL-MAWARID BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "542212",
+      "type": "CREDIT",
+      "issuer": "AL-MAWARID BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "542215",
+      "type": "CREDIT",
+      "issuer": "AL-MAWARID BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "542789",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "542824",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "542845",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "542910",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "542912",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "542920",
+      "type": "CREDIT",
+      "issuer": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "542938",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "542951",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "AL-MAWARID BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "543153",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "543168",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "543413",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "543937",
+      "type": "CREDIT",
+      "issuer": "BLC BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "543958",
+      "issuer": "CREDITCARD SERVICES COMPANY S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "544010",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "544011",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "544040",
+      "type": "CREDIT",
+      "issuer": "AL-MAWARID BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "544041",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AL-MAWARID BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "544091",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANKMED S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "544122",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "544274",
+      "type": "CREDIT",
+      "issuer": "AL-MAWARID BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "544279",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AL-MAWARID BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "544332",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "544334",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "544523",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "544524",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "544525",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "544759",
+      "type": "CREDIT",
+      "issuer": "AL-MAWARID BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "544760",
+      "issuer": "AL-MAWARID BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "544894",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "544956",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "544978",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "545641",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "545642",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "545980",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "546323",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "546324",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "546325",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "546328",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "546329",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "546572",
+      "type": "CREDIT",
+      "issuer": "AL-MAWARID BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "546573",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AL-MAWARID BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "546693",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "547085",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "547136",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "547235",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "547850",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANKMED S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "548178",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "548179",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "548599",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "548881",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "548896",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "548905",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "548916",
+      "category": "STANDARD",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "548920",
+      "type": "CREDIT",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "548972",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "549758",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "549761",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "549767",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "549773",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "549791",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "549819",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "549836",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BANKMED S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "549961",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "549962",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "550023",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "552009",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "552045",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "552056",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "552062",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "552108",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "552231",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BLC BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "552258",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "552275",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "552304",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "552369",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "552868",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "553186",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "553425",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "553595",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "554276",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "554383",
+      "issuer": "AL-MAWARID BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "554384",
+      "issuer": "AL-MAWARID BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "554448",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "554449",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "554450",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "554451",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "554485",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BLC BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "554516",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BLC BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "554559",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "554560",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "554605",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "554757",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "554769",
+      "issuer": "AL-MAWARID BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "554843",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "554866",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "554928",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "554961",
+      "issuer": "AL-MAWARID BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "555937",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "555943",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "556622",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "557616",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "557618",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "557630",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANQUE LIBANO-FRANCAISE S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "557673",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "557681",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BLOM BANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "557757",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "557760",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "557761",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "557778",
+      "type": "CREDIT",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "558283",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "558820",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "559303",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "559315",
+      "countries": [
+        "LB"
+      ]
+    },
+    {
+      "bin": "559411",
+      "type": "DEBIT",
+      "countries": [
+        "LB"
+      ]
+    }
+  ]
+}

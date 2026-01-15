@@ -1,0 +1,31 @@
+{
+  "bins": [
+    {
+      "bin": "408466",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EXIM BANK COMOROS",
+      "countries": [
+        "KM"
+      ]
+    },
+    {
+      "bin": "408467",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "EXIM BANK COMOROS",
+      "countries": [
+        "KM"
+      ]
+    },
+    {
+      "bin": "408469",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EXIM BANK COMOROS",
+      "countries": [
+        "KM"
+      ]
+    }
+  ]
+}

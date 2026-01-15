@@ -1,0 +1,43 @@
+{
+  "bins": [
+    {
+      "bin": "560251",
+      "type": "DEBIT",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "560265",
+      "type": "DEBIT",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "579974",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BENDIGO AND ADELAIDE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "606179",
+      "type": "DEBIT",
+      "issuer": "COMMONWEALTH FINANCE SOLUTIONS, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "633791",
+      "type": "DEBIT",
+      "issuer": "COMMONWEALTH FINANCE SOLUTIONS, LTD.",
+      "countries": [
+        "AU"
+      ]
+    }
+  ]
+}

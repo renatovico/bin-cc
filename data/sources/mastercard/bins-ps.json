@@ -1,0 +1,47 @@
+{
+  "bins": [
+    {
+      "bin": "521026",
+      "type": "CREDIT",
+      "issuer": "INTERNATIONAL CARD CO., LTD.",
+      "countries": [
+        "PS"
+      ]
+    },
+    {
+      "bin": "530556",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INTERNATIONAL CARD CO., LTD.",
+      "countries": [
+        "PS"
+      ]
+    },
+    {
+      "bin": "541771",
+      "type": "CREDIT",
+      "issuer": "BANK OF PALESTINE, LTD.",
+      "countries": [
+        "PS"
+      ]
+    },
+    {
+      "bin": "541881",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF PALESTINE, LTD.",
+      "countries": [
+        "PS"
+      ]
+    },
+    {
+      "bin": "548492",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "INTERNATIONAL CARD CO., LTD.",
+      "countries": [
+        "PS"
+      ]
+    }
+  ]
+}

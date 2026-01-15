@@ -1,0 +1,803 @@
+{
+  "bins": [
+    {
+      "bin": "400849",
+      "category": "ELECTRON",
+      "issuer": "GWK BANK, N.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "400850",
+      "issuer": "INTERNATIONAL CARD SERVICES BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "400851",
+      "issuer": "INTERNATIONAL CARD SERVICES BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "400852",
+      "issuer": "INTERNATIONAL CARD SERVICES BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "400853",
+      "issuer": "INTERNATIONAL CARD SERVICES BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "400854",
+      "issuer": "INTERNATIONAL CARD SERVICES BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "400855",
+      "issuer": "INTERNATIONAL CARD SERVICES BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "400856",
+      "issuer": "INTERNATIONAL CARD SERVICES BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "400857",
+      "issuer": "INTERNATIONAL CARD SERVICES BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "400858",
+      "issuer": "INTERNATIONAL CARD SERVICES BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "400859",
+      "issuer": "INTERNATIONAL CARD SERVICES BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "400862",
+      "category": "ELECTRON",
+      "issuer": "GWK BANK, N.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "400866",
+      "category": "ELECTRON",
+      "issuer": "GWK BANK, N.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "400868",
+      "category": "ELECTRON",
+      "issuer": "GWK BANK, N.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "402183",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "402392",
+      "issuer": "INTERPAY NEDERLAND B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "402769",
+      "issuer": "INTERPAY NEDERLAND B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "403020",
+      "issuer": "INTERPAY NEDERLAND B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "403021",
+      "issuer": "INTERPAY NEDERLAND B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "403671",
+      "issuer": "INTERPAY NEDERLAND B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "403672",
+      "issuer": "INTERPAY NEDERLAND B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "403673",
+      "issuer": "INTERPAY NEDERLAND B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "403674",
+      "issuer": "INTERPAY NEDERLAND B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "403678",
+      "issuer": "INTERPAY NEDERLAND B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "408510",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INLUX (NETHERLANDS) BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "408514",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INLUX (NETHERLANDS) BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "408516",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INLUX (NETHERLANDS) BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "408520",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INLUX (NETHERLANDS) BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "409855",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "PAYSQUARE B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "410576",
+      "issuer": "INTERPAY NEDERLAND B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "410577",
+      "issuer": "INTERPAY NEDERLAND B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "410578",
+      "issuer": "INTERPAY NEDERLAND B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "410579",
+      "issuer": "INTERPAY NEDERLAND B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "410580",
+      "issuer": "INTERPAY NEDERLAND B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "410581",
+      "issuer": "INTERPAY NEDERLAND B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "410582",
+      "issuer": "INTERPAY NEDERLAND B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "410583",
+      "issuer": "INTERPAY NEDERLAND B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "415501",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LASER NEDERLAND B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "415535",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INTERPAY NEDERLAND B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "416667",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "417274",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ING BANK, N.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "417624",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "COOPERATIEVE CENTRALE RAIFFEISEN- BOERENLEENBANK B.A. (RABOB",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "417776",
+      "issuer": "INTERPAY NEDERLAND B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "417777",
+      "issuer": "INTERPAY NEDERLAND B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "419215",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "COOPERATIEVE CENTRALE RAIFFEISEN- BOERENLEENBANK B.A. (RABOB",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "422060",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ING BANK",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "424607",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "COOPERATIEVE CENTRALE RAIFFEISEN- BOERENLEENBANK B.A. (RABOBANK NEDERLAND)",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "428086",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PAYSQUARE B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "428087",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PAYSQUARE B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "429777",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "430245",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "430246",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "430247",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "430248",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "430249",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "430250",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "431349",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PAYSQUARE B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "438268",
+      "issuer": "INTERPAY NEDERLAND B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "445620",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "PAYSQUARE B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "448510",
+      "category": "PURCHASING",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "448521",
+      "category": "PURCHASING",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "455601",
+      "issuer": "INTERNATIONAL CARD SERVICES BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "455618",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF AMERICA N.T. AND, S.A.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "455619",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF AMERICA N.T. AND, S.A.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "456350",
+      "issuer": "INTERNATIONAL CARD SERVICES BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "456352",
+      "type": "CREDIT",
+      "category": "ELECTRON",
+      "issuer": "VSB INTERNATIONAL B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "456353",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INTERNATIONAL CARD SERVICES BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "456354",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INTERNATIONAL CARD SERVICES BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "456355",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "INTERNATIONAL CARD SERVICES BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "456386",
+      "issuer": "INTERNATIONAL CARD SERVICES BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "456387",
+      "issuer": "INTERNATIONAL CARD SERVICES BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "456388",
+      "issuer": "INTERNATIONAL CARD SERVICES BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "456764",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "456765",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "456768",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "459544",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "459848",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "459849",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "472304",
+      "type": "DEBIT",
+      "category": "PROPRIETARY ATM",
+      "issuer": "INLUX (NETHERLANDS) BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "472314",
+      "type": "DEBIT",
+      "category": "PROPRIETARY ATM",
+      "issuer": "INLUX (NETHERLANDS) BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "472316",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INLUX (NETHERLANDS) BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "472317",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INLUX (NETHERLANDS) BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "472318",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INLUX (NETHERLANDS) BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "472319",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "472320",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "472330",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INLUX (NETHERLANDS) BV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "472906",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "474131",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "474291",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "476024",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "POSTBANK, N.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "477257",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PAYSQUARE B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "477258",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PAYSQUARE B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "477259",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "PAYSQUARE B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "480241",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "INTERPAY NEDERLAND B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "487501",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "487580",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "487585",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "487599",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "INTERPAY NEDERLAND B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "488061",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "493405",
+      "issuer": "EUFISERV",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "493831",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VSB INTERNATIONAL B.V.",
+      "countries": [
+        "NL"
+      ]
+    },
+    {
+      "bin": "498855",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT LYONNAIS BANK NEDERLAND, N.V.",
+      "countries": [
+        "NL"
+      ]
+    }
+  ]
+}

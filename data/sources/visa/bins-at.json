@@ -1,0 +1,883 @@
+{
+  "bins": [
+    {
+      "bin": "400302",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "VISA AUSTRIA",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "404264",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VISA AUSTRIA",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "410364",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PAYLIFE BANK GMBH",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "410366",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PAYLIFE BANK GMBH",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "410367",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PAYLIFE BANK GMBH",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "410368",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PAYLIFE BANK GMBH",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "419808",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA AUSTRIA",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "422093",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "422210",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "422211",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "423801",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "VISA AUSTRIA",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "424358",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VISA AUSTRIA",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "427313",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "VISA AUSTRIA",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "427323",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "VISA AUSTRIA",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "427798",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "VISA AUSTRIA",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "427799",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "VISA AUSTRIA",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "430344",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RBS (RD EUROPE) GMBH",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "430345",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RBS (RD EUROPE) GMBH",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "430346",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "RBS (RD EUROPE) GMBH",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "430347",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "RBS (RD EUROPE) GMBH",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "431337",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "VISA AUSTRIA",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "431338",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "VISA AUSTRIA",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "431339",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "VISA AUSTRIA",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "431340",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "VISA AUSTRIA",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "431341",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "VISA AUSTRIA",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "431342",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "VISA AUSTRIA",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "431343",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "VISA AUSTRIA",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "431344",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "VISA AUSTRIA",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437000",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437001",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437002",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437003",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437005",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437007",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437009",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437032",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437038",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437046",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437061",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437062",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437063",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437064",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437065",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437085",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437086",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437087",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437088",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437089",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437090",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437100",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437101",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437102",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437103",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437104",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437105",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437107",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437108",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437109",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437125",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437126",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437127",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437128",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437129",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437136",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437137",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437138",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437139",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437160",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437161",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437162",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437164",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437165",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437205",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437206",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437207",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437208",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437209",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437220",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437221",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437222",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437223",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437224",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437231",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437232",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437233",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437234",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437237",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437239",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437255",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437269",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437270",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437271",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437272",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437273",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437274",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437275",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437276",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437277",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437278",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437288",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437291",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437295",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437299",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "437898",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PAYLIFE BANK GMBH",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "443877",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EASYBANK AG",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "445442",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "448398",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITICORP",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "448470",
+      "category": "PURCHASING",
+      "issuer": "VISA AUSTRIA",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "454818",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA AUSTRIA",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "454825",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "454828",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "VISA AUSTRIA",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "455234",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VISA AUSTRIA",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "456848",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA AUSTRIA",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "459087",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISEN ZENTRALBANK OESTERREICH AG",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "459089",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISEN ZENTRALBANK OESTERREICH AG",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "460090",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PAYLIFE",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "466294",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "466555",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "486435",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "RBS (RD EUROPE) GMBH",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "490473",
+      "type": "CREDIT",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "490474",
+      "type": "CREDIT",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "498511",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "RAIFFEISEN ZENTRALBANK OESTERREICH AG",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "498512",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISEN ZENTRALBANK OESTERREICH AG",
+      "countries": [
+        "AT"
+      ]
+    },
+    {
+      "bin": "498537",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "AT"
+      ]
+    }
+  ]
+}

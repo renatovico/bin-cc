@@ -1,0 +1,237 @@
+{
+  "bins": [
+    {
+      "bin": "403740",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "bin": "411664",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "bin": "411665",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "bin": "411666",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "bin": "411667",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "bin": "417307",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "bin": "417460",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "bin": "430311",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "bin": "450854",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NEDBANK NAMIBIA, LTD.",
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "bin": "450855",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NEDBANK NAMIBIA, LTD.",
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "bin": "450856",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NEDBANK NAMIBIA, LTD.",
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "bin": "457808",
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "bin": "458728",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "bin": "458729",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "bin": "458730",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "bin": "465802",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK WINDHOEK, LTD.",
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "bin": "465824",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK WINDHOEK, LTD.",
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "bin": "465825",
+      "issuer": "BANK WINDHOEK, LTD.",
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "bin": "479053",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "bin": "479057",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FIRST NATIONAL BANK OF NAMIBIA, LTD.",
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "bin": "484849",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIRST NATIONAL BANK OF NAMIBIA LIMITED",
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "bin": "484850",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "FIRST NATIONAL BANK OF NAMIBIA LIMITED",
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "bin": "484851",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "FIRST NATIONAL BANK OF NAMIBIA LIMITED",
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "bin": "484852",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIRST NATIONAL BANK OF NAMIBIA LIMITED",
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "bin": "484853",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST NATIONAL BANK OF NAMIBIA LIMITED",
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "bin": "494106",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK WINDHOEK, LTD.",
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "bin": "494107",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANK WINDHOEK, LTD.",
+      "countries": [
+        "NA"
+      ]
+    }
+  ]
+}

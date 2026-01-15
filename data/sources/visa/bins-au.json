@@ -1,0 +1,5780 @@
+{
+  "bins": [
+    {
+      "bin": "400269",
+      "type": "DEBIT",
+      "category": "TRAVEL MONEY",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "400609",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ING BANK (AUSTRALIA), LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "401706",
+      "type": "DEBIT",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "401740",
+      "type": "DEBIT",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "401784",
+      "type": "DEBIT",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "401785",
+      "type": "DEBIT",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "401795",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "402614",
+      "category": "VISA CASH",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "402615",
+      "category": "VISA CASH",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "402655",
+      "issuer": "HSBC BANK AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "402979",
+      "type": "DEBIT",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "402980",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "402981",
+      "type": "DEBIT",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "403747",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "404137",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "GREATER BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "404340",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "404341",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "404342",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "404343",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "404344",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "404887",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "RABOBANK AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "405221",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "405497",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HERITAGE BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "405498",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HERITAGE BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "406338",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "406339",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "406340",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "406471",
+      "type": "DEBIT",
+      "category": "TRAVEL MONEY",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "406472",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "407220",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "407264",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HERITAGE BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "407282",
+      "issuer": "IOOF BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "407299",
+      "issuer": "BENDIGO BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "408177",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GREATER BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "408967",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "409208",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "409349",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "409771",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "HERITAGE BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "409772",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HERITAGE BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "409773",
+      "type": "DEBIT",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "409774",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HERITAGE BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "410010",
+      "issuer": "BANK OF WESTERN AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "410011",
+      "issuer": "BANK OF WESTERN AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "410012",
+      "issuer": "BANK OF WESTERN AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "410013",
+      "issuer": "BANK OF WESTERN AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "410014",
+      "issuer": "BANK OF WESTERN AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "410047",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "410048",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "410049",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "410050",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "410051",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "411147",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "411148",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "411149",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "MACQUARIE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "411150",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "412926",
+      "issuer": "CITIBANK",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "412978",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BENDIGO AND ADELAIDE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413300",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413301",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413302",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413303",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413305",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413306",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413307",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413308",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413309",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413312",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413313",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413316",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413321",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413322",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413323",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413324",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413325",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413326",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413327",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413328",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413329",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413330",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413331",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413332",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413333",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413334",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413335",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413337",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413338",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413339",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413340",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413347",
+      "issuer": "C.U. SERVICES CORPORATION (AUSTRALIA), LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413348",
+      "issuer": "C.U. SERVICES CORPORATION (AUSTRALIA), LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413349",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "413437",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "414146",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "B, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "414726",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "CITIGROUP PTY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "415700",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "GREATER BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "418242",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "418243",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "418244",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "418246",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "418251",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "419973",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "421198",
+      "issuer": "CITIBANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "421529",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HERITAGE BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "421645",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HERITAGE BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "421646",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HERITAGE BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "421699",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HERITAGE BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "422985",
+      "issuer": "BANK OF WESTERN AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "423913",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "423918",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "423926",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "423932",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "423933",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "423934",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "423935",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "423937",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "423946",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "423952",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "423953",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "423954",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "423965",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "423970",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "423983",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "423984",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "423985",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "423986",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "423990",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "424537",
+      "issuer": "HSBC BANK AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "424923",
+      "issuer": "MONEYSWITCH, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "424934",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HERITAGE BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "425135",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BENDIGO AND ADELAIDE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "426011",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "426032",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "426033",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "426034",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "426035",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "426529",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HERITAGE BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "426530",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HERITAGE BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "426534",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIGROUP PTY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "426556",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "426557",
+      "type": "CREDIT",
+      "issuer": "HSBC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "426558",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "426610",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "426611",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "426909",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INTERPAYMENT AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "426937",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "GIO BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "426938",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "GIO BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "426943",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "GIO BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "428202",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "428203",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "428204",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "428205",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "428206",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "428314",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "428315",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "428316",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "428317",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "428318",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "429317",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "429318",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "429321",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "B AND E, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "429761",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "429762",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "429763",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "430330",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "431217",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "431218",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "431219",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "431239",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CITIGROUP PTY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "431240",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CITIGROUP PTY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "431482",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITICORP",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "433615",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "433616",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "433617",
+      "type": "DEBIT",
+      "category": "CORPORATE T",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "433687",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "433696",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "433770",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BENDIGO AND ADELAIDE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "433780",
+      "issuer": "MACQUARIE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "434400",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "434401",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "434402",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "434404",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "434405",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "434406",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "434407",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "434408",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "434409",
+      "issuer": "C.U. SERVICES CORPORATION (AUSTRALIA), LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "434412",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "434413",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "434416",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "434417",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "434968",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF QUEENSLAND, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "435210",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "435211",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "435212",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "435213",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "435214",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "435215",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "435216",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "435217",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "435218",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "435219",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "436332",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "436356",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "436357",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "436358",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "436392",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "436531",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "SUNCORP-METWAY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "436551",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "436559",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "436755",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "436763",
+      "issuer": "C.U. SERVICES CORPORATION (AUSTRALIA), LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "437381",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "HSBC BANK AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "437730",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GE CAPITAL FINANCE AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "437731",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "GE CAPITAL FINANCE AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "437732",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GE CAPITAL FINANCE AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "437746",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HERITAGE BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "437747",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HERITAGE BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "437758",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "438234",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "438423",
+      "issuer": "FIRST DATA RESOURCES AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "439239",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIGROUP PTY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "439240",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITIGROUP PTY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "439241",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CITIGROUP PTY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "439242",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIGROUP PTY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "440484",
+      "issuer": "GREATER BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "440493",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "440815",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "440816",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "442412",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "issuer": "CITIGROUP PTY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "442645",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NEWCASTLE PERMANENT BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443084",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443400",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443401",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443402",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443403",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443404",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443405",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443406",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443407",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443408",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443409",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443410",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443411",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443412",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443413",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443414",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443415",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443416",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443417",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443418",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443419",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443420",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443421",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443422",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443423",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443424",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443425",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443426",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443427",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443428",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443429",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443430",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443431",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443432",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443433",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443434",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443435",
+      "issuer": "C.U. SERVICES CORPORATION (AUSTRALIA), LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443436",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443437",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "C.U. SERVICES CORPORATION (AUSTRALIA), LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443438",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443439",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443440",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443441",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443442",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443443",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "C.U. SERVICES CORPORATION (AUSTRALIA), LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443444",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443445",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443446",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443447",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443448",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443449",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443450",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443451",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443452",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443453",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443454",
+      "issuer": "C.U. SERVICES CORPORATION (AUSTRALIA), LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443455",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443456",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443458",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443459",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443460",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443461",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443462",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443463",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443464",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443465",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443466",
+      "issuer": "C.U. SERVICES CORPORATION (AUSTRALIA), LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443467",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443468",
+      "issuer": "C.U. SERVICES CORPORATION (AUSTRALIA), LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443469",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443470",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443471",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443472",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443473",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443474",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443475",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443476",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443477",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443478",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443479",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443480",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443481",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443482",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443483",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443484",
+      "issuer": "C.U. SERVICES CORPORATION (AUSTRALIA), LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443485",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443486",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443487",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443488",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443489",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443490",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443491",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443492",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443493",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443494",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443495",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443496",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443497",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443498",
+      "issuer": "C.U. SERVICES CORPORATION (AUSTRALIA), LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "443499",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "445009",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "445010",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "445011",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "445012",
+      "type": "DEBIT",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "445013",
+      "type": "DEBIT",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "445014",
+      "type": "DEBIT",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "445088",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HERITAGE BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "448387",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITICORP",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "449483",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450512",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450586",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450605",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BENDIGO AND ADELAIDE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450606",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450647",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450707",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450708",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450710",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450711",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450712",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450713",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450715",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450765",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450779",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450780",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450786",
+      "issuer": "ADELAIDE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450788",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450789",
+      "type": "DEBIT",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450912",
+      "type": "CREDIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450913",
+      "type": "CREDIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450927",
+      "type": "CREDIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450949",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450954",
+      "type": "CREDIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450955",
+      "type": "CREDIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450956",
+      "type": "CREDIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450957",
+      "type": "CREDIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450958",
+      "type": "CREDIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450986",
+      "type": "CREDIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450987",
+      "type": "CREDIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "450988",
+      "type": "CREDIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "451177",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "451809",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "451812",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "451813",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "451814",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "451829",
+      "issuer": "TRUST BANK",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "451855",
+      "issuer": "SUNCORP-METWAY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "451890",
+      "issuer": "CARDLINK SERVICES, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "452479",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "452480",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "452481",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "453030",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "453224",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "453751",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "453767",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "454605",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIGROUP PTY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "455427",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "455438",
+      "type": "DEBIT",
+      "category": "TRAVEL MONEY",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "455439",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "455440",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "455701",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "455702",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "455703",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "455704",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "455937",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456003",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456004",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456007",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456008",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456009",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456019",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456020",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456021",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456022",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456023",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456024",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456025",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456028",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456029",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456030",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456036",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF NEW ZEALAND",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456046",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456053",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456056",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456058",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456061",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456075",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456084",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456099",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456403",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456404",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456409",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456410",
+      "issuer": "CREDIT UNION SERVICES CORPORATION (AUSTRALIA), LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456411",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "C.U. SERVICES CORPORATION (AUSTRALIA), LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456412",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "C.U. SERVICES CORPORATION (AUSTRALIA), LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456413",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "C.U. SERVICES CORPORATION (AUSTRALIA), LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456414",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "C.U. SERVICES CORPORATION (AUSTRALIA), LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456415",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "C.U. SERVICES CORPORATION (AUSTRALIA), LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456416",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "C.U. SERVICES CORPORATION (AUSTRALIA), LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456417",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "C.U. SERVICES CORPORATION (AUSTRALIA), LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456422",
+      "issuer": "CREDIT UNION SERVICES CORPORATION (AUSTRALIA), LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456430",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SUNCORP-METWAY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456432",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SUNCORP-METWAY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456434",
+      "issuer": "TOWN AND COUNTRY BANK",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456436",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BENDIGO AND ADELAIDE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456438",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456439",
+      "issuer": "CARDLINK SERVICES, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456440",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456441",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "IMB, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456442",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456443",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BENDIGO AND ADELAIDE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456444",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK OF WESTERN AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456445",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456446",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456448",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIGROUP PTY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456450",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456453",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456454",
+      "issuer": "TRUST BANK",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456456",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BENDIGO AND ADELAIDE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456457",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456461",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456462",
+      "type": "CREDIT",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456463",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456464",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456465",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456466",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456467",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456468",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456469",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456470",
+      "issuer": "FIRST DATA RESOURCES AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456471",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456472",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456474",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456475",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NEWCASTLE PERMANENT BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456476",
+      "issuer": "CASHCARD AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456479",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "POLICE ASSOCIATION CREDIT CO-OPERATIVE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456480",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456481",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF WESTERN AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456482",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456485",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456486",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456487",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITIGROUP PTY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456489",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BENDIGO AND ADELAIDE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456490",
+      "issuer": "VICTORIA TEACHERS CREDIT UNION, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456494",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456495",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456497",
+      "issuer": "TRUST BANK",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456498",
+      "issuer": "IOOF BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456543",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BENDIGO AND ADELAIDE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "456555",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "457232",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "457233",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "457244",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "457356",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "457435",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "457543",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "457544",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "457545",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "457546",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "457547",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "457730",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "458524",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "458570",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "458594",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "458595",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "458858",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "460184",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "460198",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "461756",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "461757",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "461953",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "461955",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "461956",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "461957",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "461961",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "461963",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "461964",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "461966",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "461967",
+      "type": "DEBIT",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "461973",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "461974",
+      "type": "DEBIT",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "461975",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "461976",
+      "type": "DEBIT",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "461977",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462201",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462204",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462205",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462207",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462208",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462213",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462216",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462217",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462218",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462219",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462221",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462222",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462223",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462227",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462228",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462230",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462231",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462232",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462233",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462239",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462240",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462248",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462249",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462250",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462251",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462253",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462254",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462258",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462259",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462260",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462263",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ING BANK (AUSTRALIA), LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462266",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462281",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462282",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462283",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462284",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462285",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462289",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462290",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462291",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462292",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462293",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462294",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462295",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462296",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462297",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462298",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462299",
+      "type": "DEBIT",
+      "issuer": "ANZ BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462480",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462481",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462857",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "GREATER BUILDING SOCIETY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462949",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "462950",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "463171",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "463172",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "463173",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "463174",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "463175",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "463176",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "463177",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "463782",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "463783",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "463784",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "463796",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITIGROUP PTY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "463797",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIGROUP PTY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "464034",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "464035",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "464491",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "464553",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "464554",
+      "type": "DEBIT",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "464555",
+      "type": "DEBIT",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "464556",
+      "type": "DEBIT",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "464579",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "464941",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "466565",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "467461",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "467847",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CITIGROUP PTY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "468229",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "468524",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CITIGROUP PTY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "468525",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "468812",
+      "issuer": "BANK OF WESTERN AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "470550",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "470551",
+      "type": "DEBIT",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "470552",
+      "type": "DEBIT",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "470563",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BROKEN HILL C.U.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "470564",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "470565",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BROKEN HILL C.U.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "470568",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BROKEN HILL C.U.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "471514",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "471527",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "471572",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "472079",
+      "issuer": "SUNCORP-METWAY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "472093",
+      "issuer": "BANK OF WESTERN AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "472094",
+      "issuer": "BANK OF WESTERN AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "472095",
+      "issuer": "BANK OF WESTERN AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "472096",
+      "issuer": "BANK OF WESTERN AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "472097",
+      "issuer": "BANK OF WESTERN AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "472098",
+      "issuer": "BANK OF WESTERN AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "472302",
+      "type": "DEBIT",
+      "category": "TRAVEL MONEY",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "472436",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "472437",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "472658",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "472659",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "472660",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "472678",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "472679",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "472690",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "472691",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "472694",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "472695",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "472696",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "472697",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "474280",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "474838",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "474839",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "HERITAGE BANK LIMITED",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "474855",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "HERITAGE BANK LIMITED",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "476048",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "476090",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF CHINA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "476091",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANK OF CHINA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "476122",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "476123",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "476581",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "476639",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "VICTORIA TEACHERS LIMITED",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "477360",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "477361",
+      "issuer": "BIG SKY C.U.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "479137",
+      "issuer": "BANK OF WESTERN AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "479159",
+      "type": "DEBIT",
+      "category": "PREPAID TRAVEL MONEY",
+      "issuer": "CITIGROUP PTY LIMITED",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "480274",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "482111",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "482112",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "482114",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "482115",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "482116",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "482118",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "482120",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "483788",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMMUNITY MUTUAL LTD",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "483789",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMMUNITY MUTUAL LTD",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "483800",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "483801",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "483802",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "483803",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "483804",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "483805",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "483806",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "483807",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "483820",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "483821",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "483822",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "483823",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "483824",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "483897",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "483898",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "483899",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "484062",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "485984",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "CITIGROUP PTY LIMITED",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "486260",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "486270",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "486271",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "486277",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "486491",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "486501",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "CITIGROUP PTY, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "488903",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "488923",
+      "type": "DEBIT",
+      "category": "PREPAID - CLASSIC",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "489080",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "489312",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "HSBC BANK AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "489313",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HSBC BANK AUSTRALIA, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "489981",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "489982",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "490237",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "490242",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "490276",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "490292",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "NATIONAL AUSTRALIA BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "491661",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CUSCAL, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "493414",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "494052",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "494053",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "COMMONWEALTH BANK OF AUSTRALIA",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "494097",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INDUE, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "496667",
+      "issuer": "MACQUARIE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "496684",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "BANK OF NEW ZEALAND",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "496692",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "ST. GEORGE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "498413",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MACQUARIE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "498414",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MACQUARIE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "498415",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "MACQUARIE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "498416",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MACQUARIE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "bin": "498417",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MACQUARIE BANK, LTD.",
+      "countries": [
+        "AU"
+      ]
+    }
+  ]
+}

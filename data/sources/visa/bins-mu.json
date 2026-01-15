@@ -1,0 +1,553 @@
+{
+  "bins": [
+    {
+      "bin": "400076",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD BANK (MAURITIUS), LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "400077",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "STANDARD BANK (MAURITIUS), LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "406619",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "407460",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "MAURITIUS COMMERCIAL BANK, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "407803",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "STATE BANK OF MAURITIUS, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "409613",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STATE BANK OF MAURITIUS, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "409689",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STATE BANK OF MAURITIUS, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "414670",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE NATIONALE DE PARIS INTERCONTINENTALE",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "416641",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "416642",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE DES MASCAREIGNES",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "417240",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE DES MASCAREIGNES",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "417618",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SOUTH EAST ASIAN BANK, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "417619",
+      "issuer": "SOUTH EAST ASIAN BANK, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "417620",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANQUE DES MASCAREIGNES",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "427286",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STATE BANK OF MAURITIUS, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "428927",
+      "issuer": "BANK OF BARODA",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "428951",
+      "issuer": "STATE BANK OF MAURITIUS, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "429059",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "432065",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "432151",
+      "type": "DEBIT",
+      "category": "GIFT",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "432152",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "432153",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "444494",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "446969",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "454347",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STATE BANK OF MAURITIUS, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "454690",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STATE BANK OF MAURITIUS, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "454691",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "STATE BANK OF MAURITIUS, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "454695",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "STATE BANK OF MAURITIUS, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "454739",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "455003",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MAURITIUS COMMERCIAL BANK, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "455011",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MAURITIUS COMMERCIAL BANK, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "456709",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STATE BANK OF MAURITIUS, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "457870",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "458275",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "458276",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "458277",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "458541",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "462753",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF BARODA",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "465474",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "466084",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "466085",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "466086",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "466087",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "466088",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "466089",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "467750",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "467751",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "467752",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "467753",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "467754",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "467774",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "467775",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "467776",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "471322",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "471340",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HABIB BANK, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "474140",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STATE BANK OF MAURITIUS, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "476116",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "476117",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "478750",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "491076",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "491077",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "491222",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "MAURITIUS COMMERCIAL BANK, LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "491230",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANQUE NATIONALE DE PARIS INTERCONTINENTALE",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "493473",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "494045",
+      "issuer": "GROUPEMENT CARTE BLEUE",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "494105",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "bin": "494325",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE NATIONALE DE PARIS INTERCONTINENTALE",
+      "countries": [
+        "MU"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1389 @@
+{
+  "bins": [
+    {
+      "bin": "402801",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "LUOTTOKUNTA",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "402802",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HANDELSBANKEN",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "402803",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "402804",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "410056",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "IKANO BANK SE",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "415301",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "424373",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SAMPO PANKKI OYJ",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "424374",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SAMPO PANKKI OYJ",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "424391",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LUOTTOKUNTA",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "424392",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "LUOTTOKUNTA",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "424393",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AKTIA SAASTOPANKII OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "424394",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LUOTTOKUNTA",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "424395",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "LUOTTOKUNTA",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "424396",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AKTIA SAASTOPANKII OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "424397",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LUOTTOKUNTA",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "424398",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "LUOTTOKUNTA",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "424399",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AKTIA SAASTOPANKII OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "426827",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SAMPO PANKKI OYJ",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "426828",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SAMPO PANKKI OYJ",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "426829",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "SAMPO PANKKI OYJ",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "426833",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SAMPO PANKKI OYJ",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "429057",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "431870",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "S-PANKKI OY (S-BANK LIMITED)",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "431871",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "S-PANKKI OY (S-BANK LIMITED)",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "432271",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "432272",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "432273",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "432274",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "432275",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "432276",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "432277",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "POHJOLA BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "432278",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "POHJOLA BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "432464",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "432466",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "POHJOLA BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "432467",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "POHJOLA BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "432468",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "POHJOLA BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "448396",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITIBANK ESPANA, S.A.",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "448544",
+      "category": "PURCHASING",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462002",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462003",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462004",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462005",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462006",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462007",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462008",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462011",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462016",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462017",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462019",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462020",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462021",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462022",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462024",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462025",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462026",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462029",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462030",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462031",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462032",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462033",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462034",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462036",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462037",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462038",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462040",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462041",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462042",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462043",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462044",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462045",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462046",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462047",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462048",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462049",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462060",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462061",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462062",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462063",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462064",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462065",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462066",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462067",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462068",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462069",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462070",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462071",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462072",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462073",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462074",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462075",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462076",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462077",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462078",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462079",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462080",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462081",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462082",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462083",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462084",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462085",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462086",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462087",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462088",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462089",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462090",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462091",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462092",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462093",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462094",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462095",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462096",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462097",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462098",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "462099",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "474220",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "474221",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "475166",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "475167",
+      "type": "DEBIT",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "475168",
+      "type": "DEBIT",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "476681",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "476682",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492000",
+      "issuer": "LUOTTOKUNTA",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492005",
+      "issuer": "LUOTTOKUNTA",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492007",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "POHJOLA BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492010",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492011",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492015",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492016",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492017",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492018",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492019",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492020",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492021",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492025",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "POHJOLA BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492026",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492028",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492029",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492030",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SVENSKA HANDELSBANKEN AB (PUBL)",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492031",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492033",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492034",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492037",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492038",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HANDELSBANKEN - FINLAND",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492039",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HANDELSBANKEN - FINLAND",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492040",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AKTIA SAASTOPANKII OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492041",
+      "issuer": "SP/POP",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492042",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492045",
+      "issuer": "AKTIIVIRAHA",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492046",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AKTIA SAASTOPANKII OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492047",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492048",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492049",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AKTIA SAASTOPANKII OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492050",
+      "issuer": "OP",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492051",
+      "issuer": "OP",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492054",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492055",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "LUOTTOKUNTA",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492056",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "POHJOLA BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492057",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "POHJOLA BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492058",
+      "issuer": "LUOTTOKUNTA",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492059",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "POHJOLA BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492060",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF AALAND LTD. (AALANDSBANKEN AB)",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492061",
+      "issuer": "ANDSBANKEN",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492065",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "POHJOLA BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492066",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF AALAND LTD. (AALANDSBANKEN AB)",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492068",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "SVENSKA HANDELSBANKEN AB (PUBL)",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492069",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF AALAND LTD. (AALANDSBANKEN AB)",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492070",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492071",
+      "issuer": "TAPIOLA",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492074",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492076",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492078",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TAPIOLA PANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492079",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STS BANK",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492080",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SAMPO PANKKI OYJ",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492081",
+      "issuer": "SAMPO",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492086",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SAMPO PANKKI OYJ",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492088",
+      "issuer": "SAMPO",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "492089",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SAMPO PANKKI OYJ",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "498501",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "499887",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "POHJOLA BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    }
+  ]
+}

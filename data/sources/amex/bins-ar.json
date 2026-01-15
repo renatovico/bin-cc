@@ -2,10 +2,404 @@
   "scheme": "amex",
   "bins": [
     {
+      "bin": "376400",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376401",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376402",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376403",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376404",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376405",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376406",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376407",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376408",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376409",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376410",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376411",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376412",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376413",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376414",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376415",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376416",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376417",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376418",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376419",
+      "type": "CREDIT",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376450",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376451",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376452",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376453",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376454",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376455",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376456",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376457",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376458",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376459",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376630",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376631",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376632",
+      "type": "CREDIT",
+      "issuer": "BANCO RIO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376633",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376634",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376635",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376636",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376637",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376638",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "376639",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
       "bin": "377790",
       "type": "credit",
       "issuer": "Santander Río",
-      "countries": ["AR"]
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "377791",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "377792",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "377793",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "377794",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "377795",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "377796",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "377797",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "377800",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "377804",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "AR"
+      ]
     }
   ]
 }

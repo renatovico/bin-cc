@@ -1,0 +1,27 @@
+{
+  "bins": [
+    {
+      "bin": "504311",
+      "type": "DEBIT",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "508233",
+      "type": "DEBIT",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "589460",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    }
+  ]
+}

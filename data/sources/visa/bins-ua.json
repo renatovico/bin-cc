@@ -1,0 +1,6540 @@
+{
+  "bins": [
+    {
+      "bin": "400629",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSB PIVDENNYI",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "400644",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "401800",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PJSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402191",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "issuer": "PJSC UKRSOTSBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402454",
+      "issuer": "JSC MARINE TRANSPORT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402511",
+      "issuer": "JSC INDUSTRIAL EXPORT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402622",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CJS SOCIETY BANK PETROCOMMERCE-UKRAINE",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402623",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CJS SOCIETY BANK PETROCOMMERCE-UKRAINE",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402624",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CJS SOCIETY BANK PETROCOMMERCE-UKRAINE",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402625",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CJS SOCIETY BANK PETROCOMMERCE-UKRAINE",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402631",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402632",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "PJSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402633",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402634",
+      "issuer": "JSC UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402675",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "COMMERCIAL BANK ZAKHIDINKOMBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402676",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "COMMERCIAL BANK ZAKHIDINKOMBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402677",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "COMMERCIAL BANK ZAKHIDINKOMBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402678",
+      "issuer": "COMMERCIAL BANK ZAKHIDINKOMBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402731",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UKRAINIAN PROFESSIONAL BANK, OJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402732",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "UKRAINIAN PROFESSIONAL BANK, OJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402733",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UKRAINIAN PROFESSIONAL BANK, OJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402889",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "OJSC BANK UNIVERS.A.L.",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402901",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSB POLTAVA BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402902",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSB POLTAVA BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402903",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSB POLTAVA BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402904",
+      "issuer": "JSB POLTAVA BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402905",
+      "issuer": "UKRAINIAN PROFESSIONAL BANK, OJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402916",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402961",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSB PIVDENNYI",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402962",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSB PIVDENNYI",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402963",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSB PIVDENNYI",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "402964",
+      "issuer": "JSB PIVDENNYI",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "403070",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "403368",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "OJSC SWEDBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "403471",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PJSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "403520",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "403693",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PJSC BANK FINANCE AND CREDIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "403813",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC REAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "403814",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "OJSC REAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "403815",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OJSC REAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404006",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404007",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404008",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404009",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404170",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404230",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSCB UNITED COMMERCIAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404231",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "JSCB UNITED COMMERCIAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404232",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSCB UNITED COMMERCIAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404233",
+      "issuer": "JSCB UNITED COMMERCIAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404259",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC BANK FORUM",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404260",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "PJSC BANK FORUM",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404261",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC BANK FORUM",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404262",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PJSC BANK FORUM",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404263",
+      "issuer": "JSCB FORUM",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404274",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC CB PRAVEX-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404275",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC CB PRAVEX-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404287",
+      "issuer": "OJSC THE UNIVERSAL BANK FOR DEVELOPMENT AND PARTNERSHIP",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404764",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC CB PRAVEX-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404856",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SELYANSKIY COMMERCIAL BANK DNISTER",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404857",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "SELYANSKIY COMMERCIAL BANK DNISTER",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404858",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "SELYANSKIY COMMERCIAL BANK DNISTER",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404859",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SELYANSKIY COMMERCIAL BANK DNISTER",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404860",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "SELYANSKIY COMMERCIAL BANK DNISTER",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404861",
+      "issuer": "SELYANSKIY COMMERCIAL BANK DNISTER",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404877",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "LLC BANK FAMILNY",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404878",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "LLC BANK FAMILNY",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404879",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "LLC BANK FAMILNY",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404880",
+      "issuer": "LTD. LIABILITY COMPANY BANK FAMILNY",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404881",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UKRAINIAN INNOVATION BANK (UKRINBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "404926",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSCB NADRA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "405247",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "PJSC CB PRAVEX-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "405248",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC CB PRAVEX-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "405453",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "406115",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "406116",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "406117",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "406287",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UKRAINSKY PROMYSLOVY BANK LLC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "406288",
+      "issuer": "UKRAINSKY PROMYSLOVY BANK LLC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "406337",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "406628",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "406656",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OJSC RODOVID BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "406657",
+      "issuer": "OJSC RODOVID BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "406659",
+      "issuer": "FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "406660",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "406758",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "OTP BANK JSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "406759",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OTP BANK JSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "406760",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "OTP BANK JSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "406788",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OTP BANK JSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "406960",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "406980",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "406989",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "407360",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC UKRSIBBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "407361",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PJSC UKRSIBBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "407362",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PJSC UKRSIBBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "407363",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PJSC UKRSIBBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "407364",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC UKRSIBBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "407365",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "PJSC UKRSIBBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "407366",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC UKRSIBBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "407367",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JS INNOVATION BANK UKRSIBBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "407368",
+      "issuer": "JS INNOVATION BANK UKRSIBBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "407599",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "OJSC CB INTERBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "408337",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "PJSC UNICREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "408338",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "408339",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "UNICREDIT BANK LLC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "408399",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "408426",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "408427",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "408428",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "408429",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "409089",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PJSC CB PRAVEX-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "409388",
+      "issuer": "JSCB PRAVEX-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "409624",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC CB PRAVEX-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "409625",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSCB PRAVEX-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "409646",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BROKBUSINESSBANK JSB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "409647",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BROKBUSINESSBANK JSB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "409648",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BROKBUSINESSBANK JSB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "409649",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BROKBUSINESSBANK JSB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "409650",
+      "issuer": "BROKBUSINESSBANK JSB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "409879",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PJSC CB PRAVEX-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "409880",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSCB PRAVEX-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "409881",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSCB PRAVEX-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "410027",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "STAROKIEVSKIY BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "410044",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "LLC BANK FAMILNY",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "410243",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC ALFA-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "410244",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PJSC ALFA-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "410245",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PJSC ALFA-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "410246",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PJSC ALFA-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "410247",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC ALFA-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "410332",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "OJSC FIRST INVESTMENT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "410336",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "OTP BANK JSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "410337",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "OTP BANK JSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "410349",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CJSC EUROPEAN BANK OF RATIONAL FINANCING",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "410350",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CJSC EUROPEAN BANK OF RATIONAL FINANCING",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "410351",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CJSC EUROPEAN BANK OF RATIONAL FINANCING",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "410352",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CJSC EUROPEAN BANK OF RATIONAL FINANCING",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "410361",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNEX BANK PJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "410362",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNEX BANK PJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "410383",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "UNEX BANK PJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "410623",
+      "issuer": "UKRAINIAN INNOVATION BANK (UKRINBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "410653",
+      "issuer": "COMMERCIAL BANK PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "410690",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "410691",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "410693",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "410697",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "411098",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC KREDITPROMBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "411186",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC FINEXBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "411187",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "OJSC FINEXBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "411188",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OJSC FINEXBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "411432",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "411433",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "411434",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "411462",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "411463",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "411464",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "411465",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "411749",
+      "issuer": "CJSC OTP BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "411931",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "LLC CB EXPOBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "411932",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "LLC CB EXPOBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "411933",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "LLC CB EXPOBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "411934",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "LLC CB EXPOBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "411935",
+      "issuer": "LLC CB EXPOBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "411946",
+      "issuer": "OJSC RODOVID BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "411948",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "PJSC CREDIT AGRICOLE BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "411957",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CB MISTO BANK LLC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "411958",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CB MISTO BANK LLC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "411959",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "CB MISTO BANK LLC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "411960",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CB MISTO BANK LLC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "411961",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CB MISTO BANK LLC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "411962",
+      "issuer": "CB MISTO BANK LLC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "411997",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "412717",
+      "issuer": "FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "412945",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "KHRESCHATYK OJSC CB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "413051",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CB PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "413062",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "RAIFFEISEN BANK AVAL PJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "413281",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CLEARING HOUSE JSB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "413282",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CLEARING HOUSE JSB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "413283",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CLEARING HOUSE JSB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "413284",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CLEARING HOUSE JSB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "413285",
+      "issuer": "CLEARING HOUSE JSB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "413416",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TASCOMBANK JSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "413417",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TASCOMBANK JSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "413418",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TASCOMBANK JSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "413830",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC RAIFFEISEN BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "413831",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "OJSC RAIFFEISEN BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "413832",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OJSC RAIFFEISEN BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "413833",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISEN BANK AVAL PJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "413834",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "RAIFFEISEN BANK AVAL PJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "413835",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "RAIFFEISEN BANK AVAL PJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "414046",
+      "issuer": "JSCB NADRA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "414047",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STAROKIEVSKIY BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "414380",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSCB NADRA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "414630",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC BANK FINANCE AND CREDIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "414631",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PJSC BANK FINANCE AND CREDIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "414632",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC BANK FINANCE AND CREDIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "414633",
+      "issuer": "FINANCE AND CREDIT BANKING CORPORATION",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "414634",
+      "issuer": "FINANCE AND CREDIT BANKING CORPORATION",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "414939",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CB PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "414943",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMMERCIAL BANK PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "414949",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CB PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "414950",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISEN BANK AVAL PJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "414951",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "RAIFFEISEN BANK AVAL PJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "414952",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISEN BANK AVAL PJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "414953",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "RAIFFEISEN BANK AVAL PJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "414960",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CB PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "414961",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CB PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "414962",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CB PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "414963",
+      "issuer": "COMMERCIAL BANK PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "415409",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "415495",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UKRAINIAN INNOVATION BANK (UKRINBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "415496",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "UKRAINIAN INNOVATION BANK (UKRINBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "415497",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "UKRAINIAN INNOVATION BANK (UKRINBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "416010",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JSCB FINBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "416011",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSCB FINBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "416012",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSCB FINBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "416649",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "416650",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "416651",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "416653",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PJSC KONVERSBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "416654",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC KONVERSBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "416655",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC KONVERSBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "416668",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC BANK STOLYTSYA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "416669",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "PJSC BANK STOLYTSYA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "416670",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC BANK STOLYTSYA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "416770",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "KHRESCHATYK OJSC CB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "416771",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "KHRESCHATYK OJSC CB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "416772",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KHRESCHATYK OJSC CB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "416773",
+      "issuer": "KHRESCHATYK OJSC CB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "416954",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OTP BANK JSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "416955",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CJSC OTP BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "417232",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "PJSC UKRSIBBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "417283",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC UKRSOTSBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "417284",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC UKRSOTSBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "417348",
+      "issuer": "JSCB FOR SOCIAL DEVELOPMENT UKRSOTSBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "417352",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CJSC HOME CREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "417353",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CJSC AGROBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "417354",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CJSC AGROBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "417355",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CJSC AGROBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "417356",
+      "issuer": "CJSC AGROBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "417649",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "CB PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "417655",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UKRAINSKY PROMYSLOVY BANK LLC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "417656",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "UKRAINSKY PROMYSLOVY BANK LLC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "417675",
+      "issuer": "PROCREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "417679",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PROCREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "417851",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMMERCIAL BANK DANIEL LLC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "417852",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "COMMERCIAL BANK DANIEL LLC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "417853",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "417854",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "417886",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC CB ACTIVE BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "417887",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PJSC CB ACTIVE BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "417898",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "418727",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC IMEXBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "418728",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PJSC IMEXBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "418729",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PJSC IMEXBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "418730",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC IMEXBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "418837",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISEN BANK AVAL PJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "418844",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISEN BANK AVAL PJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "418956",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JSB UKRAINSKIY KOMUNALNIY BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "418957",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JSB UKRAINSKIY KOMUNALNIY BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "418958",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSB UKRAINSKIY KOMUNALNIY BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419186",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC CB INTERBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419187",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "OJSC CB INTERBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419188",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OJSC CB INTERBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419214",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSB UKRAINSKIY KOMUNALNIY BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419311",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PJSC VTB BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419312",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PJSC VTB BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419313",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419314",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419315",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419316",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419317",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VTB BANK OJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419323",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC BANK FOR INVESTMENTS AND SAVINGS",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419324",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PJSC BANK FOR INVESTMENTS AND SAVINGS",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419325",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PJSC BANK FOR INVESTMENTS AND SAVINGS",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419326",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC BANK FOR INVESTMENTS AND SAVINGS",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419550",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC BANK MERCURY",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419551",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PJSC BANK MERCURY",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419552",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC BANK MERCURY",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419637",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JSB TAVRYKA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419638",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSB TAVRYKA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419639",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSB TAVRYKA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419640",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSB TAVRYKA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419654",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JSC BANK TRUST",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419655",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JSC BANK TRUST",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419656",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC BANK TRUST",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419811",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSP AGRARIAN COMMERCIAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419812",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "PJSP AGRARIAN COMMERCIAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419813",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSP AGRARIAN COMMERCIAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419815",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC TERRA BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419816",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PJSC TERRA BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419817",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC TERRA BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419833",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC INTEGRAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419834",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PJSC INTEGRAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419835",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC INTEGRAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419906",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSCB CAPITAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419907",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSCB CAPITAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419908",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSCB CAPITAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "419909",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSCB CAPITAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "420030",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PJSC CB ACTIVE BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "420102",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CJSC ALFA-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "420103",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CJSC ALFA-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "420104",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CJSC ALFA-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "420105",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CJSC ALFA-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "420106",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CJSC ALFA-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "420107",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CJSC ALFA-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "420108",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CJSC ALFA-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "420366",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK BOHUSLAV JSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "420367",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK BOHUSLAV JSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "420368",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK BOHUSLAV JSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "421026",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PJSC CB ACTIVE BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "421113",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT-DNEPR JSB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "421114",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT-DNEPR JSB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "421115",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CREDIT-DNEPR JSB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "421116",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "CREDIT-DNEPR JSB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "421117",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT-DNEPR JSB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "421140",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSCB KYIV",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "421141",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSCB KYIV",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "421142",
+      "issuer": "JSCB KYIV",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "421174",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSCB KYIV",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "421188",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSCB NADRA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "421855",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CJSC HOME CREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "422029",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC RODOVID BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "422030",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PJSC RODOVID BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "422031",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PJSC RODOVID BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "422366",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC BANK FORUM",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "422605",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC ALFA-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "422675",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PJSC BTA BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "422833",
+      "issuer": "UKRAINIAN INNOVATION BANK (UKRINBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "422917",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PJSC VTB BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "422982",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STAROKIEVSKIY BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "423174",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSB DIAMANT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "423297",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "423333",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSCB NADRA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "423394",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC COMMERCIAL INDUSTRIAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "423395",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PJSC COMMERCIAL INDUSTRIAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "423396",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CB PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "423719",
+      "issuer": "CJSC ALFA-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "423843",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISEN BANK AVAL PJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "423920",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "423922",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424124",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC CB PIVDENCOMBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424125",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "OJSC CB PIVDENCOMBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424126",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OJSC CB PIVDENCOMBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424171",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSC INDUSTRIAL AND INVESTMENT BANK (CSC)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424172",
+      "issuer": "JSC KREDOBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424173",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JOINT STOCK INDUSTRIAL-FINANCIAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424174",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JOINT STOCK INDUSTRIAL-FINANCIAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424175",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JOINT STOCK INDUSTRIAL-FINANCIAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424176",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JOINT STOCK INDUSTRIAL-FINANCIAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424177",
+      "issuer": "JOINT STOCK INDUSTRIAL-FINANCIAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424342",
+      "issuer": "JSCB CAPITAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424349",
+      "issuer": "CREDIT-DNEPR JSB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424400",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CJSC BANK NRB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424401",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CJSC BANK NRB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424402",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CJSC BANK NRB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424403",
+      "issuer": "CJSC BANK NRB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424412",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC CB ACTIVE BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424413",
+      "issuer": "COMMERCIAL BANK ACTIVE BANK, LLC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424414",
+      "issuer": "NOVIY JSCB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424459",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMMERCIAL BANK SOCCOM BANK LTD. COMPANY",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424460",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "COMMERCIAL BANK SOCCOM BANK LIMITED COMPANY",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424461",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424462",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424463",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "COMMERCIAL BANK SOCCOM BANK LTD. COMPANY",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424464",
+      "issuer": "COMMERCIAL BANK SOCCOM BANK LTD. COMPANY",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424466",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC RODOVID BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424490",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SUBSIDIARY BANK SBERBANK OF RUSSIA PJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424491",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SUBSIDIARY BANK SBERBANK OF RUSSIA PJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424492",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SUBSIDIARY BANK SBERBANK OF RUSSIA PJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424573",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OJSC RODOVID BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424600",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CB PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424657",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CB PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "424666",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSCB NADRA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "425346",
+      "issuer": "CJS SOCIETY BANK PETROCOMMERCE-UKRAINE",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "425543",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC SWEDBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "425544",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "OJSC SWEDBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "425545",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "OJSC SWEDBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "425546",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "OJSC SWEDBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "425547",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OJSC SWEDBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "426046",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PJSC MARFIN BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "426047",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PJSC MARFIN BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "426048",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC MARFIN BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "426049",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC MARFIN BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "426130",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "426131",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "426132",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "426133",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "426139",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "426140",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BM BANK OJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "426141",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "426142",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "426741",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC BANK OF CYPRUS",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "426742",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "PJSC BANK OF CYPRUS",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "426743",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC BANK OF CYPRUS",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "426744",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PJSC BANK OF CYPRUS",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "426745",
+      "issuer": "JSB AVTOZAZBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "427218",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CJSC ALFA-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "427219",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "CJS SOCIETY BANK PETROCOMMERCE-UKRAINE",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "427266",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CJSC SWEDBANK INVEST",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "427267",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CJSC SWEDBANK INVEST",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "427268",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TAS-INVESTBANK (CJSC)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "427269",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CJSC SWEDBANK INVEST",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "427325",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PJSC UKRSOTSBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "427327",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "UKRAINIAN CREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "427705",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "427767",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JOINT STOCK POST-PENSION BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "427830",
+      "issuer": "JS INNOVATION BANK UKRSIBBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "428067",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC CB FOREIGN CAPITAL PROMECONOMBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "428068",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "OJSC CB FOREIGN CAPITAL PROMECONOMBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "428069",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OJSC CB FOREIGN CAPITAL PROMECONOMBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "428070",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "OJSC CB FOREIGN CAPITAL PROMECONOMBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "428071",
+      "issuer": "OJSC CB FOREIGN CAPITAL PROMECONOMBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "428180",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSB MORSKOY",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "428181",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSB MORSKOY",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "428182",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSB MORSKOY",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "428337",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "428511",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PJSC BANK PERSHYI",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "428512",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC BANK PERSHYI",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "428513",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC BANK PERSHYI",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "428590",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PJSC BANK PERSHYI",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "428615",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC JSCB TRUST-CAPITAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "428616",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PJSC JSCB TRUST-CAPITAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "428617",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC JSCB TRUST-CAPITAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "428636",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PJSC ZLATOBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "428637",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PJSC ZLATOBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "428638",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC ZLATOBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "428639",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC ZLATOBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "429450",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSB DIAMANT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "429451",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSB DIAMANT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "429452",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSB DIAMANT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "429453",
+      "issuer": "JSB DIAMANT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "429552",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "429553",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSCB NADRA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "429714",
+      "issuer": "COMMERCIAL INDUSTRIAL BANK, JSB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "429732",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC MARFIN BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "429733",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC MARFIN BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "429787",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "STAROKIEVSKIY BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "429943",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "PJSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "429966",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "429967",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "429968",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "429971",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "PJSC BANK FORUM",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "429972",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PJSC BANK FORUM",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "430253",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JSC UKRAINIAN CAPITAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "430254",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JSC UKRAINIAN CAPITAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "430255",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSC UKRAINIAN CAPITAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "430256",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC UKRAINIAN CAPITAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "430257",
+      "issuer": "JSC UKRAINIAN CAPITAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "430270",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSB PIVDENNYI",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "430333",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC UNICREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "430334",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNICREDIT BANK LLC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "430339",
+      "issuer": "UKRAINIAN CREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "430351",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "430352",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "SEB BANK OJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "430353",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SEB BANK OJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "430354",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "430355",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "SEB BANK OJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "430357",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FORTUNA-BANK LLC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "430358",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FORTUNA-BANK LLC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "430359",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FORTUNA-BANK LLC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "430360",
+      "issuer": "FORTUNA-BANK LLC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "430361",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC UNICREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "430362",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "JSCB HVB BANK UKRAINE",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "430363",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSCB HVB BANK UKRAINE",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "430364",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC UNICREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "430365",
+      "issuer": "JSCB HVB BANK UKRAINE",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "431153",
+      "issuer": "JSCB FOR SOCIAL DEVELOPMENT UKRSOTSBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "431184",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "431185",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "GE CAPITAL CONSUMER CARD CO.",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "431186",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JS BANK EXPRESS BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "431187",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JS BANK EXPRESS BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "431188",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JS BANK EXPRESS BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "431189",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "GE CAPITAL CONSUMER CARD CO.",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "431221",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UKRGAZPROMBANK OJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "431222",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF AMERICA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "431223",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF AMERICA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "431235",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC AVTOKRAZBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "431236",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PJSC AVTOKRAZBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "431237",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC AVTOKRAZBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "431238",
+      "issuer": "OJSC JSCB AVTOKRAZBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "431435",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "431436",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "431437",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "431889",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "OJSC THE UNIVERSAL BANK FOR DEVELOPMENT AND PARTNERSHIP",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "432075",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JSCB EVROPEYSKIY",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "432076",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "JSCB EVROPEYSKIY",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "432077",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSCB EVROPEYSKIY",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "432078",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSCB EVROPEYSKIY",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "432079",
+      "issuer": "JSCB EVROPEYSKIY",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "432107",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC UNICREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "432108",
+      "issuer": "UNICREDIT BANK LLC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "432109",
+      "issuer": "UNICREDIT BANK LLC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "432160",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSCB NADRA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "432334",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CJSC AKTSENT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "432335",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CJSC AKTSENT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "432336",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CJSC AKTSENT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "432337",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CJSC AKTSENT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "432338",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CJSC AKTSENT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "432339",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CJSC AKTSENT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "432340",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CJSC AKTSENT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "432457",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JSC KREDOBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "432458",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JSC KREDOBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "432459",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "432575",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CB PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "433341",
+      "issuer": "JOINT STOCK POST-PENSION BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "433346",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "433423",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PROCREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "433424",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PROCREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "434156",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CB PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "434157",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "PJSC COMMERCIAL INDUSTRIAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "434158",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC COMMERCIAL INDUSTRIAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "434944",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSCB NADRA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "435235",
+      "issuer": "JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "435570",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC INDUSTRIAL AND INVESTMENT BANK (CSC)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "435599",
+      "type": "CREDIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "435624",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC PIRAEUS BANK ICB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "435625",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "JSC PIRAEUS BANK ICB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "435626",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC INTERNATIONAL COMMERCE BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "436323",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "OTP BANK JSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "437435",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SUBSIDIARY BANK SBERBANK OF RUSSIA PJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "437518",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SUBSIDIARY BANK SBERBANK OF RUSSIA PJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "438146",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC FIRST INVESTMENT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "438147",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC FIRST INVESTMENT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "438148",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "OJSC FIRST INVESTMENT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "438149",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "OJSC FIRST INVESTMENT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "438150",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OJSC FIRST INVESTMENT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "438159",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC VTB BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "438253",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC KREDOBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "438264",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NOVIY JSCB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "438265",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NOVIY JSCB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "438266",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NOVIY JSCB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "438267",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "NOVIY JSCB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "438927",
+      "issuer": "JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "439023",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC CREDIT AGRICOLE BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "439024",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "PJSC CREDIT AGRICOLE BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "439025",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC CREDIT AGRICOLE BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "439038",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "439039",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "439049",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC CB PRAVEX-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "439050",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC KREDITPROMBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "439051",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "PJSC KREDITPROMBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "439052",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC KREDITPROMBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "439053",
+      "issuer": "OPENED JSC KREDITPROMBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "439080",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSB FACTORIAL-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "439081",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSB FACTORIAL-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "439082",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "JSB FACTORIAL-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "439083",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSB FACTORIAL-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "439084",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSB FACTORIAL-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "440129",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "COMMERCIAL BANK PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "440271",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "440272",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "440297",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "440299",
+      "issuer": "JSCB 'UKRAINA'",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "440509",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CB PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "440534",
+      "issuer": "JSCB FOR SOCIAL DEVELOPMENT UKRSOTSBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "440535",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CB PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "440588",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CB PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "442167",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "442183",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC CITIBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "442184",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PJSC CITIBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "442185",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "PJSC CITIBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "443871",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC DELTA BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "443872",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC DELTA BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "443873",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PJSC VTB BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "443874",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC VTB BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "443878",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "443880",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC PLATINUM BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "443881",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PJSC PLATINUM BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "444036",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC BANK UNIVERS.A.L.",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "444037",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "OJSC BANK UNIVERS.A.L.",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "444038",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OJSC BANK UNIVERS.A.L.",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "444039",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OJSC BANK UNIVERS.A.L.",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "444040",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "444041",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "444232",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "444233",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JSCB INDUSTRIALBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "444234",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSCB INDUSTRIALBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "444235",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSCB INDUSTRIALBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "444236",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSCB INDUSTRIALBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "444424",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "444801",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC BTA BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "444802",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PJSC BTA BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "444803",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PJSC BTA BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "444804",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC BTA BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "444900",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSCB INDUSTRIALBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "445128",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PJSC BANK KYIVSKA RUS",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "445129",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC BANK KYIVSKA RUS",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "445130",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PJSC BANK KYIVSKA RUS",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "445131",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PJSC BANK KYIVSKA RUS",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "445132",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC BANK KYIVSKA RUS",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "445414",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC EUROPEAN GAZ BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "445421",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "445437",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "445488",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CJSC WEST FINANCE AND CREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "445568",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC ASTRA BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "445569",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PJSC ASTRA BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "445570",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PJSC ASTRA BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "445583",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "445584",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "445585",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "445586",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "446357",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CJSC FINANCIAL UNION BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "446358",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CJSC FINANCIAL UNION BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "446359",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CJSC FINANCIAL UNION BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "446360",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CJSC FINANCIAL UNION BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "446386",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JSC BANK VELES",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "446387",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JSC BANK VELES",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "446388",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC BANK VELES",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "446670",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "446688",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "446689",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "446960",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "447606",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "FINANCE AND CREDIT BANKING CORPORATION",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "447607",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC BANK FINANCE AND CREDIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "447628",
+      "issuer": "ALL-UKRAINIAN JSB (VABANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "447830",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PUBLIC COMPANY ERSTE BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "447831",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PUBLIC COMPANY ERSTE BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "447832",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PUBLIC COMPANY ERSTE BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "447891",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PUBLIC COMPANY ERSTE BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "447892",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "PUBLIC COMPANY ERSTE BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "448304",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JSCB NADRA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "448305",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JSCB NADRA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "452434",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "452435",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "452437",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "456095",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CITIBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "456096",
+      "issuer": "CITIBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "456097",
+      "issuer": "CITIBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "456098",
+      "issuer": "CITIBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "456593",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "456594",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "457311",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "457312",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "457371",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "457457",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "457458",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "457459",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "457460",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "457635",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "457636",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "457637",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "457639",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "457640",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "457705",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "457706",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "457732",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "457733",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "457734",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "457735",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "457749",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "458120",
+      "issuer": "COMMERCIAL BANK PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "458121",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CB PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "458122",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "COMMERCIAL BANK PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "458215",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PJSC BANK FOR INVESTMENTS AND SAVINGS",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "458290",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "PJSC VTB BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "458578",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC CB EUROBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "458579",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "PJSC CB EUROBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "458580",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC DELTA BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "458760",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "PJSC DELTA BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "458859",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "460056",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "460057",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "460081",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PJSC EUROPEAN GAZ BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "460084",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC EUROPEAN GAZ BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "460085",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PJSC EUROPEAN GAZ BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "461274",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC CB PRAVEX-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "461275",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSCB PRAVEX-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "461276",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "PJSC CB PRAVEX-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "461277",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC CB PRAVEX-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "461278",
+      "issuer": "JSCB PRAVEX-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "462015",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "462705",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CB PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "462708",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CB PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "462773",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISEN BANK AVAL PJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "462774",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "RAIFFEISEN BANK AVAL PJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "462775",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "RAIFFEISEN BANK AVAL PJSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "465724",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PJSC VSEUKRAINSKYI AKSIONERNYI BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "467488",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "STAROKIEVSKIY BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "467731",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "BROKBUSINESSBANK JSB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "467778",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "467779",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "467780",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "467781",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "467808",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "467809",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "467936",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "JSB DIAMANT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "469618",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "470686",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "issuer": "KHRESCHATYK OJSC CB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "471362",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OTP BANK JSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "471419",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "CREDIT-DNEPR JSB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "471446",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC PLATINUM BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "471469",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC VSEUKRAINSKYI AKSIONERNYI BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "472301",
+      "type": "DEBIT",
+      "category": "TRAVEL MONEY",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "472429",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "472472",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC PIRAEUS BANK ICB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "472473",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "PJSC PIRAEUS BANK ICB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "472474",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PJSC PIRAEUS BANK ICB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "472595",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "472835",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "472836",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "472837",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "472877",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC COMPANY ERSTE BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "472878",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "472880",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OJSC CB PIVDENCOMBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "472931",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC BANK UNIVERS.A.L.",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "472932",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "OJSC BANK UNIVERS.A.L.",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "473114",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "COMMERCIAL BANK PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "473117",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CB PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "473118",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CB PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "473119",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC COMMERCIAL INDUSTRIAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "473121",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CB PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "473838",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "473844",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "475109",
+      "issuer": "WELLS FARGO BANK UA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "475538",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "PJSC COMMERCIAL INDUSTRIAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "476009",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "PJSC UKRSOTSBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "476065",
+      "type": "DEBIT",
+      "category": "PROPRIETARY",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "476339",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CB PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "477990",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JSC INDUSTRIAL AND INVESTMENT BANK (CSC)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "477991",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSC INDUSTRIAL AND INVESTMENT BANK (CSC)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "477992",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC INDUSTRIAL AND INVESTMENT BANK (CSC)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "477993",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JSC INDUSTRIAL AND INVESTMENT BANK (CSC)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "477994",
+      "issuer": "PROMINVESTBANK OF UKRAINE",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "477995",
+      "issuer": "PROMINVESTBANK OF UKRAINE",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "478766",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "479040",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSB ENERGOBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "479041",
+      "issuer": "JSB ENERGOBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "479042",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSB ENERGOBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "479043",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JSB ENERGOBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "479070",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "479072",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "479082",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "479093",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "479094",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "479095",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "479096",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "482415",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "483968",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "PJSC DELTA BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "483991",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "PJSC BANK KYIVSKA RUS",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "484173",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "484753",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC VOLKSBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "484754",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "OJSC VOLKSBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "484755",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OJSC VOLKSBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "484772",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PJSC JSCB LVIV",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "484773",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC JSCB LVIV",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "484774",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC JSCB LVIV",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "484790",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PJSC DELTA BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "484818",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC ASTRA BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "484854",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BROKBUSINESSBANK JSB",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "484864",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "484883",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC ERDE BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "484884",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "PJSC ERDE BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "484885",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PJSC ERDE BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "485435",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "486668",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "487018",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC RODOVID BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "487407",
+      "issuer": "JOINT STOCK POST-PENSION BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "487410",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC UKRSOTSBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "487411",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "PJSC UKRSOTSBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "487412",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC UKRSOTSBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "487420",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC VSEUKRAINSKYI AKSIONERNYI BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "487421",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PJSC VSEUKRAINSKYI AKSIONERNYI BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "487422",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC VSEUKRAINSKYI AKSIONERNYI BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "487424",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "487425",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UKRAINIAN CREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "487426",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "UKRAINIAN CREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "487427",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UKRAINIAN CREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "487430",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC VSEUKRAINSKYI AKSIONERNYI BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "487455",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UKRAINIAN INNOVATION BANK (UKRINBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "487456",
+      "issuer": "UKRAINIAN INNOVATION BANK (UKRINBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "487485",
+      "issuer": "NATIONAL BANK OF UKRAINE",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "489018",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PJSC KONVERSBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "489089",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSB ENERGOBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "489985",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "OJSC THE UNIVERSAL BANK FOR DEVELOPMENT AND PARTNERSHIP",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "489986",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OJSC THE UNIVERSAL BANK FOR DEVELOPMENT AND PARTNERSHIP",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "489987",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC THE UNIVERSAL BANK FOR DEVELOPMENT AND PARTNERSHIP",
+      "countries": [
+        "UA"
+      ]
+    }
+  ]
+}

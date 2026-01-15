@@ -1,0 +1,1227 @@
+{
+  "bins": [
+    {
+      "bin": "510256",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "MONEY CARD ASSOCIATION PR LEAGUE, INC.",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "510752",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "510912",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "NODUS INTERNATIONAL BANK, INC.",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "511026",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "MONEY CARD ASSOCIATION PR LEAGUE, INC.",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "511241",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "SYNOVUS BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "511858",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SCOTIABANK DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "512034",
+      "issuer": "WESTERNBANK PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "512054",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ORIENTAL BANK AND TRUST",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "512233",
+      "issuer": "FIRSTBANK PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "512274",
+      "issuer": "FIRSTBANK PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "512348",
+      "type": "CREDIT",
+      "issuer": "ORIENTAL BANK AND TRUST",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "512457",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "512477",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "512484",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "512489",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "512490",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "512497",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "512699",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ORIENTAL BANK AND TRUST",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "513694",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "514866",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "515820",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "MONEY CARD ASSOCIATION PR LEAG",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "515948",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ORIENTAL BANK AND TRUST",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "516388",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ORIENTAL BANK AND TRUST",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "517533",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "517866",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "ORIENTAL BANK AND TRUST",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "517910",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "CARACAS INTERNATIONAL BANKING CORPORATION",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "518042",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SCOTIABANK DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "518447",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NODUS INTERNATIONAL BANK, INC.",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "518920",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "519287",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "METABANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "519999",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "520003",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIA CARD SERVICES PR",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "520050",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "520145",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "520159",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "520389",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MONEY CARD ASSOCIATION PR LEAGUE, INC.",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "521385",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIA CARD SERVICES PR",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "522094",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "522213",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIA CARD SERVICES PR",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "522255",
+      "issuer": "SCOTIABANK DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "523560",
+      "category": "STANDARD",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "523770",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "524391",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CHASE BANK USA PR",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "524392",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "524837",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "SCOTIABANK DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "525465",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "525479",
+      "type": "CREDIT",
+      "issuer": "BBO INTERNATIONAL PRIVATE BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "525674",
+      "type": "CREDIT",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "525675",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "526985",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "527605",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "NODUS INTERNATIONAL BANK, INC.",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "528627",
+      "type": "CREDIT",
+      "issuer": "BANCORP BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "530029",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "METABANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "530116",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "530347",
+      "type": "DEBIT",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "531050",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "531051",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "531052",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "531054",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "531055",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "531056",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "531057",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "531058",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "531059",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "531069",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCORP BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "531110",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "531111",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "531112",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "531113",
+      "issuer": "BANCO POPULAR DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "531989",
+      "type": "DEBIT",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "532435",
+      "type": "DEBIT",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "533314",
+      "type": "CREDIT",
+      "issuer": "FIA CARD SERVICES PR",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "533321",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "533350",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "534158",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BBO INTERNATIONAL PRIVATE BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "534762",
+      "issuer": "MONEY CARD ASSOCIATION PR LEAGUE, INC.",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "534764",
+      "issuer": "WESTERNBANK PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "534765",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "534771",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCORP BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "536276",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "539282",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "539283",
+      "type": "DEBIT",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "539284",
+      "type": "DEBIT",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "539285",
+      "type": "DEBIT",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "539286",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "539287",
+      "type": "DEBIT",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "539288",
+      "type": "DEBIT",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "539289",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "539290",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "539291",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "539292",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "539293",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "539294",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "539295",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "539296",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "539297",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "539298",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "539299",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "539587",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "539619",
+      "issuer": "CAPITAL ONE BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "539858",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CAPITAL ONE BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "540331",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ORIENTAL BANK AND TRUST",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "540496",
+      "type": "CREDIT",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "540665",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIA CARD SERVICES PR",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "540865",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "540867",
+      "type": "CREDIT",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "540868",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "540869",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "540870",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "540871",
+      "category": "STANDARD",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "540872",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "540873",
+      "category": "STANDARD",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "540874",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "541231",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "ORIENTAL BANK AND TRUST",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "541332",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "541476",
+      "issuer": "MONEY CARD ASSOCIATION PR LEAGUE, INC.",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "541478",
+      "issuer": "FIRSTBANK PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "541479",
+      "issuer": "FIRSTBANK PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "541480",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "541481",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "541777",
+      "issuer": "FIRSTBANK PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "541898",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ASOCIACION DE EMPLEADOS DEL E.L.A. DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "541899",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ASOCIACION DE EMPLEADOS DEL E.L.A. DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "542139",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "542396",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "FIRST NATIONAL BANK OF OMAHA",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "542561",
+      "issuer": "ORIENTAL BANK AND TRUST",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "542850",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "543096",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "GE CAPITAL RETAIL BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "543605",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "543891",
+      "type": "CREDIT",
+      "issuer": "FIA CARD SERVICES PR",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "544019",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "544020",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO COOPERATIVO DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "544083",
+      "issuer": "FIRSTBANK PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "544813",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "545821",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NODUS INTERNATIONAL BANK, INC.",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "546002",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "546532",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "NODUS INTERNATIONAL BANK, INC.",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "546695",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "546878",
+      "issuer": "CITIBANK, N.A., PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "548094",
+      "type": "CREDIT",
+      "issuer": "SCOTIABANK DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "548135",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SCOTIABANK DE PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "548749",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "549017",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "549041",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIA CARD SERVICES PR",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "549154",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "549727",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIA CARD SERVICES PR",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "550162",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "550305",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "552196",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO SANTANDER PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "552636",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "553516",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "554606",
+      "issuer": "BANK AND TRUST OF PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "554712",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA PUERTO RICO",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "554856",
+      "issuer": "MONEY CARD ASSOCIATION PR LEAGUE, INC.",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "554864",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "CARACAS INTERNATIONAL BANKING CORPORATION",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "554931",
+      "issuer": "CAPITAL ONE BANK",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "555056",
+      "countries": [
+        "PR"
+      ]
+    },
+    {
+      "bin": "557608",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "NODUS INTERNATIONAL BANK, INC.",
+      "countries": [
+        "PR"
+      ]
+    }
+  ]
+}

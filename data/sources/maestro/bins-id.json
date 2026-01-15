@@ -1,0 +1,19 @@
+{
+  "bins": [
+    {
+      "bin": "589459",
+      "type": "DEBIT",
+      "countries": [
+        "ID"
+      ]
+    },
+    {
+      "bin": "589587",
+      "type": "DEBIT",
+      "issuer": "PT BANK DANAMON INDONESIA TBK",
+      "countries": [
+        "ID"
+      ]
+    }
+  ]
+}

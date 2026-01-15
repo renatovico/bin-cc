@@ -1,0 +1,1395 @@
+{
+  "bins": [
+    {
+      "bin": "511871",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "512083",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "512437",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FOKUS BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "512608",
+      "type": "CREDIT",
+      "issuer": "NORDEA BANK NORGE ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "512688",
+      "type": "CREDIT",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "513149",
+      "type": "CREDIT",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "513436",
+      "issuer": "EUROCONEX TECHNOLOGIES NORDIC, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "516026",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "518804",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "520325",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "520364",
+      "type": "CREDIT",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "520680",
+      "type": "CREDIT",
+      "issuer": "NORDEA BANK NORGE ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "520681",
+      "issuer": "NORDEA BANK NORGE ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "520682",
+      "issuer": "NORDEA BANK NORGE ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "520683",
+      "type": "CREDIT",
+      "issuer": "NORDEA BANK NORGE ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "520962",
+      "type": "CREDIT",
+      "issuer": "ENTERCARD NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "521348",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "521811",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FOKUS BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "521812",
+      "type": "CREDIT",
+      "issuer": "FOKUS BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "521823",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NORDEA BANK NORGE ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "521835",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DNB NOR BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "521837",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DNB NOR BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "523934",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "524879",
+      "type": "CREDIT",
+      "issuer": "ENTERCARD NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525300",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525301",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525305",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525306",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525308",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525309",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525310",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525311",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525313",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525319",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525320",
+      "type": "CREDIT",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525321",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525322",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525323",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525324",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525325",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525326",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525327",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525328",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525329",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525330",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525331",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525332",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525333",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525334",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525335",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525336",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525337",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525338",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525339",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525340",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525341",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525342",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525343",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525344",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525345",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525346",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525347",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525348",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525349",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525350",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525351",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525352",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525353",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525354",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525355",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525356",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525357",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525358",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525359",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525360",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525361",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525362",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525363",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525364",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525365",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525366",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525367",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525368",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525369",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525370",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525371",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525372",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525373",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525374",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525375",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525376",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525377",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525378",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525379",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525380",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525381",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525382",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525383",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525384",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525385",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525386",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525387",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525388",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525389",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525390",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525391",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525392",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525393",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525394",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525395",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525396",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525397",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525398",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "525399",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "526735",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "526792",
+      "type": "CREDIT",
+      "issuer": "FOKUS BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "526849",
+      "type": "CREDIT",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "526948",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "527567",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "528021",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DNB NOR BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "528022",
+      "category": "STANDARD",
+      "issuer": "DNB NOR BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "528023",
+      "category": "STANDARD",
+      "issuer": "DNB NOR BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "528202",
+      "type": "CREDIT",
+      "issuer": "DNB NOR BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "528257",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "529943",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DNB NOR BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "529945",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DNB NOR BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "529960",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "530677",
+      "issuer": "FOKUS BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "531223",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "532833",
+      "type": "CREDIT",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "533808",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "TRANSACT NETWORK, LTD.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "539851",
+      "type": "CREDIT",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "540022",
+      "type": "CREDIT",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "540123",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DNB NOR BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "540185",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "540414",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DNB NOR BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "540415",
+      "category": "STANDARD",
+      "issuer": "DNB NOR BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "540466",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DNB NOR BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "540481",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DNB NOR BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "540499",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "540618",
+      "type": "CREDIT",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "540925",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DNB NOR BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "540996",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ENTERCARD NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "541063",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ENTERCARD NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "541207",
+      "type": "CREDIT",
+      "issuer": "ENTERCARD NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "541224",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ENTERCARD NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "541249",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "541306",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "542251",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DNB NOR BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "544084",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ENTERCARD NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "545082",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DNB NOR BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "545111",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "545161",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "FOKUS BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "545185",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "NORDEA BANK NORGE ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "545445",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DNB NOR BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "545478",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DNB NOR BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "547305",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DNB NOR BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "547581",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "547643",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NORDEA BANK NORGE ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "547865",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "548093",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "548733",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "548741",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "550096",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "552519",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "NORDEA BANK NORGE ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "552575",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "FOKUS BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "552598",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "552707",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ENTERCARD NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "552765",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "554489",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "554974",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "555009",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "555014",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "555951",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "556612",
+      "type": "CREDIT",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "556653",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "NORDEA BANK NORGE ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "556662",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "557053",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "557082",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "558785",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "DNB NOR BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    }
+  ]
+}

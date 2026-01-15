@@ -1,0 +1,49 @@
+{
+  "bins": [
+    {
+      "bin": "408459",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE INTERNATIONALE POUR L'AFRIQUE AU NIGER",
+      "countries": [
+        "NE"
+      ]
+    },
+    {
+      "bin": "408460",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE INTERNATIONALE POUR L'AFRIQUE AU NIGER",
+      "countries": [
+        "NE"
+      ]
+    },
+    {
+      "bin": "408461",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE INTERNATIONALE POUR L'AFRIQUE AU NIGER",
+      "countries": [
+        "NE"
+      ]
+    },
+    {
+      "bin": "457426",
+      "countries": [
+        "NE"
+      ]
+    },
+    {
+      "bin": "457427",
+      "countries": [
+        "NE"
+      ]
+    },
+    {
+      "bin": "457428",
+      "countries": [
+        "NE"
+      ]
+    }
+  ]
+}

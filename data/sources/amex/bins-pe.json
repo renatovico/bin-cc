@@ -1,0 +1,37 @@
+{
+  "bins": [
+    {
+      "bin": "377750",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "377753",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "INTERBANK - BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "377811",
+      "type": "CREDIT",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "377892",
+      "type": "CREDIT",
+      "issuer": "BANCO DE CREDTIO DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    }
+  ]
+}

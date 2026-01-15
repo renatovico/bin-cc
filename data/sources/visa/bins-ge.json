@@ -1,0 +1,880 @@
+{
+  "bins": [
+    {
+      "bin": "402263",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "402401",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSC PROCREDIT BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "406212",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC BANK OF GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "406213",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JSC BANK OF GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "406214",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC BANK OF GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "406452",
+      "issuer": "JSC VTB BANK (GEORGIA)",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "409864",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BASISBANK JSC",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "409865",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BASISBANK JSC",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "409866",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BASISBANK JSC",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "409867",
+      "issuer": "BASISBANK JSC",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "411634",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSC BANK OF GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "411758",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JSC KOR STANDARD BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "411863",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSC PRIVATBANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "411868",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "412570",
+      "type": "DEBIT",
+      "issuer": "Liberty Bank JSC",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "412571",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "PEOPLES BANK OF GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "412572",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PEOPLES BANK OF GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "412573",
+      "issuer": "PEOPLES BANK OF GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "412742",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC TBC BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "413220",
+      "issuer": "JSC TBC BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "414050",
+      "issuer": "JSC BANK OF GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "414051",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JSC BANK OF GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "414052",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JSC BANK OF GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "414053",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC BANK OF GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "415479",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "417435",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC PROCREDIT BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "417436",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC PROCREDIT BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "417437",
+      "issuer": "JSC PROCREDIT BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "417769",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BASISBANK JSC",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "418699",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "JSC BANK OF GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "419510",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "419511",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "419512",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SC HSBC BANK GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "419513",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "SC HSBC BANK GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "419514",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SC HSBC BANK GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "422599",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JSC PROCREDIT BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "423799",
+      "issuer": "JSC BANK OF GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "423921",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "424408",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC KOR STANDARD BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "424409",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSC KOR STANDARD BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "424410",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC KOR STANDARD BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "424411",
+      "issuer": "JSC STANDARD BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "424442",
+      "issuer": "JSC BANK REPUBLIC",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "424906",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JSC PRIVATBANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "424908",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSC PRIVATBANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "424948",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC PRIVATBANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "424949",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JSC PRIVATBANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "424950",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC PRIVATBANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "424951",
+      "issuer": "JSC TAO BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "427363",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSC CARTU BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "428251",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSC KOR STANDARD BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "428633",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "428634",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "429048",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC VTB BANK (GEORGIA)",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "429594",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSC BANK OF GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "430189",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC VTB BANK (GEORGIA)",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "430190",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSC VTB BANK (GEORGIA)",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "430191",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSC VTB BANK (GEORGIA)",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "430272",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC INVESTBANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "431255",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "JSC BANK REPUBLIC",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "431570",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JSC TBC BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "431571",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JSC TBC BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "431572",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSC TBC BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "431573",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC TBC BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "431574",
+      "issuer": "JSC TBC BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "432784",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "432785",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "432786",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC BTA SILK ROAD BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "432787",
+      "issuer": "JSC BTA SILK ROAD BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "437572",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "437573",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "439032",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC BANK REPUBLIC",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "439033",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSC BANK REPUBLIC",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "439034",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC BANK REPUBLIC",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "439035",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSC BANK REPUBLIC",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "442188",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC INVESTBANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "442189",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "443868",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "446521",
+      "type": "DEBIT",
+      "issuer": "Liberty Bank JSC",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "446522",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "457855",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "458251",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "458295",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "462206",
+      "type": "DEBIT",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "465895",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC CARTU BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "467723",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSC KOR STANDARD BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "470384",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "470665",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "471253",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "471254",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "471255",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "471256",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "471292",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "471349",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "471350",
+      "type": "DEBIT",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "472884",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC INTERNATIONAL BANK OF AZERBAIJAN - GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "472885",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSC INTERNATIONAL BANK OF AZERBAIJAN - GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "472886",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC INTERNATIONAL BANK OF AZERBAIJAN - GEORGIA",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "475165",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSC PRIVATBANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "478761",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "JSC CARTU BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "478762",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JSC CARTU BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "478763",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC CARTU BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "478764",
+      "issuer": "JSC CARTU BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "478765",
+      "issuer": "JSC CARTU BANK",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "482416",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "482417",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "GE"
+      ]
+    },
+    {
+      "bin": "482418",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "GE"
+      ]
+    }
+  ]
+}

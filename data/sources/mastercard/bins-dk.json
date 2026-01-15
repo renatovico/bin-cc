@@ -1,0 +1,1864 @@
+{
+  "bins": [
+    {
+      "bin": "512733",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "515588",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "515613",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "515614",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "515615",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "515616",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "515617",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "515618",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "515619",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "515620",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "515621",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "515622",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "515623",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517006",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517007",
+      "type": "DEBIT",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517008",
+      "type": "DEBIT",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517009",
+      "type": "DEBIT",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517010",
+      "type": "DEBIT",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517011",
+      "type": "DEBIT",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517012",
+      "type": "DEBIT",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517013",
+      "type": "DEBIT",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517014",
+      "type": "DEBIT",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517015",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517016",
+      "type": "DEBIT",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517017",
+      "type": "DEBIT",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517018",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517019",
+      "type": "DEBIT",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517020",
+      "type": "DEBIT",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517021",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517022",
+      "type": "DEBIT",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517023",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517024",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517025",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517026",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517027",
+      "type": "DEBIT",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517028",
+      "type": "DEBIT",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517029",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517030",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517031",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517032",
+      "type": "DEBIT",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517033",
+      "type": "DEBIT",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517034",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517035",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517036",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517037",
+      "type": "DEBIT",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517038",
+      "type": "DEBIT",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517039",
+      "type": "DEBIT",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517043",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "517947",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "519192",
+      "type": "CREDIT",
+      "issuer": "ENTERCARD NORGE, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "520368",
+      "type": "CREDIT",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "520963",
+      "type": "CREDIT",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "520964",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "520965",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "520966",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "520967",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "520968",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "520969",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "520970",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "520971",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "520972",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "520973",
+      "type": "CREDIT",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "520974",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "520975",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "520976",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "521033",
+      "type": "CREDIT",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "521035",
+      "type": "CREDIT",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "521036",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "521319",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NORDEA BANK DANMARK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "521349",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "521351",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "521352",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "521353",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "521785",
+      "type": "CREDIT",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "521786",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "521838",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "524730",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "524882",
+      "type": "CREDIT",
+      "issuer": "ENTERCARD NORGE, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "525750",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ENTERCARD NORGE, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "525769",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "526045",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "526333",
+      "type": "CREDIT",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "526334",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "528251",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "529798",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "530775",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CNG PROCESSING A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "530941",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "533615",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "533617",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "533944",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "534118",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "535939",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "540287",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SEB KORT DANMARK",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "540679",
+      "type": "CREDIT",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "540958",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "541226",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "541246",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "541274",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "541280",
+      "type": "CREDIT",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "541303",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SEB KORT DANMARK",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "541339",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "541373",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "541378",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "541398",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "541400",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "541502",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "541546",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "541582",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "541595",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "541624",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "541648",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "542203",
+      "type": "CREDIT",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "542612",
+      "type": "CREDIT",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "542908",
+      "type": "CREDIT",
+      "issuer": "NORDEA BANK DANMARK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "542931",
+      "type": "CREDIT",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "544057",
+      "issuer": "GE CAPITAL CONSUMER CARD CO.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "545114",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "SEB KORT DANMARK",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "545139",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "NORDEA BANK DANMARK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "545162",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "545585",
+      "type": "CREDIT",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "545857",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SEB KORT DANMARK",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "545956",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "545996",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "546310",
+      "type": "CREDIT",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "546311",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "546322",
+      "type": "CREDIT",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "547131",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SEB KORT DANMARK",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "547132",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "547133",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "547499",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "547501",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "547505",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "547506",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "547509",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "547510",
+      "issuer": "FRANSABANK S.A.L.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "547512",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "SEB KORT DANMARK",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "548345",
+      "type": "CREDIT",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "549774",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "549775",
+      "type": "DEBIT",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "550028",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SEB KORT DANMARK",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552518",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "NORDEA BANK DANMARK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552569",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "SEB KORT DANMARK",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552597",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552732",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552748",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552753",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552891",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NORDEA BANK DANMARK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552954",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552955",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552957",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552961",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552970",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552971",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552972",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552980",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552981",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552982",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552983",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552984",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552985",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552986",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552987",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552988",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552989",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552990",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552991",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552992",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552993",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "552994",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "553052",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "553063",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "553064",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "553109",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "553472",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "556000",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "556001",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "556002",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "556003",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "556006",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "556007",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "556008",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "556009",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "556010",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "556011",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "556012",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "556013",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "556014",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "556661",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "SEB KORT DANMARK",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557066",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557067",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557068",
+      "type": "CREDIT",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557085",
+      "category": "STANDARD",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557111",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557807",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557822",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557823",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557824",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557827",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557828",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557831",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557835",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557860",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557861",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557862",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557863",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557864",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557865",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557866",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557867",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557868",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557870",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557872",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557873",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557875",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557876",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557877",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557878",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557879",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557889",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557892",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NORDEA BANK DANMARK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557893",
+      "type": "CREDIT",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557897",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "557898",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "558253",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "558267",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "558281",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "558295",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "558304",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "558312",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "558313",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "558314",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "558315",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "558316",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "558317",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "558425",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SEB KORT DANMARK",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "558441",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "558615",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "558624",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "558631",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "559046",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    }
+  ]
+}

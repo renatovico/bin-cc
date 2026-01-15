@@ -1,0 +1,2686 @@
+{
+  "bins": [
+    {
+      "bin": "400145",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO FEDERAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "400606",
+      "issuer": "BFC BANCO FONDO COMUN, C.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "402686",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CORP BANCA, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "402765",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO PROVINCIAL S.A.I.C.A. - S.A.C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "404849",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO EXTERIOR, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "405761",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "BANCO FEDERAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "405890",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "405891",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "405898",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "405932",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "406260",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO DE VENEZUELA, S.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "406267",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "406364",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "BANCO PROVINCIAL S.A.I.C.A. - S.A.C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "406719",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "407407",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "407408",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "407427",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO OCCIDENTAL DE DESCUENTO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "407440",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "407457",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "407465",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "407511",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "407556",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DEL TESORO C.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "407602",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO EXTERIOR, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "407607",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO OCCIDENTAL DE DESCUENTO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "407616",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "409639",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "409709",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO OCCIDENTAL DE DESCUENTO S.A.C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "409940",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO FEDERAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "409941",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO FEDERAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "409942",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO FEDERAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "411016",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "411018",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO EXTERIOR, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "411019",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DEL CARIBE C.A., BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "411037",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CANARIAS DE VENEZUELA, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "411038",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO CANARIAS DE VENEZUELA, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "411096",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MERCANTIL, C.A., BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "411097",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO PROVINCIAL S.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "411850",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "411851",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "411858",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BFC BANCO FONDO COMUN, C.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "413453",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "413473",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "414640",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "414747",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "414754",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO DE CORO C.A. (BANCORO)",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "414755",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO CANARIAS DE VENEZUELA, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "414764",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "414768",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "100% BANCO, BANCO COMERCIAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "414786",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO EXTERIOR, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "415229",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO EXTERIOR, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "415270",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MERCANTIL, S.A.C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "415271",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO MERCANTIL, S.A.C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "415366",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "415762",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "416050",
+      "issuer": "DEL SUR, ENTIDAD DE AHORRO Y PRESTAMO",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "421034",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CASA PROPIA ENTIDAD DE AHORRO Y PRESTAMOC.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "421035",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CASA PROPIA ENTIDAD DE AHORRO Y PRESTAMOC.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "421036",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CASA PROPIA ENTIDAD DE AHORRO Y PRESTAMOC.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "421037",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "100% BANCO, BANCO COMERCIAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "421177",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO PROVINCIAL S.A.I.C.A. - S.A.C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "421178",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO PROVINCIAL S.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "421422",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO INDUSTRIAL DE VENEZUELA, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "421444",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CONFEDERADO, S.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "421826",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO MERCANTIL, S.A.C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "421882",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO EXTERIOR, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "421884",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "421885",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "421886",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "421895",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO PROVIVIENDA C.A. BANCO UNIVERSAL (BANPRO)",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "421930",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "MERCANTIL, C.A., BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "422039",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO SOFITASA, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "422044",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO NACIONAL DE CREDITO, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "422045",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO NACIONAL DE CREDITO, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "422046",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO NACIONAL DE CREDITO, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "422050",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "422099",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "MERCANTIL, C.A., BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "422123",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "422169",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TODOTICKET 2004, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "422209",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TODOTICKET 2004, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "422225",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO DEL CARIBE C.A., BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "422228",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "422230",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CANARIAS DE VENEZUELA, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "422242",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "CORP BANCA, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "422260",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL TESORO C.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "422261",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DEL TESORO C.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "422262",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DEL TESORO C.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "422263",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO DEL TESORO C.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "422268",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CARONI, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "422271",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DEL SUR BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "422714",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE VENEZUELA, S.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "423614",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "MERCANTIL, C.A., BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "423691",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "425166",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITICORP",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "425478",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MI CASA, ENTIDAD DE AHORRO Y PRESTAMO",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "425479",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "MI CASA, ENTIDAD DE AHORRO Y PRESTAMO",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "425881",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "425888",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "DEL SUR BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "427170",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "427172",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "427173",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "428491",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "430906",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO VENEZOLANO DE CREDITO S.A.C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "433121",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO EXTERIOR, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "433485",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEL SUR BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "433486",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DEL SUR BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "434614",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CARONI, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "434615",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CARONI, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "434957",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "434963",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "434964",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "434965",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "434966",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "434967",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO PLAZA, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "437774",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROVINCIAL S.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "438095",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO PROVINCIAL S.A.I.C.A. - S.A.C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "439475",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO DE CORO C.A. (BANCORO)",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "439476",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CORO C.A. (BANCORO)",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "439482",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO GUAYANA, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "439483",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO GUAYANA, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "439813",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO CAPITAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "439814",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CAPITAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "440827",
+      "issuer": "BANCO EXTERIOR, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "441040",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "441041",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "441058",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "441128",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO MERCANTIL, S.A.C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "441129",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE VENEZUELA, S.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "441132",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO OCCIDENTAL DE DESCUENTO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "441133",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO OCCIDENTAL DE DESCUENTO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "441531",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE VENEZUELA, S.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "441784",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PLAZA, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "441785",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO PLAZA, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "441786",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO PLAZA, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "444806",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "446334",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "446844",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO OCCIDENTAL DE DESCUENTO S.A.C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "446852",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "446870",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO PROVINCIAL S.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "448174",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE VENEZUELA, S.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "448741",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "448742",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITIBANK",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "450630",
+      "issuer": "PIDA PROVINCIAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "450914",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO PROVINCIAL S.A.I.C.A. - S.A.C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "450953",
+      "issuer": "BANCO CONSTRUCCION, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "450961",
+      "issuer": "BANCO OCCIDENTAL DE DESCUENTO S.A.I.C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "450962",
+      "issuer": "BANCO OCCIDENTAL DE DESCUENTO S.A.I.C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "450966",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "451315",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DEL CARIBE S.A.C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "451325",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DEL CARIBE C.A., BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "451384",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "451385",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "451449",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "451450",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "CITIBANK",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "451721",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "451722",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "452490",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "INVERUNION, BANCO COMERCIAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "452491",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "INVERUNION, BANCO COMERCIAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "453231",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "MERCANTIL, C.A., BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "453232",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MERCANTIL, C.A., BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "453233",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MERCANTIL, C.A., BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "453299",
+      "issuer": "BANCO SOFITASA, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "453502",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454041",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROVINCIAL S.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454042",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO PROVINCIAL S.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454104",
+      "issuer": "BANCO INTERNACIONAL INTERBANK, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454134",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE VENEZUELA, S.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454135",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE VENEZUELA, S.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454136",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO DE VENEZUELA, S.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454137",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL CARIBE C.A., BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454138",
+      "issuer": "BANCO DEL CARIBE S.A.C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454139",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DEL CARIBE C.A., BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454188",
+      "issuer": "CONSORCIO CREDICARD, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454439",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO PROVINCIAL S.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454440",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO PROVINCIAL S.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454465",
+      "issuer": "BANCO LA GUAIRA, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454466",
+      "issuer": "BANCO LA GUAIRA, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454468",
+      "issuer": "BANCO LA GUAIRA, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454500",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454501",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454502",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454503",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454504",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454510",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454511",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454512",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANESCO BANCO COMERCIAL, S.A.C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454513",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454514",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454515",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454516",
+      "issuer": "CREDITO UNION, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454517",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454518",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454519",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454520",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454530",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454531",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454532",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454533",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454534",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454535",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454557",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454560",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454561",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454564",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454570",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454571",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454573",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454574",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454575",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454576",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454577",
+      "issuer": "CREDITO UNION, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454578",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454579",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454580",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454581",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454586",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454594",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454595",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454599",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454619",
+      "issuer": "BANCO OCCIDENTAL DE DESCUENTO S.A.I.C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454636",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROVINCIAL S.A.I.C.A. - S.A.C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "454732",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO EXTERIOR, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "455334",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO FEDERAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "455608",
+      "issuer": "BANCO CAPITAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "455609",
+      "issuer": "BANCO CAPITAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "455610",
+      "issuer": "BANCO CAPITAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "455611",
+      "issuer": "BANCO CAPITAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "455612",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE VENEZUELA, S.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "455613",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE VENEZUELA, S.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "455614",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO DE VENEZUELA, S.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "455615",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE VENEZUELA, S.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "455627",
+      "issuer": "BANCO DE VENEZUELA, S.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "455630",
+      "issuer": "BANCO DE VENEZUELA, S.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "455631",
+      "issuer": "BANCO DE VENEZUELA, S.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "455640",
+      "issuer": "BANCO MERCANTIL, S.A.C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "455641",
+      "issuer": "BANCO MERCANTIL, S.A.C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "455709",
+      "issuer": "BANCO PROVINCIAL S.A.I.C.A. - S.A.C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "455710",
+      "issuer": "BANCO POPULAR, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "455711",
+      "issuer": "BANCO PROVINCIAL S.A.I.C.A. - S.A.C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "455724",
+      "issuer": "BANCO DE VENEZUELA, S.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "455725",
+      "issuer": "BANCO DE VENEZUELA, S.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "455726",
+      "issuer": "BANCO DE VENEZUELA, S.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "455727",
+      "issuer": "BANCO DE VENEZUELA, S.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "456010",
+      "issuer": "BANCO UNION, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "456011",
+      "issuer": "BANCO UNION, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "456013",
+      "issuer": "BANCO UNION, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "456033",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO EXTERIOR, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "456034",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO EXTERIOR, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "456035",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO EXTERIOR, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "456336",
+      "issuer": "BANCO INTERNACIONAL INTERBANK, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "457380",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "457381",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "457415",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "457416",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "457999",
+      "issuer": "BANCO SOFITASA, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "458129",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROVIVIENDA C.A. BANCO UNIVERSAL (BANPRO)",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "458130",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO PROVIVIENDA C.A. BANCO UNIVERSAL (BANPRO)",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "458183",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "INVERUNION, BANCO COMERCIAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "458184",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "INVERUNION, BANCO COMERCIAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "459347",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "462229",
+      "type": "DEBIT",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "467126",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "MERCANTIL, C.A., BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "467477",
+      "issuer": "FONDO COMUN C.A., BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "467478",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO OCCIDENTAL DE DESCUENTO S.A.C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "472324",
+      "type": "DEBIT",
+      "category": "TRAVEL MONEY",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "473209",
+      "issuer": "BANCO PROVINCIAL S.A.I.C.A. - S.A.C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "473210",
+      "issuer": "BANCO PROVINCIAL S.A.I.C.A. - S.A.C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "473292",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CONFEDERADO, S.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "474154",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO OCCIDENTAL DE DESCUENTO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "474496",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "474497",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "474498",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "474499",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "474632",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "475783",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "475784",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "476064",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "BANCO DE VENEZUELA, S.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "476104",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "476105",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "476515",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "476560",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BFC BANCO FONDO COMUN, C.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "476561",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BFC BANCO FONDO COMUN, C.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "476562",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BFC BANCO FONDO COMUN, C.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "476812",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "476813",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "476814",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "476841",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "476842",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "479320",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "MERCANTIL, C.A., BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "479321",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MERCANTIL, C.A., BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "479340",
+      "issuer": "CITIBANK",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "479344",
+      "issuer": "BANCO EXTERIOR",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "485801",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CITIBANK",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "486520",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "486622",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DEL CARIBE C.A., BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "486648",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "489995",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL CARIBE C.A., BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "490112",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO SOFITASA, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "490113",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SOFITASA, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "490735",
+      "issuer": "BANCO CAPITAL",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "490771",
+      "issuer": "BANCO PROFESIONAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "491270",
+      "issuer": "BANCO SOFITASA",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "491508",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CORP BANCA, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "491509",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORP BANCA, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "491608",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANFOANDES, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "491609",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANFOANDES, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "491667",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CANARIAS DE VENEZUELA, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "491951",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MERCANTIL, C.A., BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "491952",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "492008",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO INDUSTRIAL DE VENEZUELA, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "492009",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO INDUSTRIAL DE VENEZUELA, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "492012",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INDUSTRIAL DE VENEZUELA, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "492014",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO INDUSTRIAL DE VENEZUELA, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "492457",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "493752",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORP BANCA, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "493753",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CORP BANCA, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "493802",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE VENEZUELA, S.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "493803",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE VENEZUELA, S.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "493804",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO DE VENEZUELA, S.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "494170",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "496638",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANESCO, BANCO UNIVERSAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "499889",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "100% BANCO, BANCO COMERCIAL, C.A.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "499929",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "499930",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VENEZOLANO DE CREDITO S.A. BANCO UNIVERS.A.L.",
+      "countries": [
+        "VE"
+      ]
+    },
+    {
+      "bin": "499941",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CONFEDERADO, S.A.",
+      "countries": [
+        "VE"
+      ]
+    }
+  ]
+}

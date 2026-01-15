@@ -1,0 +1,1659 @@
+{
+  "bins": [
+    {
+      "bin": "400682",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "400902",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "OVERSEA-CHINESE BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "400903",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "OVERSEA-CHINESE BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "400946",
+      "issuer": "BANK OF CHINA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "400955",
+      "issuer": "BANK OF CHINA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "400961",
+      "issuer": "BANK OF CHINA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "400962",
+      "issuer": "BANK OF CHINA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "400971",
+      "issuer": "BANK OF CHINA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "400972",
+      "issuer": "BANK OF CHINA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "400973",
+      "issuer": "BANK OF CHINA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "400977",
+      "issuer": "BANK OF CHINA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "400978",
+      "issuer": "BANK OF CHINA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "404142",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "405575",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "405576",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "405630",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "405631",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "405632",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "405682",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "CITIBANK SINGAPORE, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "407331",
+      "type": "DEBIT",
+      "category": "TRAVEL MONEY",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "407514",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "409636",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "411902",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "411903",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "411908",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "411911",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "412925",
+      "issuer": "CITIBANK",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "413449",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "414156",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "414746",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "CITIBANK",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "416506",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "418238",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "419031",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "419941",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "421609",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CITIBANK SINGAPORE, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "421610",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "421808",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "OVERSEA-CHINESE BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "423179",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "425895",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "426569",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK SINGAPORE, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "426588",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "428425",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "429512",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "430092",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "431151",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "431152",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "432706",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "433241",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "434921",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "OVERSEA-CHINESE BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "434922",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "OVERSEA-CHINESE BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "436324",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "436326",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "436327",
+      "type": "DEBIT",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "436767",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "437736",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "OVERSEA-CHINESE BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438174",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438201",
+      "type": "DEBIT",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438202",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438203",
+      "type": "DEBIT",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438212",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438213",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438214",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438215",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438216",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438217",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438218",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438219",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438220",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438221",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438222",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438224",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438226",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438227",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438232",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438236",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438237",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438238",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438240",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438241",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438242",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438243",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438250",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438251",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438252",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438255",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438256",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438258",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438260",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438261",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438263",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438269",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438270",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438272",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438273",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438274",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438275",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438276",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438277",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438279",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438281",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438282",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438285",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438286",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438287",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438288",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438290",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438294",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "438299",
+      "type": "DEBIT",
+      "issuer": "VISA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "440437",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK SINGAPORE, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "440823",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "442343",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "443267",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "445307",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "BNP PARIBAS",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "445308",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "BNP PARIBAS",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "445309",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "BNP PARIBAS",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "445310",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "BNP PARIBAS",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "447299",
+      "issuer": "BANK OF AMERICA N.T. AND, S.A.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "447742",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "CITIBANK SINGAPORE, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "448117",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OVERSEA-CHINESE BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "448137",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "448488",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "CITIBANK SINGAPORE, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "448533",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "450306",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "450667",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MALAYAN BANKING BERHAD",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "450873",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "450898",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "OVERSEA-CHINESE BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "450934",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "451297",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "452050",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "452419",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "OVERSEA-CHINESE BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "454182",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "454183",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "454415",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK SINGAPORE, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "454416",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITIBANK SINGAPORE, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "454718",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "454750",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CITIBANK SINGAPORE, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "455227",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "455228",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "455295",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OVERSEAS UNION BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "455606",
+      "issuer": "OVERSEAS UNION BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "455621",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "455622",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "455779",
+      "issuer": "OVERSEA-CHINESE BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "455780",
+      "issuer": "OVERSEA-CHINESE BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "456086",
+      "issuer": "BANQUE NATIONALE DE PARIS INTERCONTINENTALE",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "456087",
+      "issuer": "BANQUE NATIONALE DE PARIS INTERCONTINENTALE",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "456598",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "456599",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "456881",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITIBANK SINGAPORE, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "458555",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "458556",
+      "type": "DEBIT",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "458557",
+      "type": "DEBIT",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "458558",
+      "type": "DEBIT",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "461664",
+      "issuer": "MALAYAN BANKING BERHAD",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "461727",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "462845",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "467845",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST USA BANK",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "467871",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "467914",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "467946",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "469350",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "469351",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "469352",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "469551",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK SINGAPORE, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "469552",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK SINGAPORE, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "469619",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "471542",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "472051",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "472202",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "472203",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "472204",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "472208",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "476134",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "476135",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "479134",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "479148",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITICORP",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "483585",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "485452",
+      "type": "DEBIT",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "486261",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "OVERSEA-CHINESE BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "486338",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "486374",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "486418",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "486419",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "486431",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "CITIBANK",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "486518",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "CITIBANK",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "488936",
+      "issuer": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "489085",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "492160",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "493467",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF CHINA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "493468",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF CHINA, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "493469",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK OF CHINA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "493701",
+      "type": "DEBIT",
+      "category": "PROPRIETARY",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "493707",
+      "type": "DEBIT",
+      "category": "PROPRIETARY",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "493709",
+      "type": "DEBIT",
+      "category": "PROPRIETARY",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "493723",
+      "type": "DEBIT",
+      "category": "PROPRIETARY",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "493725",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "493727",
+      "type": "DEBIT",
+      "issuer": "THE DEVELOPMENT BANK OF SINGAPORE LIMITED",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "494083",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "494084",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "496643",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MALAYAN BANKING BERHAD",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "496645",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "496679",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "OVERSEA-CHINESE BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "498793",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "countries": [
+        "SG"
+      ]
+    }
+  ]
+}

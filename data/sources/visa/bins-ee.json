@@ -1,0 +1,254 @@
+{
+  "bins": [
+    {
+      "bin": "410615",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "417718",
+      "issuer": "NORDEA BANK FINLAND PLC ESTONIA BRANCH",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "423837",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "427724",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AS SEB PANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "430263",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "430264",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "433368",
+      "issuer": "AS SAMPO PANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "434931",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AS SEB PANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "440238",
+      "issuer": "AS SAMPO PANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "440239",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "446070",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SWEDBANK, A.S.",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "469565",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "AS SEB PANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "477548",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AS SEB PANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "477948",
+      "issuer": "SEB EESTI UHISPANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "479720",
+      "issuer": "EESTI UHISPANK (UNION BANK OF ESTONIA)",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "479722",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AS SEB PANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "479723",
+      "issuer": "EESTI UHISPANK (UNION BANK OF ESTONIA)",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "479724",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HANSABANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "479725",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HANSABANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "479726",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "HANSABANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "479727",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HANSABANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "479728",
+      "issuer": "ESTONIAN SAVINGS BANK (EESTI HOIUPANK)",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "479729",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HANSABANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "479730",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HANSABANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "479731",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HANSABANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "479732",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HANSABANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "479733",
+      "issuer": "HANSABANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "491078",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AS SEB PANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "491079",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AS SEB PANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "491085",
+      "issuer": "EESTI UHISPANK (UNION BANK OF ESTONIA)",
+      "countries": [
+        "EE"
+      ]
+    }
+  ]
+}

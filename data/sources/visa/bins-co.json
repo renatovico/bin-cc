@@ -1,0 +1,3911 @@
+{
+  "bins": [
+    {
+      "bin": "400476",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "400477",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "400489",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "400490",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "400491",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "400608",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "401612",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO GNB SUDAMERIS, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "401616",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO PICHINCHA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "401693",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO GNB SUDAMERIS, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "401694",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO HSBC COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "402530",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "402739",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "402753",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CITIBANK - COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "402764",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "403323",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO HSBC COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "403722",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "403757",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "403799",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE CREDITO Y DESARROLLO SOCIAL MEGABANCO S.A. - (MEGABANCO S.A.)",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "403899",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "404177",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "404178",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "404279",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A. BBVA COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "404280",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A. BBVA COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "404987",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO PICHINCHA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "405168",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "405169",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "405414",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO GNB SUDAMERIS, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "405513",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CITIBANK - COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "406238",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "406257",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE CREDITO Y DESARROLLO SOCIAL MEGABANCO S.A. - (MEGABANCO S.A.)",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "406678",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HELM BANK, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "406692",
+      "issuer": "BANCO NACIONAL DEL COMERCIO, S.A. (B.N.C.)",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "406694",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO POPULAR",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "407383",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "407398",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "408430",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "408431",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "409355",
+      "type": "DEBIT",
+      "category": "PRIVATE LABEL",
+      "issuer": "CONAVI BANCO COMERCIAL Y DE AHORROS, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "409642",
+      "issuer": "ASOCIACION DE BANCOS QUE PRESTAN EL SERVICIO DE CREDIBANCO - CREDIBANCO",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "409744",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "409983",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "409984",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "409985",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "409988",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANISTMO COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "410164",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A. BBVA COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "410176",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "410321",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "411040",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CREDITO Y DESARROLLO SOCIAL MEGABANCO S.A. - (MEGABANCO S.A.)",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "411041",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO DE CREDITO Y DESARROLLO SOCIAL MEGABANCO S.A. - (MEGABANCO S.A.)",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "411042",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE CREDITO Y DESARROLLO SOCIAL MEGABANCO S.A. - (MEGABANCO S.A.)",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "411043",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE CREDITO Y DESARROLLO SOCIAL MEGABANCO S.A. - (MEGABANCO S.A.)",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "411054",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "411088",
+      "issuer": "A TODA HORA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "411759",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "412706",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO AV VILLAS",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "414335",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "414339",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "414340",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "414529",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "416026",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "416048",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "416049",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "417899",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "417947",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "417948",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "417949",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "418207",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "HELM BANK, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "419016",
+      "issuer": "CITIBANK",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "419328",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "419329",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "420559",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "421066",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO GNB SUDAMERIS, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "421067",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO GNB SUDAMERIS, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "421513",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "421544",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "421892",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A. BBVA COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "422274",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "CITIBANK - COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "422441",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK - COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "422789",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "423383",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "423938",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO ALIADAS, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "423949",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "423950",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE CREDITO Y DESARROLLO SOCIAL MEGABANCO S.A. - (MEGABANCO S.A.)",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "424114",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO POPULAR",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "424488",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "424587",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO HSBC COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "424701",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "424702",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "424703",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "424704",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "424705",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "424706",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "425817",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "425949",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "425950",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "425951",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "425960",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANISTMO COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "425987",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "426045",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "426288",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CITIBANK - COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "426732",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "428495",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "428496",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "430274",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "430464",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "430485",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "430929",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CITIBANK - COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "431026",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "431027",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "431385",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "HELM BANK, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "431386",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE CREDITO DE COLOMBIA S.A. HELM FINANCIAL SERVICES",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "432105",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "432106",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "432440",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HELM BANK, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "432567",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ALIADAS, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "433460",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "433827",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "LLOYDS TSB BANK, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "434082",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "CITIBANK - COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "434606",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "435147",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE CREDITO Y DESARROLLO SOCIAL MEGABANCO S.A. - (MEGABANCO S.A.)",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "435651",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO HSBC COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "435729",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO HSBC COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "435730",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "HELM BANK, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "435748",
+      "issuer": "COOPDESARROLLO",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "435780",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCAFE",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "439116",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "439152",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "439153",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANSUPERIOR",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "439216",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A. BBVA COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "439467",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A. BBVA COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "440811",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "440812",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "441011",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "441015",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "441016",
+      "type": "DEBIT",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "441080",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "441119",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "441508",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO HSBC COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "441509",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO HSBC COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "441511",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "443846",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BCSC, S.A.- BANCO CAJA SOCIAL BCSC - BANCO CAJA SOCIAL",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "443847",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BCSC, S.A.- BANCO CAJA SOCIAL BCSC - BANCO CAJA SOCIAL",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "443849",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "446846",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "446872",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "447215",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "448185",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO AGRARIO DE COLOMBIA S.A. (BANAGRARIO)",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "448186",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO AGRARIO DE COLOMBIA S.A. (BANAGRARIO)",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "448187",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO AGRARIO DE COLOMBIA S.A. (BANAGRARIO)",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "448403",
+      "type": "DEBIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO HSBC COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "448408",
+      "category": "PURCHASING",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "448723",
+      "issuer": "BANCO SELFIN, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "448724",
+      "issuer": "BANCO SELFIN, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "448725",
+      "issuer": "BANCO SELFIN, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "448726",
+      "issuer": "BANCO SELFIN, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "448728",
+      "issuer": "BANCO SELFIN, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "449188",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "449728",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HELM BANK, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "449744",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO AGRARIO DE COLOMBIA S.A. (BANAGRARIO)",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "450011",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "450406",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "450407",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A. BBVA COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "450408",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A. BBVA COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "450418",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A. BBVA COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "450602",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HELM BANK, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "450648",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BCSC, S.A.- BANCO CAJA SOCIAL BCSC - BANCO CAJA SOCIAL",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "450650",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "450658",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "450668",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "450704",
+      "issuer": "BANCO DEL ESTADO",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "450714",
+      "issuer": "BANISTMO COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "450724",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ASOCIACION DE BANCOS QUE PRESTAN EL SERVICIO DE CREDIBANCO - CREDIBANCO",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "450796",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BCSC, S.A.- BANCO CAJA SOCIAL BCSC - BANCO CAJA SOCIAL",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "450822",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "450942",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "450959",
+      "issuer": "BANCO ANDINO, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "451303",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "451307",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "451308",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "451309",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "451318",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "451321",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "451323",
+      "issuer": "FINANCIERA BERMUDEZ Y VALENZUELA S.A. COMPANIA DE",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "451348",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "451349",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "451359",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "451372",
+      "issuer": "BANCO DEL ESTADO",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "451374",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "451376",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "451380",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "451381",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "451390",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "451391",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "451392",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "451396",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "451397",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "451398",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "451399",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "451430",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "HELM BANK, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "451733",
+      "issuer": "BANCO SUPERIOR (SUPERBANCO)",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "451750",
+      "issuer": "SERVIBANCA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "452494",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BCSC, S.A.- BANCO CAJA SOCIAL BCSC - BANCO CAJA SOCIAL",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "452516",
+      "issuer": "BANCO MERCANTIL DE COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "453268",
+      "issuer": "CAJA DE CREDITO AGRARIO, INDUSTRIAL Y MINERO",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "453922",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HELM BANK, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "453924",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BCSC, S.A.- BANCO CAJA SOCIAL BCSC - BANCO CAJA SOCIAL",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "454068",
+      "issuer": "BANCO DE COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "454076",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO GNB SUDAMERIS, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "454083",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO GNB SUDAMERIS, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "454100",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A. BBVA COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "454106",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HELM BANK, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "454200",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "454300",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "454322",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO POPULAR",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "454329",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DEL ESTADO, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "454400",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "454405",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO POPULAR",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "454476",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO POPULAR",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "454600",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "454601",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "454616",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO POPULAR",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "454700",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCO GANADERO, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "454701",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCO GANADERO, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "454759",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A. BBVA COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "454831",
+      "issuer": "BANCO ANDINO, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "454896",
+      "issuer": "BANCO MERCANTIL DE COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "455100",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A. BBVA COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "455127",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO HSBC COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "455158",
+      "issuer": "BANCO ANDINO, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "455201",
+      "issuer": "BANCO GANADERO",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "455291",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL ESTADO, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "455309",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HELM BANK, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "455370",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "455371",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "GRANBANCO, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "455700",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "455722",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "455981",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "455982",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "455983",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "455986",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "456360",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "456390",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "456522",
+      "issuer": "BANCO MERCANTIL DE COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "456783",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A. BBVA COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "456815",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "456816",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "457021",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BCSC, S.A.- BANCO CAJA SOCIAL BCSC - BANCO CAJA SOCIAL",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "457022",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BCSC, S.A.- BANCO CAJA SOCIAL BCSC - BANCO CAJA SOCIAL",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "457024",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "457282",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "457283",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "457284",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "457317",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "457320",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "457321",
+      "type": "DEBIT",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "457473",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "457537",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "457542",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "457563",
+      "type": "DEBIT",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "457564",
+      "type": "DEBIT",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "457566",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "457602",
+      "type": "DEBIT",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "457603",
+      "type": "DEBIT",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "457604",
+      "type": "DEBIT",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "457605",
+      "type": "DEBIT",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "458173",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "459070",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK - COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "459096",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO COOMEVA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "459355",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "459356",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "459357",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "459386",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BCSC, S.A.- BANCO CAJA SOCIAL BCSC - BANCO CAJA SOCIAL",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "459388",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BCSC, S.A.- BANCO CAJA SOCIAL BCSC - BANCO CAJA SOCIAL",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "459418",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "459419",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "459425",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "459428",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "459504",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "459505",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "459918",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "459919",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "461202",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK - COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "461203",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "CITIBANK - COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "461208",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "461209",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "462550",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A. BBVA COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "462896",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COOMEVA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "462940",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "462941",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "462947",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BCSC, S.A.- BANCO CAJA SOCIAL BCSC - BANCO CAJA SOCIAL",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "463188",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO PICHINCHA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "465278",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "GRANBANCO, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "465591",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "LLOYDS TSB BANK, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "465592",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANISTMO COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "465593",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LLOYDS TSB BANK, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "465594",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "LLOYDS TSB BANK, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "465721",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO HSBC COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "465722",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO HSBC COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "465770",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "465955",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO GNB SUDAMERIS, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "465956",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO TEQUENDAMA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "466090",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "466700",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO HSBC COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "469733",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "469734",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "469766",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO COOMEVA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "469864",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO GNB SUDAMERIS, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "469876",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "470432",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "470435",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "470437",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "470438",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO AV VILLAS",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "470439",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO AV VILLAS",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "470440",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO AV VILLAS",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "470449",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "472043",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "472044",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "472856",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "472857",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "473228",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "473229",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANSUPERIOR",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "473230",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANSUPERIOR",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "473264",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO HSBC COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "473265",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO HSBC COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "474493",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "474555",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COOMEVA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "474556",
+      "type": "DEBIT",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "474630",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "COLE TAYLOR BANK",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "475094",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "476003",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ABN AMRO BANK (COLOMBIA), S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "476006",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ABN AMRO BANK (COLOMBIA), S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "477170",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "477363",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "477364",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "479428",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO GNB SUDAMERIS, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "480258",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO AGRARIO DE COLOMBIA S.A. (BANAGRARIO)",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "480405",
+      "category": "PURCHASING",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "480850",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "CITIBANK - COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "480851",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "CITIBANK - COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "480852",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "CITIBANK - COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "482407",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO COOMEVA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "482451",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO AV VILLAS",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "482452",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "482453",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "482454",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "482484",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "483015",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "484184",
+      "type": "DEBIT",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "484191",
+      "type": "DEBIT",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "484193",
+      "type": "DEBIT",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "484194",
+      "type": "DEBIT",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "485012",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "485630",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "485919",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO AGRARIO DE COLOMBIA S.A. (BANAGRARIO)",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "485924",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO GNB SUDAMERIS, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "485926",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO POPULAR",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "485929",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "HELM BANK, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "485930",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "485935",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "485936",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "485941",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "485946",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "485953",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "485958",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "485970",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "485975",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "485979",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO AGRARIO DE COLOMBIA S.A. (BANAGRARIO)",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "485980",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BCSC, S.A.- BANCO CAJA SOCIAL BCSC - BANCO CAJA SOCIAL",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "485991",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "HELM BANK, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "485995",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A. BBVA COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "486367",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "486412",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "486413",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "HELM BANK, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "486437",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "486454",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "STANDARD CHARTERED BANK (CI), LTD.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "486514",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "486529",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "HELM BANK, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "486618",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BCSC, S.A.- BANCO CAJA SOCIAL BCSC - BANCO CAJA SOCIAL",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "486619",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "486647",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO AGRARIO DE COLOMBIA S.A. (BANAGRARIO)",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "487046",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANISTMO COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "487047",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANISTMO COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "487048",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "489056",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "489057",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "489058",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "489059",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "489421",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COOMEVA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "489422",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO COOMEVA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "489444",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "489445",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BCSC, S.A.- BANCO CAJA SOCIAL BCSC - BANCO CAJA SOCIAL",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "489469",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO POPULAR",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "489474",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO COOMEVA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "489908",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "489911",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "489925",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "489965",
+      "issuer": "CORPORACION SOCIAL DE AHORRO Y VIVIENDA COLMENA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "490109",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO HSBC COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "490148",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO HSBC COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "490773",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CENTRAL HIPOTECARIO",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491221",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CONAVI BANCO COMERCIAL Y DE AHORROS, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491240",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PICHINCHA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491264",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO PICHINCHA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491265",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO PICHINCHA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491268",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BBVA BANCO GANADERO, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491273",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CREDITO Y DESARROLLO SOCIAL MEGABANCO S.A. - (MEGABANCO S.A.)",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491275",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE CREDITO Y DESARROLLO SOCIAL MEGABANCO S.A. - (MEGABANCO S.A.)",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491277",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINANCIERA BERMUDEZ Y VALENZUELA S.A. COMPANIA DE FINANCIAMIENTO COMERCIAL",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491329",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ALIADAS, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491330",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491361",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491362",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491363",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491384",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO ALIADAS, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491511",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491602",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491603",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MULTIBANCO, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491614",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491615",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE CREDITO Y DESARROLLO SOCIAL MEGABANCO S.A. - (MEGABANCO S.A.)",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491616",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491617",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491625",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491626",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491627",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491628",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ASOCIACION DE BANCOS QUE PRESTAN EL SERVICIO DE CREDIBANCO - CREDIBANCO",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491646",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491647",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491648",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO SUPERIOR (SUPERBANCO)",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "491960",
+      "issuer": "COLTEFINANCIERA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "492114",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO GNB SUDAMERIS, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "492115",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO GNB SUDAMERIS, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "492198",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BBVA BANCO GANADERO, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "492199",
+      "issuer": "BANCO AGRARIO DE COLOMBIA S.A. (BANAGRARIO)",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "492468",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A. BBVA COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "492485",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "492486",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "492488",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A. BBVA COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "492489",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A. BBVA COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "493110",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "493111",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "493182",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CONAVI BANCO COMERCIAL Y DE AHORROS, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "493183",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CONAVI BANCO COMERCIAL Y DE AHORROS, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "493813",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "494381",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "496079",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO AV VILLAS",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "496080",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO AV VILLAS",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "496081",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO AV VILLAS",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "496083",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "496084",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "498467",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "498476",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COLPATRIA - RED MULTIBANCA COLPATRIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "498478",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BCSC, S.A.- BANCO CAJA SOCIAL BCSC - BANCO CAJA SOCIAL",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "498533",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "498534",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BCSC, S.A.- BANCO CAJA SOCIAL BCSC - BANCO CAJA SOCIAL",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "498837",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO DEL ESTADO, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "498858",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK - COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "498859",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITIBANK - COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "498860",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CITIBANK - COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "498861",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITIBANK - COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "498862",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK - COLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "498867",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO GNB SUDAMERIS, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "499808",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "499809",
+      "type": "DEBIT",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "499812",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE BOGOTA",
+      "countries": [
+        "CO"
+      ]
+    }
+  ]
+}

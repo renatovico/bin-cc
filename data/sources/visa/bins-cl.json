@@ -1,0 +1,1227 @@
+{
+  "bins": [
+    {
+      "bin": "402365",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DEL DESARROLLO",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "402366",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DEL DESARROLLO",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "403351",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO DE CREDITO E INVERSIONES",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "407300",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO SECURITY",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "407301",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO SECURITY",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "407401",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO DE CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "409320",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "BANCO BICE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "409674",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BICE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "409767",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO FALABELLA",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "410406",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO FALABELLA",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "410407",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO FALABELLA",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "410530",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SCOTIABANK CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "410886",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "414756",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO DE CREDITO E INVERSIONES",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "415280",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "415281",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO SANTANDER CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "415282",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "415283",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "419189",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "421100",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CORP BANCA",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "421401",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SCOTIABANK CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "421413",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO FALABELLA",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "421917",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "422038",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CREDITO E INVERSIONES",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "422764",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "422766",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "422777",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "423925",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "424419",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE CREDITO E INVERSIONES",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "424446",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "425876",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "CORP BANCA",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "425910",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO BICE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "425911",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO BICE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "425913",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO BICE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "425915",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO BICE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "425916",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO BICE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "425917",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO BICE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "425919",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO BICE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "425943",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BICE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "425944",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BICE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "425947",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO BICE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "425961",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO BICE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "425965",
+      "issuer": "CITIBANK",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "429954",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CITIBANK",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "430271",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "433451",
+      "issuer": "ABN AMRO BANK (CHILE)",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "434956",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO DE CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "435718",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO SANTANDER CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "435767",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "438084",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CONSORCIO TARJETAS DE CREDITO, S.A.",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "440612",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "440698",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "442168",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "442174",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO SANTANDER CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "442679",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "443854",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "443861",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CORP BANCA",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "446510",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "446511",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "446867",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "448165",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE CREDITO E INVERSIONES",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "448480",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DE CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "448542",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DE CREDITO E INVERSIONES",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "448750",
+      "issuer": "CERTEGY, S.A.",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "450600",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CREDITO E INVERSIONES",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "450638",
+      "issuer": "BANCO BHIF",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "450639",
+      "issuer": "BANCO BHIF",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "450800",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORP BANCA",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "450802",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "450838",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "450878",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "450879",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO DE CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "450880",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "450881",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO SANTANDER CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "450882",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "450883",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK SUD AMERICANO",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "451134",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SCOTIABANK CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "451248",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO BICE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "451316",
+      "issuer": "TRANSBANK, S.A.",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "451324",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "451368",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE CREDITO E INVERSIONES",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "451373",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ABN AMRO BANK (CHILE)",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "451383",
+      "issuer": "CITIBANK",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "452427",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CORP BANCA",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "454413",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "454723",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CORP BANCA",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "454812",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CREDITO E INVERSIONES",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "454813",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORP BANCA",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "454815",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "454816",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERNACIONAL",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "454851",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE CREDITO E INVERSIONES",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "454886",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CREDITO E INVERSIONES",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "455342",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORP BANCA",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "455771",
+      "issuer": "BANCO DE CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "456365",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "456366",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "456460",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL ESTADO DE CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "456473",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL ESTADO DE CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "456477",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DEL ESTADO DE CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "456504",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ABN AMRO BANK (CHILE)",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "456505",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ABN AMRO BANK (CHILE)",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "456506",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ABN AMRO BANK (CHILE)",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "460072",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "462760",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITICORP",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "462956",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "467498",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "469772",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "474492",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "475774",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "475775",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "475776",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "475777",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "475778",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "475779",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "476025",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "476026",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "476832",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "477040",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "477041",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "480293",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO DE CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "485722",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO SANTANDER CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "486445",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DEL ESTADO DE CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "489070",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PARIS S.A.",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "489472",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "490225",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "491098",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CORP BANCA",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "492107",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERNACIONAL",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "492210",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "493485",
+      "issuer": "REDBANC, S.A.",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "493857",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "493858",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL DESARROLLO",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "493859",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SCOTIABANK CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "496617",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE CREDITO E INVERSIONES",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "496619",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO INTERNACIONAL",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "496624",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CORP BANCA",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "496660",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE CREDITO E INVERSIONES",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "496670",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "496671",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO SANTANDER CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "496672",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SCOTIABANK CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "498811",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE CHILE",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "499847",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CL"
+      ]
+    },
+    {
+      "bin": "499848",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "CL"
+      ]
+    }
+  ]
+}

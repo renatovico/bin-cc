@@ -1,0 +1,789 @@
+{
+  "bins": [
+    {
+      "bin": "402811",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "402812",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "407341",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA DE ECONOMI",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "407342",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCA DE ECONOMI",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "407343",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA DE ECONOMI",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "408246",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CB PROCREDIT BANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "408247",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CB PROCREDIT BANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "408248",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CB PROCREDIT BANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "408313",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "408314",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "408315",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "408316",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "409035",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ENERGBANK",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "409036",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ENERGBANK",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "409037",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ENERGBANK",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "412043",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "416657",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "416658",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "416659",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "416660",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417705",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417706",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417708",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417713",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417717",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417719",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417723",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417724",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417725",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417726",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417732",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417736",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417751",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417752",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417756",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417757",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417762",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417763",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417767",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417782",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417784",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417785",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417787",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417788",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417790",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417791",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417792",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417793",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417794",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417795",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417796",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417797",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417798",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "417799",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BC MOLDINDCONBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "418984",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSCB UNIVERSALBANK",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "418985",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSCB UNIVERSALBANK",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "418986",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSCB UNIVERSALBANK",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "419839",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSCB UNIBANK",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "420029",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "432617",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JS FINANCE AND TRADE BANK",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "432618",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JS FINANCE AND TRADE BANK",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "432927",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JS FINANCE AND TRADE BANK",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "433592",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSCB EXIMBANK GRUPPO VENETO BANCA",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "433593",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSCB EXIMBANK GRUPPO VENETO BANCA",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "433594",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSCB EXIMBANK GRUPPO VENETO BANCA",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "433595",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSCB EXIMBANK GRUPPO VENETO BANCA",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "435696",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CB MOLDOVA-AGROINDBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "435697",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CB MOLDOVA-AGROINDBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "435698",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CB MOLDOVA-AGROINDBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "435699",
+      "issuer": "CB MOLDOVA-AGROINDBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "437554",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "438930",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VICTORIABANK",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "445109",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "445110",
+      "type": "DEBIT",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "445111",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "445112",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "445113",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "445551",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CB BANCA SOCIALA, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "446379",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CB MOLDOVA-AGROINDBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "446380",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CB MOLDOVA-AGROINDBANK, S.A.",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "446997",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "460094",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "460095",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "460096",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "460097",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "462767",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "VICTORIABANK",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "462768",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VICTORIABANK",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "474145",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VICTORIABANK",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "477918",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VICTORIABANK",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "477919",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "VICTORIABANK",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "477930",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "487032",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ENERGBANK",
+      "countries": [
+        "MD"
+      ]
+    },
+    {
+      "bin": "487488",
+      "issuer": "VICTORIABANK",
+      "countries": [
+        "MD"
+      ]
+    }
+  ]
+}

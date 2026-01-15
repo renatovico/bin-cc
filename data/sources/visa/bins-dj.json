@@ -1,0 +1,45 @@
+{
+  "bins": [
+    {
+      "bin": "420315",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "DJ"
+      ]
+    },
+    {
+      "bin": "420316",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "DJ"
+      ]
+    },
+    {
+      "bin": "420317",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "DJ"
+      ]
+    },
+    {
+      "bin": "425683",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "DJ"
+      ]
+    },
+    {
+      "bin": "455059",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE POUR LE COMMERCE ET LINDUSTRIE MER ROUGE",
+      "countries": [
+        "DJ"
+      ]
+    }
+  ]
+}

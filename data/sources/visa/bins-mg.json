@@ -1,0 +1,136 @@
+{
+  "bins": [
+    {
+      "bin": "404106",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF AFRICA - MADAGASCAR",
+      "countries": [
+        "MG"
+      ]
+    },
+    {
+      "bin": "404108",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF AFRICA - MADAGASCAR",
+      "countries": [
+        "MG"
+      ]
+    },
+    {
+      "bin": "404115",
+      "issuer": "BANK OF AFRICA - MADAGASCAR",
+      "countries": [
+        "MG"
+      ]
+    },
+    {
+      "bin": "406604",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BNI MADAGASCAR",
+      "countries": [
+        "MG"
+      ]
+    },
+    {
+      "bin": "406605",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BNI - CREDIT LYONNAIS MADAGASCAR",
+      "countries": [
+        "MG"
+      ]
+    },
+    {
+      "bin": "406606",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BNI - CREDIT LYONNAIS MADAGASCAR",
+      "countries": [
+        "MG"
+      ]
+    },
+    {
+      "bin": "411984",
+      "issuer": "BANQUE MALGACHE DE LOCEAN INDIEN",
+      "countries": [
+        "MG"
+      ]
+    },
+    {
+      "bin": "419750",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MG"
+      ]
+    },
+    {
+      "bin": "419751",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "MG"
+      ]
+    },
+    {
+      "bin": "420174",
+      "countries": [
+        "MG"
+      ]
+    },
+    {
+      "bin": "425321",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BFV - SOCIETE GENERALE",
+      "countries": [
+        "MG"
+      ]
+    },
+    {
+      "bin": "425322",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BFV - SOCIETE GENERALE",
+      "countries": [
+        "MG"
+      ]
+    },
+    {
+      "bin": "425323",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BFV - SOCIETE GENERALE",
+      "countries": [
+        "MG"
+      ]
+    },
+    {
+      "bin": "431823",
+      "issuer": "BFV - SOCIETE GENERALE",
+      "countries": [
+        "MG"
+      ]
+    },
+    {
+      "bin": "455060",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE MALGACHE DE LOCEAN INDIEN",
+      "countries": [
+        "MG"
+      ]
+    },
+    {
+      "bin": "458296",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MG"
+      ]
+    }
+  ]
+}

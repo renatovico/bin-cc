@@ -1,0 +1,26 @@
+{
+  "bins": [
+    {
+      "bin": "502165",
+      "type": "DEBIT",
+      "countries": [
+        "IN"
+      ]
+    },
+    {
+      "bin": "589458",
+      "type": "DEBIT",
+      "countries": [
+        "IN"
+      ]
+    },
+    {
+      "bin": "622018",
+      "type": "DEBIT",
+      "issuer": "STATE BANK OF INDIA",
+      "countries": [
+        "IN"
+      ]
+    }
+  ]
+}

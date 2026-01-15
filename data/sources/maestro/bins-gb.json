@@ -1,0 +1,2609 @@
+{
+  "bins": [
+    {
+      "bin": "500163",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "560372",
+      "type": "DEBIT",
+      "issuer": "ALLIANCE AND LEICESTER PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "560373",
+      "type": "DEBIT",
+      "issuer": "ALLIANCE AND LEICESTER PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "560374",
+      "type": "DEBIT",
+      "issuer": "ALLIANCE AND LEICESTER PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "564100",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ABBEY NATIONAL BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "564102",
+      "type": "DEBIT",
+      "issuer": "NORWICH AND PETERBOROUGH BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "564104",
+      "type": "DEBIT",
+      "issuer": "NATIONWIDE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "564116",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "564120",
+      "type": "DEBIT",
+      "category": "ATM CARD",
+      "issuer": "NATIONWIDE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "564192",
+      "type": "DEBIT",
+      "issuer": "NATIONWIDE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "580149",
+      "type": "DEBIT",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "600004",
+      "type": "DEBIT",
+      "issuer": "GE CAPITAL",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "600005",
+      "type": "DEBIT",
+      "issuer": "GE CAPITAL",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "600007",
+      "type": "DEBIT",
+      "issuer": "GE CAPITAL",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "618430",
+      "category": "DEBIT",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "618431",
+      "category": "DEBIT",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "618432",
+      "category": "DEBIT",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "618433",
+      "category": "DEBIT",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "618434",
+      "category": "DEBIT",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "618435",
+      "category": "DEBIT",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "618436",
+      "category": "DEBIT",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "618437",
+      "category": "DEBIT",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "618438",
+      "category": "DEBIT",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "618439",
+      "category": "DEBIT",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "631900",
+      "type": "DEBIT",
+      "issuer": "CREATION",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "631901",
+      "type": "DEBIT",
+      "issuer": "CREATION",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "631902",
+      "type": "DEBIT",
+      "issuer": "CREATION",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "631903",
+      "type": "DEBIT",
+      "issuer": "CREATION",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "631904",
+      "type": "DEBIT",
+      "issuer": "CREATION",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "631905",
+      "type": "DEBIT",
+      "issuer": "CREATION",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "631906",
+      "type": "DEBIT",
+      "issuer": "CREATION",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "631907",
+      "type": "DEBIT",
+      "issuer": "CREATION",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "631908",
+      "type": "DEBIT",
+      "issuer": "CREATION",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "631909",
+      "type": "DEBIT",
+      "issuer": "CREATION",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "631910",
+      "type": "DEBIT",
+      "issuer": "GE CAPITAL",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "631911",
+      "type": "DEBIT",
+      "issuer": "GE CAPITAL",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "631912",
+      "type": "DEBIT",
+      "issuer": "GE CAPITAL",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "631913",
+      "type": "DEBIT",
+      "issuer": "GE CAPITAL",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "631914",
+      "type": "DEBIT",
+      "issuer": "GE CAPITAL",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "631915",
+      "type": "DEBIT",
+      "issuer": "GE CAPITAL",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "631916",
+      "type": "DEBIT",
+      "issuer": "GE CAPITAL",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "631917",
+      "type": "DEBIT",
+      "issuer": "GE CAPITAL",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "631918",
+      "type": "DEBIT",
+      "issuer": "GE CAPITAL",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "631919",
+      "type": "DEBIT",
+      "issuer": "GE CAPITAL",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "631930",
+      "type": "DEBIT",
+      "issuer": "GE CAPITAL",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "631931",
+      "type": "DEBIT",
+      "issuer": "GE CAPITAL",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "631932",
+      "type": "DEBIT",
+      "issuer": "GE CAPITAL",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "631933",
+      "type": "DEBIT",
+      "issuer": "GE CAPITAL",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "631934",
+      "type": "DEBIT",
+      "issuer": "GE CAPITAL",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633110",
+      "type": "DEBIT",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633128",
+      "type": "DEBIT",
+      "issuer": "GE CAPITAL",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633165",
+      "type": "DEBIT",
+      "issuer": "GE CAPITAL",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633174",
+      "type": "DEBIT",
+      "issuer": "CO-OPERATIVE MEMBERSHIP",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633302",
+      "category": "DEBIT",
+      "issuer": "HALIFAX BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633305",
+      "type": "DEBIT",
+      "issuer": "HALIFAX PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633311",
+      "category": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633450",
+      "category": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633451",
+      "category": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633452",
+      "category": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633453",
+      "category": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633455",
+      "type": "DEBIT",
+      "issuer": "R RAPHAEL AND SONS PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633457",
+      "type": "DEBIT",
+      "category": "DEBIT",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633498",
+      "category": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633513",
+      "type": "DEBIT",
+      "issuer": "MIDLANDS CO-OPERATIVE SOCIETY MEMBERSHIP",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633540",
+      "type": "DEBIT",
+      "issuer": "ARGOS",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633641",
+      "type": "DEBIT",
+      "issuer": "POST OFFICE",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633675",
+      "type": "DEBIT",
+      "category": "PAYMENT CARD",
+      "issuer": "G-T-P GROUP, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633676",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633698",
+      "type": "DEBIT",
+      "issuer": "G-T-P GROUP, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633817",
+      "issuer": "BZX INVESTMENTS, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633834",
+      "type": "DEBIT",
+      "issuer": "GE CAPITAL",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633845",
+      "type": "DEBIT",
+      "issuer": "SUBWAY SUBCARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "633857",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "634001",
+      "type": "DEBIT",
+      "issuer": "TESCO PERSONAL FINANCE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "634004",
+      "type": "DEBIT",
+      "issuer": "TESCO CLUBCARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "634005",
+      "type": "DEBIT",
+      "issuer": "TESCO FUEL CARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "634008",
+      "type": "DEBIT",
+      "issuer": "TESCO PERSONAL FINANCE, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "635608",
+      "type": "DEBIT",
+      "issuer": "ORIGIN COMPOWER, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "635629",
+      "type": "DEBIT",
+      "issuer": "ORIGIN COMPOWER, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "635650",
+      "type": "DEBIT",
+      "issuer": "HARRODS BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "639000",
+      "type": "DEBIT",
+      "issuer": "NATIONWIDE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "670500",
+      "type": "DEBIT",
+      "issuer": "BROADCASTLE BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "670502",
+      "type": "DEBIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "670511",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "670698",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671718",
+      "category": "DEBIT",
+      "issuer": "COUTTS AND CO",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671800",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671801",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671802",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671803",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671804",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671805",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671806",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671807",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671808",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671809",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671810",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671811",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671812",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671813",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671814",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671815",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671816",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671817",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671818",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671819",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671820",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671821",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671822",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671823",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671824",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671825",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671826",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671827",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671828",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671829",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671830",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671831",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671832",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671833",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671834",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671835",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671836",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671837",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671838",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671839",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671840",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671841",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671842",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671843",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671844",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671845",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671846",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671847",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671848",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671849",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671850",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671851",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671852",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671853",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671854",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671855",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671856",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671857",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671858",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671859",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671860",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671861",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671862",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671863",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671864",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671865",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671866",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671867",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671868",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671869",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671870",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671871",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671872",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671873",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671874",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671875",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671876",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671877",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671878",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671879",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671880",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671881",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671882",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671883",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671884",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671885",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671886",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671887",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671888",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671889",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671890",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671891",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671892",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671893",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671894",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671895",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671896",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671897",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671898",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "671899",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675900",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675901",
+      "type": "DEBIT",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675902",
+      "type": "DEBIT",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675903",
+      "type": "DEBIT",
+      "issuer": "LEEDS BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675904",
+      "type": "DEBIT",
+      "issuer": "CHESHIRE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675905",
+      "type": "DEBIT",
+      "issuer": "NATIONAL AUSTRALIA GROUP (UK)",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675906",
+      "type": "DEBIT",
+      "issuer": "HALIFAX",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675907",
+      "type": "DEBIT",
+      "issuer": "HALIFAX",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675908",
+      "type": "DEBIT",
+      "issuer": "HALIFAX",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675909",
+      "type": "DEBIT",
+      "issuer": "HALIFAX",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675910",
+      "type": "DEBIT",
+      "issuer": "HALIFAX",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675911",
+      "type": "DEBIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675912",
+      "type": "DEBIT",
+      "issuer": "STATE BANK OF INDIA - UK",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675913",
+      "type": "DEBIT",
+      "issuer": "BROADCASTLE BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675914",
+      "type": "DEBIT",
+      "issuer": "R RAPHAEL AND SONS PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675915",
+      "type": "DEBIT",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675916",
+      "type": "DEBIT",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675917",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675918",
+      "type": "DEBIT",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675919",
+      "type": "DEBIT",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675920",
+      "type": "DEBIT",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675921",
+      "type": "DEBIT",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675922",
+      "type": "DEBIT",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675923",
+      "type": "DEBIT",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675924",
+      "type": "DEBIT",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675925",
+      "type": "DEBIT",
+      "issuer": "CONISTER BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675926",
+      "type": "DEBIT",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675927",
+      "type": "DEBIT",
+      "issuer": "APS FINANCIAL, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675928",
+      "type": "DEBIT",
+      "category": "GIFT",
+      "issuer": "BLACKHAWK NETWORK (UK) LTD",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675929",
+      "type": "DEBIT",
+      "issuer": "HABIB BANK UK",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675930",
+      "type": "DEBIT",
+      "category": "DEBIT",
+      "issuer": "PUNJAB NATIONAL BANK (INTERNATIONAL) LIMITED",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675931",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675932",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675933",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675934",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675935",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675936",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675937",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675938",
+      "type": "DEBIT",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675939",
+      "type": "DEBIT",
+      "issuer": "HSBC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675940",
+      "type": "DEBIT",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675941",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675942",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675943",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675944",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675945",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675946",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675947",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675948",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675949",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675950",
+      "type": "DEBIT",
+      "category": "DEBIT",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675951",
+      "type": "DEBIT",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675952",
+      "type": "DEBIT",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675953",
+      "type": "DEBIT",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675954",
+      "type": "DEBIT",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675955",
+      "type": "DEBIT",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675956",
+      "type": "DEBIT",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675957",
+      "type": "DEBIT",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675958",
+      "type": "DEBIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675959",
+      "type": "DEBIT",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675960",
+      "type": "DEBIT",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675961",
+      "type": "DEBIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675962",
+      "type": "DEBIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675963",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675964",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675965",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675966",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675967",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675968",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675969",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675970",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675971",
+      "type": "DEBIT",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675972",
+      "type": "DEBIT",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675973",
+      "type": "DEBIT",
+      "issuer": "BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675974",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675975",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675976",
+      "type": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675977",
+      "type": "DEBIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675978",
+      "type": "DEBIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675979",
+      "type": "DEBIT",
+      "issuer": "BANK OF IRELAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675980",
+      "type": "DEBIT",
+      "issuer": "ISLAMIC BANK OF BRITAIN PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675981",
+      "type": "DEBIT",
+      "issuer": "ISLAMIC BANK OF BRITAIN PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675982",
+      "type": "DEBIT",
+      "issuer": "NATIONAL AUSTRALIA GROUP (UK)",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675983",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675984",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675985",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675986",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675987",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675988",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675989",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675990",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675991",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675992",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675993",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675994",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675995",
+      "type": "DEBIT",
+      "issuer": "NATIONAL AUSTRALIA GROUP (UK)",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675996",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675997",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675998",
+      "type": "DEBIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "675999",
+      "type": "DEBIT",
+      "issuer": "ALLOCATED TO SWITCH",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676215",
+      "category": "DEBIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676418",
+      "type": "DEBIT",
+      "issuer": "EGG BANKING PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676583",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676641",
+      "type": "DEBIT",
+      "issuer": "ABBEY NATIONAL BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676819",
+      "type": "DEBIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "676883",
+      "type": "DEBIT",
+      "issuer": "ABBEY NATIONAL BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "677003",
+      "category": "DEBIT",
+      "issuer": "LLOYDS TSB BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "677043",
+      "type": "DEBIT",
+      "issuer": "ALLIANCE AND LEICESTER PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "677044",
+      "type": "DEBIT",
+      "issuer": "CHESHIRE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "677049",
+      "type": "DEBIT",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "677080",
+      "type": "DEBIT",
+      "issuer": "ISLAMIC BANK OF BRITAIN PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "677086",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "R RAPHAEL AND SONS PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "677093",
+      "type": "DEBIT",
+      "issuer": "CLYDESDALE BANK PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "677105",
+      "type": "DEBIT",
+      "issuer": "BRITANNIA BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "677106",
+      "type": "DEBIT",
+      "issuer": "BRITANNIA BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "677121",
+      "category": "DEBIT",
+      "issuer": "NATWEST",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "677154",
+      "type": "DEBIT",
+      "issuer": "BROADCASTLE BANK, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "677183",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "677184",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "677186",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "677290",
+      "type": "DEBIT",
+      "issuer": "CONISTER TRUST, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "677306",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "R RAPHAEL AND SONS PLC",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "677487",
+      "type": "DEBIT",
+      "issuer": "NEWCASTLE BUILDING SOCIETY",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "677520",
+      "type": "DEBIT",
+      "issuer": "APS FINANCIAL, LTD.",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "677539",
+      "category": "DEBIT",
+      "issuer": "PUNJAB NATIONAL BANK (INTERNATIONAL) LIMITED",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "677682",
+      "category": "DEBIT",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "677712",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "677713",
+      "type": "DEBIT",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "679984",
+      "category": "DEBIT",
+      "issuer": "FIRST DATA GLOBAL SERVICES",
+      "countries": [
+        "GB"
+      ]
+    },
+    {
+      "bin": "690149",
+      "type": "DEBIT",
+      "issuer": "IAPA FREQUENT FLYERS",
+      "countries": [
+        "GB"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "bins": [
+    {
+      "bin": "517887",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "LS"
+      ]
+    },
+    {
+      "bin": "540334",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "STANDARD BANK OF SOUTH AFRICA, LTD.",
+      "countries": [
+        "LS"
+      ]
+    }
+  ]
+}

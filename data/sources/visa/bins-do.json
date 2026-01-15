@@ -1,0 +1,3211 @@
+{
+  "bins": [
+    {
+      "bin": "400193",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "400194",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "400258",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "400267",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "400307",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERCONTINENTAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "400308",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "400309",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "400441",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "400483",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "400484",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "400485",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "401172",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "401623",
+      "issuer": "ATH DOMINICANA, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "402108",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "402143",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BHD, S.A., BANCO MZLTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "402503",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DOMINICANO, C. POR A., BANCO MULTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "402504",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO POPULAR DOMINICANO, C. POR A., BANCO MULTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "402783",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ASOCIACION NORTENA DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "403309",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE AHORRO Y CREDITO ADEMI, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "403380",
+      "issuer": "PROCECARD, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "404034",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "404035",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "404112",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "404830",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, C. POR",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "404831",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, C. POR",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "405151",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "405259",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, C. POR",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "405260",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, C. POR",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "405261",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO POPULAR DOMINICANO, C. POR A., BANCO MULTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "405265",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MULTIPLE LEON, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "405843",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO MULTIPLE REPUBLIC BANK (DR), S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "405889",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "405977",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "405978",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "407500",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "407537",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "407546",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, C. POR",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "407855",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "407861",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "409043",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "409044",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "409045",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "409046",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "409058",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "409306",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO VIMENCA C. POR A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "409936",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "410513",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DOMINICANO",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "410534",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO VIMENCA C. POR A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "410535",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO VIMENCA C. POR A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "411031",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO BHD, S.A., BANCO MZLTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "411800",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "412617",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROFESIONAL DE DESARROLLO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "412946",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO PROFESIONAL DE DESARROLLO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "412947",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO PROFESIONAL DE DESARROLLO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "416501",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, C. POR",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "417880",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE AHORRO Y CREDITO ADEMI, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "417881",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE AHORRO Y CREDITO ADEMI, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "418065",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TARJETA NARANJA DOMINICANA, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "418666",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "419180",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO MULTIPLE LOPEZ DE HARO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "419181",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO MULTIPLE LOPEZ DE HARO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "419182",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO MULTIPLE LOPEZ DE HARO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "420565",
+      "issuer": "CMP, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "420568",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ASOCIACION BARAHONA DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "421302",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MULTIPLE LEON, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "421303",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO VIMENCA C. POR A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "421383",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BHD, S.A., BANCO MZLTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "421384",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BHD, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "421385",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BHD, S.A., BANCO MZLTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "421488",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BHD, S.A., BANCO MZLTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "421499",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO VIMENCA C. POR A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "421505",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "421506",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "421514",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MULTIPLE LEON, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "421805",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "421806",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "421807",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "421815",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "421817",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "421921",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "421969",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "422135",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "422136",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "422137",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "422222",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, C. POR",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "422223",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE AHORRO Y CREDITO PROMERICA, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "422595",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MULTIPLE LOPEZ DE HARO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "422752",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MERCANTIL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "423324",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "423640",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CITIBANK",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "424907",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "424959",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "424960",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "424961",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "428308",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINANCIERA PROMERICA C. POR A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "428309",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, C. POR",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "429511",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ASOCIACION CIBAO DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "430329",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "430903",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "430904",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "431197",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ASOCIACION DUARTE DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "432460",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE AHORRO Y CREDITO DE LAS AMERICAS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "432461",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE AHORRO Y CREDITO DE LAS AMERICAS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "432462",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE AHORRO Y CREDITO DE LAS AMERICAS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "432463",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "433111",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DOMINICANO DEL PROGRESO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "433112",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO DOMINICANO DEL PROGRESO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "433143",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DOMINICANO DEL PROGRESO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "433144",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO DOMINICANO DEL PROGRESO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "433448",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "433449",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "434091",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BHD, S.A., BANCO MZLTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "434092",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BHD, S.A., BANCO MZLTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "435149",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DOMINICANO DEL PROGRESO S.A. - BANCO MULTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "436405",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DOMINICANO, C. POR A., BANCO MULTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "438080",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BHD, S.A., BANCO MZLTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "438081",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BHD, S.A., BANCO MZLTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "438085",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ASOCIACION DOMINICANA DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "438086",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ASOCIACION DOMINICANA DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "438087",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ASOCIACION DOMINICANA DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "438170",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "438283",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERCONTINENTAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "439477",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ASOCIACION CIBAO DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "441028",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "BANCO BHD, S.A., BANCO MZLTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "442019",
+      "issuer": "BANCO DOMINICANO DEL PROGRESO S.A. - BANCO MULTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "443564",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "443575",
+      "issuer": "PLATCO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "443956",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, C. POR",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "444058",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, C. POR",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "444059",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, C. POR",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "444321",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BDI, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "446196",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO CONTINENTAL DE DESARROLLO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "446880",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "448176",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO MULTIPLE LEON, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "450420",
+      "issuer": "CMP, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "450566",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO MULTIPLE LEON, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "450573",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO MERCANTIL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "450598",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO MULTIPLE LEON, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "450699",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO NACIONAL DE CREDITO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "450839",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MULTIPLE LEON, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "450840",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MULTIPLE LEON, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "450908",
+      "issuer": "BANCO UNIVERSAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "450909",
+      "issuer": "BANCO UNIVERSAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "450970",
+      "issuer": "BANCO UNIVERSAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "450971",
+      "issuer": "BANCO UNIVERSAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "450974",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DOMINICANO DEL PROGRESO S.A. - BANCO MULTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "450975",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DOMINICANO DEL PROGRESO S.A. - BANCO MULTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "451114",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERCONTINENTAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "451320",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "451491",
+      "issuer": "ATH DOMINICANA, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "451492",
+      "issuer": "ATH DOMINICANA, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "451493",
+      "issuer": "ATH DOMINICANA, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "451494",
+      "issuer": "ATH DOMINICANA, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "451495",
+      "issuer": "ATH DOMINICANA, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "451700",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BHD, S.A., BANCO MZLTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "451734",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BHD, S.A., BANCO MZLTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "451735",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BHD, S.A., BANCO MZLTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "451744",
+      "issuer": "BANCO GERENCIAL AND FIDUCIARIO DOMINICANO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "451787",
+      "issuer": "BANCO GERENCIAL AND FIDUCIARIO DOMINICANO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "451794",
+      "issuer": "BANCO GERENCIAL AND FIDUCIARIO DOMINICANO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "452134",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "454046",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PANAMERICANO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "454047",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO PANAMERICANO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "454051",
+      "issuer": "BANCO UNIVERSAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "454080",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BHD, S.A., BANCO MZLTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "454089",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DOMINICANO DEL PROGRESO S.A. - BANCO MULTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "454093",
+      "issuer": "BANCO ANTILLANO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "454098",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BHD, S.A., BANCO MZLTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "454099",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BHD, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "454341",
+      "issuer": "BANCO DEL CARIBE DOMINICANO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "454342",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO MULTIPLE LEON, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "454479",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO PANAMERICANO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "454719",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO FIDUCIARIO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "454720",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BHD, S.A., BANCO MZLTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "454721",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BHD, S.A., BANCO MZLTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "454722",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BHD, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "454724",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERCONTINENTAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "454725",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO INTERCONTINENTAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "455717",
+      "issuer": "BANCO UNIVERSAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "455738",
+      "issuer": "BANCO UNIVERSAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "456027",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MULTIPLE LEON, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "456039",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO MULTIPLE LEON, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "456044",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MULTIPLE LEON, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "456334",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BHD, S.A., BANCO MZLTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "456775",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO POPULAR DOMINICANO, C. POR A., BANCO MULTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "456871",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO PANAMERICANO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "457620",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "457621",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "457622",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "457738",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "459382",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "459413",
+      "type": "DEBIT",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "459414",
+      "type": "DEBIT",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "459415",
+      "type": "DEBIT",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "459416",
+      "type": "DEBIT",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "459417",
+      "type": "DEBIT",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "460197",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MULTIPLE LEON, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "461167",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ASOCIACION MOCANA DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "461210",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "461211",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ASOCIACION BONAO DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "462964",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "462983",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "462991",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "462992",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "462993",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ASOCIACION CIBAO DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "465562",
+      "issuer": "BANCO POPULAR DOMINICANO",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "465577",
+      "issuer": "CONSORCIO DE TARJETAS DOMINICANAS S.A. (CARDNET)",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "465739",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "466715",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO POPULAR DOMINICANO",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "466716",
+      "issuer": "BANCO POPULAR DOMINICANO",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468204",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO MULTIPLE LEON, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468575",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468901",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468902",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468903",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468926",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468930",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468931",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468932",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468933",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468934",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468935",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468936",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468940",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468941",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468942",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468944",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468945",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468946",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468947",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468948",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468949",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468950",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468951",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468952",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468953",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468954",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468955",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468956",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468957",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468958",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468959",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468960",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468961",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468962",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468963",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468964",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468965",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468966",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468967",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468968",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468969",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468970",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468971",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468972",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468973",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468974",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468975",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468976",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468977",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468978",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468979",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468980",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468981",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468982",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468983",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468984",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468985",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468986",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468987",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468988",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468989",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468990",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468991",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468992",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468993",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468994",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468995",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468996",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468997",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468998",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "468999",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "469566",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO POPULAR DOMINICANO, C. POR A., BANCO MULTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "469858",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "469859",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "469890",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "469891",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "469892",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "470603",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "472071",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE AHORRO Y CREDITO ALTAS CUMBRES, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "472072",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE AHORRO Y CREDITO ALTAS CUMBRES, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "472073",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "473237",
+      "issuer": "BANCO POPULAR DOMINICANO",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "473883",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "474162",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO POPULAR DOMINICANO, C. POR A., BANCO MULTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "474214",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MULTIPLE LEON, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "474567",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "476017",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO MULTIPLE REPUBLIC BANK (DR), S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "476095",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO CONTINENTAL DE DESARROLLO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "476096",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CONTINENTAL DE DESARROLLO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "477048",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "477253",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "477254",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "477365",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BDI, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "477380",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, C. POR",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "479360",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MERCANTIL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "479361",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO MERCANTIL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "479409",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "479410",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "479411",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "480426",
+      "category": "PURCHASING",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "480854",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "480861",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO MULTIPLE SANTA CRUZ, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "480867",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "482431",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "482495",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "483057",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "483095",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "484644",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "BANCO MULTIPLE LEON, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "485937",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO MULTIPLE LEON, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "485950",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "485957",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO BHD, S.A., BANCO MZLTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "485971",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO POPULAR DOMINICANO, C. POR A., BANCO MULTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "486385",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "486439",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "486561",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO MULTIPLE LEON, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "486680",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO MULTIPLE LOPEZ DE HARO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "486681",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO BHD S.A. BANCO MULTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "487276",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BDI, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "487277",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BDI, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "487278",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BDI, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "487279",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BDI, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "489357",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "489425",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "489450",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "BANCO BHD S.A. BANCO MULTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "489468",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA, C. POR",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "489912",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ASOCIACION CIBAO DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "489951",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "489952",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "490776",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERCONTINENTAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "491308",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO MULTIPLE LEON, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "491309",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO INTERCONTINENTAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "491310",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "BANCO MULTIPLE LEON, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "491311",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO NACIONAL DE CREDITO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "491312",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERCONTINENTAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "491313",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO INTERCONTINENTAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "491404",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO INTERCONTINENTAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "491618",
+      "issuer": "BANCO NACIONAL DE CREDITO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "491697",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO MULTIPLE LEON, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "491902",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MERCANTIL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "491903",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MERCANTIL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "491904",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MERCANTIL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "492106",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DOMINICANO, C. POR A., BANCO MULTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "492118",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR DOMINICANO",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "492195",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BHD, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "492196",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BHD, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "492197",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO BHD, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "492201",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERCONTINENTAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "492202",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO INTERCONTINENTAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "492209",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERCONTINENTAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "492410",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ASOCIACION DOMINICANA DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "492452",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO MULTIPLE LEON, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "493105",
+      "issuer": "CITI- AMERICAN AIRLINES",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "493106",
+      "issuer": "CITI- AMERICAN AIRLINES",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "493108",
+      "issuer": "CITI- AMERICAN AIRLINES",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "493117",
+      "issuer": "CITI- AMERICAN AIRLINES",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "493137",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "493138",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CITIBANK",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "493139",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CITIBANK",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "493154",
+      "issuer": "CITI- AMERICAN AIRLINES",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "493155",
+      "issuer": "CITI- AMERICAN AIRLINES",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "493156",
+      "issuer": "CITI- AMERICAN AIRLINES",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "493163",
+      "issuer": "CITI- AMERICAN AIRLINES",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "493185",
+      "issuer": "CITI- AMERICAN AIRLINES",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "493198",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO BHD, S.A., BANCO MZLTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "493711",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO DOMINICANO DEL PROGRESO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "493788",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO BHD, S.A., BANCO MZLTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "494146",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO BHD, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "496082",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO BDI, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "496087",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "496088",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "496652",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO POPULAR DOMINICANO, C. POR A., BANCO MULTIPLE",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "498475",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO MULTIPLE LEON, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "498557",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "DO"
+      ]
+    }
+  ]
+}

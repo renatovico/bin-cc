@@ -1,0 +1,724 @@
+{
+  "bins": [
+    {
+      "bin": "510001",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AGRICULTURAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "510015",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "AGRICULTURAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "510016",
+      "issuer": "AGRICULTURAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "510028",
+      "issuer": "AGRICULTURAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "510031",
+      "issuer": "AGRICULTURAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "510037",
+      "type": "CREDIT",
+      "issuer": "GENERAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "510053",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "510099",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "510155",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "515877",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "516032",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "516732",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "516838",
+      "type": "DEBIT",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "518516",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK MILLENNIUM, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "518517",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HELLENIC POST CREDIT, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "518518",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK MILLENNIUM, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "518519",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HELLENIC POST CREDIT, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "518589",
+      "issuer": "PANELLINIA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "518659",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PROTON BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "518666",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF CYPRUS PUBLIC CO., LTD.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "518677",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK MILLENNIUM, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "518730",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MARFIN POPULAR BANK PUBLIC CO., LTD.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "518992",
+      "type": "CREDIT",
+      "issuer": "EMPORIKI BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "519499",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "520304",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "GENERAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "520315",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "520689",
+      "type": "CREDIT",
+      "issuer": "PROTON BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "520949",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "521098",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "521826",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PROTON BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "522072",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "T.BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "524035",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ATTICA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "524870",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HELLENIC POST CREDIT, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "527800",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "527801",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "527802",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "527803",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "527804",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "527805",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "527806",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "527807",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "527808",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "527809",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "527890",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "527891",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "527892",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "527893",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "528055",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "529485",
+      "type": "CREDIT",
+      "issuer": "MARFIN POPULAR BANK PUBLIC CO., LTD.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "530507",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITIBANK INTERNATIONAL PLC",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "531146",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "531239",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "CITIBANK INTERNATIONAL PLC",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "532192",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "532322",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ATTICA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "533598",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "533824",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "534153",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "T.BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "539731",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "540186",
+      "type": "CREDIT",
+      "issuer": "PANELLINIA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "540574",
+      "issuer": "FIRST HAWAIIAN BANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "541514",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ATTICA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "543018",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PROBANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "543074",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EMPORIKI BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "543750",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK OF CYPRUS PUBLIC CO., LTD.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "544034",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "MARFIN POPULAR BANK PUBLIC CO., LTD.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "545865",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "546045",
+      "issuer": "MACEDONIA THRACE BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "546470",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CITIBANK GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "546471",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "546716",
+      "type": "CREDIT",
+      "issuer": "CITIBANK INTERNATIONAL PLC",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "547261",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "548182",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "549885",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK MILLENNIUM, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "550076",
+      "type": "CREDIT",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "550106",
+      "type": "CREDIT",
+      "issuer": "PROBANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "550283",
+      "type": "CREDIT",
+      "issuer": "EMPORIKI BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "552053",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "552202",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "552215",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PROBANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "553262",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "554208",
+      "type": "CREDIT",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "554209",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "554272",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "554760",
+      "type": "CREDIT",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "557871",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "557956",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK MILLENNIUM, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "558483",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "558490",
+      "issuer": "MACEDONIA THRACE BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    }
+  ]
+}

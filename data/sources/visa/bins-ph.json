@@ -1,0 +1,1329 @@
+{
+  "bins": [
+    {
+      "bin": "400699",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "400992",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EAST WEST BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "400993",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "EAST WEST BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "400994",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "PHILAM SAVINGS BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "402822",
+      "type": "CREDIT",
+      "issuer": "HSBC PHILIPPINE AIRLINES MABUHAY MILES",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "402843",
+      "type": "CREDIT",
+      "issuer": "HSBC PHILIPPINE AIRLINES MABUHAY MILES",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "402851",
+      "type": "CREDIT",
+      "issuer": "HSBC PHILIPPINE AIRLINES MABUHAY MILES",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "402870",
+      "type": "CREDIT",
+      "issuer": "HSBC PHILIPPINE AIRLINES MABUHAY MILES",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "402880",
+      "type": "CREDIT",
+      "issuer": "HSBC PHILIPPINE AIRLINES MABUHAY MILES",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "402886",
+      "type": "CREDIT",
+      "issuer": "HSBC PHILIPPINE AIRLINES MABUHAY MILES",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "402892",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "402893",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "403418",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "403419",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "405460",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "405461",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "405483",
+      "issuer": "BANKARD, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "405493",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "405598",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "405599",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "406463",
+      "issuer": "EQUITABLE PCI BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "407380",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "412611",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EAST WEST BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "412612",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "EAST WEST BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "413100",
+      "issuer": "BANK OF THE PHILIPPINE ISLANDS",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "413101",
+      "issuer": "BANK OF THE PHILIPPINE ISLANDS",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "413448",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "415714",
+      "issuer": "MICROFINANCE MAXIMUM SAVINGS BANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "415764",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "416511",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "418358",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "418359",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "418898",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "418903",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "STERLING BANK OF ASIA, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "421122",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "421433",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "421434",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "421538",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "421562",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "421563",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "421564",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "421565",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "421585",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "RIZAL COMMERCIAL BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "421589",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "421665",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "421679",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "426577",
+      "issuer": "BANKARD, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "428303",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "428307",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "428339",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "428346",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "428347",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "428353",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "428354",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "428355",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "428356",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "428410",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "EQUICOM SAVINGS BANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "428428",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "EQUICOM SAVINGS BANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "428475",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "429382",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "RIZAL COMMERCIAL BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "431168",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "METROBANK CARD CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "431170",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RIZAL COMMERCIAL BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "431179",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "METROBANK CARD CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "432156",
+      "issuer": "CITIBANK SAVINGS, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "433699",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITICORP",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "434348",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "436367",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "436368",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "436446",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "436512",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "436524",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "436772",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "437507",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "EAST WEST BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "437550",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EAST WEST BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "439196",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "439197",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "EQUITABLE PCI BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "440452",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNION BANK OF THE PHILIPPINES",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "440453",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNION BANK OF THE PHILIPPINES",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "440454",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNION BANK OF THE PHILIPPINES",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "442739",
+      "issuer": "ABN AMRO SAVINGS BANK CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "445043",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "445044",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "445045",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "445046",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "445051",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "445052",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "445086",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "446509",
+      "issuer": "MICROFINANCE MAXIMUM SAVINGS BANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "447779",
+      "issuer": "BANK OF AMERICA N.T. AND, S.A.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "448328",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITICORP",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "448458",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "449174",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CHINATRUST (PHILIPPINES) COMMERCIAL BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "449377",
+      "issuer": "METROBANK CARD CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "450718",
+      "issuer": "BANK OF AMERICA N.T. AND, S.A.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "451194",
+      "issuer": "EQUITABLE PCI BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "453248",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "453756",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "453913",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "453914",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "453915",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "453916",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "453971",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "453972",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "454494",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "455968",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "456752",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EQUITABLE PCI BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "456809",
+      "issuer": "EQUITABLE BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "457358",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "RIZAL COMMERCIAL BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "457556",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "EAST WEST BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "457557",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "457574",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "457591",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "457592",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "457593",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "458535",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "458824",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "UNION BANK OF THE PHILIPPINES",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "460186",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "460888",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "461753",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "461761",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EQUICOM SAVINGS BANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "461762",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "EQUICOM SAVINGS BANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "461764",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EQUICOM SAVINGS BANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "461765",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "461766",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "EQUICOM SAVINGS BANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "461769",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "461780",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "461781",
+      "type": "DEBIT",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "461782",
+      "type": "DEBIT",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "461984",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "462267",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UNION BANK OF THE PHILIPPINES",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "462268",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "462900",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PHILIPPINE VETERANS BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "462901",
+      "type": "DEBIT",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "464008",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "UNITED OVERSEAS BANK PHILIPPINES",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "464020",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED OVERSEAS BANK PHILIPPINES",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "464943",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "464944",
+      "type": "DEBIT",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "464945",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC / HSBC PREMIER",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "464946",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "464966",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "EQUICOM SAVINGS BANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "464995",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "465479",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "465481",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "466252",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "466253",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "466536",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "466539",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "468816",
+      "issuer": "HSBC SAVINGS BANK (PHILIPPINES), INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "468826",
+      "issuer": "METROPOLITAN BANK AND TRUST COMPANY",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "470586",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "470676",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "474137",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EQUITABLE PCI BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "484063",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "486290",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "486638",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "488907",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALLIED BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "488908",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ALLIED BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "488935",
+      "issuer": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "488957",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "492101",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "492110",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "492123",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "EQUITABLE PCI BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "492161",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "492164",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "492473",
+      "issuer": "METROPOLITAN BANK AND TRUST COMPANY",
+      "countries": [
+        "PH"
+      ]
+    }
+  ]
+}

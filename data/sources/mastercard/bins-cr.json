@@ -1,0 +1,1607 @@
+{
+  "bins": [
+    {
+      "bin": "510209",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "510714",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "510980",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "512684",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "512723",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "513695",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "514006",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "514944",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITIBANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "515575",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "516327",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "516374",
+      "type": "CREDIT",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "516681",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "516777",
+      "type": "DEBIT",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "517588",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "517784",
+      "type": "CREDIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "517861",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "517871",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518139",
+      "issuer": "BANCO CUSCATLAN DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518140",
+      "category": "STANDARD",
+      "issuer": "BANCO CITIBANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518146",
+      "type": "CREDIT",
+      "issuer": "CREDOMATIC INTERNATIONAL, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518186",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518203",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518207",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518209",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518211",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518214",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518216",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518219",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518227",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518230",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518231",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518232",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518233",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518234",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518235",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518236",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518237",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518239",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518240",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518241",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518242",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518251",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518255",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518256",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518257",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518258",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518259",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518260",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518263",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518264",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518265",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518266",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518267",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518268",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518269",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518279",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518281",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518290",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518297",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518439",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518541",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518693",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO HSBC (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518716",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO HSBC (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "518858",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "519713",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "519790",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "519995",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "519996",
+      "type": "DEBIT",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "520026",
+      "type": "CREDIT",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "520055",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDOMATIC INTERNATIONAL, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "520638",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "520649",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "521316",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "521345",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "522379",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "523426",
+      "type": "CREDIT",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "523772",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "523774",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "524308",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "524316",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "525843",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "525887",
+      "type": "CREDIT",
+      "issuer": "BANCO PROMERICA DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "525992",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO CREDITO AGRICOLA DE CARTAGO",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "526845",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "526982",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "527499",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO HSBC (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "527552",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "528080",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "528837",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "528840",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "529164",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "529744",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530045",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO PROMERICA DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530310",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDOMATIC INTERNATIONAL, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530311",
+      "category": "STANDARD",
+      "issuer": "CREDOMATIC INTERNATIONAL, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530312",
+      "issuer": "CREDOMATIC INTERNATIONAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530313",
+      "issuer": "CREDOMATIC INTERNATIONAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530314",
+      "issuer": "CREDOMATIC INTERNATIONAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530315",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDOMATIC INTERNATIONAL, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530316",
+      "issuer": "CREDOMATIC INTERNATIONAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530317",
+      "issuer": "CREDOMATIC INTERNATIONAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530318",
+      "issuer": "CREDOMATIC INTERNATIONAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530319",
+      "issuer": "CREDOMATIC INTERNATIONAL",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530320",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530321",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530322",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530323",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530324",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530325",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530326",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530331",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530344",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530345",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530346",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530351",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530352",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530353",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530354",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530355",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530356",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530357",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530358",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530360",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530362",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530364",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530366",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530367",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530368",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530370",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530374",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530376",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530377",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530378",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530379",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530381",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530386",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530387",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530388",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530390",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530391",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530392",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530393",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530394",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530395",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530396",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530397",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530398",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530399",
+      "type": "DEBIT",
+      "issuer": "BAC SAN JOSE",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "530709",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO HSBC (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "531868",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO HSBC (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "531882",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO HSBC (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "531883",
+      "type": "DEBIT",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "531990",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "532944",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "533352",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "534165",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO CREDITO AGRICOLA DE CARTAGO",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "536076",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "539751",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "540248",
+      "issuer": "CREDOMATIC INTERNATIONAL, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "540390",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "540647",
+      "issuer": "CREDOMATIC INTERNATIONAL, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "540781",
+      "issuer": "CREDOMATIC INTERNATIONAL, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "541254",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "541602",
+      "type": "CREDIT",
+      "issuer": "CREDOMATIC INTERNATIONAL, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "542133",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "542357",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "543718",
+      "issuer": "CREDOMATIC INTERNATIONAL, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "543821",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "544197",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO CITIBANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "545528",
+      "issuer": "CREDOMATIC INTERNATIONAL, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "545530",
+      "issuer": "CREDOMATIC INTERNATIONAL, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "545886",
+      "type": "CREDIT",
+      "issuer": "CREDOMATIC INTERNATIONAL, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "545887",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDOMATIC INTERNATIONAL, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "545888",
+      "type": "CREDIT",
+      "issuer": "CREDOMATIC INTERNATIONAL, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "545889",
+      "type": "CREDIT",
+      "issuer": "CREDOMATIC INTERNATIONAL, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "545962",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDOMATIC INTERNATIONAL, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "546571",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO PROMERICA DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "546637",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "CREDOMATIC INTERNATIONAL, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "547386",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CREDOMATIC INTERNATIONAL, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "547398",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO HSBC (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "548621",
+      "issuer": "CREDOMATIC INTERNATIONAL, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "548625",
+      "issuer": "CREDOMATIC INTERNATIONAL, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "548711",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "548813",
+      "type": "CREDIT",
+      "issuer": "CREDOMATIC INTERNATIONAL, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "549194",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CREDOMATIC INTERNATIONAL, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "549936",
+      "issuer": "CREDOMATIC INTERNATIONAL, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "549937",
+      "issuer": "CREDOMATIC INTERNATIONAL, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "550430",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "550486",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "552017",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "552195",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO HSBC (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "552450",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "553625",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO PROMERICA DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "553654",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO HSBC (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "554367",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITIBANK DE COSTA RICA, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "554850",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "556611",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CREDOMATIC INTERNATIONAL, S.A.",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "557117",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "557683",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO NACIONAL DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "558600",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "558617",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE COSTA RICA",
+      "countries": [
+        "CR"
+      ]
+    },
+    {
+      "bin": "558877",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO HSBC (COSTA RICA), S.A.",
+      "countries": [
+        "CR"
+      ]
+    }
+  ]
+}

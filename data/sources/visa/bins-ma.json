@@ -1,0 +1,965 @@
+{
+  "bins": [
+    {
+      "bin": "400246",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "401713",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ATTIJARIWAFA BANK",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "401765",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "402412",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ATTIJARIWAFA BANK",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "403072",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "404762",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT AGRICOLE DU MAROC, S.A.",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "404951",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "405039",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "WELLS FARGO BANK NEVADA, N.A.",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "405525",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANQUE MAROCAINE POUR LE COMMERCE ET LINDUSTRIE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "406220",
+      "issuer": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "406270",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "407447",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "407812",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CREDIT IMMOBILIER ET HOTELIER",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "409901",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNION PLANTERS BANK",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "410312",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "411059",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "412673",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ATTIJARIWAFA BANK",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "413223",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BARID AL MAGHRIB",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "413224",
+      "issuer": "BARID AL MAGHRIB",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "416492",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "417083",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT DU MAROC, S.A.",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "417343",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "417621",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT DU MAROC, S.A.",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "419644",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "ATTIJARIWAFA BANK",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "419645",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ATTIJARIWAFA BANK",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "419646",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "ATTIJARIWAFA BANK",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "419902",
+      "issuer": "BANQUE CENTRALE POPULAIRE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "419903",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANQUE CENTRALE POPULAIRE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "419904",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANQUE CENTRALE POPULAIRE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "422630",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "425897",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "issuer": "CASABLANCA FINANCE MARKETS, S.A.",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "427728",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANQUE MAROCAINE POUR LE COMMERCE ET LINDUSTRIE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "428394",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "428604",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "429003",
+      "issuer": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "430338",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT AGRICOLE DU MAROC, S.A.",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "431441",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "431875",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BARID AL MAGHRIB",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "432431",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "432436",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AB LIETUVOS TAUPOMASIS BANKAS",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "432474",
+      "issuer": "BANQUE MAROCAINE POUR LE COMMERCE ET LINDUSTRIE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "432475",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "432476",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "437776",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ATTIJARIWAFA BANK",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "437777",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "439218",
+      "issuer": "CENTRE MONETIQUE INTERBANCAIRE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "439235",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CREDIT AGRICOLE DU MAROC, S.A.",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "439375",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE MAROCAINE POUR LE COMMERCE ET LINDUSTRIE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "439376",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE MAROCAINE POUR LE COMMERCE ET LINDUSTRIE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "439377",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE MAROCAINE POUR LE COMMERCE ET LINDUSTRIE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "439378",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE MAROCAINE POUR LE COMMERCE ET LINDUSTRIE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "439379",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANQUE MAROCAINE POUR LE COMMERCE ET LINDUSTRIE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "439380",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANQUE MAROCAINE POUR LE COMMERCE ET LINDUSTRIE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "440390",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ATTIJARIWAFA BANK",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "440582",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "440584",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE MAROCAINE POUR LE COMMERCE ET LINDUSTRIE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "440585",
+      "issuer": "BANQUE CENTRALE POPULAIRE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "442435",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "442436",
+      "type": "DEBIT",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "446362",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "446363",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "446364",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "446381",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "446383",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "447571",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ATTIJARIWAFA BANK",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "447582",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "450614",
+      "issuer": "CREDIT DU MAROC, S.A.",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "450716",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "452540",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "452541",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "454849",
+      "issuer": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "455209",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "455219",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "455236",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SOCIETE INTERBANK, S.A.",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "455241",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE MAROCAINE POUR LE COMMERCE ET LINDUSTRIE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "455256",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT DU MAROC, S.A.",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "455282",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT DU MAROC, S.A.",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "455294",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT IMMOBILIER ET HOTELIER",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "455562",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE CENTRALE POPULAIRE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "456049",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ATTIJARIWAFA BANK",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "456062",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT DU MAROC, S.A.",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "456066",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "ATTIJARIWAFA BANK",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "456067",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE CENTRALE POPULAIRE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "456088",
+      "issuer": "BANQUE MAROCAINE POUR LE COMMERCE ET LINDUSTRIE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "456746",
+      "issuer": "ATTIJARIWAFA BANK",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "457466",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "458278",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "458718",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "458719",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "462709",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ATTIJARIWAFA BANK",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "465213",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANQUE MAROCAINE POUR LE COMMERCE ET LINDUSTRIE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "465226",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT DU MAROC, S.A.",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "465236",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE MAROCAINE POUR LE COMMERCE ET LINDUSTRIE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "465471",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "468567",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "469292",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "471353",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CREDIT IMMOBILIER ET HOTELIER",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "472947",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT IMMOBILIER ET HOTELIER",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "476093",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT IMMOBILIER ET HOTELIER",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "476094",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE NATIONALE POUR LE DEVELOPPEMENT ECONOMIQUE BNDE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "477910",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "477923",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE CENTRALE POPULAIRE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "477931",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "477942",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "477965",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE MAROCAINE POUR LE COMMERCE ET LINDUSTRIE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "477974",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE MAROCAINE POUR LE COMMERCE ET LINDUSTRIE",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "477978",
+      "issuer": "ATTIJARIWAFA BANK",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "479785",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "ATTIJARIWAFA BANK",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "479799",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "ATTIJARIWAFA BANK",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "484638",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BARID AL MAGHRIB",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "485013",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "485014",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "489310",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT AGRICOLE DU MAROC, S.A.",
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "bin": "496688",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "countries": [
+        "MA"
+      ]
+    }
+  ]
+}

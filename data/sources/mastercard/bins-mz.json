@@ -1,0 +1,51 @@
+{
+  "bins": [
+    {
+      "bin": "512349",
+      "issuer": "BANCO INTERNACIONAL DE MOCAMBIQUE(BIM)",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "523050",
+      "issuer": "MAURITIUS COMMERCIAL BANK LIMITED",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "554428",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK MOCAMBIQUE, S.A.",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "554429",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BARCLAYS BANK MOCAMBIQUE, S.A.",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "554430",
+      "issuer": "BANCO AUSTRAL",
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "bin": "554431",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BARCLAYS BANK MOCAMBIQUE, S.A.",
+      "countries": [
+        "MZ"
+      ]
+    }
+  ]
+}

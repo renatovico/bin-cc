@@ -1,0 +1,518 @@
+{
+  "bins": [
+    {
+      "bin": "406245",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STOPANSKA BANKA A.D. SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "406439",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STOPANSKA BANKA A.D. SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "412515",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNIVERSAL INVESTMENT BANK AD SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "412516",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNIVERSAL INVESTMENT BANK AD SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "412517",
+      "issuer": "UNIVERSAL INVESTMENT BANK AD SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "412527",
+      "issuer": "NLB TUTUNSKA BANKA AD SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "412528",
+      "issuer": "NLB TUTUNSKA BANKA AD SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "412555",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HALK BANKA AD SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "413150",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "413887",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STOPANSKA BANKA A.D. SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "417733",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "STOPANSKA BANKA A.D. SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "424309",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PROCREDIT BANK, INC.",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "424344",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PROCREDIT BANK, INC.",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "424345",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PROCREDIT BANK, INC.",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "424346",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PROCREDIT BANK, INC.",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "424350",
+      "issuer": "PROCREDIT BANK, INC.",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "426027",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "STOPANSKA BANKA A.D. SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "427747",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "STOPANSKA BANKA A.D. SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "429721",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HALK BANKA AD SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "429722",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HALK BANKA AD SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "429723",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HALK BANKA AD SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "429724",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HALK BANKA AD SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "429725",
+      "issuer": "EXPORT AND CREDIT BANK, INC., SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "432481",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NLB TUTUNSKA BANKA AD SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "432482",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NLB TUTUNSKA BANKA AD SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "432483",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NLB TUTUNSKA BANKA AD SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "432484",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NLB TUTUNSKA BANKA AD SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "432485",
+      "issuer": "NLB TUTUNSKA BANKA AD SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "432486",
+      "issuer": "NLB TUTUNSKA BANKA AD SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "435742",
+      "issuer": "EXPORT AND CREDIT BANK, INC., SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "439353",
+      "issuer": "UNIVERSAL INVESTMENT BANK AD SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "440548",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "STOPANSKA BANKA A.D. SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "447803",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "KOMERCIJALNA BANKA A.D. SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "447804",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "KOMERCIJALNA BANKA A.D. SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "447805",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "KOMERCIJALNA BANKA A.D. SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "447806",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "KOMERCIJALNA BANKA A.D. SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "447807",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KOMERCIJALNA BANKA A.D. SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "447808",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "KOMERCIJALNA BANKA A.D. SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "447869",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "447870",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "447871",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "447872",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "457215",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "462720",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STOPANSKA BANKA A.D. SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "466701",
+      "issuer": "STOPANSKA BANKA A.D. SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "467156",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNIVERSAL INVESTMENT BANK AD SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "467786",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "467787",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "467788",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "472893",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SPARKASSE BANK MAKEDONIJA AD SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "472894",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SPARKASSE BANK MAKEDONIJA AD SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "472895",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPARKASSE BANK MAKEDONIJA AD SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "472896",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "SPARKASSE BANK MAKEDONIJA AD SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "484645",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OHRIDSKA BANKA A.D. - OHRID",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "484646",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "OHRIDSKA BANKA A.D. - OHRID",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "484647",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OHRIDSKA BANKA A.D. - OHRID",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "484819",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TTK BANKA AD SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "484820",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TTK BANKA AD SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "484821",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TTK BANKA AD SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "487478",
+      "issuer": "INTERNATIONAL PRIVATE BANK AD SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    },
+    {
+      "bin": "487479",
+      "issuer": "INTERNATIONAL PRIVATE BANK AD SKOPJE",
+      "countries": [
+        "MK"
+      ]
+    }
+  ]
+}

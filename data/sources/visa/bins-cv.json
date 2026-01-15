@@ -1,0 +1,154 @@
+{
+  "bins": [
+    {
+      "bin": "410052",
+      "issuer": "SOCIEDADE INTERBANCARIA E SISTEMA DE PAGAMENTOS, SARL (SISP)",
+      "countries": [
+        "CV"
+      ]
+    },
+    {
+      "bin": "410053",
+      "issuer": "SOCIEDADE INTERBANCARIA E SISTEMA DE PAGAMENTOS, SARL (SISP)",
+      "countries": [
+        "CV"
+      ]
+    },
+    {
+      "bin": "414507",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAIXA ECONOMICA DE CABO VERDE",
+      "countries": [
+        "CV"
+      ]
+    },
+    {
+      "bin": "414508",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CAIXA ECONOMICA DE CABO VERDE",
+      "countries": [
+        "CV"
+      ]
+    },
+    {
+      "bin": "417710",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERATLANTICO, SARL",
+      "countries": [
+        "CV"
+      ]
+    },
+    {
+      "bin": "417711",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO INTERATLANTICO, SARL",
+      "countries": [
+        "CV"
+      ]
+    },
+    {
+      "bin": "417712",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CV"
+      ]
+    },
+    {
+      "bin": "420555",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CV"
+      ]
+    },
+    {
+      "bin": "424557",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO CABOVERDIANO DE NEGOCIOS, S.A.",
+      "countries": [
+        "CV"
+      ]
+    },
+    {
+      "bin": "424558",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CV"
+      ]
+    },
+    {
+      "bin": "424559",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO CABOVERDIANO DE NEGOCIOS, S.A.",
+      "countries": [
+        "CV"
+      ]
+    },
+    {
+      "bin": "425688",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "CAIXA ECONOMICA DE CABO VERDE",
+      "countries": [
+        "CV"
+      ]
+    },
+    {
+      "bin": "442384",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO COMERCIAL DO ATLANTICO, S.A.",
+      "countries": [
+        "CV"
+      ]
+    },
+    {
+      "bin": "442385",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL DO ATLANTICO, S.A.",
+      "countries": [
+        "CV"
+      ]
+    },
+    {
+      "bin": "442386",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO COMERCIAL DO ATLANTICO, S.A.",
+      "countries": [
+        "CV"
+      ]
+    },
+    {
+      "bin": "442387",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO COMERCIAL DO ATLANTICO, S.A.",
+      "countries": [
+        "CV"
+      ]
+    },
+    {
+      "bin": "470637",
+      "countries": [
+        "CV"
+      ]
+    },
+    {
+      "bin": "485491",
+      "type": "DEBIT",
+      "countries": [
+        "CV"
+      ]
+    }
+  ]
+}

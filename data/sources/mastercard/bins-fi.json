@@ -1,0 +1,919 @@
+{
+  "bins": [
+    {
+      "bin": "510030",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SEB KORT AB (HELSINKI BRANCH)",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "510183",
+      "type": "CREDIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "510184",
+      "category": "STANDARD",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "511746",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "512004",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HANDELSBANKEN FINANCE PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "512078",
+      "type": "CREDIT",
+      "issuer": "ENTERCARD, A.S.",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "512368",
+      "type": "CREDIT",
+      "issuer": "ENTERCARD, A.S.",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "512499",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "512746",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "513260",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "AKTIA SAVINGS BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "513295",
+      "type": "CREDIT",
+      "issuer": "AKTIA SAVINGS BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "513358",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "AKTIA SAVINGS BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "513496",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "513565",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ALANDSBANKEN ABP",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "513568",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ALANDSBANKEN ABP",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "513571",
+      "type": "CREDIT",
+      "issuer": "ALANDSBANKEN ABP",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "513687",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ALANDSBANKEN ABP",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "513688",
+      "type": "CREDIT",
+      "issuer": "ALANDSBANKEN ABP",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "513701",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ALANDSBANKEN ABP",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "513703",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ALANDSBANKEN ABP",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "513718",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ALANDSBANKEN ABP",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "513723",
+      "type": "CREDIT",
+      "issuer": "ALANDSBANKEN ABP",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "513725",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ALANDSBANKEN ABP",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "513726",
+      "type": "CREDIT",
+      "issuer": "ALANDSBANKEN ABP",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "513727",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ALANDSBANKEN ABP",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "516001",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "518018",
+      "type": "CREDIT",
+      "issuer": "HANDELSBANKEN FINANCE PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "518691",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "518697",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "518706",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "518751",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AKTIA SAVINGS BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "520911",
+      "issuer": "LUOTTOKUNTA",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "521037",
+      "type": "CREDIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "522229",
+      "type": "CREDIT",
+      "issuer": "SEB KORT AB (HELSINKI BRANCH)",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "524342",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "524361",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "AKTIA SAVINGS BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "524824",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "524828",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "525713",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SEB KORT AB (HELSINKI BRANCH)",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "525755",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AKTIA SAVINGS BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "525761",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ALANDSBANKEN ABP",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "525762",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ALANDSBANKEN ABP",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "525839",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527504",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527508",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527509",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527511",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527512",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527527",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527528",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527536",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527537",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527542",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527549",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527551",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527553",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527554",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527558",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527559",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527560",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527562",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527563",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527565",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527566",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527573",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527575",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527577",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527583",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527586",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527591",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527592",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527593",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527596",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "527597",
+      "type": "DEBIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "528254",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "528584",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "528859",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "530077",
+      "type": "CREDIT",
+      "issuer": "SEB KORT AB (HELSINKI BRANCH)",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "535328",
+      "type": "CREDIT",
+      "issuer": "OP-KOTIPANKKI OYJ",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "535329",
+      "issuer": "OP-KOTIPANKKI OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "539875",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "539968",
+      "issuer": "EUROCARD OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "540244",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SEB KORT AB (HELSINKI BRANCH)",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "541309",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "LUOTTOKUNTA",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "542986",
+      "type": "CREDIT",
+      "issuer": "HANDELSBANKEN FINANCE PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "543000",
+      "issuer": "STOCKMANN DEPARTMENT STORE MASTERCARD, ISSUED BY NORDEA(FINLAND)",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "543012",
+      "type": "CREDIT",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "543014",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "543034",
+      "type": "CREDIT",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "543065",
+      "type": "CREDIT",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "543073",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "544247",
+      "issuer": "EUROCARD OY",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "545613",
+      "issuer": "MERITA BANK, LTD.",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "545858",
+      "issuer": "MANDATUM BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "547776",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AKTIA SAVINGS BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "547904",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "547921",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "549133",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HANDELSBANKEN FINANCE PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "549486",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "552064",
+      "issuer": "MANDATUM BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "552153",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "552170",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "552514",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "552754",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "555043",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "SEB KORT AB (HELSINKI BRANCH)",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "556642",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "SEB KORT AB (HELSINKI BRANCH)",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "556647",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "LUOTTOKUNTA",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "556650",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "LUOTTOKUNTA",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "556664",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "SEB KORT AB (HELSINKI BRANCH)",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "557028",
+      "type": "CREDIT",
+      "issuer": "AKTIA SAVINGS BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "557964",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "558458",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "SAMPO PANKKI OYJ / SAMPO BANK PLC",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "558697",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SEB KORT AB (HELSINKI BRANCH)",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "bin": "558791",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "FI"
+      ]
+    }
+  ]
+}

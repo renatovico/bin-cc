@@ -1,0 +1,2764 @@
+{
+  "bins": [
+    {
+      "bin": "510586",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO INTERACCIONES, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "511114",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO MERCANTIL DEL NORTE, S.A. (DBA - BANORTE)",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "511141",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "OPERADORA DE RECURSOS REFORMA S.A. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "511265",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO INTERACCIONES, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "511747",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "511852",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "512029",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BANCA AFIRME, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "512048",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCA AFIRME, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "512280",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DEL BAJIO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "512709",
+      "type": "CREDIT",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "512745",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "IXE, TARJETAS, S.A.DE C.V., SOFOM, E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "512795",
+      "type": "CREDIT",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "512809",
+      "type": "CREDIT",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "512823",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "514044",
+      "issuer": "BANCA AFIRME, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "516685",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "IXE BANCO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "516699",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO INTERACCIONES, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "517586",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "517712",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "517713",
+      "issuer": "BANCO SANTANDER SERFIN , S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "517717",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "517721",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "517737",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "517747",
+      "type": "CREDIT",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "517763",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "517764",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "517765",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "517767",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "517768",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "517769",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "517771",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "517775",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "517776",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "517777",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "517778",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "517779",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "517785",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "517792",
+      "type": "DEBIT",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "517795",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "517844",
+      "type": "CREDIT",
+      "issuer": "CREDOMATIC DE MEXICO S.A. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "518004",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "518135",
+      "issuer": "BANCO INVEX, S.A. INSTITUCION DE BANCA MULTIPLE, INVEX GRUPO",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "518174",
+      "type": "CREDIT",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "518205",
+      "issuer": "HSBC MEXICO, S.A. INSTITUCION DE BANCA MULTIPLE, GRUPO HSBC",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "518261",
+      "issuer": "BANCO MERCANTIL DEL NORTE, S.A. (DBA - BANORTE)",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "518853",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "518899",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "519946",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "520021",
+      "type": "CREDIT",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "520213",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "520318",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "520416",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "520499",
+      "issuer": "SCOTIABANK INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "520502",
+      "issuer": "SCOTIABANK INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "520604",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "520606",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "520608",
+      "type": "CREDIT",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "520609",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "520610",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "520613",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "520620",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "520622",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "520630",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "520642",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "520660",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "520667",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "520694",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "520698",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "520699",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "521300",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "522130",
+      "type": "CREDIT",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "522174",
+      "type": "CREDIT",
+      "category": "WORLD ELITE",
+      "issuer": "HSBC MEXICO, S.A. INSTITUCION DE BANCA MULTIPLE, GRUPO HSBC",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "522289",
+      "issuer": "BANCO SANTANDER SERFIN , S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "522312",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "522339",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "522498",
+      "type": "CREDIT",
+      "issuer": "BBVA BANCOMER, SA INSTIT. DE BANCA MULTIPLE GRUPO FINANCIER",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "522618",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "522794",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "523013",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "523285",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "524385",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CREDOMATIC DE MEXICO S.A. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "524711",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "524782",
+      "issuer": "BANCO SANTANDER SERFIN , S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "524783",
+      "issuer": "BANCO SANTANDER SERFIN , S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "524847",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO INTERACCIONES, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "525424",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "525678",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "525797",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDOMATIC DE MEXICO S.A. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "526400",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "526404",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "FEDERACION UNISAP,S.C. DE R.L. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "526424",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO MERCANTIL DEL NORTE, S.A. (DBA - BANORTE)",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "526460",
+      "issuer": "BANCO INBURSA, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "526489",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "526498",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO INBURSA, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "526949",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "526951",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "526953",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "527374",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528074",
+      "type": "CREDIT",
+      "issuer": "BANCO AZTECA S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528480",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "LIBERTAD SERVICIOS FINANCIEROS SA DE CV SFP",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528804",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528805",
+      "category": "STANDARD",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528813",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528814",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528815",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528818",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528826",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528828",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528829",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528834",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528838",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528843",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528851",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528853",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528854",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528855",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528857",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528858",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528861",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528862",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528863",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528865",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528866",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528867",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528869",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528870",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528871",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528873",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528875",
+      "type": "CREDIT",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528876",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528877",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528881",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528883",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528885",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528888",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528890",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528892",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528893",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528897",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "528898",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "529001",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "529017",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "529023",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "529027",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "529028",
+      "type": "CREDIT",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "529081",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "529088",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "529091",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "529093",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "529506",
+      "issuer": "EUROPAY FRANCE, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "529571",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO AZTECA S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "529575",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO INVEX, S.A. INSTITUCION DE BANCA MULTIPLE, INVEX GRUPO",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "530056",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "530113",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO WAL*MART DE MEXICO ADELANTE, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "530686",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "530756",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "530834",
+      "issuer": "IXE BANCO S.A. INSTITUCION DE BANCA MULTIPLE, IXE GRUPO FINA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "531294",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "531390",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FICEN, SA DE CV SOCIEDAD FINANCIERA DE OJBETO LIMITADO",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "531444",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SCOTIABANK INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "533609",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "533987",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO MONEX, S.A., INSTITUCION DE BANCA MULTIPLE, MONEX GRUP",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "534926",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "535943",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCA AFIRME, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "536240",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "537030",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANCA AFIRME, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "537033",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "FEDERACION UNISAP,S.C. DE R.L. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "537830",
+      "type": "CREDIT",
+      "issuer": "BANCO WAL*MART DE MEXICO ADELANTE, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "538984",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "539672",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCA AFIRME, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "539944",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "FEDERACION UNISAP,S.C. DE R.L. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "539946",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "FEDERACION UNISAP,S.C. DE R.L. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "539975",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO WAL*MART DE MEXICO ADELANTE, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "539978",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANSI S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "540039",
+      "issuer": "PROMOCION Y OPERACION, S.A. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "540051",
+      "issuer": "SCOTIABANK INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "540267",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "540533",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "540845",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SANTANDER CONSUMO, S.A. DE C.V. SOFOM, E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "540956",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC MEXICO, S.A. INSTITUCION DE BANCA MULTIPLE, GRUPO HSBC",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "541221",
+      "issuer": "PROMOCION Y OPERACION, S.A. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "541278",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC MEXICO, S.A. INSTITUCION DE BANCA MULTIPLE, GRUPO HSBC",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "541286",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HSBC MEXICO, S.A. INSTITUCION DE BANCA MULTIPLE, GRUPO HSBC",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "541290",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC MEXICO, S.A. INSTITUCION DE BANCA MULTIPLE, GRUPO HSBC",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "541291",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "541297",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "541298",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "541405",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "541428",
+      "issuer": "CHASE MANHATTAN BANK MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "542010",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BBVA BANCOMER, SA INSTIT. DE BANCA MULTIPLE GRUPO FINANCIER",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "542537",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "542834",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "542861",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "542977",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BBVA BANCOMER, SA INSTIT. DE BANCA MULTIPLE GRUPO FINANCIER",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "543006",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "543183",
+      "issuer": "SCOTIABANK INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "543221",
+      "issuer": "SCOTIABANK INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "543499",
+      "issuer": "BANCA SERFIN, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "543662",
+      "issuer": "BANCO SANTANDER MEXICANO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "543691",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "543722",
+      "issuer": "BANCO INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "543784",
+      "issuer": "BANCO INTERNACIONAL, S.A. (BITAL)",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "543797",
+      "issuer": "BANCO INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "543798",
+      "issuer": "BANCO INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "543964",
+      "issuer": "BANCRECER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "544053",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BBVA BANCOMER, SA INSTIT. DE BANCA MULTIPLE GRUPO FINANCIER",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "544204",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SCOTIABANK INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "544505",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO MONEX, S.A., INSTITUCION DE BANCA MULTIPLE, MONEX GRUP",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "544548",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO MERCANTIL DEL NORTE, S.A. (DBA - BANORTE)",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "544549",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO MERCANTIL DEL NORTE, S.A. (DBA - BANORTE)",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "544550",
+      "issuer": "BANCO MERCANTIL DEL NORTE, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "544551",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BBVA BANCOMER, SA INSTIT. DE BANCA MULTIPLE GRUPO FINANCIER",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "544652",
+      "issuer": "SCOTIABANK INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "544672",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "544925",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "545039",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "545087",
+      "issuer": "BANCO BILBAO VIZCAYA-MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "545094",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO INTERACCIONES, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "545290",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO MONEX, S.A., INSTITUCION DE BANCA MULTIPLE, MONEX GRUP",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "545307",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SANTANDER CONSUMO, S.A. DE C.V. SOFOM, E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "545325",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO MONEX, S.A., INSTITUCION DE BANCA MULTIPLE, MONEX GRUP",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "545375",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SCOTIABANK INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "545631",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "545730",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546080",
+      "type": "CREDIT",
+      "issuer": "SANTANDER CONSUMO, S.A. DE C.V. SOFOM, E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546338",
+      "type": "CREDIT",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546378",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "OPERADORA DE RECURSOS REFORMA S.A. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546482",
+      "type": "CREDIT",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546483",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546574",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546575",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546576",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546577",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546578",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546579",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546580",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546581",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546582",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546583",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546584",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546585",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546586",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546587",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546588",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546589",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546590",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546688",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546713",
+      "issuer": "CONFIA, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546759",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546804",
+      "type": "CREDIT",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546829",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546832",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546833",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546867",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546868",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546869",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546870",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546871",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "546872",
+      "issuer": "BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547015",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SANTANDER CONSUMO, S.A. DE C.V. SOFOM, E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547046",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SANTANDER CONSUMO, S.A. DE C.V. SOFOM, E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547050",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO MERCANTIL DEL NORTE, S.A. (DBA - BANORTE)",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547066",
+      "issuer": "BANCO SANTANDER MEXICANO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547068",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HSBC MEXICO, S.A. INSTITUCION DE BANCA MULTIPLE, GRUPO HSBC",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547074",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HSBC MEXICO, S.A. INSTITUCION DE BANCA MULTIPLE, GRUPO HSBC",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547075",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547077",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BBVA BANCOMER, SA INSTIT. DE BANCA MULTIPLE GRUPO FINANCIER",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547078",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO MERCANTIL DEL NORTE, S.A. (DBA - BANORTE)",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547079",
+      "category": "STANDARD",
+      "issuer": "BANCO MERCANTIL DEL NORTE, S.A. (DBA - BANORTE)",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547080",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S.N.C.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547086",
+      "type": "CREDIT",
+      "issuer": "BBVA BANCOMER, SA INSTIT. DE BANCA MULTIPLE GRUPO FINANCIER",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547088",
+      "issuer": "BANCRECER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547092",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC MEXICO, S.A. INSTITUCION DE BANCA MULTIPLE, GRUPO HSBC",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547093",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547095",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BBVA BANCOMER, SA INSTIT. DE BANCA MULTIPLE GRUPO FINANCIER",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547096",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO MERCANTIL DEL NORTE, S.A. (DBA - BANORTE)",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547097",
+      "category": "GOLD",
+      "issuer": "BANCO MERCANTIL DEL NORTE, S.A. (DBA - BANORTE)",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547103",
+      "issuer": "BANCO UNION, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547106",
+      "issuer": "BANCRECER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547112",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547146",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SANTANDER CONSUMO, S.A. DE C.V. SOFOM, E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547155",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BBVA BANCOMER, SA INSTIT. DE BANCA MULTIPLE GRUPO FINANCIER",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547156",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BBVA BANCOMER, SA INSTIT. DE BANCA MULTIPLE GRUPO FINANCIER",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547157",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SANTANDER CONSUMO, S.A. DE C.V. SOFOM, E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547370",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547380",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547406",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HSBC MEXICO, S.A. INSTITUCION DE BANCA MULTIPLE, GRUPO HSBC",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547407",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "SCOTIABANK INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547484",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SANTANDER CONSUMO, S.A. DE C.V. SOFOM, E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547488",
+      "issuer": "SCOTIABANK INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547492",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BBVA BANCOMER, SA INSTIT. DE BANCA MULTIPLE GRUPO FINANCIER",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547494",
+      "issuer": "BANCRECER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547514",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547736",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547751",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "547941",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CREDOMATIC DE MEXICO S.A. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "548234",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "548236",
+      "type": "CREDIT",
+      "category": "WORLD ELITE",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "549138",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "549611",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SANTANDER CONSUMO, S.A. DE C.V. SOFOM, E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "549631",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "549639",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "549880",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "549920",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "550081",
+      "issuer": "BBVA BANCOMER, SA INSTIT. DE BANCA MULTIPLE GRUPO FINANCIER",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "550233",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "550454",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "550569",
+      "issuer": "BANCO BILBAO VIZCAYA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "550962",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "551077",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "551081",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "551134",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "551238",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO AZTECA S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "551240",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "551244",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "551253",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "551276",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "551720",
+      "type": "DEBIT",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "552263",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "SCOTIABANK INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "552488",
+      "type": "CREDIT",
+      "category": "WORLD ELITE",
+      "issuer": "SANTANDER CONSUMO, S.A. DE C.V. SOFOM, E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "553253",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "SANTANDER CONSUMO, S.A. DE C.V. SOFOM, E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "553396",
+      "issuer": "BANCO SANTANDER SERFIN , S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "553448",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FICEN, SA DE CV SOCIEDAD FINANCIERA DE OJBETO LIMITADO",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "553467",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO AZTECA S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "553579",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "554492",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "554625",
+      "category": "STANDARD",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "554628",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "554629",
+      "type": "CREDIT",
+      "issuer": "BBVA BANCOMER, SA INSTIT. DE BANCA MULTIPLE GRUPO FINANCIER",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "554691",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "554764",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "IXE, TARJETAS, S.A.DE C.V., SOFOM, E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "554900",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SANTANDER CONSUMO, S.A. DE C.V. SOFOM, E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "554964",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "555924",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "FEDERACION UNISAP,S.C. DE R.L. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "557551",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "IXE BANCO S.A. INSTITUCION DE MULTIPLE IXE GRUPO FINANCIERO",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "557561",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "557604",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO AZTECA S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "557874",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "557905",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "557907",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "557908",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "557909",
+      "type": "DEBIT",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "557910",
+      "type": "DEBIT",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "557920",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SCOTIABANK INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "557922",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SCOTIABANK INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "557924",
+      "type": "CREDIT",
+      "issuer": "SCOTIABANK INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "558306",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "558322",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FICEN, SA DE CV SOCIEDAD FINANCIERA DE OJBETO LIMITADO",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "558426",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "558784",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "559209",
+      "type": "CREDIT",
+      "issuer": "TARJETAS BANAMEX, SA DE CV, SOFOM E.R.",
+      "countries": [
+        "MX"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "bins": [
+    {
+      "bin": "501774",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "508129",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "588843",
+      "type": "DEBIT",
+      "issuer": "TURKIYE HALK BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "588992",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "589004",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "AKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "589117",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "589283",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "589288",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "589311",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "589318",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "589416",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "600343",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "601050",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "601354",
+      "type": "DEBIT",
+      "issuer": "T.C. ZIRAAT BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "601500",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "601912",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "603343",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "603797",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "606043",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "606329",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "627462",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "639001",
+      "type": "DEBIT",
+      "issuer": "TURKIYE HALK BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "639004",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "670606",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "670610",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "670640",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "670670",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "670868",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "676123",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "676124",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "676166",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "676170",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "676206",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "676255",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "676258",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "676283",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "676366",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "676372",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "676401",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "676402",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "676406",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "676429",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "676460",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "676578",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "676651",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "676827",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "676832",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "677047",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "677055",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "677056",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "677131",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "677193",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "677238",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "677369",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "677397",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "677451",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "677522",
+      "type": "DEBIT",
+      "countries": [
+        "TR"
+      ]
+    }
+  ]
+}

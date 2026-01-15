@@ -1,0 +1,108 @@
+{
+  "bins": [
+    {
+      "bin": "510137",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "LOYAL BANK, LTD.",
+      "countries": [
+        "VC"
+      ]
+    },
+    {
+      "bin": "510315",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "LOYAL BANK, LTD.",
+      "countries": [
+        "VC"
+      ]
+    },
+    {
+      "bin": "516994",
+      "countries": [
+        "VC"
+      ]
+    },
+    {
+      "bin": "517187",
+      "type": "CREDIT",
+      "category": "PREPAID",
+      "issuer": "EASTERN CARIBBEAN CO-OPERATIVE",
+      "countries": [
+        "VC"
+      ]
+    },
+    {
+      "bin": "517193",
+      "countries": [
+        "VC"
+      ]
+    },
+    {
+      "bin": "517569",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "LOYAL BANK, LTD.",
+      "countries": [
+        "VC"
+      ]
+    },
+    {
+      "bin": "517570",
+      "type": "DEBIT",
+      "countries": [
+        "VC"
+      ]
+    },
+    {
+      "bin": "521622",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "LOYAL BANK, LTD.",
+      "countries": [
+        "VC"
+      ]
+    },
+    {
+      "bin": "521709",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "EASTERN CARIBBEAN CO-OPERATIVE CENTRAL, LTD.",
+      "countries": [
+        "VC"
+      ]
+    },
+    {
+      "bin": "522480",
+      "countries": [
+        "VC"
+      ]
+    },
+    {
+      "bin": "550947",
+      "type": "DEBIT",
+      "countries": [
+        "VC"
+      ]
+    },
+    {
+      "bin": "554817",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "EASTERN CARIBBEAN CO-OPERATIVE CENTRAL, LTD.",
+      "countries": [
+        "VC"
+      ]
+    },
+    {
+      "bin": "554889",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "EASTERN CARIBBEAN CO-OPERATIVE CENTRAL, LTD.",
+      "countries": [
+        "VC"
+      ]
+    }
+  ]
+}

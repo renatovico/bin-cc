@@ -1,0 +1,799 @@
+{
+  "bins": [
+    {
+      "bin": "512254",
+      "type": "CREDIT",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "512259",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "512376",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "514928",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "514943",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "515723",
+      "type": "CREDIT",
+      "category": "EXECUTIVE BUSINESS",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "516691",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO BHD, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "516692",
+      "type": "DEBIT",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "517853",
+      "issuer": "BANCO NACIONAL DE CREDITO",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "518276",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "518865",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO POPULAR DOMINICANO, C. POR A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "518887",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO POPULAR DOMINICANO, C. POR A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "518892",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO POPULAR DOMINICANO, C. POR A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "519229",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR DOMINICANO, C. POR A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "519419",
+      "type": "CREDIT",
+      "issuer": "BANCO BHD, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "519717",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "519781",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "522716",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "522739",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "522779",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "523537",
+      "category": "STANDARD",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "524613",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "528083",
+      "type": "CREDIT",
+      "issuer": "BANCO DOMINICANO DEL PROGRESO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "528879",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "528896",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "530222",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "530862",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "531077",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "531128",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "531290",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "531957",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "533368",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "539609",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "540066",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE AHORRO Y CREDITO MICRO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "540083",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO POPULAR DOMINICANO, C. POR A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "541012",
+      "type": "CREDIT",
+      "issuer": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "541087",
+      "type": "CREDIT",
+      "issuer": "BANCO BHD, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "541368",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR DOMINICANO, C. POR A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "541547",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "541551",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "541599",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR DOMINICANO, C. POR A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "541732",
+      "issuer": "BANCO NACIONAL DE CREDITO",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "541848",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DOMINICANO DEL PROGRESO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "541850",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DOMINICANO DEL PROGRESO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "541941",
+      "type": "CREDIT",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "542722",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR DOMINICANO, C. POR A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "542758",
+      "issuer": "BANCO POPULAR DOMINICANO, C. POR A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "542862",
+      "issuer": "BANCO INTERCONTINENTAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "542867",
+      "issuer": "BANCO INTERCONTINENTAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "543464",
+      "type": "CREDIT",
+      "issuer": "BANCO DE AHORRO Y CREDITO MICRO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "543838",
+      "issuer": "BANCO DOMINICANO DEL PROGRESO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "543848",
+      "type": "CREDIT",
+      "issuer": "BANCO DOMINICANO DEL PROGRESO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "544287",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "544297",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "544306",
+      "issuer": "BANCO POPULAR DOMINICANO, C. POR A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "544762",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DE AHORRO Y CREDITO MICRO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "545052",
+      "issuer": "BANCO INTERCONTINENTAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "545940",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO BHD, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "545941",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO BHD, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "546334",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "546570",
+      "issuer": "BANCO INTERCONTINENTAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "546611",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "546714",
+      "type": "CREDIT",
+      "issuer": "BANCO BHD, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "547138",
+      "issuer": "ICUL SERVICE CORPORATION",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "547149",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "547325",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO POPULAR DOMINICANO, C. POR A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "547489",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "547983",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE AHORRO Y CREDITO MICRO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "548140",
+      "issuer": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "548465",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "548718",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "548802",
+      "issuer": "BANCO MERCANTIL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "548864",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "548876",
+      "type": "CREDIT",
+      "issuer": "BANCO BHD, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "548877",
+      "category": "STANDARD",
+      "issuer": "BANCO BHD, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "548878",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO BHD, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "548879",
+      "category": "STANDARD",
+      "issuer": "BANCO BHD, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "548927",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "549130",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DOMINICANO DEL PROGRESO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "549165",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DOMINICANO DEL PROGRESO, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "549823",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "550163",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "550511",
+      "issuer": "BANCO INTERCONTINENTAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "552069",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "552218",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "552314",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO POPULAR DOMINICANO, C. POR A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "552582",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "552691",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO POPULAR DOMINICANO, C. POR A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "552967",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "554159",
+      "issuer": "BANCO POPULAR DOMINICANO, C. POR A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "554198",
+      "issuer": "BANCO POPULAR DOMINICANO, C. POR A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "554206",
+      "type": "CREDIT",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "554207",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "554444",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO MULTIPLE LEON, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "554445",
+      "issuer": "BANCO NACIONAL DE CREDITO",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "554446",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO MULTIPLE LEON, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "554447",
+      "issuer": "BANCO NACIONAL DE CREDITO",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "554525",
+      "issuer": "BANCO GLOBAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "554539",
+      "issuer": "BANCO GLOBAL, S.A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "554909",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "554938",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO POPULAR DOMINICANO, C. POR A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "554941",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO POPULAR DOMINICANO, C. POR A.",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "555174",
+      "countries": [
+        "DO"
+      ]
+    },
+    {
+      "bin": "558345",
+      "issuer": "BANCO BHD, S.A.",
+      "countries": [
+        "DO"
+      ]
+    }
+  ]
+}

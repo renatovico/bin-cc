@@ -1,0 +1,105 @@
+{
+  "bins": [
+    {
+      "bin": "528576",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "LOMBARD BANK MALTA PLC",
+      "countries": [
+        "MT"
+      ]
+    },
+    {
+      "bin": "530458",
+      "type": "CREDIT",
+      "issuer": "LOMBARD BANK MALTA PLC",
+      "countries": [
+        "MT"
+      ]
+    },
+    {
+      "bin": "542071",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK OF VALLETTA P.L.C",
+      "countries": [
+        "MT"
+      ]
+    },
+    {
+      "bin": "542201",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HSBC BANK MALTA PLC",
+      "countries": [
+        "MT"
+      ]
+    },
+    {
+      "bin": "544190",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF VALLETTA P.L.C",
+      "countries": [
+        "MT"
+      ]
+    },
+    {
+      "bin": "544191",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK OF VALLETTA P.L.C",
+      "countries": [
+        "MT"
+      ]
+    },
+    {
+      "bin": "544903",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANK OF VALLETTA P.L.C",
+      "countries": [
+        "MT"
+      ]
+    },
+    {
+      "bin": "547123",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "LOMBARD BANK MALTA PLC",
+      "countries": [
+        "MT"
+      ]
+    },
+    {
+      "bin": "550602",
+      "issuer": "HSBC BANK MALTA PLC",
+      "countries": [
+        "MT"
+      ]
+    },
+    {
+      "bin": "550605",
+      "issuer": "HSBC BANK MALTA PLC",
+      "countries": [
+        "MT"
+      ]
+    },
+    {
+      "bin": "550606",
+      "issuer": "HSBC BANK MALTA PLC",
+      "countries": [
+        "MT"
+      ]
+    },
+    {
+      "bin": "552200",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK MALTA PLC",
+      "countries": [
+        "MT"
+      ]
+    }
+  ]
+}

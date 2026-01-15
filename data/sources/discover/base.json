@@ -1,0 +1,45 @@
+{
+  "scheme": "discover",
+  "brand": "Discover",
+  "priorityOver": [
+    "hipercard",
+    "unionpay",
+    "gpn",
+    "rupay",
+    "troy",
+    "verve"
+  ],
+  "patterns": [
+    {
+      "bin": "^6011",
+      "length": [
+        16,
+        19
+      ],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^64[4-9]",
+      "length": [
+        16,
+        19
+      ],
+      "luhn": true,
+      "cvvLength": 3
+    },
+    {
+      "bin": "^65",
+      "length": [
+        16,
+        19
+      ],
+      "luhn": true,
+      "cvvLength": 3
+    }
+  ],
+  "type": "credit",
+  "countries": [
+    "US"
+  ]
+}

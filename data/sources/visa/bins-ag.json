@@ -1,0 +1,674 @@
+{
+  "bins": [
+    {
+      "bin": "402354",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "GLOBAL BANK OF COMMERCE, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "403755",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "404379",
+      "issuer": "ABI BANK, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "404583",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BOI BANK CORPORATION",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "404584",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "405986",
+      "issuer": "M2 ANTIGUA, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "406677",
+      "issuer": "BANK OF ANTIGUA, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "409324",
+      "issuer": "GLOBAL BANK OF COMMERCE, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "414457",
+      "issuer": "ANTIGUA BARBUDA INVESTMENT BANK, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "418206",
+      "issuer": "BANK OF ANTIGUA, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "419541",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "419543",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "419544",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "419545",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "421358",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "GLOBAL BANK OF COMMERCE, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "421359",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "GLOBAL BANK OF COMMERCE, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "421396",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "GLOBAL BANK OF COMMERCE, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "421397",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "GLOBAL BANK OF COMMERCE, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "421398",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "GLOBAL BANK OF COMMERCE, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "421655",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "GLOBAL BANK OF COMMERCE, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "421656",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "GLOBAL BANK OF COMMERCE, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "421694",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF ANTIGUA, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "422106",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF ANTIGUA, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "422107",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF ANTIGUA, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "422177",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF ANTIGUA, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "425903",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GLOBAL BANK OF COMMERCE, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "430319",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "430459",
+      "issuer": "SWITCHGATE CARIBBEAN LLC",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "430927",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "430950",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "433116",
+      "issuer": "CARIBBEAN BANKING CORP., LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "434603",
+      "issuer": "STANFORD INTERNATIONAL BANK, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "439275",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CARIBBEAN CREDIT CARD CORPORATION",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "441726",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "442302",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "443930",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "443981",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "448709",
+      "issuer": "BANK OF ANTIGUA",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "448713",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "448787",
+      "issuer": "SWISS AMERICAN BANK",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "451351",
+      "issuer": "AMERICAN INTERNATIONAL BANK",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "451881",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "455135",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GLOBAL BANK OF COMMERCE, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "455136",
+      "issuer": "SWISS AMERICAN BANK",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "455137",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "GLOBAL BANK OF COMMERCE, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "455138",
+      "issuer": "SWISS AMERICAN BANK",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "455139",
+      "issuer": "SWISS AMERICAN BANK",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "458165",
+      "issuer": "BANK OF ANTIGUA, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "469254",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "469255",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "472080",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "472081",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "472082",
+      "issuer": "GLOBAL BANK OF COMMERCE, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "472083",
+      "issuer": "GLOBAL BANK OF COMMERCE, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "473126",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ABI BANK, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "473127",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ABI BANK, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "473128",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ABI BANK, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "473173",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "473174",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "473175",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "473256",
+      "issuer": "ROYAL BANK OF CANADA",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "473282",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "476214",
+      "issuer": "RBTT BANK CARIBBEAN, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "479309",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "479431",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "483014",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CARIBBEAN CREDIT CARD CORPORATION",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "484640",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "EASTERN CARIBBEAN AMALGAMATED BANK, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "484641",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EASTERN CARIBBEAN AMALGAMATED BANK, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "485713",
+      "issuer": "CARIBBEAN CREDIT CARD CORPORATION",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "489932",
+      "issuer": "CARIBBEAN CREDIT CARD CORPORATION",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "491064",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "491097",
+      "issuer": "ANTIGUA BARBUDA INVESTMENT BANK, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "491307",
+      "issuer": "BANK OF ANTIGUA",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "491619",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CARIBBEAN CREDIT CARD CORPORATION",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "491620",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CARIBBEAN CREDIT CARD CORPORATION",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "491621",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CARIBBEAN CREDIT CARD CORPORATION",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "493180",
+      "issuer": "ANTIGUA COMMERCIAL BANK",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "493184",
+      "issuer": "BANK OF ANTIGUA",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "496037",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "496038",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "496039",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "498488",
+      "issuer": "CIBC CARIBBEAN, LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "499906",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "499975",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "AG"
+      ]
+    },
+    {
+      "bin": "499993",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "AG"
+      ]
+    }
+  ]
+}

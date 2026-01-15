@@ -1,0 +1,4512 @@
+{
+  "bins": [
+    {
+      "bin": "400192",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "400216",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "400277",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "LANDKREDITTBANK",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "400288",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NORDEA BANK NORGE ASA HK",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "401397",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "401898",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "402115",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "402176",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "402431",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "402839",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "402881",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "402960",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "403014",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "403015",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "403016",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "403053",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "403064",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "403846",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "403847",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "403993",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "404393",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "406336",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "406676",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "410624",
+      "issuer": "NORDEA BANK NORGE ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "410651",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "410652",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "411002",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "IKANO BANK SE",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "412491",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "413870",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "IKANO BANK SE",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "414283",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "415054",
+      "type": "DEBIT",
+      "category": "PLUS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "416493",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "416985",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "417229",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "417310",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "417311",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "417312",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "417313",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "417314",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "417315",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "417316",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "417317",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "417318",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "417333",
+      "issuer": "FOKUS BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "417473",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NORDEA BANK NORGE ASA HK",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "417728",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "417729",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "417730",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "417731",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "418744",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "418745",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "419376",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "419377",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "420376",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "420377",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "420378",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "420773",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "422651",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BNP PARIBAS",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "423283",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "424327",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "425714",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "427238",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "427279",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "427280",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "429596",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "429597",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NORDEA BANK NORGE ASA HK",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "429941",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "429942",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "430266",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "430372",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "431083",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "431084",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "431085",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "431086",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "431087",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "431090",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "431091",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "431092",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "431208",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HANDELSBANKEN",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "431209",
+      "issuer": "VISA SWEDEN ASSOCIATION",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "431310",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "431311",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "431312",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "431313",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "431314",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "431315",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "431316",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "431317",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "431318",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "431362",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "431363",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "432286",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "432287",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "434696",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "434697",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "434812",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "437837",
+      "type": "DEBIT",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "441014",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "441020",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "441026",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "444228",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "444229",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "444230",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "444231",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "445035",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "445036",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "445037",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "447386",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "447387",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "448424",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "448428",
+      "category": "PURCHASING",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "448429",
+      "category": "PURCHASING",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "448471",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "NORDEA BANK NORGE ASA HK",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "450533",
+      "type": "CREDIT",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "450869",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "451466",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "455341",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456900",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456901",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456902",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456903",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456904",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456905",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456906",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456907",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456909",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456910",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456911",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456912",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456913",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456914",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456915",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456916",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456917",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456918",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456919",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456920",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456921",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456922",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456923",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456924",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456925",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456926",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456927",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456928",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456929",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456930",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456931",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456932",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456933",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456934",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456935",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456936",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456937",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456938",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456939",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456940",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456941",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456942",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456943",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456944",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456945",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456946",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456947",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456948",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456949",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456950",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456951",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456952",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456953",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456954",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456955",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456956",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456957",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456958",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456959",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456960",
+      "type": "CREDIT",
+      "category": "ELECTRON",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456961",
+      "type": "CREDIT",
+      "category": "ELECTRON",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456962",
+      "type": "CREDIT",
+      "category": "ELECTRON",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456963",
+      "type": "CREDIT",
+      "category": "ELECTRON",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456964",
+      "type": "CREDIT",
+      "category": "ELECTRON",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456965",
+      "type": "CREDIT",
+      "category": "ELECTRON",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456966",
+      "type": "CREDIT",
+      "category": "ELECTRON",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456967",
+      "type": "CREDIT",
+      "category": "ELECTRON",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456968",
+      "type": "CREDIT",
+      "category": "ELECTRON",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456969",
+      "type": "CREDIT",
+      "category": "ELECTRON",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456970",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456971",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456972",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456973",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456974",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456975",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456976",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456977",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456978",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456979",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456980",
+      "type": "CREDIT",
+      "category": "ELECTRON",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456981",
+      "type": "CREDIT",
+      "category": "ELECTRON",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456982",
+      "type": "CREDIT",
+      "category": "ELECTRON",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456983",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456984",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456985",
+      "type": "CREDIT",
+      "category": "ELECTRON",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456986",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456987",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456988",
+      "type": "CREDIT",
+      "category": "ELECTRON",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456989",
+      "type": "CREDIT",
+      "category": "ELECTRON",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456990",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456991",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456992",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456993",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456994",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456995",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456996",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456997",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456998",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "456999",
+      "type": "CREDIT",
+      "category": "ELECTRON",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457258",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457259",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457910",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457911",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457912",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457913",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457914",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457915",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457916",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457917",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457918",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457919",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457920",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457921",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457922",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457923",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457924",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457925",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457926",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457927",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457928",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457929",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457930",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457931",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457932",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457933",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457934",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457935",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457936",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457937",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457938",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457939",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457940",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457941",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457942",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457943",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457944",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457945",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457946",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457947",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457948",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457949",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "457982",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "459390",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "NORDEA BANK NORGE ASA HK",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "459508",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "459509",
+      "type": "DEBIT",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "459588",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "459875",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "462424",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "462484",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "465995",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "466288",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "466395",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "467195",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "467496",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "469096",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "469279",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "469691",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "474860",
+      "type": "DEBIT",
+      "category": "PRIVATE",
+      "issuer": "SPAREBANK 1 SMN",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "477122",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "477123",
+      "type": "DEBIT",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "477124",
+      "type": "DEBIT",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "477125",
+      "type": "DEBIT",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "477268",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "480440",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "480442",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "480467",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "482429",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "483058",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "XY DNB NOR",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "483738",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BN BANK ASA",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "485601",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "485642",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "485643",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "485670",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "485804",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "485808",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "485809",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "486442",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "486443",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "486447",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "490179",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "490180",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "490181",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "490182",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "490183",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "490184",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "490185",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "490186",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "490187",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "490188",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "490189",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "490190",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "490191",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "490192",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "490193",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "490194",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NORDEA BANK NORGE ASA HK",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "490195",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "490196",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "490197",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "490198",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "490199",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "491818",
+      "issuer": "NORWEGIAN TELECOM",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492500",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492501",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492502",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492503",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492504",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492505",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492506",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492507",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492508",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492509",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492510",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492511",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492512",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492513",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492514",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492515",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492516",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492517",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492518",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492519",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492520",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492521",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492522",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492523",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492524",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492525",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492526",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492527",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492528",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492529",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492530",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492531",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492532",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492533",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492534",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492535",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492536",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492537",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492538",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492539",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492540",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492541",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492542",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492543",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492544",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492545",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492546",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492547",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492548",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492549",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492550",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492551",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492552",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492553",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492554",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492555",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492556",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492557",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492558",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492559",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492560",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NORDEA BANK NORGE ASA HK",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492561",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492562",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492563",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492564",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492565",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492566",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492567",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492568",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492569",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492570",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492571",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492572",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492573",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492574",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492575",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492576",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492577",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492578",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492579",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492580",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492581",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492582",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492583",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492584",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492585",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492586",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492587",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492588",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492589",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492590",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492591",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492592",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492593",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492594",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492595",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492596",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492597",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492598",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "492599",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "493403",
+      "issuer": "EUFISERV",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494610",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494611",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494612",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494613",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494614",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494615",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494616",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494617",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494618",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494619",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494620",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494621",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494622",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494623",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494624",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494625",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494626",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494627",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494628",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494629",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494630",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494631",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494632",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494633",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494634",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494635",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494636",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494637",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494638",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494639",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494640",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494641",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494642",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494643",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494644",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494645",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494646",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494647",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494648",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494649",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494650",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494651",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494652",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494653",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494654",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494655",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494656",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494657",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494658",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494659",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494660",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NORDEA BANK NORGE ASA HK",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494661",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494662",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494663",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494664",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494665",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494666",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NORDEA BANK NORGE ASA HK",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494667",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494668",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494669",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494670",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494671",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494672",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494673",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494674",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494675",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494676",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494677",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494678",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494679",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494680",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494681",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494682",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494683",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494684",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494685",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494686",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494687",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494688",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494689",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494690",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494691",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494692",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494693",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494694",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494695",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494696",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494697",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494698",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "494699",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA NORGE A/S",
+      "countries": [
+        "NO"
+      ]
+    },
+    {
+      "bin": "498502",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "NORDEA BANK NORGE ASA HK",
+      "countries": [
+        "NO"
+      ]
+    }
+  ]
+}

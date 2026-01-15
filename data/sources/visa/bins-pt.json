@@ -1,0 +1,2955 @@
+{
+  "bins": [
+    {
+      "bin": "400131",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "400190",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR PORTUGAL, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "400811",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO POPULAR PORTUGAL, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "400817",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "401750",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CAIXA GERAL DE DEPOSITOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "402192",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CAIXA GERAL DE DEPOSITOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "402525",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO POPULAR PORTUGAL, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "402947",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INTERBANCO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "402956",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "403005",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "403006",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "403007",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "403008",
+      "issuer": "BANCO COMERCIAL DOS ACORES",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "403271",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO SANTANDER TOTTA, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "403541",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "404303",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CAIXA ECONOMICA MONTEPIO GERAL",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "404369",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BEST",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "404520",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO POPULAR NORTH AMERICA",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "404530",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO POPULAR NORTH AMERICA",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "404659",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "404836",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO POPULAR PORTUGAL, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "404864",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "404865",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "405602",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "405758",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINIBANCO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "406170",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CAIXA GERAL DE DEPOSITOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "406474",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "406475",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "407548",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CAIXA GERAL DE DEPOSITOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "407549",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CAIXA GERAL DE DEPOSITOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "407575",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "407811",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "408237",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "408238",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "408239",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO BIC PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "409711",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "409841",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR PORTUGAL, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "409842",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO POPULAR PORTUGAL, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "409843",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO POPULAR PORTUGAL, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "409844",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO POPULAR PORTUGAL, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "410000",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "410106",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "410344",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAIXA ECONOMICA MONTEPIO GERAL",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "410345",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CAIXA ECONOMICA MONTEPIO GERAL",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "410553",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "410557",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR PORTUGAL, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "411635",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "411700",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO SANTANDER TOTTA, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "411701",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO SANTANDER TOTTA, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "411869",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "412486",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAIXA GERAL DE DEPOSITOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "412487",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAIXA GERAL DE DEPOSITOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "412488",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CAIXA GERAL DE DEPOSITOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "412489",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CAIXA GERAL DE DEPOSITOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "412564",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO BPI",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "412657",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAIXA GERAL DE DEPOSITOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "412782",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO POPULAR PORTUGAL, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "412990",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO POPULAR PORTUGAL, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "413014",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO POPULAR PORTUGAL, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "413424",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO POPULAR PORTUGAL, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "413425",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "413592",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INTERBANCO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "413749",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "413793",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "413794",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "413871",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "415019",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CAIXA ECONOMICA DA MISERICORDIA DE ANGRA DO HEROISMO",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "415021",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "415158",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO BPI",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "415159",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO BPI",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "415170",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER TOTTA, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "415171",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "415174",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "415175",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "415194",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAIXA GERAL DE DEPOSITOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "415195",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CAIXA GERAL DE DEPOSITOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "415238",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "415272",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "415273",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "415403",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BPI",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "415404",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BPI",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "415405",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO BPI",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "415440",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "415441",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "415569",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ESBANK ESKISEHIR BANKASI T.A.S.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "415920",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "415961",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FINIBANCO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "416952",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BPI",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "416963",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "416970",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "417005",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "417091",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "417092",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "417337",
+      "issuer": "BANCO PORTUGUES DE NEGOCIOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "417338",
+      "issuer": "BANCO PORTUGUES DE NEGOCIOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "417630",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CAJA DE AHORROS DE GALICIA, VIGO, ORENSE Y PONTEVEDRA",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "418819",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "418836",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAIXA GERAL DE DEPOSITOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "418847",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "418852",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "418853",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAIXA ECONOMICA MONTEPIO GERAL",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "419022",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAIXA GERAL DE DEPOSITOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "419403",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "419460",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BPI",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "419471",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "419682",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "419683",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "419684",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "420566",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "421149",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAIXA DE CREDITO AGRMCOLA MUTUO DE LEIRIA C.R.L",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "421509",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "421510",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "421553",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BEST",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "422041",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MAIS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "422080",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "422239",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAIXA ECONOMICA MONTEPIO GERAL",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "422240",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAIXA ECONOMICA MONTEPIO GERAL",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "422241",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CAIXA ECONOMICA MONTEPIO GERAL",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "422414",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAIXA ECONOMICA MONTEPIO GERAL",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "422417",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO POPULAR PORTUGAL, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "422597",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "422865",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "422868",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINIBANCO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "422869",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FINIBANCO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "423125",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAIXA CENTRAL DE CREDITO AGRICOLA MUTUO C.R.L.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "423126",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "423392",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "423393",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "424118",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER TOTTA, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "424184",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER TOTTA, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "424208",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER TOTTA, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "424455",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "424456",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "424661",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "425509",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "425510",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "425906",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "426150",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "426306",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "426358",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "426359",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "426360",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "426361",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "426371",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "427256",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO PORTUGUES DE NEGOCIOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "427304",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "427359",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "427729",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "427770",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "427867",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO PORTUGUES DE NEGOCIOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "428139",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PORTUGUES DE NEGOCIOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "428140",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO PORTUGUES DE NEGOCIOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "428184",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "428185",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "428186",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "428187",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "428328",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "428984",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "428985",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "428986",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PORTUGUES DE NEGOCIOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "429336",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDITO PREDIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "429343",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO SANTANDER TOTTA, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "429357",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO SANTANDER TOTTA, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "429711",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BEST",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "430239",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK (PORTUGAL), S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "430240",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DEUTSCHE BANK (PORTUGAL), S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "430241",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DEUTSCHE BANK (PORTUGAL), S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "431926",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAIXA ECONOMICA MONTEPIO GERAL",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "433390",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "433391",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "433511",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ESPIRITO SANTO DOS ACORES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "433512",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO ESPIRITO SANTO DOS ACORES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "433513",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO ESPIRITO SANTO DOS ACORES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "433514",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO ESPIRITO SANTO DOS ACORES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "433599",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ESPIRITO SANTO DOS ACORES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "433618",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK PORTUGAL, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "433622",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BEST",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "433966",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "435612",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CAIXA DE CREDITO AGRMCOLA MUTUO DE LEIRIA C.R.L",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "437886",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "438257",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "439070",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO BEST",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "440637",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BPI",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "440638",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BPI",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "440639",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "440644",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CAIXA CENTRAL DE CREDITO AGRICOLA MUTUO C.R.L.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "440645",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CAIXA CENTRAL DE CREDITO AGRICOLA MUTUO C.R.L.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "440646",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAIXA CENTRAL DE CREDITO AGRICOLA MUTUO C.R.L.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "440762",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "440790",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "440799",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "442664",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "443977",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "443978",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "444224",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "444225",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "444226",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "444227",
+      "type": "DEBIT",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "444248",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "445961",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "445962",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "446140",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CREDIBOM, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "446144",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "449389",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO SANTANDER TOTTA, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "450781",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "450915",
+      "issuer": "CAIXA ECONOMICA COMERCIAL E INDUSTRIAL",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "450916",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CREDIT LYONNAIS PORTUGAL",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "451156",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE ALICANTE, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "451157",
+      "type": "CREDIT",
+      "issuer": "BANCO DE ALICANTE, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "451166",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "451198",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "453239",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "454319",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO BPI",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "454422",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO PORTUGUES DE INVESTIMENTOS",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "454475",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "454496",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "454646",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAIXA GERAL DE DEPOSITOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "454647",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CAIXA GERAL DE DEPOSITOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "454648",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BPI",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "454649",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BPI",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "454703",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO BPI",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "454755",
+      "issuer": "CREDITO PREDIAL PORTUGUES, E. P.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "454898",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "455033",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "455034",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "455051",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "455229",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "455230",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO SANTANDER TOTTA, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "455231",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "455250",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO SANTANDER TOTTA, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "455290",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "455292",
+      "issuer": "BANCO INTERNACIONAL DE CREDITO, SARL",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "455573",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO SANTANDER TOTTA, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "455575",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "455576",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "455577",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "455657",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAIXA ECONOMICA MONTEPIO GERAL",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "455658",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "455760",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "456811",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "456812",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "457031",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "457454",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "458058",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SERVIRED S.C.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "458059",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SERVIRED S.C.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "459432",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "459433",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "459449",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "459917",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "460340",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "460341",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "460342",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "461247",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PORTUGUES DE NEGOCIOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "461248",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO PORTUGUES DE NEGOCIOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "461249",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO PORTUGUES DE NEGOCIOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "462731",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "462732",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "463738",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "464406",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAIXA GERAL DE DEPOSITOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "464407",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CAIXA GERAL DE DEPOSITOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "464408",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CAIXA GERAL DE DEPOSITOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "464409",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CAIXA GERAL DE DEPOSITOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "465963",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BPI",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "465964",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BPI",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "465965",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BPI",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "466527",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAIXA ECONOMICA MONTEPIO GERAL",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "469848",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "471518",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "476066",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "476067",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "476068",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "476069",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "476070",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "476071",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "476329",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER TOTTA, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "477598",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO SANTANDER TOTTA, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "477599",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA (DUPLICATED BID SEE 10021435)",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "477920",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER TOTTA, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "477921",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO SANTANDER TOTTA, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "477922",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO SANTANDER TOTTA, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "477946",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BPI",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "477947",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BPI",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "477989",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "478062",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "478063",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "479238",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CAIXA ECONOMICA MONTEPIO GERAL",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "479702",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "479703",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "479704",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO INTERNACIONAL DO FUNCHAL S.A. (BANIF)",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "479736",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BPI",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "483088",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "FINIBANCO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "485672",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "486449",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "486457",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "489434",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "489485",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO ESPIRITO SANTO DOS ACORES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "489974",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "489975",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO INTERNACIONAL DE CREDITO, SARL",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "490772",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "490830",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "490831",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "490832",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "490841",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "490863",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "490864",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "490985",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "491054",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "491055",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "491056",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "491057",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CAIXA GERAL DE DEPOSITOS, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "491212",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "491213",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "491214",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "491546",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "491547",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNICRE - INSTITUICAO FINANCEIRA DE CREDITO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "491613",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO ESPIRITO SANTO, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "492194",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CAIXA ECONOMICA MONTEPIO GERAL",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "492208",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "493402",
+      "issuer": "EUFISERV",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "493480",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "493712",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO BPI",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "493756",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO PORTUGUES DE INVESTIMENTOS",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "493800",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "493801",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "493807",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "493830",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "494153",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "494332",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "494333",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "498800",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "499955",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "499968",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "499969",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO COMERCIAL PORTUGUES, S.A.",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "499985",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "PT"
+      ]
+    },
+    {
+      "bin": "499986",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "PT"
+      ]
+    }
+  ]
+}

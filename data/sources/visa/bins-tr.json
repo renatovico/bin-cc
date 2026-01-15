@@ -1,0 +1,3633 @@
+{
+  "bins": [
+    {
+      "bin": "400684",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "401622",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "401738",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "401856",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALTERNATIFBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "401878",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OYAK BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "401879",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OYAK BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "401880",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "OYAK BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "401895",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OYAK BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "401896",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "OYAK BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "402003",
+      "issuer": "EGEBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "402142",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "402275",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ASYA KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "402276",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ASYA KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "402277",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "402278",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "402280",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ASYA KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "402287",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "402299",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "FORTIS BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "402458",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "402459",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "402526",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE HALK BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "402563",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "402589",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "KUVEYT TURK KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "402590",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "KUVEYT TURK KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "402591",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KUVEYT TURK KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "402592",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "KUVEYT TURK KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "402770",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "402940",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "403082",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "403134",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "403223",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALTERNATIFBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "403228",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MILLI AYDIN BANKASI T.A.S. TARISBANK",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "403280",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "403360",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "KUVEYT TURK KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "403431",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALTERNATIFBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "403595",
+      "issuer": "ALTERNATIFBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "403666",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "403810",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "KUVEYT TURK KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "403836",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SEKERBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "404308",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "404315",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "404809",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "404952",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE FINANS KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "404990",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "405051",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "405090",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "405677",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SEKERBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "405903",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "HSBC BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "405917",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "405918",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HSBC BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "405919",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HSBC BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "406015",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "406281",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "406386",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "406456",
+      "issuer": "TURKIYE IS BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "407046",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "407112",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ASYA KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "407381",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ASYA KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "407814",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "T.C. ZIRAAT BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "408521",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALBARAKA TURK KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "408522",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ALBARAKA TURK KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "408523",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "408524",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "408538",
+      "issuer": "ESBANK ESKISEHIR BANKASI T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "408578",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "408579",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OYAK BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "408580",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "OYAK BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "408581",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "408593",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "408625",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "408969",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "409021",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "409022",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "409070",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "409071",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "409084",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "409219",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "409364",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "409622",
+      "issuer": "SEKERBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "410105",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TOPRAKBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "410141",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "410147",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "410555",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "KUVEYT TURK KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "410556",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "KUVEYT TURK KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "411156",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SEKERBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "411157",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SEKERBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "411158",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SEKERBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "411159",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SEKERBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "411222",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "411685",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TURKIYE FINANS KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "411724",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "411769",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TOPRAKBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "411924",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "411942",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "411943",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "411944",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "411979",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "412345",
+      "category": "PURCHASING",
+      "issuer": "THANKSCARD",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "412574",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE FINANS KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "412575",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TURKIYE FINANS KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "412576",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TURKIYE FINANS KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "412931",
+      "issuer": "CITIBANK",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "413226",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "T.C. ZIRAAT BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "413252",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "413382",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "413583",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "413729",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TEKSTIL BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "413760",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OYAK BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "413762",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "OYAK BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "413791",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OYAK BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "413792",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "OYAK BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "413836",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "413972",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "414070",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "414291",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "414388",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "414391",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "414392",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "414941",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EUROBANK TEKFEN, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "414959",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TURKIYE EMLAK BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "415507",
+      "issuer": "ESBANK ESKISEHIR BANKASI T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "415514",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TURKIYE HALK BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "415515",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TURKIYE HALK BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "415565",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "415570",
+      "issuer": "ESBANK ESKISEHIR BANKASI T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "415792",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "415956",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "416757",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "416987",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ASYA KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "417715",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ALBARAKA TURK KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "417716",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ALBARAKA TURK KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "418342",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE IS BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "418343",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "418344",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TURKIYE IS BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "418345",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "420092",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "420322",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "420323",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "420324",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "420342",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "420343",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "420344",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "420556",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "420557",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "421030",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "422376",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "422629",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HSBC BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "423277",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "423398",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "423667",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "423833",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SEKERBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "424360",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "424361",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "424407",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TEKFENBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "424487",
+      "issuer": "KUVEYT TURK KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "424909",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "425669",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "425846",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ANADOLUBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "425847",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ANADOLUBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "425848",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ANADOLUBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "425849",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ANADOLUBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "425979",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "IKTISAT BANKASI TURK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "426391",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITIBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "426392",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "426886",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "426887",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "426888",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "426889",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "427308",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "427311",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "427314",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "427315",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "427318",
+      "issuer": "ESBANK ESKISEHIR BANKASI T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "427329",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TOPRAKBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "427335",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MILLI AYDIN BANKASI T.A.S. TARISBANK",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "427336",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MILLI AYDIN BANKASI T.A.S. TARISBANK",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "427344",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "427707",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "427774",
+      "issuer": "INTERBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "428220",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "428221",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "428240",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "428462",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE FINANS KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "428945",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "428967",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "TURKIYE FINANS KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "428968",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE FINANS KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "431024",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "KUVEYT TURK KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "431379",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "431594",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "431634",
+      "issuer": "THANKSCARD",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "432071",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "432072",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "432154",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "432284",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALBARAKA TURK KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "432285",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ALBARAKA TURK KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "433383",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SEKERBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "433384",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SEKERBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "435508",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "435509",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "435627",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE FINANS KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "435628",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TURKIYE FINANS KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "435629",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TURKIYE FINANS KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "435653",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "437838",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "T.C. ZIRAAT BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "437897",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "438040",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "440247",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "440273",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "440274",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "440293",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "440294",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "440295",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "440776",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TURKIYE HALK BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "441007",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "441033",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ASYA KATILIM BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "441075",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "441076",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "441077",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "441139",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "441341",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ANADOLUBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "442106",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "442395",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "442671",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "444028",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "444029",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "444676",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "T.C. ZIRAAT BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "444677",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "T.C. ZIRAAT BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "444678",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "T.C. ZIRAAT BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "445988",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TEKSTIL BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "446212",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "447500",
+      "issuer": "KENTBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "447501",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KENTBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "447502",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "447503",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "447504",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "T.C. ZIRAAT BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "447505",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TURKIYE HALK BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "448472",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "450050",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "450051",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITIBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "450052",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "450634",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "450749",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE IMAR BANKASI T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "450772",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ADABANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "450776",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ADABANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "450803",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TURKIYE IS BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "450836",
+      "issuer": "TURK TICARET BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "450907",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ADABANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "450918",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "451454",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "453202",
+      "issuer": "TURK TICARET BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "453955",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "T.C. ZIRAAT BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "453956",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "T.C. ZIRAAT BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "454309",
+      "issuer": "TURKIYE TURIZM YATIRIM VE DIS TICARET BANKASI",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "454314",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TURKIYE IS BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "454318",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE IS BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "454358",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TURKIYE IS BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "454359",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TURKIYE IS BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "454360",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TURKIYE IS BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "454671",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "T.C. ZIRAAT BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "454672",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "T.C. ZIRAAT BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "454673",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "T.C. ZIRAAT BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "454674",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "T.C. ZIRAAT BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "454678",
+      "issuer": "INTERBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "454894",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "T.C. ZIRAAT BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "455062",
+      "issuer": "ESBANK ESKISEHIR BANKASI T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "455063",
+      "issuer": "ESBANK ESKISEHIR BANKASI T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "455064",
+      "issuer": "ESBANK ESKISEHIR BANKASI T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "455066",
+      "issuer": "ESBANK ESKISEHIR BANKASI T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "455266",
+      "issuer": "DEMIRBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "455359",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "455360",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "455566",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "455567",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "455568",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "455569",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "455570",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OYAK BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "455571",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "455645",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "455652",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTERBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "456048",
+      "issuer": "IKTISAT BANKASI TURK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "456054",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANKALARARASI KART MERKEZI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "456057",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TEKSTIL BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "456059",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TEKSTIL BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "456077",
+      "issuer": "IKTISAT BANKASI TURK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "456372",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "AKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "456373",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "456408",
+      "issuer": "TURK TICARET BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "456507",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "459026",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "459068",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SEKERBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "459332",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "459333",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "460345",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "460346",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "460347",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "461668",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "462274",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "462276",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "462448",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "462449",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "462721",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TOPRAKBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "463214",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "464450",
+      "issuer": "ADABANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "464451",
+      "issuer": "TURKIYE IMAR BANKASI T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "465574",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "466280",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "466281",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "466282",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "466283",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "466284",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "467293",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "467294",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "467295",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "469884",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "T.C. ZIRAAT BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "471509",
+      "category": "PURCHASING",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "472914",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "472915",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "473130",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "474151",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "474823",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "474853",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "474854",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "476619",
+      "type": "DEBIT",
+      "category": "PREPAID - ELECTRON",
+      "issuer": "T.C. ZIRAAT BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "476662",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "477206",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "477901",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "477959",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "478797",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OYAK BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "478798",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "OYAK BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "479203",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALTERNATIFBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "479204",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ALTERNATIFBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "479205",
+      "issuer": "ALTERNATIFBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "479206",
+      "issuer": "ALTERNATIFBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "479207",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ALTERNATIFBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "479227",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "479323",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "479324",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "479794",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "479795",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "480296",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "480998",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ESBANK ESKISEHIR BANKASI T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "482489",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "482490",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "482491",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "483747",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "486567",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "487074",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "487075",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "489401",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SEKERBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "489455",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "489456",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "489457",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "489458",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "489477",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "489478",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "489479",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "489494",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "489495",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "489496",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "489989",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TOPRAKBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "490175",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "490740",
+      "issuer": "AKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "490805",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "490806",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "490807",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "490808",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ING BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "490983",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "491005",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "491205",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "491206",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "491373",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "EUROBANK TEKFEN, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "491374",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EUROBANK TEKFEN, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "491793",
+      "issuer": "KENTBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "491794",
+      "issuer": "KENTBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "492094",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TURKIYE HALK BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "492095",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE HALK BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "492128",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "492129",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "492130",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "492131",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "492186",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "492187",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "492191",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURK EKONOMI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "492192",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DENIZBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "492193",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "493482",
+      "issuer": "ETIBANK",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "493837",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AKBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "493840",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "493841",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "493845",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TURKIYE GARANTI BANKASI A. S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "493846",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TURKIYE VAKIFLAR BANKASI T.A.O.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "494063",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SEKERBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "494064",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SEKERBANK T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "494100",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TOPRAKBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "494101",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TOPRAKBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "494102",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "TOPRAKBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "494314",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "496019",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "496680",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "TURKIYE IMAR BANKASI T.A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "498516",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EUROBANK TEKFEN, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "498517",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "EUROBANK TEKFEN, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "498518",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EUROBANK TEKFEN, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "498519",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EUROBANK TEKFEN, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "498520",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EUROBANK TEKFEN, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "498521",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EUROBANK TEKFEN, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "498845",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "MILLI AYDIN BANKASI T.A.S. TARISBANK",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "498846",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MILLI AYDIN BANKASI T.A.S. TARISBANK",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "498850",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PAMUKBANK TURK ANONIM SIRKETI",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "498851",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "PAMUKBANK TURK ANONIM SIRKETI",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "498852",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TURKIYE HALK BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "499821",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "499850",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "499851",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "499852",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "499853",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "499899",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FINANSBANK, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "499956",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "499957",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "KOCBANK",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "bin": "499958",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "YAPI VE KREDI BANKASI, A.S.",
+      "countries": [
+        "TR"
+      ]
+    }
+  ]
+}

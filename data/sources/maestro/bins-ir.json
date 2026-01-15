@@ -1,0 +1,38 @@
+{
+  "bins": [
+    {
+      "bin": "589210",
+      "type": "DEBIT",
+      "category": "GIFT",
+      "issuer": "BANK SEPAH",
+      "countries": [
+        "IR"
+      ]
+    },
+    {
+      "bin": "603769",
+      "type": "DEBIT",
+      "issuer": "BANK SADERAT IRAN",
+      "countries": [
+        "IR"
+      ]
+    },
+    {
+      "bin": "621986",
+      "type": "DEBIT",
+      "category": "GIFT",
+      "issuer": "BANK SAMAN",
+      "countries": [
+        "IR"
+      ]
+    },
+    {
+      "bin": "636325",
+      "type": "DEBIT",
+      "issuer": "SAHAND SAMANEH MAHPA CO LOYALTY CARD",
+      "countries": [
+        "IR"
+      ]
+    }
+  ]
+}

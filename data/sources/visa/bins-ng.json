@@ -1,0 +1,1363 @@
+{
+  "bins": [
+    {
+      "bin": "400066",
+      "issuer": "INTERCONTINENTAL BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "403660",
+      "issuer": "ACCESS BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "404905",
+      "issuer": "UNITED BANK FOR AFRICA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "405030",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "WELLS FARGO BANK NEVADA, N.A.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "406995",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "407127",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "407467",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "INTERCONTINENTAL BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "407469",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "INTERCONTINENTAL BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "407586",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ACCESS BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "407591",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "UNITED BANK FOR AFRICA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "408301",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INTERCONTINENTAL BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "408302",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "INTERCONTINENTAL BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "408303",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "INTERCONTINENTAL BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "408304",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INTERCONTINENTAL BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "408305",
+      "type": "DEBIT",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "408378",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "408379",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "408380",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "408407",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "408408",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "408409",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "408410",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AFRIBANK NIGERIA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "408421",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INTERCONTINENTAL BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "408422",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "INTERCONTINENTAL BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "408423",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "INTERCONTINENTAL BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "408424",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INTERCONTINENTAL BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "408425",
+      "type": "DEBIT",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "412053",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ZENITH BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "412702",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "ACCESS BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "413103",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ZENITH BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "413183",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ZENITH BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "416919",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "417059",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "418742",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ACCESS BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "418743",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ACCESS BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "419225",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SKYE BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "419226",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SKYE BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "419227",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "SKYE BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "419228",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "419760",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "419761",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "419762",
+      "type": "DEBIT",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "419763",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "419764",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "419765",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "419766",
+      "type": "DEBIT",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "419767",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "419768",
+      "type": "DEBIT",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "420319",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GUARANTY TRUST BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "420320",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "GUARANTY TRUST BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "420321",
+      "type": "DEBIT",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "420332",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "420333",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "420334",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "420335",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "420358",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNITED BANK FOR AFRICA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "420359",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UNITED BANK FOR AFRICA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "422127",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK NIGERIA, LTD.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "422500",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "422584",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED BANK FOR AFRICA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "422594",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED BANK FOR AFRICA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "422808",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD CHARTERED BANK NIGERIA, LTD.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "423895",
+      "issuer": "STANDARD CHARTERED BANK NIGERIA, LTD.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "424226",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "424367",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VALUCARD NIGERIA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "424465",
+      "issuer": "VALUCARD NIGERIA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "427011",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIRST BANK OF NIGERIA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "427012",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "FIRST BANK OF NIGERIA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "427013",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST BANK OF NIGERIA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "427014",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIRST BANK OF NIGERIA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "427872",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OCEANIC BANK INTERNATIONAL (NIGERIA) PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "427873",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ACCESS BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "427875",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "427876",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FIRST BANK OF NIGERIA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "427877",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SKYE BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "427889",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "STANDARD CHARTERED BANK NIGERIA, LTD.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "428222",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "GUARANTY TRUST BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "428223",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNITED BANK FOR AFRICA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "428225",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "428270",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "WEMA BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "428272",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNION BANK OF NIGERIA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "428500",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "428501",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "428502",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "428503",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "428504",
+      "type": "DEBIT",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "428602",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "428603",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "432226",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRST CITY MONUMENT BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "433960",
+      "issuer": "UNION BANK OF NIGERIA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "437360",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "SKYE BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "439358",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD CHARTERED BANK NIGERIA, LTD.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "444582",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED BANK FOR AFRICA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "444585",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED BANK FOR AFRICA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "444586",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED BANK FOR AFRICA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "445493",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "445807",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "GUARANTY TRUST BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "445817",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "446965",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "450073",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ZENITH BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "450074",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ZENITH BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "450075",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ZENITH BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "450090",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ZENITH BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "450091",
+      "type": "DEBIT",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "450092",
+      "type": "DEBIT",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "450093",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "issuer": "ZENITH BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "457766",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "457768",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "457769",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "457770",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "457771",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "457803",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "457804",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "457805",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "457806",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "457807",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "458274",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "458301",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "458478",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "458536",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "458587",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "458588",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "458792",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "458793",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "460053",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "460054",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "460055",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "467768",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "467874",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "467875",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "468588",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "469023",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNION BANK OF NIGERIA",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "469617",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AFRIBANK NIGERIA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "469665",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ACCESS BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "469666",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "ACCESS BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "469667",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "ACCESS BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "470484",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ACCESS BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "470651",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "470652",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "470653",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "470654",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "470655",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "471415",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "471449",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "471463",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "471464",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "472482",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SKYE BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "473845",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "474121",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "475175",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ACCESS BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "475176",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ACCESS BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "475177",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ACCESS BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "484842",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED BANK FOR AFRICA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "485451",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "CITIBANK NIGERIA, LTD.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "485483",
+      "type": "DEBIT",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "485484",
+      "type": "DEBIT",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "486508",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "CITIBANK NIGERIA, LTD.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "488992",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "496009",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "496021",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DIAMOND BANK, LTD.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "496022",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DIAMOND BANK, LTD.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "496023",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DIAMOND BANK, LTD.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "496024",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DIAMOND BANK, LTD.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "496026",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DIAMOND BANK, LTD.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "499908",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CAJA DE AHORRO, S.A.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "499909",
+      "type": "DEBIT",
+      "issuer": "BANCO CAJA DE AHORRO, S.A.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "499910",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "VISA NEW ZEALAND",
+      "countries": [
+        "NG"
+      ]
+    }
+  ]
+}

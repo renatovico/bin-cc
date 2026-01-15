@@ -1,0 +1,925 @@
+{
+  "bins": [
+    {
+      "bin": "510076",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "AS SMP BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "510091",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSC REGIONALA INVESTICIJU BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "510143",
+      "issuer": "HANSABANK - LATVIA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "510153",
+      "type": "CREDIT",
+      "issuer": "SC CITADELE BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "512616",
+      "type": "CREDIT",
+      "issuer": "JSC REGIONALA INVESTICIJU BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "514836",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSC SEB BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "515591",
+      "category": "STANDARD",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "515626",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NORDEA BANK FINLAND PLC LATVIJAS FILIALE",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "515663",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSC TRASTA KOMERCBANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "516847",
+      "type": "DEBIT",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "516848",
+      "type": "DEBIT",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "518848",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AS UNICREDIT BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "518958",
+      "type": "CREDIT",
+      "issuer": "SWEDBANK, A.S.",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "518959",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SWEDBANK, A.S.",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "519754",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "519777",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "520616",
+      "type": "CREDIT",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "520978",
+      "type": "CREDIT",
+      "issuer": "JSC SEB BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "521125",
+      "type": "CREDIT",
+      "issuer": "SWEDBANK, A.S.",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "521806",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AS NORVIK BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "521943",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "522770",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "522838",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "JSC REGIONALA INVESTICIJU BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "522883",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "RIETUMU BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "523925",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSC SEB BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "524812",
+      "type": "CREDIT",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "527406",
+      "type": "CREDIT",
+      "issuer": "JSC SEB BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "527557",
+      "type": "CREDIT",
+      "issuer": "JSC SEB BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "527584",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SWEDBANK, A.S.",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "529413",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NORDEA BANK FINLAND PLC LATVIJAS FILIALE",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "530512",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "531537",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "532348",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "532919",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "SIA TRANSACT PRO",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "533683",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "JSC BALTIC INTERNATIONAL BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "534219",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "SIA TRANSACT PRO",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "534255",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSC SEB BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "540078",
+      "type": "CREDIT",
+      "issuer": "JSC TRASTA KOMERCBANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "540103",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AS LATVIJAS PASTA BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "541178",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SC CITADELE BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "541219",
+      "type": "CREDIT",
+      "issuer": "JSC TRASTA KOMERCBANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "541220",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSC TRASTA KOMERCBANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "541264",
+      "type": "CREDIT",
+      "issuer": "SC CITADELE BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "542085",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "AS DNB NORD BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "542090",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AS DNB NORD BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "542159",
+      "type": "CREDIT",
+      "issuer": "AS LATVIJAS PASTA BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "542499",
+      "type": "CREDIT",
+      "issuer": "AS NORVIK BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "542525",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AS NORVIK BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "542560",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AS UNICREDIT BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "543406",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSC GE MONEYBANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "543657",
+      "issuer": "PIRMA BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "543755",
+      "type": "CREDIT",
+      "issuer": "A/S LATVIJAS KRAJBANKA - LATVIAN SAVINGS BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "544450",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSC TRASTA KOMERCBANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "544487",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AS LATVIJAS PASTA BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "545107",
+      "type": "CREDIT",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "545189",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "JSC BALTIC INTERNATIONAL BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "545763",
+      "type": "CREDIT",
+      "issuer": "AS SMP BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "545764",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AS SMP BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "545898",
+      "type": "CREDIT",
+      "issuer": "JSC GE MONEYBANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "545899",
+      "type": "CREDIT",
+      "issuer": "JSC SEB BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "546026",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "546043",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "RIETUMU BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "546044",
+      "type": "CREDIT",
+      "issuer": "RIETUMU BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "546051",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSC SEB BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "546800",
+      "issuer": "CAPITAL BANK OF LATVIA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "546807",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "RIETUMU BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "547213",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SC CITADELE BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "547519",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "LATVIJAS HIPOTEKU UN ZEMES BANKA (JSC LATVIAN MORTGAGE",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "547535",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NORDEA BANK FINLAND PLC LATVIJAS FILIALE",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "547602",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SAMPO BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "547626",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AS DNB NORD BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "547653",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSC BALTIC INTERNATIONAL BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "547814",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSC SEB BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "547888",
+      "issuer": "RIETUMU BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "547889",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSC TRASTA KOMERCBANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "548631",
+      "type": "CREDIT",
+      "issuer": "ABLV BANK, AS",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "548632",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ABLV BANK, AS",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "549045",
+      "issuer": "JSC OGRES KOMERSBANKA (OKB)",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "549898",
+      "issuer": "AKCIJU SABIEDRIBA KOMERCBANKA VIKTORIJA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "549951",
+      "issuer": "HANSABANK - LATVIA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "550044",
+      "type": "CREDIT",
+      "issuer": "MARAS BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "550167",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "550365",
+      "type": "CREDIT",
+      "issuer": "AS NORVIK BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "550633",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "JSC LATVIAN BUSINESS BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "552167",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSC BALTIC INTERNATIONAL BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "552182",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "RIETUMU BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "552685",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSC LATVIAN BUSINESS BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "553068",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSC REGIONALA INVESTICIJU BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "554333",
+      "type": "CREDIT",
+      "issuer": "SC CITADELE BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "554357",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSC LATVIAN BUSINESS BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "554648",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "A/S LATVIJAS KRAJBANKA - LATVIAN SAVINGS BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "554756",
+      "type": "CREDIT",
+      "issuer": "A/S LATVIJAS KRAJBANKA - LATVIAN SAVINGS BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "556644",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "EUROCARD AB",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "557008",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "LATVIJAS HIPOTEKU UN ZEMES BANKA (JSC LATVIAN MORTGAGE",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "557010",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "LATVIJAS HIPOTEKU UN ZEMES BANKA (JSC LATVIAN MORTGAGE",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "557012",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NORDEA BANK FINLAND PLC LATVIJAS FILIALE",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "557013",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NORDEA BANK FINLAND PLC LATVIJAS FILIALE",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "557058",
+      "issuer": "AIZKRAUKLES BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "557069",
+      "issuer": "VEF BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "557070",
+      "issuer": "VEF BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "557367",
+      "type": "DEBIT",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "557368",
+      "type": "DEBIT",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "557818",
+      "type": "CREDIT",
+      "issuer": "JSC BALTIC INTERNATIONAL BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "557819",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSC BALTIC INTERNATIONAL BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "558330",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ABLV BANK, AS",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "558342",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "RIETUMU BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "558359",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SWEDBANK, A.S.",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "558373",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AS UNICREDIT BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "558396",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AS SMP BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "558486",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSC TRASTA KOMERCBANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "558660",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "A/S LATVIJAS KRAJBANKA - LATVIAN SAVINGS BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "559045",
+      "issuer": "JSC OGRES KOMERCBANKA (OKB)",
+      "countries": [
+        "LV"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "bins": [
+    {
+      "bin": "510002",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EESTI KREDIIDIPANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "515607",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NORDEA BANK FINLAND PLC EESTI FILIAAL",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "516045",
+      "type": "CREDIT",
+      "issuer": "SC CITADELE BANKA",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "516736",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "516737",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "SWEDBANK, A.S.",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "516738",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "521766",
+      "type": "DEBIT",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "521768",
+      "type": "DEBIT",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "526467",
+      "issuer": "NORDEA BANK FINLAND PLC EESTI FILIAAL",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "526708",
+      "issuer": "NORDEA BANK FINLAND PLC EESTI FILIAAL",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "526843",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SC CITADELE BANKA",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "528390",
+      "category": "STANDARD",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "529412",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NORDEA BANK FINLAND PLC EESTI FILIAAL",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "531523",
+      "type": "CREDIT",
+      "issuer": "AS LHV PANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "540164",
+      "type": "CREDIT",
+      "issuer": "TALLINNA ARIPANGA AKTSIASELTS (TALLINN BUSINESS BANK LTD.)",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "540416",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NORDEA BANK FINLAND PLC EESTI FILIAAL",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "541164",
+      "issuer": "TALLINNA PANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "541747",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NORDEA BANK FINLAND PLC EESTI FILIAAL",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "543740",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SWEDBANK, A.S.",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "544055",
+      "type": "CREDIT",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "544451",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TALLINNA ARIPANGA AKTSIASELTS (TALLINN BUSINESS BANK LTD.)",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "545033",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SWEDBANK, A.S.",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "546564",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SWEDBANK, A.S.",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "546900",
+      "issuer": "HOIUPANK (ESTONIAN SAVINGS BANK)",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "547025",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SWEDBANK, A.S.",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "547372",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SWEDBANK, A.S.",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "547493",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TALLINNA ARIPANGA AKTSIASELTS (TALLINN BUSINESS BANK LTD.)",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "547686",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NORDEA BANK FINLAND PLC EESTI FILIAAL",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "547882",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SWEDBANK, A.S.",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "547992",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "548986",
+      "issuer": "EESTI UHISPANK (UNION BANK OF ESTONIA)",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "548987",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AS SEB PANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "557014",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "AS SEB PANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "558290",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "558318",
+      "countries": [
+        "EE"
+      ]
+    }
+  ]
+}

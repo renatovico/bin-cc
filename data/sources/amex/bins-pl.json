@@ -1,0 +1,42 @@
+{
+  "bins": [
+    {
+      "bin": "337941",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK MILLENNIUM SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "377940",
+      "type": "CREDIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "377941",
+      "type": "CREDIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "377946",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "377948",
+      "type": "CREDIT",
+      "countries": [
+        "PL"
+      ]
+    }
+  ]
+}

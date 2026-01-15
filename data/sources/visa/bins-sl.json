@@ -1,0 +1,76 @@
+{
+  "bins": [
+    {
+      "bin": "419758",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SL"
+      ]
+    },
+    {
+      "bin": "419759",
+      "type": "DEBIT",
+      "countries": [
+        "SL"
+      ]
+    },
+    {
+      "bin": "419819",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SL"
+      ]
+    },
+    {
+      "bin": "419820",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SL"
+      ]
+    },
+    {
+      "bin": "457276",
+      "countries": [
+        "SL"
+      ]
+    },
+    {
+      "bin": "471442",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "SL"
+      ]
+    },
+    {
+      "bin": "472573",
+      "countries": [
+        "SL"
+      ]
+    },
+    {
+      "bin": "472574",
+      "countries": [
+        "SL"
+      ]
+    },
+    {
+      "bin": "472575",
+      "countries": [
+        "SL"
+      ]
+    },
+    {
+      "bin": "484739",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ACCESS BANK (SL) LTD.",
+      "countries": [
+        "SL"
+      ]
+    }
+  ]
+}

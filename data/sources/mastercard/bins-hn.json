@@ -1,0 +1,555 @@
+{
+  "bins": [
+    {
+      "bin": "510825",
+      "type": "DEBIT",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "511840",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "512326",
+      "type": "CREDIT",
+      "issuer": "CREDOMATIC DEL ISTMO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "512380",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDOMATIC DEL ISTMO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "514000",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDOMATIC DEL ISTMO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "514392",
+      "category": "STANDARD",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "514733",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "CREDOMATIC DEL ISTMO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "514824",
+      "category": "STANDARD",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "514941",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "515583",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "CREDOMATIC DEL ISTMO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "516432",
+      "type": "DEBIT",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "518369",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "518400",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "518401",
+      "issuer": "AVAL CARD, S.A. DE C.V.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "520051",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDOMATIC DEL ISTMO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "522033",
+      "type": "CREDIT",
+      "issuer": "BANCO CONTINENTAL, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "522982",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO ATLANTIDA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "526448",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDOMATIC DEL ISTMO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "526456",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO AZTECA DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "527611",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "528034",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO ATLANTIDA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "528035",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO ATLANTIDA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "528595",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "529739",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "530297",
+      "category": "PLATINUM",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "530350",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDOMATIC DEL ISTMO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "531808",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDOMATIC DEL ISTMO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "531862",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CONTINENTAL, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "533738",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "534185",
+      "type": "CREDIT",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "534268",
+      "type": "CREDIT",
+      "issuer": "BANCO AZTECA DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "536556",
+      "type": "CREDIT",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "536597",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "537008",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDOMATIC DEL ISTMO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "537031",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDOMATIC DEL ISTMO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "537208",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "540588",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "BANCO ATLANTIDA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "540698",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "CREDOMATIC DEL ISTMO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "541101",
+      "type": "CREDIT",
+      "issuer": "CREDOMATIC DEL ISTMO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "545255",
+      "issuer": "CREDOMATIC DEL ISTMO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "545473",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDURENA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "545480",
+      "type": "CREDIT",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDURENA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "545795",
+      "issuer": "CREDOMATIC DEL ISTMO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "545796",
+      "type": "CREDIT",
+      "issuer": "CREDOMATIC DEL ISTMO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "545797",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDOMATIC DEL ISTMO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "545798",
+      "issuer": "CREDOMATIC DEL ISTMO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "546669",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITIBANK DE HONDURAS, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "547391",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CREDOMATIC DEL ISTMO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "547452",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CREDOMATIC DEL ISTMO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "547558",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO CONTINENTAL, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "547568",
+      "issuer": "BANCO INTERCONTINENTAL, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "547597",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO ATLANTIDA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "548125",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO FINANCIERA COMERCIAL HONDURENA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "548194",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "549150",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CREDOMATIC DEL ISTMO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "549784",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO CONTINENTAL, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "550463",
+      "issuer": "CREDOMATIC DEL ISTMO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "550585",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "551262",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "552251",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "CREDOMATIC DEL ISTMO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "552337",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO ATLANTIDA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "552767",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO ATLANTIDA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "552798",
+      "issuer": "CREDOMATIC DEL ISTMO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "553475",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO ATLANTIDA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "554265",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "CREDOMATIC DEL ISTMO, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "558184",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO ATLANTIDA, S.A.",
+      "countries": [
+        "HN"
+      ]
+    },
+    {
+      "bin": "559402",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO CONTINENTAL, S.A.",
+      "countries": [
+        "HN"
+      ]
+    }
+  ]
+}

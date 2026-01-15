@@ -1,0 +1,284 @@
+{
+  "bins": [
+    {
+      "bin": "511117",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ADMINISTRADORA DE TARJETAS DE CREDITO (A.T.C.), S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "512334",
+      "type": "CREDIT",
+      "issuer": "ADMINISTRADORA DE TARJETAS DE CREDITO (A.T.C.), S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "512806",
+      "type": "CREDIT",
+      "issuer": "ADMINISTRADORA DE TARJETAS DE CREDITO (A.T.C.), S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "514507",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ADMINISTRADORA DE TARJETAS DE CREDITO (A.T.C.), S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "524398",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ADMINISTRADORA DE TARJETAS DE CREDITO (A.T.C.), S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "524715",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "525783",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ADMINISTRADORA DE TARJETAS DE CREDITO (A.T.C.), S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "528399",
+      "category": "STANDARD",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "529166",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "530017",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "530253",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "ADMINISTRADORA DE TARJETAS DE CREDITO (A.T.C.), S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "530438",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "530443",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "530573",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "531123",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "539604",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "LINKSER, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "540011",
+      "type": "CREDIT",
+      "issuer": "BANCO NACIONAL DE BOLIVIA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "540088",
+      "type": "CREDIT",
+      "issuer": "ADMINISTRADORA DE TARJETAS DE CREDITO (A.T.C.), S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "540913",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ADMINISTRADORA DE TARJETAS DE CREDITO (A.T.C.), S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "542072",
+      "type": "CREDIT",
+      "issuer": "ADMINISTRADORA DE TARJETAS DE CREDITO (A.T.C.), S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "542695",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "543896",
+      "issuer": "LINKSER SERVICIOS BANCARIOS AUXILIARES, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "545180",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "ADMINISTRADORA DE TARJETAS DE CREDITO (A.T.C.), S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "545390",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "LINKSER, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "546817",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "547104",
+      "type": "CREDIT",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "547700",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ADMINISTRADORA DE TARJETAS DE CREDITO (A.T.C.), S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "548626",
+      "type": "CREDIT",
+      "issuer": "LINKSER, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "548627",
+      "issuer": "LINKSER, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "548628",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "LINKSER, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "548646",
+      "type": "CREDIT",
+      "issuer": "BANCO NACIONAL DE BOLIVIA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "548973",
+      "issuer": "BANCO SANTA CRUZ, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "548974",
+      "issuer": "BANCO SANTA CRUZ, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "548975",
+      "issuer": "BANCO SANTA CRUZ, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "548977",
+      "issuer": "BANCO MERCANTIL, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "548981",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO NACIONAL DE BOLIVIA, S.A.",
+      "countries": [
+        "BO"
+      ]
+    },
+    {
+      "bin": "553627",
+      "countries": [
+        "BO"
+      ]
+    }
+  ]
+}

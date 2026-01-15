@@ -1,0 +1,1890 @@
+{
+  "bins": [
+    {
+      "bin": "400621",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ERSTE BANK AD NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "402113",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BEOGRADSKA BANKA D. D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "402114",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BEOGRADSKA BANKA D. D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "402119",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "402120",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "402133",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA INTESA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "402284",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "402323",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISENBANK A.D., BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "402548",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ZEPTER BANKA A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "402557",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NLB BANKA A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "402636",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ERSTE BANK AD NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "402670",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ERSTE BANK AD NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "402671",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ERSTE BANK AD NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "402775",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "YUBMES BANK AD BELGRADE",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "402914",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PANONSKA BANKA A.D. YUGOSLAVIA",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "402915",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PANONSKA BANKA A.D. YUGOSLAVIA",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "402930",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT AGRICOLE BANK SERBIA JSC NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "402965",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "UNICREDIT BANK SERBIA JSC BELGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "402966",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT BANK SERBIA JSC BELGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "402975",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDY BANKA AD KRAGUJEVAC",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "402976",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDY BANKA AD KRAGUJEVAC",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "402977",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CREDY BANKA AD KRAGUJEVAC",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "402989",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CACANSKA BANKA A.D. CACAK",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "402990",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CACANSKA BANKA A.D. CACAK",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "402996",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT AGRICOLE BANK SERBIA JSC NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "402997",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CREDIT AGRICOLE BANK SERBIA JSC NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "402998",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT AGRICOLE BANK SERBIA JSC NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "402999",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CREDIT AGRICOLE BANK SERBIA JSC NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "403342",
+      "issuer": "ERSTE BANK AD NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "403344",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "403358",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VOJVODJANSKA BANKA A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "403781",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "RAIFFEISENBANK A.D., BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "403865",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ALPHA BANK SRBIJA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "403866",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ALPHA BANK SRBIJA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "403867",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ALPHA BANK SRBIJA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "403868",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ALPHA BANK SRBIJA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "403869",
+      "issuer": "ALPHA BANK SRBIJA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "404639",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "AGRICULTURAL BANK AGROBANKA A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "404940",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "RAZVOJNA BANKA VOJVODINE AD NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "405216",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SRPSKA BANKA A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "405241",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SRPSKA BANKA A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "405242",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "SRPSKA BANKA A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "405243",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SRPSKA BANKA A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "405244",
+      "issuer": "SRPSKA BANKA A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "405441",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "RAIFFEISENBANK A.D., BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "405442",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISENBANK A.D., BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "405476",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "RAIFFEISENBANK A.D., BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "405477",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "RAIFFEISENBANK A.D., BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "405478",
+      "issuer": "RAIFFEISENBANK A.D., BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "405479",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISENBANK A.D., BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "405484",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "RAIFFEISENBANK A.D., BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "406221",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA INTESA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "406222",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCA INTESA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "406223",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA INTESA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "406224",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA INTESA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "406225",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA INTESA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "406226",
+      "issuer": "BANCA INTESA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "406387",
+      "issuer": "HVB BANKA JUGOSLAVIJA A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "406445",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PRIVREDNA BANKA BEOGRAD D.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "406446",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PRIVREDNA BANKA BEOGRAD D.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "406464",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PRIVREDNA BANKA BEOGRAD D.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "407081",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HYPO ALPE-ADRIA-BANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "407532",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "AIK BANKA AD NIS",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "408404",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "409776",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HYPO ALPE-ADRIA-BANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "410061",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NLB BANKA A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "410154",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NATIONAL BANK OF GREECE S.A. BELGRADE",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "411921",
+      "issuer": "PANONSKA BANKA A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "413273",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "PRIVREDNA BANKA BEOGRAD D.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "417279",
+      "issuer": "MERIDIAN BANK AD NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "417351",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "HYPO ALPE-ADRIA-BANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "417373",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PROCREDIT BANK A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "417374",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PROCREDIT BANK A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "417375",
+      "issuer": "PROCREDIT BANK A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "417376",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EUROBANK EFG JSC",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "417377",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EUROBANK EFG JSC",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "417378",
+      "issuer": "EFG EUROBANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "417475",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OTP BANKA SRBIJA A.D. NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "417476",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "OTP BANKA SRBIJA A.D. NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "417477",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "OTP BANKA SRBIJA A.D. NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "417478",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OTP BANKA SRBIJA A.D. NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "417479",
+      "issuer": "KULSKA BANKA A.D. NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "417613",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "KOMERCIJALNA BANKA AD BEOGRAD CJSC",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "417614",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "KOMERCIJALNA BANKA AD BEOGRAD CJSC",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "417651",
+      "issuer": "CREDY BANKA AD KRAGUJEVAC",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "417737",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HYPO ALPE-ADRIA-BANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "417738",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "HYPO ALPE-ADRIA-BANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "417764",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PANONSKA BANKA A.D. YUGOSLAVIA",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "418339",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA INTESA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "418340",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA INTESA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "418341",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA INTESA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "418690",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF MOSCOW BELGRADE",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "418691",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF MOSCOW BELGRADE",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "418692",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF MOSCOW BELGRADE",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "418693",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK OF MOSCOW BELGRADE",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "418695",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "421018",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT BANK SERBIA JSC BELGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "421108",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISENBANK A.D., BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "421186",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISENBANK A.D., BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "421187",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISENBANK A.D., BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "421633",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AIK BANKA AD NIS",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "422077",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AIK BANKA AD NIS",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "422078",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AIK BANKA AD NIS",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "422614",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "422615",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "KOMERCIJALNA BANKA AD BEOGRAD CJSC",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "424178",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK OF GREECE S.A. BELGRADE",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "424280",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "YUBMES BANK AD BELGRADE",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "424281",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "YUBMES BANK AD BELGRADE",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "424282",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "YUBMES BANK AD BELGRADE",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "424283",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RAZVOJNA BANKA VOJVODINE AD NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "424284",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "RAZVOJNA BANKA VOJVODINE AD NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "424285",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "RAZVOJNA BANKA VOJVODINE AD NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "424286",
+      "issuer": "METALS BANKA A.D. NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "424317",
+      "issuer": "NATIONAL BANK OF GREECE S.A. BELGRADE",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "424549",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AGRICULTURAL BANK AGROBANKA A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "424550",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AGRICULTURAL BANK AGROBANKA A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "424551",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AGRICULTURAL BANK AGROBANKA A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "424552",
+      "issuer": "AGRICULTURAL BANK AGROBANKA A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "424566",
+      "type": "CREDIT",
+      "category": "ELECTRON",
+      "issuer": "EFG EUROBANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "424567",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "EUROBANK EFG JSC",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "424568",
+      "issuer": "EFG EUROBANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "425301",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SOCIETE GENERALE BANKA SRBIJA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "425302",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SOCIETE GENERALE BANKA SRBIJA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "425303",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SOCIETE GENERALE BANKA SRBIJA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "425304",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "SOCIETE GENERALE BANKA SRBIJA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "425305",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "SOCIETE GENERALE YUGOSLAV BANK A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "425306",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SOCIETE GENERALE BANKA SRBIJA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "425307",
+      "issuer": "SOCIETE GENERALE YUGOSLAV BANK A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "425340",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SOCIETE GENERALE BANKA SRBIJA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "425348",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALPHA BANK SRBIJA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "425349",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ALPHA BANK SRBIJA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "426067",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PIRAEUS BANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "426068",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PIRAEUS BANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "427226",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PROCREDIT BANK A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "427257",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LHB BANKA BEOGRAD A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "427258",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "LHB BANKA BEOGRAD A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "427259",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "LHB BANKA BEOGRAD A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "427260",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "LHB BANKA BEOGRAD A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "427261",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "LHB BANKA BEOGRAD A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "427262",
+      "issuer": "LHB BANKA BEOGRAD A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "427716",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "VOJVODJANSKA BANKA A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "427809",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MARFIN BANK AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "427810",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "MARFIN BANK AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "427811",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "LAIKI BANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "427812",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MARFIN BANK AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "427813",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "MARFIN BANK AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "427814",
+      "issuer": "LAIKI BANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "427865",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NLB BANKA A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "428227",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALPHA BANK SRBIJA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "428250",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HYPO ALPE-ADRIA-BANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "428943",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "NLB BANKA A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "429054",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VOJVODJANSKA BANKA A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "429055",
+      "issuer": "VOJVODJANSKA BANKA A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "430277",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OTP BANKA SRBIJA A.D. NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "430278",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "OTP BANKA SRBIJA A.D. NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "430891",
+      "issuer": "YUBMES BANK AD BELGRADE",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "431374",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KOMERCIJALNA BANKA AD BEOGRAD CJSC",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "431408",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NLB BANKA A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "431476",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NLB BANKA A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "431477",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "NLB BANKA A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "431478",
+      "issuer": "NLB CONTINENTAL BANKA AD NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "431872",
+      "issuer": "PRIVREDNA BANKA BEOGRAD D.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "432261",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ERSTE BANK AD NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "432262",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ERSTE BANK AD NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "432263",
+      "issuer": "ERSTE BANK AD NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "432406",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "KBC BANKA AD BELGRADE",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "432407",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KBC BANKA AD BELGRADE",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "432408",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "KBC BANKA AD BELGRADE",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "432409",
+      "issuer": "A BANKA A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "438131",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNICREDIT BANK SERBIA JSC BELGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "438132",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT BANK SERBIA JSC BELGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "438144",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "KOMERCIJALNA BANKA AD BEOGRAD CJSC",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "438158",
+      "issuer": "KOMERCIJALNA BANKA AD BEOGRAD CJSC",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "438161",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "KOMERCIJALNA BANKA AD BEOGRAD CJSC",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "438162",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "KOMERCIJALNA BANKA AD BEOGRAD CJSC",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "438163",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KOMERCIJALNA BANKA AD BEOGRAD CJSC",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "439026",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PIRAEUS BANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "439027",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PIRAEUS BANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "439028",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PIRAEUS BANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "439029",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "439030",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PIRAEUS BANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "439031",
+      "issuer": "PIRAEUS BANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "439036",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ZEPTER BANKA A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "439037",
+      "issuer": "ZEPTER BANKA A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "439099",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PIRAEUS BANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "440538",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VOJVODJANSKA BANKA A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "440539",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "VOJVODJANSKA BANKA A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "443908",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDIT AGRICOLE BANK SERBIA JSC NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "443909",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CREDIT AGRICOLE BANK SERBIA JSC NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "443910",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "issuer": "CREDIT AGRICOLE BANK SERBIA JSC NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "445038",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "RAZVOJNA BANKA VOJVODINE AD NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "445039",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OTP BANKA SRBIJA A.D. NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "450021",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNIVERZAL BANKA A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "450022",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNIVERZAL BANKA A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "450023",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "UNIVERZAL BANKA A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "450621",
+      "issuer": "JUGOBANKA A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "450643",
+      "issuer": "JUGOBANKA A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "450651",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PANONSKA BANKA A.D. YUGOSLAVIA",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "450665",
+      "issuer": "JUGOBANKA A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "450746",
+      "issuer": "BEOBANKA A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "450762",
+      "issuer": "BEOBANKA A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "450773",
+      "issuer": "BEOBANKA A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "457814",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "458213",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MARFIN BANK AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "458593",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "KBC BANKA AD BELGRADE",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "458782",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "466082",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PIRAEUS BANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "467369",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "467898",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AGRICULTURAL BANK AGROBANKA A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "467912",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "RAIFFEISENBANK A.D., BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "470662",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "RAIFFEISENBANK A.D., BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "475163",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ERSTE BANK AD NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "478779",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "484187",
+      "type": "DEBIT",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "487031",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VOJVODJANSKA BANKA A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "487049",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "SRPSKA BANKA A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "487076",
+      "issuer": "HYPO ALPE-ADRIA-BANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "487077",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "487078",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "487079",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "POSTAL SAVINGS BANK JSC",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "498831",
+      "countries": [
+        "RS"
+      ]
+    }
+  ]
+}

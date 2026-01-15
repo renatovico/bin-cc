@@ -1,0 +1,972 @@
+{
+  "bins": [
+    {
+      "bin": "400827",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "401346",
+      "issuer": "BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVESTBANK JSC",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "401803",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JS SAVINGS BANK BELARUSBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "406969",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "408344",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "408345",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "409087",
+      "issuer": "JS SAVINGS BANK BELARUSBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "410745",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BELSWISS BANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "410746",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BELSWISS BANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "411856",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "PJSC TRUSTBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "413059",
+      "issuer": "PRIORBANK JSCB",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "413856",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OJSC BPS-BANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "413857",
+      "issuer": "OJSC BELPROMSTROIBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "414088",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BELVNESHECONOMBANK FOREIGN ECONOMIC AFFAIRS BELARUS JSCB",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "414297",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BELVNESHECONOMBANK FOREIGN ECONOMIC AFFAIRS BELARUS JSCB",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "414298",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BELVNESHECONOMBANK FOREIGN ECONOMIC AFFAIRS BELARUS JSCB",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "416064",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PRIORBANK JSCB",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "416676",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC PARITETBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "416677",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "OJSC PARITETBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "417753",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC MINSK TRANSIT BANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "417754",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC MINSK TRANSIT BANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "417755",
+      "issuer": "JSC MINSK TRANSIT BANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "417770",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PRIORBANK JSCB",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "422484",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "422887",
+      "issuer": "BELVNESHECONOMBANK FOREIGN ECONOMIC AFFAIRS BELARUS JSCB",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "424641",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JS SAVINGS BANK BELARUSBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "425519",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JS SAVINGS BANK BELARUSBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "425520",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JS SAVINGS BANK BELARUSBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "425521",
+      "issuer": "JS SAVINGS BANK BELARUSBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "427870",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OJSC PARITETBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "428620",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BELARUSIAN-RUSSIAN BELGAZPROMBANK JS",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "428621",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BELARUSIAN-RUSSIAN BELGAZPROMBANK JS",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "428622",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BELARUSIAN-RUSSIAN BELGAZPROMBANK JS",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "428623",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BELARUSIAN-RUSSIAN BELGAZPROMBANK JS",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "428624",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BELARUSIAN-RUSSIAN BELGAZPROMBANK JS",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "429737",
+      "issuer": "OJSC PARITETBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "431836",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC BPS-BANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "431837",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "OJSC BPS-BANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "431838",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC BPS-BANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "432036",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC BELAGROPROMBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "432037",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC BELAGROPROMBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "432038",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSC BELAGROPROMBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "432039",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC BELAGROPROMBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "432040",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSC BELAGROPROMBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "432041",
+      "issuer": "JSC BELAGROPROMBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "432080",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CJSC JSCB BELROSBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "432081",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CJSC JSCB BELROSBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "432201",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "432231",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PJSC TRUSTBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "432232",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PJSC TRUSTBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "434484",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVEST",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "434485",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVEST",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "434486",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVEST",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "434487",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVEST",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "437350",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CJSC ALFA-BANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "437391",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC PARITETBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "437449",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "OJSC BPS-BANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "437458",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PRIORBANK JSCB",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "437488",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "437489",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "440513",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "445451",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CJSC VTB BANK (BELARUS)",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "445452",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CJSC VTB BANK (BELARUS)",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "445453",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CJSC VTB BANK (BELARUS)",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "445454",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CJSC VTB BANK (BELARUS)",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "445987",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "PRIORBANK JSCB",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "446142",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "446390",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "446391",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "446505",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MOSCOW-MINSK BANK OJSC",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "447514",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BELVNESHECONOMBANK FOREIGN ECONOMIC AFFAIRS BELARUS JSCB",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "447515",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BELVNESHECONOMBANK FOREIGN ECONOMIC AFFAIRS BELARUS JSCB",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "450040",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BELARUSKY NARODNY BANK (BELARUSIAN PEOPLE'S BANK OJSC)",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "450041",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BELARUSKY NARODNY BANK (BELARUSIAN PEOPLE'S BANK OJSC)",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "450042",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BELARUSKY NARODNY BANK (BELARUSIAN PEOPLE'S BANK OJSC)",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "452443",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "457434",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "457857",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "458283",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "458285",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PRIORBANK JSCB",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "458288",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "458291",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION BELINVEST",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "458520",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CJSC ALFA-BANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "458521",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CJSC ALFA-BANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "458522",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CJSC ALFA-BANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "458523",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CJSC ALFA-BANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "458563",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CJSC ABSOLUTBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "458779",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CJSC JSCB BELROSBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "458786",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "459056",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OJSC PARITETBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "464990",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSC MINSK TRANSIT BANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "467939",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC DELTA BANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "467940",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSC DELTA BANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "467941",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC DELTA BANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "470469",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BELVNESHECONOMBANK FOREIGN ECONOMIC AFFAIRS BELARUS JSCB",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "471326",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "PRIORBANK JSCB",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "471346",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CJSC VTB BANK (BELARUS)",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "471477",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "472249",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "472950",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PRIORBANK JSCB",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "475096",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "475787",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "475788",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "475789",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "480949",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PRIORBANK JSCB",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "484743",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "484744",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "484745",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "484879",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CJSC CREDEXBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "484880",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CJSC CREDEXBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "484881",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CJSC CREDEXBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "484894",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "JS SAVINGS BANK BELARUSBANK",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "489062",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BELARUSKY NARODNY BANK (BELARUSIAN PEOPLE'S BANK OJSC)",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "491698",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PRIORBANK JSCB",
+      "countries": [
+        "BY"
+      ]
+    },
+    {
+      "bin": "499835",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BELVNESHECONOMBANK FOREIGN ECONOMIC AFFAIRS BELARUS JSCB",
+      "countries": [
+        "BY"
+      ]
+    }
+  ]
+}

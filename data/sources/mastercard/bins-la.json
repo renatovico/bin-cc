@@ -1,0 +1,38 @@
+{
+  "bins": [
+    {
+      "bin": "520066",
+      "type": "CREDIT",
+      "issuer": "JOINT DEVELOPMENT BANK",
+      "countries": [
+        "LA"
+      ]
+    },
+    {
+      "bin": "520120",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JOINT DEVELOPMENT BANK",
+      "countries": [
+        "LA"
+      ]
+    },
+    {
+      "bin": "529409",
+      "type": "CREDIT",
+      "issuer": "PHONGSAVANH BANK",
+      "countries": [
+        "LA"
+      ]
+    },
+    {
+      "bin": "545027",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PHONGSAVANH BANK",
+      "countries": [
+        "LA"
+      ]
+    }
+  ]
+}

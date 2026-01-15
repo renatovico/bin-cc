@@ -1,0 +1,4711 @@
+{
+  "bins": [
+    {
+      "bin": "510226",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "510227",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "511675",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "511847",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "512143",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "512625",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "512633",
+      "type": "CREDIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "512665",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "513077",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "513143",
+      "type": "CREDIT",
+      "issuer": "ADVANZIA BANK, S.A.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "513435",
+      "issuer": "LUFTHANSA AIRPLUS SERVICEKARTEN GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "513682",
+      "type": "CREDIT",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "513765",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "515636",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "515642",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "515643",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "515644",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "515646",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "515649",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "515650",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "515651",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "515652",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "516007",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "516008",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "516017",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "516021",
+      "type": "CREDIT",
+      "issuer": "TARGOBANK AG AND CO. KGAA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "517979",
+      "type": "CREDIT",
+      "issuer": "INTERNATIONAL CARD SERVICES BV",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "518582",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "518583",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "518777",
+      "type": "CREDIT",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "518783",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "519344",
+      "type": "CREDIT",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "519362",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHE KREDITBANK AKTIENGESELLSCHAFT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "519366",
+      "type": "CREDIT",
+      "issuer": "BANKVEREIN WERTHER AKTIENGESELLSCHAFT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "519375",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "519410",
+      "type": "CREDIT",
+      "issuer": "SANTANDER CONSUMER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "519738",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "519784",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "520301",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "520309",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "520344",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "520614",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SANTANDER CONSUMER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "520615",
+      "type": "CREDIT",
+      "issuer": "SANTANDER CONSUMER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "520623",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "520691",
+      "category": "STANDARD",
+      "issuer": "BAYERISCHE LANDESBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "520913",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "520937",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "VERBAND DER SPARDA BANKEN E.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "520941",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "520986",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "VERBAND DER SPARDA BANKEN E.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "521165",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "521317",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "521856",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "521860",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UBS DEUTSCHLAND AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "521944",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "522295",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "PAYLIFE BANK GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523200",
+      "type": "CREDIT",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523201",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523202",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523204",
+      "type": "CREDIT",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523205",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523206",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523207",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523208",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523209",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523210",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523211",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523212",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523213",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523214",
+      "type": "CREDIT",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523215",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523216",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523217",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523218",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523219",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523220",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523221",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523222",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523223",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523224",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523225",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523226",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523227",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523228",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523229",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523230",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523231",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523232",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523233",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523234",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523235",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523236",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SANTANDER CONSUMER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523237",
+      "type": "CREDIT",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523238",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523239",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523240",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523241",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523242",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523243",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523244",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523245",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523246",
+      "type": "CREDIT",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523247",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523248",
+      "type": "CREDIT",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523249",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523250",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523251",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523252",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523253",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523254",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523255",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523256",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523257",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523258",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523259",
+      "type": "CREDIT",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523260",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523261",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523262",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523263",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523264",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523265",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523266",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523267",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523268",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523269",
+      "type": "CREDIT",
+      "category": "PREPAID",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523270",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523271",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523273",
+      "type": "CREDIT",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523274",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523275",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523276",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523277",
+      "type": "CREDIT",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523278",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523279",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "VERBAND DER SPARDA BANKEN E.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523280",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523282",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523286",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523287",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523288",
+      "type": "CREDIT",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523290",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523291",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523292",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523293",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523294",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523295",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523296",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523297",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523298",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523299",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523400",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHE KREDITBANK AKTIENGESELLSCHAFT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523403",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523407",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523409",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523410",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523411",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523412",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523417",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523419",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523420",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523421",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523422",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523423",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523425",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523428",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523430",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523434",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523435",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523437",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523439",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523440",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523441",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523443",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523447",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523448",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523449",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523451",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523453",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523455",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523459",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523461",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523463",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523464",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523465",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523467",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523468",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523471",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523472",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523475",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523476",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523477",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523479",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523480",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523483",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523484",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523485",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523487",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523488",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523491",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523492",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523495",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523496",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523497",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523499",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE KREDITBANK AG (DKB), LUFTHANSA, MILES AND MORE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523500",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523503",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523504",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523506",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523507",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523508",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523511",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523512",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523513",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523516",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523518",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523519",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523520",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523522",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523524",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523528",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523529",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523531",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523532",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523534",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523535",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523536",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523538",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523539",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523540",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523541",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523542",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523544",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523545",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523547",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523548",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523549",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523551",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523552",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523553",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523556",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523557",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523561",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523562",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523567",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523568",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523569",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523571",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523572",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523578",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523579",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523581",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523582",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523583",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523584",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523585",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523586",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523587",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523588",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523589",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523590",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523591",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523592",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523593",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523594",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523595",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523596",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523597",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523598",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523599",
+      "category": "STANDARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "523932",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "524721",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "VERBAND DER SPARDA BANKEN E.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "524734",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UBS DEUTSCHLAND AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "524855",
+      "type": "CREDIT",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "524868",
+      "type": "CREDIT",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "524941",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "525611",
+      "type": "CHARGE CARD",
+      "issuer": "VERBAND DER SPARDA BANKEN E.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "525612",
+      "type": "CHARGE CARD",
+      "issuer": "VERBAND DER SPARDA BANKEN E.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "525613",
+      "type": "CHARGE CARD",
+      "issuer": "VERBAND DER SPARDA BANKEN E.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "525615",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "VERBAND DER SPARDA BANKEN E.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "525620",
+      "type": "CHARGE CARD",
+      "issuer": "VERBAND DER SPARDA BANKEN E.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "525624",
+      "type": "CHARGE CARD",
+      "issuer": "VERBAND DER SPARDA BANKEN E.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "525627",
+      "type": "CHARGE CARD",
+      "issuer": "VERBAND DER SPARDA BANKEN E.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "525646",
+      "type": "CHARGE CARD",
+      "issuer": "VERBAND DER SPARDA BANKEN E.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "525652",
+      "type": "CHARGE CARD",
+      "issuer": "VERBAND DER SPARDA BANKEN E.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "525653",
+      "type": "CHARGE CARD",
+      "issuer": "VERBAND DER SPARDA BANKEN E.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "525655",
+      "type": "CHARGE CARD",
+      "issuer": "VERBAND DER SPARDA BANKEN E.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "525660",
+      "type": "CHARGE CARD",
+      "issuer": "VERBAND DER SPARDA BANKEN E.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "525666",
+      "type": "CHARGE CARD",
+      "issuer": "VERBAND DER SPARDA BANKEN E.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "525673",
+      "type": "CHARGE CARD",
+      "issuer": "VERBAND DER SPARDA BANKEN E.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "525679",
+      "type": "CHARGE CARD",
+      "issuer": "VERBAND DER SPARDA BANKEN E.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "525682",
+      "type": "CHARGE CARD",
+      "issuer": "VERBAND DER SPARDA BANKEN E.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "525683",
+      "type": "CHARGE CARD",
+      "issuer": "VERBAND DER SPARDA BANKEN E.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "525687",
+      "type": "CHARGE CARD",
+      "issuer": "VERBAND DER SPARDA BANKEN E.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "525693",
+      "type": "CHARGE CARD",
+      "issuer": "VERBAND DER SPARDA BANKEN E.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "525698",
+      "type": "CHARGE CARD",
+      "issuer": "VERBAND DER SPARDA BANKEN E.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "525699",
+      "type": "CHARGE CARD",
+      "issuer": "VERBAND DER SPARDA BANKEN E.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "525734",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "525801",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "525849",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "526446",
+      "issuer": "ING BANK, N.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "526484",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "526837",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "526838",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "527427",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "527455",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "527456",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "527457",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "527459",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "527627",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "527630",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "528086",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "528159",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "528177",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "529162",
+      "type": "CREDIT",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "529439",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "529444",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "529445",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "529452",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "529568",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "529952",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "529953",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "529959",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "530100",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "530101",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "530102",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "530103",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "530104",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "530105",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "530106",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "530108",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "530109",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "530261",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "530485",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "530548",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "530588",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "530820",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "MOBILMAT ISTITUTO DI MONETA ELETTRONICA S.P.A.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "530821",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "PAYLIFE BANK GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "531000",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHE KREDITBANK AKTIENGESELLSCHAFT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "531001",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHE KREDITBANK AKTIENGESELLSCHAFT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "531002",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHE KREDITBANK AKTIENGESELLSCHAFT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "531003",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHE KREDITBANK AKTIENGESELLSCHAFT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "531148",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "531666",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "531730",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "LUFTHANSA AIRPLUS SERVICEKARTEN GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "531731",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "531734",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "LUFTHANSA AIRPLUS SERVICEKARTEN GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "531735",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "531935",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "531938",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "531939",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "532353",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "UNICREDIT BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "533180",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "533224",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "533426",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "533839",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "533843",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "PREPAID SERVICES CO., LTD.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "533873",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "COMMERZBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "533889",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "533936",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "VINCENTO PAYMENT SOLUTIONS, LTD.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "533938",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "533981",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "534212",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANKVEREIN WERTHER AKTIENGESELLSCHAFT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "534222",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "SIA TRANSACT PRO",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "534287",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "535935",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "535936",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "535937",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "535947",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "538458",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "538672",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "539097",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "539884",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "539886",
+      "type": "CREDIT",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "539887",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "540043",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "540095",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "540096",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "540187",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ADVANZIA BANK, S.A.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "540609",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "540850",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "540882",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "541028",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "541556",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "541576",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "542234",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "542307",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "542399",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "542429",
+      "type": "CREDIT",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "542431",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "542500",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "542503",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "542511",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "542512",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "542520",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "542524",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "542535",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "542549",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "542555",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "542565",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "542582",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "542588",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "542589",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "542590",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "542606",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "542707",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "542743",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "542799",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "SIA TRANSACT PRO",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "543002",
+      "type": "CREDIT",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "543016",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "543165",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "544054",
+      "type": "CREDIT",
+      "issuer": "IKANO BANK GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "544192",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "544406",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "544440",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "544801",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "544888",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "544967",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "545021",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "545105",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "545106",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "545125",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "545126",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "545127",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "545128",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "545129",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "545131",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "545132",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "545133",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "545169",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "UBS DEUTSCHLAND AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "545184",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "545197",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "545274",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SANTANDER CONSUMER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "545684",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "545990",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "545991",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "546057",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "546058",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "546313",
+      "type": "CREDIT",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "546314",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "546770",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "546812",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SANTANDER CONSUMER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "546813",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SANTANDER CONSUMER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "547268",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "547341",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "547623",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "547629",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "547690",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "547822",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "547867",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANKVEREIN WERTHER AKTIENGESELLSCHAFT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548065",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548081",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548165",
+      "type": "CREDIT",
+      "issuer": "ING-DIBA AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548302",
+      "issuer": "HYPOVEREINSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548324",
+      "issuer": "HYPOVEREINSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548327",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548339",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548346",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548347",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548348",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548354",
+      "issuer": "HYPOVEREINSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548363",
+      "issuer": "HYPOVEREINSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548365",
+      "issuer": "HYPOVEREINSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548367",
+      "issuer": "HYPOVEREINSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548373",
+      "issuer": "HYPOVEREINSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548377",
+      "issuer": "HYPOVEREINSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548378",
+      "issuer": "HYPOVEREINSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548380",
+      "issuer": "HYPOVEREINSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548385",
+      "issuer": "HYPOVEREINSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548389",
+      "issuer": "HYPOVEREINSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548394",
+      "issuer": "HYPOVEREINSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548602",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548607",
+      "type": "CREDIT",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548608",
+      "type": "CREDIT",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548611",
+      "type": "CREDIT",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548612",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548616",
+      "type": "CREDIT",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548617",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548620",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548622",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548623",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548624",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548629",
+      "type": "CREDIT",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548690",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548692",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548694",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548695",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548696",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548697",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548698",
+      "type": "CREDIT",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548699",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "548756",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "549001",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "549002",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "549003",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "549004",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "549005",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "549006",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "549007",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "549008",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "549009",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "549013",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "549410",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "549701",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "549702",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "549703",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "549704",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "549705",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "549706",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "549707",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "549708",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "549709",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "549713",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "549957",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "549958",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "550011",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TARGOBANK AG AND CO. KGAA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "550012",
+      "category": "STANDARD",
+      "issuer": "CITIBANK PRIVATKUNDEN AG AND CO KGAA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "550477",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "550487",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "550493",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "551644",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "552237",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "552502",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "552503",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "552504",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "552507",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "552508",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "552552",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "552554",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "552674",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "552751",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "552756",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "552757",
+      "category": "STANDARD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "552761",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "552762",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "552962",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "553133",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "LUFTHANSA AIRPLUS SERVICEKARTEN GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "553390",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "LUFTHANSA AIRPLUS SERVICEKARTEN GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "553440",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "553442",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "553451",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "553530",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "553949",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "554148",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "554255",
+      "type": "CREDIT",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "554256",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "554257",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "554258",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "554267",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "554268",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "554481",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "554482",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "554502",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "554503",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "554504",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "554641",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "554694",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "554698",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "554699",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "554714",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "554715",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "554738",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "554838",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "PAYLIFE BANK GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "556603",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "556643",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "SANTANDER CONSUMER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "557011",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "557015",
+      "type": "CREDIT",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "557016",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "557046",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "557801",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "557886",
+      "type": "CREDIT",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "558336",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DZ BANK AG DEUTSCHE ZENTRAL- GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "558401",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "558402",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "558403",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "558404",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "558405",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "558406",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "558407",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "558408",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "558409",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "558413",
+      "issuer": "EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "558489",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "558519",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "558530",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "558679",
+      "category": "BUSINESS",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "558681",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "558759",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "558775",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "558787",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "EURO KARTENSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "558788",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "559047",
+      "category": "STANDARD",
+      "issuer": "SEB AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "559707",
+      "issuer": "EURO KARTENSYSTEM EUROCARD UND EUROCHEQUE GMBH",
+      "countries": [
+        "DE"
+      ]
+    }
+  ]
+}

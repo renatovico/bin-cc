@@ -1,0 +1,1344 @@
+{
+  "bins": [
+    {
+      "bin": "404152",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VIETNAM EXPORT IMPORT COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "404169",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ASIA COMMERCIAL BANK",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "404184",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VIETNAM BANK FOR INDUSTRY AND TRADE",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "404185",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VIETNAM BANK FOR INDUSTRY AND TRADE",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "405514",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "405573",
+      "issuer": "SAIGON BANK FOR INDUSTRY AND TRADE",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "406242",
+      "issuer": "CITIBANK",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "406771",
+      "issuer": "BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "411153",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "412975",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JSCB FOR FOREIGN TRADE OF VIETNAM",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "412976",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JSCB FOR FOREIGN TRADE OF VIETNAM",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "412977",
+      "issuer": "BANK FOR FOREIGN TRADE OF VIETNAM",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "414143",
+      "issuer": "BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "414152",
+      "issuer": "EASTERN ASIA COMMERCIAL BANK",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "415815",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "418159",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "VIETNAM EXPORT IMPORT COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "419661",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DONGA COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "419662",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DONGA COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "421494",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ASIA COMMERCIAL BANK",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "421595",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "422075",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VIETNAM TECHNOLOGICAL AND COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "422076",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VIETNAM TECHNOLOGICAL AND COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "422094",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VIETNAM EXPORT IMPORT COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "422109",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ASIA COMMERCIAL BANK",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "422149",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VIETNAM TECHNOLOGICAL AND COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "422150",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "VIETNAM TECHNOLOGICAL AND COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "422151",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SAIGON THUONG TIN COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "423960",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VIETNAM EXPORT IMPORT COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "426088",
+      "issuer": "SAIGON THUONG TIN COMMERCIAL JOINT STOCKBANK",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "426671",
+      "issuer": "SAIGON BANK FOR INDUSTRY AND TRADE",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "426926",
+      "issuer": "ASIA COMMERCIAL BANK",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "428310",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSCB FOR FOREIGN TRADE OF VIETNAM",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "428477",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "428478",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "428695",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "429389",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "429418",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "SAIGON THUONG TIN COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "429683",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VIETNAM TECHNOLOGICAL AND COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "431742",
+      "issuer": "EASTERN ASIA COMMERCIAL BANK",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "433286",
+      "issuer": "INDUSTRIAL AND COMMERCIAL BANK OF VIETNAM",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "435243",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SAIGON THUONG TIN COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "435244",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "SAIGON THUONG TIN COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "436308",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VIETNAM EXPORT IMPORT COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "436309",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VIETNAM EXPORT IMPORT COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "436361",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SAIGON THUONG TIN COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "436438",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SAIGON THUONG TIN COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "436445",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SAIGON THUONG TIN COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "436467",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "436468",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "436469",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VIETNAM TECHNOLOGICAL AND COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "436470",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "VIETNAM TECHNOLOGICAL AND COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "436545",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SOUTHEAST ASIA COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "436546",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SOUTHEAST ASIA COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "436579",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "436599",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ASIA COMMERCIAL BANK",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "436762",
+      "issuer": "BANK FOR FOREIGN TRADE OF VIETNAM",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "437373",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "437374",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "437420",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SOUTHEAST ASIA COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "437421",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "SOUTHEAST ASIA COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "437422",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VIETNAM EXPORT IMPORT COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "437423",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VIETNAM EXPORT IMPORT COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "437424",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VIETNAM EXPORT IMPORT COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "437841",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "437893",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "437894",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "437895",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "439198",
+      "issuer": "INDUSTRIAL AND COMMERCIAL BANK OF",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "442415",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "442416",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "445093",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "445094",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "450180",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "450181",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "450482",
+      "type": "CREDIT",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "450798",
+      "issuer": "VIETNAM TECHNOLOGICAL AND COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "452999",
+      "issuer": "VIETNAM EXPORT IMPORT COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "455372",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "455453",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VIETNAM TECHNOLOGICAL AND COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "457271",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "VIETNAM BANK FOR INDUSTRY AND TRADE",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "457319",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VIETNAM-ASIA COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "457327",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "457328",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK (VIETNAM), LTD.",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "457353",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "457485",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VIETNAM EXPORT IMPORT COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "457560",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "457561",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "457575",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SAIGON THUONG TIN COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "457600",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "458440",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "458486",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSCB FOR FOREIGN TRADE OF VIETNAM",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "458584",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK (VIETNAM), LTD.",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "458761",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "458768",
+      "type": "DEBIT",
+      "category": "GIFT",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "458775",
+      "type": "DEBIT",
+      "category": "GIFT",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "459804",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "459805",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "459817",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "459818",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "461136",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSCB FOR FOREIGN TRADE OF VIETNAM",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "461137",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SAIGON THUONG TIN COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "461138",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "SAIGON THUONG TIN COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "461139",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "SAIGON THUONG TIN COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "461140",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "461930",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "462478",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "462479",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "462842",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "462843",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "462844",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "462881",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SAIGON THUONG TIN COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "463720",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "464932",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SAIGON THUONG TIN COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "464984",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VIETNAM TECHNOLOGICAL AND COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "464985",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "VIETNAM TECHNOLOGICAL AND COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "466236",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "466237",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "466238",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "466243",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "SAIGON THUONG TIN COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "466582",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "466583",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "466584",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "466585",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "467964",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SAIGON THUONG TIN COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "468789",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "469374",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "VIETNAM BANK FOR INDUSTRY AND TRADE",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "469654",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "SAIGON THUONG TIN COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "469655",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "VIETNAM EXPORT IMPORT COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "469671",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "469672",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "469673",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "469674",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "469675",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "469676",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "469677",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "469678",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "469682",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AN BINH COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "469683",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AN BINH COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "469684",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AN BINH COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "469685",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "AN BINH COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "470451",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "470460",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "470548",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "470549",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "470570",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "471249",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "472074",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SAIGON THUONG TIN COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "472075",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SAIGON THUONG TIN COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "472615",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "472616",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "472674",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "476632",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JOINT STOCK COMMERCIAL BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "476636",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SOUTHEAST ASIA COMMERCIAL JOINT STOCK BANK",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "479138",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ASIA COMMERCIAL BANK",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "479139",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ASIA COMMERCIAL BANK",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "479140",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ASIA COMMERCIAL BANK",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "483542",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK (VIETNAM), LTD.",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "484803",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MILITARY COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "484804",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "MILITARY COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "486265",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SAIGON THUONG TIN COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "486279",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VIETNAM BANK FOR AGRICULTURAL AND RURAL DEVELOPMENT",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "486280",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VIETNAM BANK FOR AGRICULTURAL AND RURAL DEVELOPMENT",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "486281",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "486282",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VIETNAM BANK FOR AGRICULTURAL AND RURAL DEVELOPMENT",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "486283",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "VIETNAM BANK FOR AGRICULTURAL AND RURAL DEVELOPMENT",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "486373",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "488971",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "VIETNAM TECHNOLOGICAL AND COMMERCIAL JSB",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "490114",
+      "issuer": "NATEXIS BANQUES POPULAIRES",
+      "countries": [
+        "VN"
+      ]
+    },
+    {
+      "bin": "493434",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "VN"
+      ]
+    }
+  ]
+}

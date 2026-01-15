@@ -1,0 +1,1097 @@
+{
+  "bins": [
+    {
+      "bin": "400524",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "402370",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CITIBANK, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "403365",
+      "issuer": "GE CAPITAL BANK, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "406457",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CESKA SPORITELNA, A.S (CZECH SAVINGS BANK)",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "408359",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISENBANK, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "408360",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "RAIFFEISENBANK, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "408361",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISENBANK, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "408362",
+      "type": "DEBIT",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "408363",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISENBANK, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "408364",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "RAIFFEISENBANK, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "410733",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CITIBANK, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "410764",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VOLKSBANK CZ, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "410765",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "VOLKSBANK CZ, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "410766",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VOLKSBANK CZ, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "410767",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "VOLKSBANK CZ, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "412500",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KOMERCNI BANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "412501",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "KOMERCNI BANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "412750",
+      "issuer": "HVB BANK CZECH REPUBLIC, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "413015",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "KOMERCNI BANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "413093",
+      "issuer": "RAIFFEISENBANK, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "414084",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CESKA SPORITELNA, A.S (CZECH SAVINGS BANK)",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "414092",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CESKA SPORITELNA, A.S (CZECH SAVINGS BANK)",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "414667",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "RAIFFEISENBANK, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "415012",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT BANK CZECH REPUBLIC, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "415461",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISENBANK, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "417658",
+      "issuer": "ZIVNOSTENSKA BANKA",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "418609",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "RAIFFEISENBANK, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "418803",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KOMERCNI BANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "418808",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISENBANK, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "418809",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "RAIFFEISENBANK, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "418842",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ING BANK, N.V.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "418843",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ING BANK, N.V.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "418845",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ING BANK, N.V.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "418865",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISENBANK, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "418883",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ING BANK, N.V.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "418884",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ING BANK, N.V.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "420964",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "KOMERCNI BANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "421577",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CESKA SPORITELNA, A.S (CZECH SAVINGS BANK)",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "424336",
+      "type": "CREDIT",
+      "category": "ELECTRON",
+      "issuer": "GE MONEY BANK, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "427731",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "427732",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "427848",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "KOMERCNI BANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "427881",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISENBANK, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "427882",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "EBANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "428990",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ZIVNOSTENSKA BANKA",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "429041",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNICREDIT BANK CZECH REPUBLIC, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "429932",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "430119",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CESKA SPORITELNA, A.S (CZECH SAVINGS BANK)",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "433153",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ZIVNOSTENSKA BANKA",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "433360",
+      "issuer": "UNION BANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "433361",
+      "issuer": "UNION BANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "433738",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNICREDIT BANK CZECH REPUBLIC, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "434359",
+      "issuer": "CESKA SPORITELNA, A.S (CZECH SAVINGS BANK)",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "438155",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HVB BANK CZECH REPUBLIC, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "438156",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HVB BANK CZECH REPUBLIC, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "440507",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "CESKA SPORITELNA, A.S (CZECH SAVINGS BANK)",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "440508",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CESKA SPORITELNA, A.S (CZECH SAVINGS BANK)",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "440558",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CESKA SPORITELNA, A.S (CZECH SAVINGS BANK)",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "440579",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "440616",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CESKA SPORITELNA, A.S (CZECH SAVINGS BANK)",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "440678",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CESKA SPORITELNA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "440752",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "440753",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "440754",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "issuer": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "445965",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KOMERCNI BANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "445966",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "KOMERCNI BANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "446151",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "446153",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "446155",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "446157",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "446514",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "KOMERCNI BANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "446515",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KOMERCNI BANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "448337",
+      "issuer": "ZIVNOSTENSKA BANKA",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "449319",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KOMERCNI BANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "449320",
+      "issuer": "KOMERCNI BANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "450083",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "451158",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CESKA SPORITELNA, A.S (CZECH SAVINGS BANK)",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "451159",
+      "issuer": "CZECH SAVINGS BANK,CO",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "451160",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CESKA SPORITELNA, A.S (CZECH SAVINGS BANK)",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "451161",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CESKA SPORITELNA, A.S (CZECH SAVINGS BANK)",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "455712",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ZIVNOSTENSKA BANKA",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "455734",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT BANK CZECH REPUBLIC, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "456803",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT BANK CZECH REPUBLIC, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "456817",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNICREDIT BANK CZECH REPUBLIC, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "456820",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "UNICREDIT BANK CZECH REPUBLIC, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "457049",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT BANK CZECH REPUBLIC, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "459017",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNICREDIT BANK CZECH REPUBLIC, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "459876",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "460083",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AXA BANK EUROPE, S.A.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "460317",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "UNICREDIT BANK CZECH REPUBLIC, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "464461",
+      "issuer": "GE MONEY BANK, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "465220",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "465221",
+      "issuer": "CITIBANK, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "469799",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "469800",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "469801",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "469802",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "469803",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "470602",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "472941",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "RAIFFEISENBANK, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "472942",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISENBANK, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "472943",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISENBANK, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "472944",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "RAIFFEISENBANK, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "474138",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "RAIFFEISENBANK, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "474578",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "474579",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "477975",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "KOMERCNI BANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "477996",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "UNICREDIT BANK CZECH REPUBLIC, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "477997",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT BANK CZECH REPUBLIC, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "479073",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT BANK CZECH REPUBLIC, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "480234",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISENBANK, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "480257",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "483053",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "483099",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITIBANK EUROPE PLC",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "483737",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "KOMERCNI BANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "485725",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "SOCIETE GENERALE",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "487494",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "490169",
+      "issuer": "ZIVNOSTENSKA BANKA",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "490729",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CESKA SPORITELNA, A.S (CZECH SAVINGS BANK)",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "491011",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "491080",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "491701",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "KOMERCNI BANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "491779",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "KOMERCNI BANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "491825",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "494068",
+      "issuer": "CESKA SPORITELNA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "494359",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "494360",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "498542",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ZUNO BANK AG",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "498568",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT BANK CZECH REPUBLIC, A.S.",
+      "countries": [
+        "CZ"
+      ]
+    }
+  ]
+}

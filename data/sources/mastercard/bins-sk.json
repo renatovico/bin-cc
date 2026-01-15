@@ -1,0 +1,682 @@
+{
+  "bins": [
+    {
+      "bin": "510084",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TATRA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "513437",
+      "issuer": "CITIBANK (SLOVAKIA), A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "515873",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "VOLKSBANK SLOVENSKO, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "518526",
+      "type": "CREDIT",
+      "issuer": "VOLKSBANK SLOVENSKO, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "518806",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CESKOSLOVENSKA OBCHODNA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "518965",
+      "issuer": "TATRA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "520651",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CESKOSLOVENSKA OBCHODNA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "520924",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "521164",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "SLOVENSKA SPORITELNA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "521168",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CESKOSLOVENSKA OBCHODNA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "522464",
+      "type": "CREDIT",
+      "issuer": "CESKOSLOVENSKA OBCHODNA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "525405",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "VSEOBECNA UVEROVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "526765",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CETELEM SLOVENSKO, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "526781",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "VSEOBECNA UVEROVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "526782",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "OTP BANKA SLOVENSKO, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "527420",
+      "issuer": "TATRA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "527449",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TATRA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "527683",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "528044",
+      "type": "CREDIT",
+      "issuer": "VOLKSBANK SLOVENSKO, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "528051",
+      "type": "CREDIT",
+      "issuer": "CESKOSLOVENSKA OBCHODNA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "529040",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "530268",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TATRA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "530652",
+      "issuer": "HVB BANK SLOVAKIA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "530653",
+      "issuer": "HVB BANK SLOVAKIA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "532182",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PPF BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "532183",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "532758",
+      "type": "CREDIT",
+      "issuer": "DEXIA BANKA SLOVENSKO, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "533404",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PPF BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "533406",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PPF BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "533597",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "VSEOBECNA UVEROVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "536446",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "VOLKSBANK SLOVENSKO, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "540094",
+      "type": "CREDIT",
+      "issuer": "UNICREDIT BANK SLOVAKIA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "540296",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "VSEOBECNA UVEROVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "540741",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "VSEOBECNA UVEROVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "541050",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "VOLKSBANK SLOVENSKO, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "541266",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UNICREDIT BANK SLOVAKIA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "541352",
+      "issuer": "TATRA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "541597",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SLOVENSKA SPORITELNA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "541604",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SLOVENSKA SPORITELNA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "542087",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "VOLKSBANK SLOVENSKO, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "542777",
+      "issuer": "LUDOVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "542778",
+      "type": "CREDIT",
+      "issuer": "TATRA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "542781",
+      "type": "CREDIT",
+      "issuer": "CESKOSLOVENSKA OBCHODNA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "543401",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "VSEOBECNA UVEROVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "543970",
+      "issuer": "SLOVENSKA SPORITELNA, A.S. (SLOVAK STATE SAVINGS BANK) <<<",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "543971",
+      "issuer": "PRIEMYSELNA BANKA, A.S. KOSICE",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "544134",
+      "type": "CREDIT",
+      "issuer": "VOLKSBANK SLOVENSKO, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "544397",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CESKOSLOVENSKA OBCHODNA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "544605",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CESKOSLOVENSKA OBCHODNA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "544795",
+      "issuer": "INVESTICNA A ROZVOJOVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "544797",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "OTP BANKA SLOVENSKO, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "545041",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "OTP BANKA SLOVENSKO, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "545547",
+      "category": "GOLD",
+      "issuer": "VSEOBECNA UVEROVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "545790",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEXIA BANKA SLOVENSKO, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "546286",
+      "type": "CREDIT",
+      "issuer": "DEXIA BANKA SLOVENSKO, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "546331",
+      "type": "CREDIT",
+      "issuer": "POSTOVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "547144",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CESKOSLOVENSKA OBCHODNA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "547145",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CESKOSLOVENSKA OBCHODNA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "547376",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "POSTOVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "547515",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CESKOSLOVENSKA OBCHODNA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "547525",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "VSEOBECNA UVEROVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "547737",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CESKOSLOVENSKA OBCHODNA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "547763",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "OTP BANKA SLOVENSKO, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "547815",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT BANK SLOVAKIA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "548069",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "POSTOVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "548392",
+      "type": "CREDIT",
+      "issuer": "VOLKSBANK SLOVENSKO, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "550155",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "552605",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT BANK SLOVAKIA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "552626",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TATRA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "552642",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "VOLKSBANK SLOVENSKO, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "552760",
+      "issuer": "VSEOBECNA UVEROVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "554259",
+      "issuer": "DEVIN BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "557049",
+      "issuer": "TATRA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "557050",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "557051",
+      "issuer": "TATRA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "557092",
+      "issuer": "ING BANK N.V. BRATISLAVA BRANCH",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "557093",
+      "issuer": "ING BANK N.V. BRATISLAVA BRANCH",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "557720",
+      "type": "CREDIT",
+      "issuer": "VSEOBECNA UVEROVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "557736",
+      "type": "CREDIT",
+      "issuer": "VSEOBECNA UVEROVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "557747",
+      "type": "CREDIT",
+      "issuer": "VSEOBECNA UVEROVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "557774",
+      "issuer": "VSEOBECNA UVEROVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "557775",
+      "type": "CREDIT",
+      "issuer": "CESKOSLOVENSKA OBCHODNA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "558445",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SLOVENSKA SPORITELNA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    }
+  ]
+}

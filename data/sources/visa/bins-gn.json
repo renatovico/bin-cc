@@ -1,0 +1,102 @@
+{
+  "bins": [
+    {
+      "bin": "412719",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "STOPANSKA BANKA A.D. SKOPJE",
+      "countries": [
+        "GN"
+      ]
+    },
+    {
+      "bin": "412989",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "GN"
+      ]
+    },
+    {
+      "bin": "417365",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET LINDUSTRIE",
+      "countries": [
+        "GN"
+      ]
+    },
+    {
+      "bin": "424363",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA",
+      "countries": [
+        "GN"
+      ]
+    },
+    {
+      "bin": "442434",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "GN"
+      ]
+    },
+    {
+      "bin": "457278",
+      "countries": [
+        "GN"
+      ]
+    },
+    {
+      "bin": "458850",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GN"
+      ]
+    },
+    {
+      "bin": "470644",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "GN"
+      ]
+    },
+    {
+      "bin": "470645",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "GN"
+      ]
+    },
+    {
+      "bin": "477501",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA",
+      "countries": [
+        "GN"
+      ]
+    },
+    {
+      "bin": "489071",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SKYE BANK GUINEA, S.A.",
+      "countries": [
+        "GN"
+      ]
+    },
+    {
+      "bin": "489072",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "SKYE BANK GUINEA, S.A.",
+      "countries": [
+        "GN"
+      ]
+    }
+  ]
+}

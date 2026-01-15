@@ -1,0 +1,1647 @@
+{
+  "bins": [
+    {
+      "bin": "400064",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TECHNIKABANK OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "400112",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "400260",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "ZAMINBANK OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "400624",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AZERBAIJAN INDUSTRY BANK OSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "402116",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "JUGOBANKA A.D. BEOGRAD",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "402118",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AZERBAIJAN INDUSTRY BANK OSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "402122",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "KREDOBANK OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "402440",
+      "issuer": "ZAMINBANK OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "402865",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNIBANK COMMERCIAL BANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "405623",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK RESPUBLIKA OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "406984",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "407142",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "COMMERCIAL BANK MUGAN",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "408163",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "408346",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "408347",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "408348",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "408349",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "408350",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "409809",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "409858",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNIBANK COMMERCIAL BANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "409859",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "UNIBANK COMMERCIAL BANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "409860",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "UNIBANK COMMERCIAL BANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "409861",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNIBANK COMMERCIAL BANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "409862",
+      "issuer": "UNIBANK COMMERCIAL BANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "410511",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "INTERNATIONAL BANK OF AZERBAIJAN",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "410660",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "OJSC DEMIRBANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "410661",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC DEMIRBANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "410662",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OJSC DEMIRBANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "410694",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "411783",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TECHNIKABANK OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "411784",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TECHNIKABANK OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "411785",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TECHNIKABANK OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "411976",
+      "issuer": "JSB AZERDEMIRYOLBANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "412720",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INTERNATIONAL BANK OF AZERBAIJAN",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "412721",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "INTERNATIONAL BANK OF AZERBAIJAN",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "412722",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTERNATIONAL BANK OF AZERBAIJAN",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "413436",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AZERBAIJAN INDUSTRY BANK OSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "413858",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ATABANK COMMERCIAL BANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "413859",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ATABANK COMMERCIAL BANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "413860",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ATABANK COMMERCIAL BANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "415402",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "415460",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC DEMIRBANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "416973",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "KAPITAL BANK JSB",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "416974",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KAPITAL BANK JSB",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "416975",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "KAPITAL BANK JSB",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "417061",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "AZERBAIJAN INDUSTRY BANK OSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "417211",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "KAPITAL BANK JSB",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "417212",
+      "issuer": "KAPITAL BANK JSB",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "417218",
+      "issuer": "TECHNIKABANK OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "417228",
+      "issuer": "ATABANK COMMERCIAL BANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "417358",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "KAPITAL BANK JSB",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "417385",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "INVESTMENT COMMERCIAL BANK NIKOIL",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "417386",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INVESTMENT COMMERCIAL BANK NIKOIL",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "417387",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INVESTMENT COMMERCIAL BANK NIKOIL",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "417388",
+      "issuer": "INVESTMENT COMMERCIAL BANK NIKOIL",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "417424",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "COMMERCIAL BANK MUGAN",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "417425",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "COMMERCIAL BANK MUGAN",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "417426",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "COMMERCIAL BANK MUGAN",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "417427",
+      "issuer": "COMMERCIAL BANK MUGAN",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "417443",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AMRAHBANK JSB",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "417444",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "AMRAHBANK JSB",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "417445",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AMRAHBANK JSB",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "417446",
+      "issuer": "AMRAHBANK JSB",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "417459",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AZERIGAZBANK OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "418980",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RABITABANK OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "418981",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "418982",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "419255",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK SILK WAY OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "419256",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK SILK WAY OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "419257",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "419277",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "KREDOBANK OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "419278",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "KREDOBANK OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "419279",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KREDOBANK OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "419281",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "419282",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "419283",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "419841",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC XALQ BANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "419842",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "OJSC XALQ BANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "419843",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "OJSC XALQ BANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "419844",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "OJSC XALQ BANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "419845",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OJSC XALQ BANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "420006",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "420370",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "420371",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "420382",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF BAKU OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "420383",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF BAKU OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "420384",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF BAKU OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "420553",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF AZERBAIJAN OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "422643",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "424448",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK RESPUBLIKA OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "424449",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK RESPUBLIKA OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "424450",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK RESPUBLIKA OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "424451",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK RESPUBLIKA OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "426087",
+      "issuer": "KAPITAL BANK JSB",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "426859",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC UNITED CREDIT BANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "426860",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "OJSC UNITED CREDIT BANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "426861",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "426863",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ACCESSBANK CJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "426864",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ACCESSBANK CJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "426865",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "427276",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "KAPITAL BANK JSB",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "427317",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "J.S.C.B. BANK STANDARD",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "427745",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "INTERNATIONAL BANK OF AZERBAIJAN",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "427746",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "INTERNATIONAL BANK OF AZERBAIJAN",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "427857",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF AZERBAIJAN OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "427858",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF AZERBAIJAN OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "427859",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF AZERBAIJAN OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "427860",
+      "issuer": "BANK OF AZERBAIJAN OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "428613",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "428652",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "428653",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "429744",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSCB ATRA BANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "429745",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSCB ATRA BANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "429746",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSCB ATRA BANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "429747",
+      "issuer": "JSCB ATRA BANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "429789",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSCB ATRA BANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "429960",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "429961",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "429962",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "430276",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "430296",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "431256",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ROYAL BANK OF BAKU JCB",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "432089",
+      "issuer": "ROYAL BANK OF BAKU JCB",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "432487",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ZAMINBANK OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "432488",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "ZAMINBANK OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "432489",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ZAMINBANK OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "433324",
+      "issuer": "INTERNATIONAL BANK OF AZERBAIJAN",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "435160",
+      "issuer": "J.S.C.B. BANK STANDARD",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "437486",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "440553",
+      "issuer": "INTERNATIONAL BANK OF AZERBAIJAN",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "444053",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "444682",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "444683",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "444684",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "444807",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "AZERIGAZBANK OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "445126",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "445127",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "446512",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK RESPUBLIKA OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "446513",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK RESPUBLIKA OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "446677",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "447852",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ROYAL BANK OF BAKU JCB",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "447853",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ROYAL BANK OF BAKU JCB",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "447854",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ROYAL BANK OF BAKU JCB",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "447855",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AZERBAIJAN INDUSTRY BANK OSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "447856",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AZERBAIJAN INDUSTRY BANK OSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "447857",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AZERBAIJAN INDUSTRY BANK OSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "450036",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "450038",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "450564",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "457838",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "458586",
+      "issuer": "TECHNIKABANK OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "458772",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "465491",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "465492",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "465493",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "468539",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "470448",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "471321",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "OJSC PASHA BANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "472492",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EXPRESSBANK OSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "472493",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "EXPRESSBANK OSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "472494",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EXPRESSBANK OSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "472495",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EXPRESSBANK OSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "472499",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "472587",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "472588",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "472589",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "476019",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INTERNATIONAL BANK OF AZERBAIJAN",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "476845",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "476846",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "476847",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "476848",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "476872",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "477914",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "478701",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "478702",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "478796",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "484705",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AZERIGAZBANK OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "484706",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "AZERIGAZBANK OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "484707",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AZERIGAZBANK OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "484708",
+      "issuer": "AZERIGAZBANK OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "484867",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEKA BANK CB OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "484868",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DEKA BANK CB OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "484870",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEKA BANK CB OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "484875",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "ZAMINBANK OJSC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "486020",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC PASHA BANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "486021",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "OJSC PASHA BANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "486022",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "OJSC PASHA BANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "486023",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OJSC PASHA BANK",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "486032",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "486082",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "486083",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "486089",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "486350",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "488940",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "488941",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "488942",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "488943",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "488944",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "488945",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "AZ"
+      ]
+    },
+    {
+      "bin": "494155",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "AZ"
+      ]
+    }
+  ]
+}

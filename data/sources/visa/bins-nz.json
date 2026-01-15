@@ -1,0 +1,658 @@
+{
+  "bins": [
+    {
+      "bin": "405547",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "413446",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "418224",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NEW ZEALAND POST",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "420549",
+      "issuer": "BANK OF NEW ZEALAND",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "423914",
+      "type": "DEBIT",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "428333",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CARDS NZ, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "428418",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ASB BANK",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "428429",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "428454",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "KIWIBANK",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "428455",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF NEW ZEALAND",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "433243",
+      "issuer": "CARDS NZ, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "436404",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "436479",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "436527",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "436773",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ANZ NATIONAL BANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "436774",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ANZ NATIONAL BANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "437523",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "440488",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ASB BANK",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "445047",
+      "type": "DEBIT",
+      "category": "TRAVEL MONEY",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "445048",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "445049",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "445050",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "450513",
+      "type": "CREDIT",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "450612",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "NATIONAL BANK OF NEW ZEALAND, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "451836",
+      "issuer": "ASB BANK",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "451856",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "454668",
+      "issuer": "ANZ BANKING GROUP (NEW ZEALAND), LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "454860",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ASB BANK",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "454861",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "454862",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "454863",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "454864",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "454865",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "454866",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "454867",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TSB BANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "454868",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "454869",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "454870",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "454871",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ASB BANK",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "454876",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "455046",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "WESTPAC NEW ZEALAND, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "455047",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "WESTPAC NEW ZEALAND, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "455590",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "455591",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "456041",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK OF NEW ZEALAND, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "456042",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "NATIONAL BANK OF NEW ZEALAND, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "456491",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ASB BANK",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "456492",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ASB BANK",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "461658",
+      "issuer": "ANZ NATIONAL BANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "461755",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ASB BANK",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "462265",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF NEW ZEALAND",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "467883",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIRST USA BANK",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "467884",
+      "type": "DEBIT",
+      "issuer": "FIRST USA BANK",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "469396",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NEW ZEALAND POST",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "469397",
+      "type": "DEBIT",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "471540",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "ANZ NATIONAL BANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "472325",
+      "type": "DEBIT",
+      "category": "TRAVEL MONEY",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "476120",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "476121",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "477549",
+      "issuer": "NATIONAL BANK OF NEW ZEALAND, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "478689",
+      "type": "DEBIT",
+      "category": "PROPRIETARY",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "483561",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ANZ NATIONAL BANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "483741",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "KIWIBANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "485940",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "490837",
+      "issuer": "ANZ BANKING GROUP",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "490838",
+      "issuer": "ANZ BANKING GROUP",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "492102",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "ANZ NATIONAL BANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "494104",
+      "issuer": "NATIONAL BANK OF NEW ZEALAND, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "494310",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "WESTPAC NEW ZEALAND, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "498872",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ANZ NATIONAL BANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "498873",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ANZ NATIONAL BANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "499900",
+      "issuer": "VISA NEW ZEALAND",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "499913",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF NEW ZEALAND",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "499914",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK OF NEW ZEALAND",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "499915",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF NEW ZEALAND",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "499916",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF NEW ZEALAND",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "499974",
+      "issuer": "VISA NEW ZEALAND",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "499977",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF NEW ZEALAND",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "499987",
+      "issuer": "VISA NEW ZEALAND",
+      "countries": [
+        "NZ"
+      ]
+    }
+  ]
+}

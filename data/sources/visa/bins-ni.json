@@ -1,0 +1,963 @@
+{
+  "bins": [
+    {
+      "bin": "400497",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "402680",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE FINANZAS, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "402681",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE FINANZAS, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "402682",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE FINANZAS, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "402683",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE FINANZAS, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "402684",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE FINANZAS, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "403132",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO DE LA PRODUCCION, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "403883",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AVAL CARD, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "404145",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO LAFISE BANCENTRO, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "404146",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO LAFISE BANCENTRO, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "404284",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CREDITO CENTROAMERICANO S.A. (BANCENTRO)",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "404670",
+      "issuer": "C.P.R. BILLETS, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "406112",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA PRODUCCION, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "406113",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE LA PRODUCCION, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "406114",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE LA PRODUCCION, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "407393",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "407862",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "408437",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "408438",
+      "type": "DEBIT",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "408439",
+      "type": "DEBIT",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "409305",
+      "issuer": "BANCO DE FINANZAS, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "409846",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO LAFISE BANCENTRO, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "409847",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO LAFISE BANCENTRO, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "409848",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO LAFISE BANCENTRO, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "409849",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO LAFISE BANCENTRO, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "410831",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK DE NICARAGUA, S.A",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "410832",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CITIBANK DE NICARAGUA, S.A",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "411805",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITIBANK DE NICARAGUA, S.A",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "411826",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK DE NICARAGUA, S.A",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "411827",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CITIBANK DE NICARAGUA, S.A",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "412608",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA PRODUCCION, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "415218",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE FINANZAS, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "415219",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO DE FINANZAS, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "415304",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE LA PRODUCCION, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "420386",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "420387",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "420388",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "421455",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA PRODUCCION, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "421671",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "421672",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "421673",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "422251",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROCREDIT, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "422540",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA PRODUCCION, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "422659",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "423696",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AVAL CARD, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "424955",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE LA PRODUCCION, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "425667",
+      "type": "DEBIT",
+      "category": "CHECK CARD",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "425904",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "425905",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE LA EXPORTACION, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "428149",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "428150",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "428351",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "428352",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA PRODUCCION, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "428361",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "428362",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "428363",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "428364",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "429459",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "431073",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA PRODUCCION, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "431074",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE LA PRODUCCION, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "431075",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE LA PRODUCCION, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "431916",
+      "issuer": "BANCO PROCREDIT, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "432083",
+      "issuer": "BANCO PROCREDIT, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "432447",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "432950",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITIBANK DE NICARAGUA, S.A",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "435162",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE LA PRODUCCION, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "436692",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITIBANK DE NICARAGUA, S.A",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "438057",
+      "issuer": "BANCO DE CREDITO CENTROAMERICANO S.A. (BANCENTRO)",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "439175",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "439176",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "440824",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "441548",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE FINANZAS, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "445020",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA PRODUCCION, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "445021",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "445022",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "448151",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "448473",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "450410",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "450424",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITIBANK DE NICARAGUA, S.A",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "450428",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CITIBANK DE NICARAGUA, S.A",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "450432",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK DE NICARAGUA, S.A",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "450568",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "455152",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AVAL CARD, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "455264",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE LA PRODUCCION, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "455269",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA PRODUCCION, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "455270",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA PRODUCCION, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "455284",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE AMERICA CENTRAL",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "455285",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO DE AMERICA CENTRAL",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "455367",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "455368",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "455369",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "455741",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO NICARAGUENSE DE INDUSTRIA Y COMERCIO",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "457043",
+      "issuer": "BANCO MERCANTIL, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "457422",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "457501",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "457610",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "459916",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO NICARAGUENSE DE INDUSTRIA Y COMERCIO",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "462927",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "462928",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "468577",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "468578",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "469819",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "469897",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "469898",
+      "type": "DEBIT",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "469899",
+      "type": "DEBIT",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "470430",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "CREDICARD, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "472058",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "477368",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "477371",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE FINANZAS, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "486635",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "491291",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CITIBANK DE NICARAGUA, S.A",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "491292",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA EXPORTACION, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "498457",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MERCANTIL, S.A.",
+      "countries": [
+        "NI"
+      ]
+    },
+    {
+      "bin": "498458",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO MERCANTIL, S.A.",
+      "countries": [
+        "NI"
+      ]
+    }
+  ]
+}

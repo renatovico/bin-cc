@@ -1,0 +1,407 @@
+{
+  "bins": [
+    {
+      "bin": "510110",
+      "type": "CREDIT",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "510115",
+      "type": "CREDIT",
+      "issuer": "SANTANDER CARDS IRELAND, LTD.",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "510213",
+      "issuer": "ALLIED IRISH BANK PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "510233",
+      "issuer": "BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "512103",
+      "type": "CREDIT",
+      "issuer": "SANTANDER CARDS IRELAND, LTD.",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "516535",
+      "type": "DEBIT",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "516968",
+      "type": "DEBIT",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "517044",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "EBS BUILDING SOCIETY",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "517810",
+      "issuer": "BANK OF SCOTLAND (IRELAND), LTD.",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "518308",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SANTANDER CARDS IRELAND, LTD.",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "518676",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "520332",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "520333",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "520640",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "523016",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "525315",
+      "type": "CREDIT",
+      "issuer": "SANTANDER CARDS IRELAND, LTD.",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "525316",
+      "issuer": "EUROPAY NORGE, A.S.",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "533858",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "536564",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "EUROPEAN AMERICAN INVESTMENT BANK AG",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "538641",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "538668",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "540410",
+      "type": "CREDIT",
+      "issuer": "ALLIED IRISH BANKS PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "540459",
+      "type": "CREDIT",
+      "issuer": "ALLIED IRISH BANKS PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "540655",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "540772",
+      "type": "CREDIT",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "540917",
+      "issuer": "BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "541770",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "542509",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "542523",
+      "type": "CREDIT",
+      "issuer": "ALLIED IRISH BANKS PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "542526",
+      "type": "CREDIT",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "543187",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "543267",
+      "type": "CREDIT",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "543270",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "543472",
+      "type": "CREDIT",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "543479",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "544156",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ALLIED IRISH BANKS PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "544157",
+      "type": "CREDIT",
+      "issuer": "ALLIED IRISH BANKS PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "545155",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "ALLIED IRISH BANKS PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "545645",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "546258",
+      "type": "CREDIT",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "547355",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "547368",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NATIONAL WESTMINSTER BANK PLC",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "548948",
+      "type": "CREDIT",
+      "issuer": "MBNA INTERNATIONAL BANK LTD",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "548949",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MBNA INTERNATIONAL BANK LTD",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "549897",
+      "issuer": "BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "552149",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MBNA INTERNATIONAL BANK LTD",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "554545",
+      "issuer": "GOVERNOR AND COMPANY OF THE BANK OF IRELAND",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "556970",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "557370",
+      "type": "DEBIT",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "557381",
+      "type": "DEBIT",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "557382",
+      "type": "DEBIT",
+      "countries": [
+        "IE"
+      ]
+    },
+    {
+      "bin": "557388",
+      "type": "DEBIT",
+      "countries": [
+        "IE"
+      ]
+    }
+  ]
+}

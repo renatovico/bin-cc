@@ -1,0 +1,1814 @@
+{
+  "bins": [
+    {
+      "bin": "402501",
+      "type": "DEBIT",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "406751",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PRIME BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "406752",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PRIME BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "406753",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PRIME BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "406754",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PRIME BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "406761",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PREMIER BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "406762",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PREMIER BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "406763",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PREMIER BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "406764",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "PREMIER BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "409328",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NATIONAL BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "409329",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "NATIONAL BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "409362",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "409363",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "409390",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "409391",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "409740",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EASTERN BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "409741",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "EASTERN BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "409765",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EASTERN BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "410315",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AB BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "410316",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "AB BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "410516",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITY BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "410517",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITY BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "410518",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITY BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "410519",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITY BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "410520",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CITY BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "411144",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "413402",
+      "type": "DEBIT",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "413961",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "418112",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TRUST BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "418114",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TRUST BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "418115",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TRUST BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "418116",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "TRUST BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "418117",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TRUST BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "418128",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "418129",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SHAHJALAL ISLAMI BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "418153",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "419929",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "419930",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "419950",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "421451",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "421452",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "421474",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "421481",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "422088",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "422089",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "422090",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "422091",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "422092",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "MERCANTILE BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "423363",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "424938",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DHAKA BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "424939",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DHAKA BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "424940",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DHAKA BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "424941",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "DHAKA BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "426376",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "426377",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "426378",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "428402",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "EASTERN BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "428407",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "EASTERN BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "428457",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NATIONAL CREDIT AND COMMERCE BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "428645",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "428646",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "432145",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BRAC BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "432146",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BRAC BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "432147",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BRAC BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "432148",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BRAC BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "432149",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRAC BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "432155",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "434335",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AB BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "434336",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB BANGLADESH BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "434339",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AB BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "434923",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "434924",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "434977",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EASTERN BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "434978",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "434979",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "EASTERN BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "434980",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "EASTERN BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "436374",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "436375",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "436376",
+      "type": "DEBIT",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "436449",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PREMIER BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "436462",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "436473",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL CREDIT AND COMMERCE BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "436474",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NATIONAL CREDIT AND COMMERCE BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "436475",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "436526",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UNITED COMMERCIAL BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "437594",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SOCIAL ISLAMI BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "437595",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "437596",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SOCIAL ISLAMI BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "437597",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "437740",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EASTERN BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "437848",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "EASTERN BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "439131",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED COMMERCIAL BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "439132",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED COMMERCIAL BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "439133",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNITED COMMERCIAL BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "439134",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "UNITED COMMERCIAL BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "440819",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL CREDIT AND COMMERCE BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "440820",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NATIONAL CREDIT AND COMMERCE BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "444513",
+      "issuer": "DUTCH-BANGLA BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "444514",
+      "issuer": "DUTCH-BANGLA BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "444515",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "444516",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "444517",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "444518",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "444519",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DUTCH-BANGLA BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "447780",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "450088",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EASTERN BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "450530",
+      "type": "CREDIT",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "452017",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "452051",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "452052",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "455445",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "456378",
+      "issuer": "ARAB BANGLADESH BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "457204",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "457205",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "457354",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "457565",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "458167",
+      "issuer": "NATIONAL CREDIT AND COMMERCE BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "458170",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NATIONAL CREDIT AND COMMERCE BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "458598",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "458735",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "458736",
+      "type": "DEBIT",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "458737",
+      "type": "DEBIT",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "458763",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "458790",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "459846",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "459874",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "459891",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "461123",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "461945",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STATE BANK OF INDIA",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "461987",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JAMUNA BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "461988",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JAMUNA BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "461989",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JAMUNA BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "462241",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "462245",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "462246",
+      "type": "DEBIT",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "462247",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "462870",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED COMMERCIAL BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "462887",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED COMMERCIAL BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "462965",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "463209",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "463210",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "463729",
+      "issuer": "ANZ GRINDLAYS BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "463731",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "463763",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "463764",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "463765",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "463766",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANK ASIA, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "463767",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "463906",
+      "issuer": "ANZ GRINDLAYS BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "464564",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "464565",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "464566",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "464573",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "464574",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "464575",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "464587",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "464588",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EXPORT IMPORT BANK OF BANGLADESH_LTD",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "464589",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "464590",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "464741",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "466552",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "466553",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "467365",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "467922",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EASTERN BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "468537",
+      "type": "DEBIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "468538",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "469343",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "469626",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "469627",
+      "type": "DEBIT",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "469821",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "EASTERN BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "470499",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "EASTERN BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "470661",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "470681",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "EASTERN BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "470691",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "470692",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "470925",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "470926",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "470927",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "470928",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "470965",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "472147",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "472682",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "474867",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "THE CITY BANK LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "474868",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "THE CITY BANK LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "476610",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "476611",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "476612",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "476613",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "476614",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "476629",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANK ASIA LIMITED",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "477039",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "480870",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "EASTERN BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "481676",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PREMIER BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "481677",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "THE PREMIER BANK LIMITED",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "484071",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "484096",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRAC BANK LIMITED",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "484097",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "BRAC BANK LIMITED",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "484757",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "484828",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AB BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "484840",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EASTERN BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "486143",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SOUTHEAST BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "486144",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SOUTHEAST BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "486145",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SOUTHEAST BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "486146",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SOUTHEAST BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "486252",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK ALFALAH, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "486253",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK ALFALAH, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "486256",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK ALFALAH, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "486257",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK ALFALAH, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "486294",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "488911",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DHAKA BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "489035",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "489339",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "EASTERN BANK, LTD.",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "489340",
+      "type": "DEBIT",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "489702",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "MUTUAL TRUST BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "489703",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "MUTUAL TRUST BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "489704",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MUTUAL TRUST BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "489705",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "MUTUAL TRUST BANK",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "490258",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "490259",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "490260",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LIMTED",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "490262",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "490263",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "BD"
+      ]
+    },
+    {
+      "bin": "490264",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "INTERNATIONAL FINANCE INVESTMENT AND COMMERCE BANK LIMTED",
+      "countries": [
+        "BD"
+      ]
+    }
+  ]
+}

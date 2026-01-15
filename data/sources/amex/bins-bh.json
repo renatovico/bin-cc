@@ -1,0 +1,27 @@
+{
+  "bins": [
+    {
+      "bin": "374403",
+      "type": "CREDIT",
+      "issuer": "AMEX MIDDLE EAST B.S.C.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "374405",
+      "type": "CREDIT",
+      "issuer": "AMEX MIDDLE EAST B.S.C.",
+      "countries": [
+        "BH"
+      ]
+    },
+    {
+      "bin": "374493",
+      "type": "CREDIT",
+      "countries": [
+        "BH"
+      ]
+    }
+  ]
+}

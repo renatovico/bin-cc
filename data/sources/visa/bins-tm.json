@@ -1,0 +1,47 @@
+{
+  "bins": [
+    {
+      "bin": "400071",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+      "countries": [
+        "TM"
+      ]
+    },
+    {
+      "bin": "440251",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+      "countries": [
+        "TM"
+      ]
+    },
+    {
+      "bin": "440252",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+      "countries": [
+        "TM"
+      ]
+    },
+    {
+      "bin": "478719",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+      "countries": [
+        "TM"
+      ]
+    },
+    {
+      "bin": "490801",
+      "issuer": "STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
+      "countries": [
+        "TM"
+      ]
+    }
+  ]
+}

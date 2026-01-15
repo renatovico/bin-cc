@@ -1,0 +1,1416 @@
+{
+  "bins": [
+    {
+      "bin": "400399",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NATIONAL COMMERCIAL BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "400861",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "401757",
+      "type": "DEBIT",
+      "issuer": "BANK AL JAZIRA",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "402106",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SAMBA FINANCIAL GROUP",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "402112",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SAMBA FINANCIAL GROUP",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "404116",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL COMMERCIAL BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "405433",
+      "type": "DEBIT",
+      "category": "TASWAQ",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "407620",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "409201",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "409246",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "410248",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "410249",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "410682",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EMIRATES BANK INTERNATIONAL PJSC",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "410683",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "EMIRATES BANK INTERNATIONAL PJSC",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "410684",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EMIRATES NBD BANK (P.J.S.C.)",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "410685",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EMIRATES NBD BANK (P.J.S.C.)",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "410747",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALBANK ALAWWAL",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "411166",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALBANK ALAWWAL",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "411167",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ALBANK ALAWWAL",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "412113",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NATIONAL COMMERCIAL BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "412518",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ALBANK ALAWWAL",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "412710",
+      "issuer": "SAUDI BRITISH BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "414026",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL COMMERCIAL BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "414090",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK AL JAZIRA",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "414478",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SAUDI BRITISH BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "414627",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "416041",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALBANK ALAWWAL",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "416042",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ALBANK ALAWWAL",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "416634",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "417321",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "417323",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "417487",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL COMMERCIAL BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "417490",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NATIONAL COMMERCIAL BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "417633",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AL BILAD BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "418763",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NATIONAL BANK OF KUWAIT, S.A.K.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "419461",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "419593",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "GULF INTERNATIONAL BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "420177",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "422791",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITICORP",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "422817",
+      "type": "DEBIT",
+      "issuer": "SAUDI BRITISH BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "422818",
+      "type": "DEBIT",
+      "issuer": "SAUDI BRITISH BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "422819",
+      "type": "DEBIT",
+      "issuer": "SAUDI BRITISH BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "422862",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "NATIONAL COMMERCIAL BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "424260",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AL BILAD BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "424261",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AL BILAD BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "424262",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AL BILAD BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "425871",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "BANQUE SAUDI FRANSI",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "426362",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "427222",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SAUDI BRITISH BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "427733",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ALBANK ALAWWAL",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "427739",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALBANK ALAWWAL",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "428274",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE SAUDI FRANSI",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "428275",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE SAUDI FRANSI",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "428331",
+      "type": "DEBIT",
+      "issuer": "SAUDI BRITISH BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "428334",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "428374",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK AL JAZIRA",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "428375",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK AL JAZIRA",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "428671",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "428672",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "428673",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "428678",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "428679",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "430258",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NATIONAL COMMERCIAL BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "430259",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL COMMERCIAL BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "430260",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NATIONAL COMMERCIAL BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "430262",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "431361",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NATIONAL BANK OF KUWAIT, S.A.K.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "432159",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "432326",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "432327",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "432328",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ALINMA BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "433347",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NATIONAL COMMERCIAL BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "433786",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SAUDI BRITISH BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "433987",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SAMBA FINANCIAL GROUP",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "433988",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "SAMBA FINANCIAL GROUP",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "434107",
+      "type": "DEBIT",
+      "issuer": "ALINMA BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "435240",
+      "issuer": "RIYAD BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "438911",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "ALBANK ALAWWAL",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "439954",
+      "type": "DEBIT",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "439956",
+      "type": "DEBIT",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "440532",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK AL JAZIRA",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "440533",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK AL JAZIRA",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "440629",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SAUDI INVESTMENT BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "440630",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SAUDI INVESTMENT BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "440631",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "SAUDI INVESTMENT BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "440647",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE SAUDI FRANSI",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "440795",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE SAUDI FRANSI",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "443927",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "444445",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE SAUDI FRANSI",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "445520",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "445521",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "445522",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "445564",
+      "type": "DEBIT",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "445826",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "445827",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "446393",
+      "type": "DEBIT",
+      "issuer": "AL BILAD BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "446404",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANQUE SAUDI FRANSI",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "446672",
+      "type": "DEBIT",
+      "issuer": "Alinma Bank",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "448509",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "RIYAD BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "450766",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SAMBA FINANCIAL GROUP",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "450824",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE SAUDI FRANSI",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "451111",
+      "issuer": "ARAB NATIONAL BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "454335",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SAMBA FINANCIAL GROUP",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "454336",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SAMBA FINANCIAL GROUP",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "454683",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "RIYAD BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "454684",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RIYAD BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "454807",
+      "type": "PLATINUM",
+      "issuer": "ALINMA BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "454887",
+      "issuer": "SAUDI CAIRO BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "455017",
+      "issuer": "ARAB NATIONAL BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "455020",
+      "issuer": "SAMBA FINANCIAL GROUP",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "455035",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ARAB NATIONAL BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "455036",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ARAB NATIONAL BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "455037",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB NATIONAL BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "455058",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SAUDI BRITISH BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "455310",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SAUDI BRITISH BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "455340",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SAUDI BRITISH BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "455389",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SAUDI BRITISH BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "455708",
+      "type": "DEBIT",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "455739",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "455740",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "456891",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SAUDI BRITISH BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "456893",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SAUDI BRITISH BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "457796",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "457840",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "457841",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "457842",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "457865",
+      "type": "DEBIT",
+      "issuer": "Al Bank Al Saudi Al Fransi",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "457997",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE SAUDI FRANSI",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "457998",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE SAUDI FRANSI",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "458263",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "458456",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "462220",
+      "type": "DEBIT",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "466515",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ARAB NATIONAL BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "468540",
+      "type": "DEBIT",
+      "issuer": "AL BILAD BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "468541",
+      "type": "DEBIT",
+      "issuer": "AL BILAD BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "468542",
+      "type": "DEBIT",
+      "issuer": "AL BILAD BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "468543",
+      "type": "DEBIT",
+      "issuer": "AL BILAD BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "473825",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "473826",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "473828",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "477983",
+      "issuer": "SAMBA FINANCIAL GROUP",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "478295",
+      "type": "DEBIT",
+      "category": "Platinum",
+      "issuer": "SAUDI INVESTMENT BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "478296",
+      "type": "Traditional",
+      "category": "DEBIT",
+      "issuer": "SAUDI INVESTMENT BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "481206",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AL BILAD BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "483010",
+      "type": "DEBIT",
+      "issuer": "SAUDI INVESTMENT BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "483011",
+      "type": "DEBIT",
+      "issuer": "SAUDI INVESTMENT BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "483012",
+      "type": "DEBIT",
+      "issuer": "SAUDI INVESTMENT BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "484783",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "486094",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "ARAB NATIONAL BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "486095",
+      "type": "DEBIT",
+      "issuer": "ARAB NATIONAL BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "486096",
+      "type": "DEBIT",
+      "issuer": "ARAB NATIONAL BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "486653",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "489317",
+      "type": "DEBIT",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "489318",
+      "type": "DEBIT",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "489319",
+      "type": "DEBIT",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "490160",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "SAUDI BRITISH BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "490745",
+      "issuer": "ALBANK ALAWWAL",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "490917",
+      "issuer": "RIYAD BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "490980",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "491610",
+      "issuer": "ARAB NATIONAL BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "491797",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NATIONAL COMMERCIAL BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "492145",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL COMMERCIAL BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "492146",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NATIONAL COMMERCIAL BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "493428",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ALBANK ALAWWAL",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "494329",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "496649",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SAMBA FINANCIAL GROUP",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "496655",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE SAUDI FRANSI",
+      "countries": [
+        "SA"
+      ]
+    }
+  ]
+}

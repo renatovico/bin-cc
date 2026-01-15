@@ -1,0 +1,1019 @@
+{
+  "bins": [
+    {
+      "bin": "401100",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "402030",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "issuer": "STANDARD CHARTERED BANK KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "402536",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "COMMERCIAL BANK OF AFRICA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "402537",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "COMMERCIAL BANK OF AFRICA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "404192",
+      "issuer": "KENYA COMMERCIAL BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "404709",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BARCLAYS BANK OF KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "405457",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ENTERPRISE NATIONAL BANK",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "406904",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CFC STANBIC BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "406905",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANBIC BANK KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "406907",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "406908",
+      "issuer": "STANBIC BANK KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "407413",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DIAMOND TRUST BANK KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "409034",
+      "issuer": "COMMERCIAL BANK OF AFRICA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "409347",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD CHARTERED BANK KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "410033",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIDELITY COMMERCIAL BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "410408",
+      "issuer": "NATIONAL BANK OF KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "410739",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "IMPERIAL BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "410740",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "IMPERIAL BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "410741",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "IMPERIAL BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "411629",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIDELITY COMMERCIAL BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "411998",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "412512",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD CHARTERED BANK KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "412550",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "413270",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL INDUSTRIAL CREDIT BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "413271",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NATIONAL INDUSTRIAL CREDIT BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "413272",
+      "issuer": "NATIONAL INDUSTRIAL CREDIT BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "415450",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD CHARTERED BANK KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "416704",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PRIME BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "416705",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PRIME BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "416706",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PRIME BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "416793",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "416794",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "416917",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "417360",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INVESTMENTS AND MORTGAGES BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "417361",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "INVESTMENTS AND MORTGAGES BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "417362",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INVESTMENTS AND MORTGAGES BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "417363",
+      "issuer": "INVESTMENTS AND MORTGAGES BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "417482",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "KENYA COMMERCIAL BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "417999",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "418087",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KENYA COMMERCIAL BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "420345",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EQUITY BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "420346",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "EQUITY BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "420977",
+      "issuer": "CO-OPERATIVE BANK OF KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "421154",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD CHARTERED BANK KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "422065",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DIAMOND TRUST BANK KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "422122",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "422272",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BARCLAYS BANK OF KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "422273",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BARCLAYS BANK OF KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "424108",
+      "type": "DEBIT",
+      "category": "GIFT",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "424109",
+      "type": "DEBIT",
+      "category": "GIFT",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "424110",
+      "type": "DEBIT",
+      "category": "GIFT",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "424112",
+      "type": "DEBIT",
+      "category": "GIFT",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "424313",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KENYA COMMERCIAL BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "424314",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KENYA COMMERCIAL BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "424315",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "KENYA COMMERCIAL BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "424316",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "KENYA COMMERCIAL BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "424485",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DIAMOND TRUST BANK KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "424486",
+      "issuer": "DIAMOND TRUST BANK KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "425197",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMMERCIAL BANK OF AFRICA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "425198",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "COMMERCIAL BANK OF AFRICA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "425199",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "COMMERCIAL BANK OF AFRICA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "426086",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BARCLAYS BANK OF KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "426339",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "KENYA COMMERCIAL BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "426399",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BARCLAYS BANK OF KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "428505",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "429933",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CO-OPERATIVE BANK OF KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "429934",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CO-OPERATIVE BANK OF KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "430878",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PRIME BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "431411",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SOUTHERN CREDIT BANKING CORPORATION",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "431424",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SOUTHERN CREDIT BANKING CORPORATION",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "431440",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SOUTHERN CREDIT BANKING CORPORATION",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "431442",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SOUTHERN CREDIT BANKING CORPORATION",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "432115",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "NATIONAL INDUSTRIAL CREDIT BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "432116",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "NATIONAL INDUSTRIAL CREDIT BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "437393",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "438965",
+      "issuer": "BARCLAYS BANK OF KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "440131",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD CHARTERED BANK KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "440755",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "KENYA COMMERCIAL BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "440781",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CO-OPERATIVE BANK OF KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "440782",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CO-OPERATIVE BANK OF KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "440783",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CO-OPERATIVE BANK OF KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "440784",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK OF KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "440785",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK OF KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "444567",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "445141",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF AFRICA (KENYA), LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "445971",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NATIONAL BANK OF KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "446989",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "447663",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "447815",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EQUITY BANK, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "454490",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK OF KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "454740",
+      "issuer": "BARCLAYS BANK OF KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "457277",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "457467",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "457786",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "457788",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "458492",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "458542",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "469359",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "CITIBANK",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "472246",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "472463",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "472465",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "472466",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "476110",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "476111",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "477949",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK OF KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "479740",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CO-OPERATIVE BANK OF KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "483972",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "484655",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "484678",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "484679",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "486041",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "486067",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "486506",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "CITIBANK",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "487429",
+      "issuer": "STANDARD CHARTERED BANK KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "487461",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BARCLAYS BANK OF KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "488997",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "488998",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "488999",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "489000",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "489001",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "489002",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "bin": "499963",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK OF KENYA, LTD.",
+      "countries": [
+        "KE"
+      ]
+    }
+  ]
+}

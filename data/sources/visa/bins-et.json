@@ -1,0 +1,78 @@
+{
+  "bins": [
+    {
+      "bin": "424311",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DASHEN BANK S.C.",
+      "countries": [
+        "ET"
+      ]
+    },
+    {
+      "bin": "424312",
+      "issuer": "DASHEN BANK S.C.",
+      "countries": [
+        "ET"
+      ]
+    },
+    {
+      "bin": "427236",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DASHEN BANK S.C.",
+      "countries": [
+        "ET"
+      ]
+    },
+    {
+      "bin": "427237",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DASHEN BANK S.C.",
+      "countries": [
+        "ET"
+      ]
+    },
+    {
+      "bin": "458300",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "ET"
+      ]
+    },
+    {
+      "bin": "458543",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "WEGAGEN BANK SHARE COMPANY",
+      "countries": [
+        "ET"
+      ]
+    },
+    {
+      "bin": "458571",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "COMMERCIAL BANK OF ETHIOPIA",
+      "countries": [
+        "ET"
+      ]
+    },
+    {
+      "bin": "458572",
+      "issuer": "COMMERCIAL BANK OF ETHIOPIA",
+      "countries": [
+        "ET"
+      ]
+    },
+    {
+      "bin": "458573",
+      "issuer": "COMMERCIAL BANK OF ETHIOPIA",
+      "countries": [
+        "ET"
+      ]
+    }
+  ]
+}

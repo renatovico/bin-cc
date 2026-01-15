@@ -1,0 +1,559 @@
+{
+  "bins": [
+    {
+      "bin": "511867",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HYPO ALPE-ADRIA-BANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "512251",
+      "type": "CREDIT",
+      "issuer": "ERSTE BANK AD NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "512318",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "RAIFFEISENBANK A.D., BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "512447",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCA INTESA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "512475",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PIRAEUS BANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "512805",
+      "type": "CREDIT",
+      "issuer": "OTP BANKA SRBIJA A.D. NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "513302",
+      "issuer": "RAIFFEISENBANK A.D., BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "516743",
+      "type": "DEBIT",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "516814",
+      "type": "DEBIT",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "516934",
+      "type": "DEBIT",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "516966",
+      "type": "DEBIT",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "516967",
+      "type": "DEBIT",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "518289",
+      "type": "CREDIT",
+      "issuer": "RAIFFEISENBANK A.D., BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "518650",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "POSTAL SAVINGS BANK JSC",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "518657",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDIT AGRICOLE SRBIJA AD NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "518660",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCA INTESA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "518786",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EFG EUROBANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "520308",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EFG EUROBANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "520628",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SOCIETE GENERALE BANKA SRBIJA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "520632",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "POSTAL SAVINGS BANK JSC",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "520677",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDIT AGRICOLE SRBIJA AD NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "520901",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCA INTESA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "520919",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCA INTESA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "520930",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PROCREDIT BANK A.D.",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "520931",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NLB BANKA A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "520983",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NLB BANKA A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "525403",
+      "type": "CREDIT",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "526814",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PIRAEUS BANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "526889",
+      "type": "CREDIT",
+      "issuer": "PIRAEUS BANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "527590",
+      "type": "CREDIT",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "528060",
+      "type": "CREDIT",
+      "issuer": "FINDOMESTIC BANKA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "528624",
+      "type": "CREDIT",
+      "issuer": "BANCA INTESA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "530144",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PIRAEUS BANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "530991",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "KOMERCIJALNA BANKA A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "530999",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "KOMERCIJALNA BANKA A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "531688",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCA INTESA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "531933",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "UNICREDIT BANK SERBIA JSC",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "532191",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ALPHA BANK SERBIA AD BELGRADE",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "533665",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ERSTE BANK AD NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "533667",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ERSTE BANK AD NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "534983",
+      "type": "CREDIT",
+      "issuer": "ALPHA BANK SERBIA AD BELGRADE",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "540773",
+      "issuer": "BANCA INTESA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "541399",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "UNICREDIT BANK SERBIA JSC",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "544149",
+      "type": "CREDIT",
+      "issuer": "AGROINDUSTRIJSKO-KOMERCIJALNA BANKA AIK BANKA AD NIS",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "544358",
+      "type": "CREDIT",
+      "issuer": "BANCA INTESA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "544428",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCA INTESA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "544498",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FINDOMESTIC BANKA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "547273",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PIRAEUS BANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "547301",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA INTESA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "547387",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "KOMERCIJALNA BANKA A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "547444",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA INTESA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "549612",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCA INTESA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "550448",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "FINDOMESTIC BANKA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "552238",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UNICREDIT BANK SERBIA JSC",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "552617",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FINDOMESTIC BANKA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "552643",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EFG EUROBANK A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "552644",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT BANK SERBIA JSC",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "552676",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "POSTAL SAVINGS BANK JSC",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "552718",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CREDIT AGRICOLE SRBIJA AD NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "552726",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA INTESA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "552863",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA INTESA AD BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "552883",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NLB BANKA A.D. BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "553048",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISENBANK A.D., BEOGRAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "553093",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "OTP BANKA SRBIJA A.D. NOVI SAD",
+      "countries": [
+        "RS"
+      ]
+    },
+    {
+      "bin": "558671",
+      "countries": [
+        "RS"
+      ]
+    }
+  ]
+}

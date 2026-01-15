@@ -1,0 +1,449 @@
+{
+  "bins": [
+    {
+      "bin": "401635",
+      "issuer": "HYPO ALPE-ADRIA-BANKA A.D.",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "401677",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HYPO ALPE-ADRIA-BANKA A.D.",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "402509",
+      "issuer": "NLB MONTENEGROBANK A.D. PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "402510",
+      "issuer": "NLB MONTENEGROBANK A.D. PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "402660",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PODGORICKA BANKA SOCIETE GENERALE GROUP AD PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "402661",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PODGORICKA BANKA SOCIETE GENERALE GROUP AD PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "402767",
+      "issuer": "PODGORICKA BANKA SOCIETE GENERALE GROUP AD PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "404921",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NLB MONTENEGROBANK A.D. PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "407506",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "408352",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HIPOTEKARNA BANKA AD PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "408353",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HIPOTEKARNA BANKA AD PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "408354",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HIPOTEKARNA BANKA AD PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "408355",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "HIPOTEKARNA BANKA AD PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "408356",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HIPOTEKARNA BANKA AD PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "408357",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "410210",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PODGORICKA BANKA SOCIETE GENERALE GROUP AD PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "410211",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PODGORICKA BANKA SOCIETE GENERALE GROUP AD PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "410322",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HYPO ALPE-ADRIA-BANKA A.D.",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "410559",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "NLB MONTENEGROBANK A.D. PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "410616",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NLB MONTENEGROBANK A.D. PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "410617",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NLB MONTENEGROBANK A.D. PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "410618",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NLB MONTENEGROBANK A.D. PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "410619",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NLB MONTENEGROBANK A.D. PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "417331",
+      "issuer": "OPPORTUNITY BANK A.D. PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "417332",
+      "issuer": "OPPORTUNITY BANK A.D. PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "417465",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "417466",
+      "issuer": "CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "417989",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PODGORICKA BANKA SOCIETE GENERALE GROUP AD PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "421860",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "421861",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "424275",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "KOMERCIJALNA BANKA AD BUDVA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "424276",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "KOMERCIJALNA BANKA AD BUDVA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "424277",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KOMERCIJALNA BANKA AD BUDVA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "424278",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "KOMERCIJALNA BANKA AD BUDVA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "424279",
+      "issuer": "KOMERCIJALNA BANKA AD BUDVA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "428632",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "HYPO ALPE-ADRIA-BANKA A.D.",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "431203",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ATLASMONT BANKA AD PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "431204",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ATLASMONT BANKA AD PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "431205",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ATLASMONT BANKA AD PODGORICA",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "431206",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "431207",
+      "issuer": "ATLAS MONT BANKA A.D.",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "446002",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HYPO ALPE-ADRIA-BANKA A.D.",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "446003",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "HYPO ALPE-ADRIA-BANKA A.D.",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "447834",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PRVA BANKA CG A.D. - FOUNDED IN 1901",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "447835",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "447836",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "447837",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "466053",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "466056",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "470343",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "484797",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HYPO ALPE-ADRIA-BANKA A.D.",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "486090",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "ME"
+      ]
+    },
+    {
+      "bin": "486329",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "ME"
+      ]
+    }
+  ]
+}

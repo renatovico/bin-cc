@@ -1,0 +1,21 @@
+{
+  "bins": [
+    {
+      "bin": "544133",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "DJ"
+      ]
+    },
+    {
+      "bin": "555946",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "DJ"
+      ]
+    }
+  ]
+}

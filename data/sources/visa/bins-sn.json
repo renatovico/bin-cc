@@ -1,0 +1,429 @@
+{
+  "bins": [
+    {
+      "bin": "400966",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ATTIJARIWAFA BANK SENEGAL",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "400967",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ATTIJARIWAFA BANK SENEGAL",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "400968",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ATTIJARIWAFA BANK SENEGAL",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "400969",
+      "issuer": "ATTIJARIWAFA BANK SENEGAL",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "402659",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET LINDUSTRIE DU",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "403570",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SEN",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "404109",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SEN",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "406613",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT DU SENEGAL",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "406614",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LYONNAIS SENEGAL",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "406615",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT LYONNAIS SENEGAL",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "406740",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "SOCIETE GENERALE DE BANQUES AU SENEGAL",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "406741",
+      "type": "DEBIT",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "407542",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "COMPAGNIE BANCAIRE DE LAFRIQUE OCCIDENTALE (CBAO)",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "408102",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SOCIETE GENERALE DE BANQUES AU SENEGAL",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "410384",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF AFRICA - SENEGAL",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "410385",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF AFRICA - SENEGAL",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "413142",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "417625",
+      "issuer": "SOCIETE GENERALE DE BANQUES AU SENEGAL",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "417626",
+      "issuer": "SOCIETE GENERALE DE BANQUES AU SENEGAL",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "418785",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE REGIONALE DE SOLIDARITE DU SENEGAL (BRS-SENEGAL)",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "420176",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF AFRICA - SENEGAL",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "422194",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMPAGNIE BANCAIRE DE LAFRIQUE OCCIDENTALE (CBAO)",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "422195",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "COMPAGNIE BANCAIRE DE LAFRIQUE OCCIDENTALE (CBAO)",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "426364",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET LINDUSTRIE DU SENEGAL",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "428120",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "432421",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SOCIETE GENERALE DE BANQUES AU SENEGAL",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "432422",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SOCIETE GENERALE DE BANQUES AU SENEGAL",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "440231",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "COMPAGNIE BANCAIRE DE LAFRIQUE OCCIDENTALE (CBAO)",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "440840",
+      "issuer": "COMPAGNIE BANCAIRE DE LAFRIQUE OCCIDENTALE (CBAO)",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "450656",
+      "issuer": "SOCIETE GENERALE DE BANQUES AU SENEGAL",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "455030",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET LINDUSTRIE DU SENEGAL",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "458116",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SEN",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "458119",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SEN",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "458200",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "458201",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "458202",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "458203",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "465472",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "471422",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "472530",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "472531",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "472532",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "472533",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "472534",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "472854",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "478751",
+      "issuer": "SOCIETE GENERALE DE BANQUES AU SENEGAL",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "484165",
+      "type": "DEBIT",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "484177",
+      "type": "DEBIT",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "484686",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "484862",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "489036",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT INTERNATIONAL",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "489037",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDIT INTERNATIONAL",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "489038",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CREDIT INTERNATIONAL",
+      "countries": [
+        "SN"
+      ]
+    },
+    {
+      "bin": "489589",
+      "countries": [
+        "SN"
+      ]
+    }
+  ]
+}

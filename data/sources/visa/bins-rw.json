@@ -1,0 +1,130 @@
+{
+  "bins": [
+    {
+      "bin": "406961",
+      "countries": [
+        "RW"
+      ]
+    },
+    {
+      "bin": "406962",
+      "countries": [
+        "RW"
+      ]
+    },
+    {
+      "bin": "406963",
+      "countries": [
+        "RW"
+      ]
+    },
+    {
+      "bin": "410331",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "RW"
+      ]
+    },
+    {
+      "bin": "413213",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "RW"
+      ]
+    },
+    {
+      "bin": "446999",
+      "countries": [
+        "RW"
+      ]
+    },
+    {
+      "bin": "456092",
+      "countries": [
+        "RW"
+      ]
+    },
+    {
+      "bin": "456093",
+      "countries": [
+        "RW"
+      ]
+    },
+    {
+      "bin": "456094",
+      "countries": [
+        "RW"
+      ]
+    },
+    {
+      "bin": "457669",
+      "countries": [
+        "RW"
+      ]
+    },
+    {
+      "bin": "471375",
+      "countries": [
+        "RW"
+      ]
+    },
+    {
+      "bin": "471376",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE DE KIGALI",
+      "countries": [
+        "RW"
+      ]
+    },
+    {
+      "bin": "471377",
+      "countries": [
+        "RW"
+      ]
+    },
+    {
+      "bin": "472426",
+      "countries": [
+        "RW"
+      ]
+    },
+    {
+      "bin": "479325",
+      "countries": [
+        "RW"
+      ]
+    },
+    {
+      "bin": "479326",
+      "countries": [
+        "RW"
+      ]
+    },
+    {
+      "bin": "479327",
+      "countries": [
+        "RW"
+      ]
+    },
+    {
+      "bin": "484604",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ECOBANK RWANDA S.A.",
+      "countries": [
+        "RW"
+      ]
+    },
+    {
+      "bin": "486346",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "RW"
+      ]
+    }
+  ]
+}

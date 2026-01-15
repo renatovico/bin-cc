@@ -1,0 +1,486 @@
+{
+  "bins": [
+    {
+      "bin": "401609",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "RBTT BANK BARBADOS, LTD.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "406378",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "RBTT BANK BARBADOS, LTD.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "410073",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BARBADOS NATIONAL BANK",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "410074",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BARBADOS NATIONAL BANK",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "411053",
+      "issuer": "CARIBBEAN COMMERCIAL BANK, LTD.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "414280",
+      "issuer": "BUTTERFIELD BANK (BARBADOS), LTD.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "414281",
+      "issuer": "MUTUAL BANK OF THE CARIBBEAN, INC.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "419719",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "419720",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "419721",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "419722",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "421569",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BUTTERFIELD BANK (BARBADOS), LTD.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "422143",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BUTTERFIELD BANK (BARBADOS), LTD.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "423652",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ROYAL BANK OF CANADA",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "423654",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ROYAL BANK OF CANADA",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "423656",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ROYAL BANK OF CANADA",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "425946",
+      "issuer": "CERTEGY CARD SERVICES CARIBBEAN, LTD.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "426818",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BARBADOS NATIONAL BANK",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "426819",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BARBADOS NATIONAL BANK",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "430999",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "432004",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "432005",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "432006",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "432788",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BARBADOS NATIONAL BANK",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "434073",
+      "issuer": "BUTTERFIELD BANK (BARBADOS), LTD.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "434074",
+      "issuer": "BUTTERFIELD BANK (BARBADOS), LTD.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "434205",
+      "issuer": "CERTEGY CARD SERVICES CARIBBEAN, LTD.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "441031",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BUTTERFIELD BANK (BARBADOS), LTD.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "441179",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "443929",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "443931",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "448738",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "448748",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "448749",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "450984",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "455126",
+      "issuer": "ROYAL BANK OF CANADA",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "469256",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "469257",
+      "type": "DEBIT",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "472232",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "472233",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "472234",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "473257",
+      "issuer": "ROYAL BANK OF CANADA",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "479311",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "479468",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "491090",
+      "issuer": "MUTUAL BANK OF THE CARIBBEAN, INC.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "491091",
+      "issuer": "MUTUAL BANK OF THE CARIBBEAN, INC.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "491093",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MUTUAL BANK OF THE CARIBBEAN, INC.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "491322",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "491400",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BARBADOS NATIONAL BANK",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "491409",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "491424",
+      "issuer": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "491429",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BARBADOS NATIONAL BANK",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "491598",
+      "issuer": "ROYAL BANK OF CANADA",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "494180",
+      "issuer": "MUTUAL BANK OF THE CARIBBEAN, INC.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "498491",
+      "issuer": "CIBC CARIBBEAN, LTD.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "498869",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "499928",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "499990",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "499991",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "BB"
+      ]
+    },
+    {
+      "bin": "499992",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "BB"
+      ]
+    }
+  ]
+}

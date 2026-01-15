@@ -1,0 +1,995 @@
+{
+  "bins": [
+    {
+      "bin": "401753",
+      "issuer": "EMPORIKI BANK OF GREECE, S.A.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "402023",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CO-OPERATIVE CENTRAL BANK, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "402611",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "CYPRUS POPULAR BANK LTD. (LAIKI BANK)",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "402971",
+      "issuer": "JCC PAYMENT SYSTEMS, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "403017",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF CYPRUS PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "403018",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF CYPRUS, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "403552",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "USB BANK PLC",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "403553",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "USB BANK PLC",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "404326",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MARFIN POPULAR BANK PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "404936",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MARFIN POPULAR BANK PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "405654",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SOCIETE GENERALE CYPRUS, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "405655",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SOCIETE GENERALE CYPRUS, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "405678",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SOCIETE GENERALE CYPRUS, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "405788",
+      "issuer": "EMPORIKI BANK OF GREECE (CYPRUS), LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "411179",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FBME CARD SERVICES, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "411180",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FBME CARD SERVICES, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "411181",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "FBME CARD SERVICES, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "411182",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FBME CARD SERVICES, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "413217",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FBME CARD SERVICES, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "414975",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ALPHA BANK, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "414976",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "ALPHA BANK, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "414978",
+      "issuer": "NATIONAL BANK OF GREECE (CYPRUS), LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "415049",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MARFIN POPULAR BANK PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "415193",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ALPHA BANK CYPRUS, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "415914",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALPHA BANK CYPRUS, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "415915",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ALPHA BANK CYPRUS, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "415916",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALPHA BANK CYPRUS, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "415917",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ALPHA BANK CYPRUS, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "415927",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALPHA BANK, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "416099",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MARFIN POPULAR BANK PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "417097",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ALPHA BANK, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "417098",
+      "type": "CREDIT",
+      "category": "ELECTRON",
+      "issuer": "ALPHA BANK, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "417325",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HELLENIC BANK PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "417449",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "USB BANK PLC",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "417450",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "USB BANK PLC",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "417451",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "USB BANK PLC",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "417452",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "USB BANK PLC",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "418665",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PIRAEUS BANK (CYPRUS), LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "419385",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PIRAEUS BANK (CYPRUS), LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "419386",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PIRAEUS BANK (CYPRUS), LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "419955",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "420012",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "422686",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PIRAEUS BANK (CYPRUS), LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "423896",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF CYPRUS PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "429700",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "HELLENIC BANK, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "429701",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HELLENIC BANK PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "429702",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HELLENIC BANK, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "432511",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "432533",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "432934",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EMPORIKI BANK - CYPRUS, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "432935",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "EMPORIKI BANK - CYPRUS, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "432936",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EMPORIKI BANK - CYPRUS, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "438101",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FBME CARD SERVICES, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "440621",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HELLENIC BANK PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "440685",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HELLENIC BANK PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "440766",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ALPHA BANK, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "441008",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "446039",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF CYPRUS PUBLIC COMPANY, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "446040",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "446288",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CO-OPERATIVE CENTRAL BANK, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "446289",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "CO-OPERATIVE CENTRAL BANK, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "446290",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CO-OPERATIVE CENTRAL BANK, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "446341",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "446342",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "447576",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "450632",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CYPRUS POPULAR BANK LTD. (LAIKI BANK)",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "450652",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MARFIN POPULAR BANK PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "450653",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MARFIN POPULAR BANK PUBLIC COMPANY, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "451173",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANK OF CYPRUS, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "451174",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF CYPRUS PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "454101",
+      "issuer": "LOMBARD NATWEST BANK, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "454689",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF CYPRUS PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "454891",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF CYPRUS PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "456017",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HELLENIC BANK, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "456045",
+      "issuer": "HELLENIC BANK, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "456549",
+      "issuer": "HELLENIC BANK, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "456747",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HELLENIC BANK PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "456748",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HELLENIC BANK PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "456749",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HELLENIC BANK PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "456750",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HELLENIC BANK PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "456751",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HELLENIC BANK PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "456779",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HELLENIC BANK PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "456828",
+      "issuer": "JCC PAYMENT SYSTEMS, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "457995",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HELLENIC BANK, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "459358",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "459359",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "459471",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "467059",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MARFIN POPULAR BANK PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "474127",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "USB BANK PLC",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "474128",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "USB BANK PLC",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "474216",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE NATIONALE DE PARIS INTERCONTINENTALE",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "474217",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANQUE NATIONALE DE PARIS INTERCONTINENTALE",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "477152",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "477153",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "477154",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "477926",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CO-OPERATIVE CENTRAL BANK, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "489428",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "490720",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ALPHA BANK, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "490721",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALPHA BANK, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "490722",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALPHA BANK, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "490993",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MARFIN POPULAR BANK PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "491053",
+      "issuer": "ALPHA BANK CYPRUS",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "493432",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FBME CARD SERVICES, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "494075",
+      "issuer": "CREDIT LIBANAIS S.A.L.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "494361",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ALPHA BANK, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "494362",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ALPHA BANK, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "494363",
+      "issuer": "LOMBARD NATWEST BANK, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "494605",
+      "issuer": "HELLENIC BANK, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "498523",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FBME CARD SERVICES, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "498545",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FBME CARD SERVICES, LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "498886",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CYPRUS POPULAR BANK LTD. (LAIKI BANK)",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "498887",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MARFIN POPULAR BANK PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "498888",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "MARFIN POPULAR BANK PUBLIC CO., LTD.",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "498889",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CYPRUS POPULAR BANK LTD. (LAIKI BANK)",
+      "countries": [
+        "CY"
+      ]
+    },
+    {
+      "bin": "499870",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PIRAEUS BANK (CYPRUS), LTD.",
+      "countries": [
+        "CY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5869 @@
+{
+  "bins": [
+    {
+      "bin": "400227",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "400228",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "400256",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "400290",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "401325",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "401345",
+      "issuer": "EURO BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "401801",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DEUTSCHE BANK PBC, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "402166",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "402329",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "402330",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "402331",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "402358",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "402375",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "402637",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "402725",
+      "issuer": "BANK GOSPODARSTWA KRAJOWEGO",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "402793",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "NORDEA BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "402859",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "403372",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "403656",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "EURO BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "403824",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "403845",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "404193",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "404248",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "404249",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI SA W POZNANIU",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "404733",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "GETIN BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "404734",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "GETIN BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "404742",
+      "issuer": "DOMINET BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "404747",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "404780",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "404790",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GETIN BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "404791",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "GETIN BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "404988",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "405166",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "405167",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "405621",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "405670",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "405671",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "405672",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "405782",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "405783",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "406307",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "406322",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "406323",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "406325",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "406326",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "406327",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "406328",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "406329",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "406330",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "406331",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "406332",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "406333",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "406404",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EURO BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "406473",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EURO BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "406724",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "406793",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "406898",
+      "issuer": "BANK POLSKIEJ SPOLDZIELCZOSCI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "407132",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "LAUREL BANK",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "407378",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "407379",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "407538",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "407544",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TOYOTA BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "407562",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NORDEA BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "407566",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TOYOTA BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "407574",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "407577",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "407587",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "408474",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "408475",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "408476",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "408477",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "408478",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "408479",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "408480",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "408481",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "408482",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "408483",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "408484",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "409205",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "GETIN BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "409492",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "409620",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "409621",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "409635",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "LUKAS BANK SWIETOKRZYSKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "409680",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "409700",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK DNB NORD POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "409785",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK INICJATYW SPOTECZNO-EKONOMICZNYCH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "410005",
+      "issuer": "BANK BPH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "410689",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ABN AMRO BANK (POLSKA), S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "410732",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "VOLKSWAGEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "410787",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "410830",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "411168",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CHASE MANHATTAN BANK",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "411169",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DOMINET BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "411941",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHE BANK PBC, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "412281",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "412530",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "412541",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "412703",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NORTHERN TRUST COMPANY",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "412715",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "412716",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "412796",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "413006",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "413009",
+      "issuer": "BANK BPH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "413010",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK BPH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "413091",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "413092",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "413182",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "413206",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "GETIN BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "413215",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "413216",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "413426",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "413427",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "413798",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ESBANK ESKISEHIR BANKASI T.A.S.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "413868",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "413880",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "414071",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CREDIT AGRICOLE BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "414083",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "414091",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "414301",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK MILLENNIUM SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "414302",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK MILLENNIUM SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "414601",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "GE MONEY BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "414602",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GE MONEY BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "414662",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "414663",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "414664",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "414668",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "RAIFFEISEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "415036",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "415037",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "RAIFFEISEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "415038",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "RAIFFEISEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "415045",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "415046",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK POCZTOWY, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "415048",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "415799",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "416039",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "416040",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "416054",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "416055",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "416071",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "416072",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "416451",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "416456",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK POLSKIEJ SPOLDZIELCZOSCI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "416457",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK POLSKIEJ SPOLDZIELCZOSCI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "416665",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "416822",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "416855",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK MILLENNIUM SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "416856",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK MILLENNIUM SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "416879",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "416880",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "416896",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "416950",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "416968",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "WIELKOPOLSKI BANK SPOLDZIELCZY",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "416969",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "WIELKOPOLSKI BANK SPOLDZIELCZY",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "417087",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK MILLENNIUM SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "417088",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK MILLENNIUM SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "417089",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK MILLENNIUM SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "417223",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "417260",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DZ BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "417261",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DZ BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "417262",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "DZ BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "417280",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "417281",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "417282",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "417292",
+      "category": "GOLD",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "417293",
+      "category": "GOLD",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "417294",
+      "category": "GOLD",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "417384",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "EURO BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "417462",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "417622",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK BPH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "417623",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK BPH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "417670",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "417680",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "417681",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EURO BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "417780",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "417858",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "KRAJOWA SPOLDZIELCZA KASA OSZCZEDNOSCIOWO KREDYTOWA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "417859",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "418037",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "418038",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "418039",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "418040",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "GRUPA BPS BANKI SPOLDZIELCZE I BANK BPS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "418041",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK POLSKIEJ SPOLDZIELCZOSCI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "418042",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "GRUPA BPS BANKI SPOLDZIELCZE I BANK BPS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "418330",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "418331",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "418857",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "418904",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK PRZEMYSLOWO-HANDLOWY W KRAKOWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "418905",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "418918",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "418919",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "418920",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "418921",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "418922",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419172",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DEUTSCHE BANK PBC, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419173",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHE BANK PBC, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419217",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EURO BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419219",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "EURO BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419220",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419253",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK MILLENNIUM SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419254",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419262",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INVEST-BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419263",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "INVEST-BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419264",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "INVEST-BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419330",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419331",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419332",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419333",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419378",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419379",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419491",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419702",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI SA W POZNANIU",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419703",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI SA W POZNANIU",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419705",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI SA W POZNANIU",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419706",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI SA W POZNANIU",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419707",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI SA W POZNANIU",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419708",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI SA W POZNANIU",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419709",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI SA W POZNANIU",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419939",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419958",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419963",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419964",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "419988",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "420033",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "420330",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI SA W POZNANIU",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "420331",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI SA W POZNANIU",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "420389",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DEUTSCHE BANK PBC, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "420545",
+      "issuer": "NORDEA BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "420546",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "420547",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "420552",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "421195",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK BPH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "421305",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "421346",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK BPH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "421352",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "421472",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EURO BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "421496",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LUKAS BANK SWIETOKRZYSKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "421550",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "LUKAS BANK SWIETOKRZYSKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "421588",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "421623",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SANTANDER CONSUMER BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "421636",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "421652",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT AGRICOLE BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "421653",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LUKAS BANK SWIETOKRZYSKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "422014",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "422040",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK BPH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "422118",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK BPH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "422119",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GE MONEY BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "422120",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GE MONEY BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "422168",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "422199",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK BPH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "422204",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TOYOTA BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "422205",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TOYOTA BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "422275",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "422288",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "422897",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "422898",
+      "issuer": "BANK POLSKA KASA OPIEKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "423725",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "424377",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OCHRONY SRODOWISKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "424378",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK OCHRONY SRODOWISKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "424379",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK OCHRONY SRODOWISKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "424479",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "424658",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "424671",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "424925",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK MILLENNIUM SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "425125",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "425132",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK BPH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "425134",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK BPH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "425162",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "425163",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "425164",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "425167",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "425168",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "425169",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "425570",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "425571",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "425887",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "GETIN BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "426137",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "WIELKOPOLSKI BANK SPOLDZIELCZY",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "426349",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK POLSKIEJ SPOLDZIELCZOSCI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "426846",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "426847",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "427284",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "427289",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "427320",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "427321",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "427322",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "427378",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "427379",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "427388",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "427389",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "427394",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "427399",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "427702",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK MILLENNIUM SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "427706",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK MILLENNIUM SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "427738",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ABN AMRO BANK (POLSKA), S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "427743",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "427744",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "427750",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "427751",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "427755",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "427756",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "427757",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "427758",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "427763",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "427883",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "427884",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "427885",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "427886",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428134",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428135",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428136",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428359",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428360",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428378",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428379",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428381",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CETELEM BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428397",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428548",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428549",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428550",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428551",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428576",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428577",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428578",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428579",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428580",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428902",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428913",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428914",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428915",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428929",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK BPH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428931",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428932",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428933",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428934",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428935",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428936",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428947",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DZ BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428949",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK BPH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428982",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "428983",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "429046",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "429192",
+      "issuer": "BANK INICJATYW SPOTECZNO-EKONOMICZNYCH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "429401",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "429402",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FORTIS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "429465",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "429468",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "429523",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "429564",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "429566",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "429567",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "429581",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "POWSZECHNY BANK KREDYTOWY SA W WARSZAWIE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "430237",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK PRZEMYSLOWO-HANDLOWY W KRAKOWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "430269",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TOYOTA BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "430434",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK MILLENNIUM SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "430436",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK MILLENNIUM SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "430511",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "430527",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "430542",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "431418",
+      "issuer": "BANK POLSKA KASA OPIEKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "431438",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "431439",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "431497",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VOLKSWAGEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "431498",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "VOLKSWAGEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "431499",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VOLKSWAGEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "431718",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DEUTSCHE BANK PBC, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "431910",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT AGRICOLE BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "431911",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LUKAS BANK SWIETOKRZYSKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "431912",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LUKAS BANK SWIETOKRZYSKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "431913",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LUKAS BANK SWIETOKRZYSKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "431914",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LUKAS BANK SWIETOKRZYSKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "431915",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LUKAS BANK SWIETOKRZYSKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "431989",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK BPH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "432068",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "432069",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "432505",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "432521",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "432901",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK (MULTIBANK)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "432914",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI SA W POZNANIU",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "432915",
+      "issuer": "MAZOWIECKI BANK REGIONALNY SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "432937",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "432938",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "432945",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "433314",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "433328",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "433345",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BIG BANK GDANSKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "433369",
+      "type": "CREDIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "433372",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANK PRZEMYSLOWO-HANDLOWY W KRAKOWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "433397",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK MILLENNIUM SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "433802",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "434935",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TOYOTA BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "434972",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "435203",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "SOCIETE GENERALE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "435204",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "SOCIETE GENERALE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "435225",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NORDEA BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "435226",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK BPH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "435236",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BIG BANK GDANSKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "436600",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "436633",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "436634",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "436635",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "436636",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "436660",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "436661",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "436662",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "436663",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "436685",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "437887",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "437888",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "437889",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "438120",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "438136",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "438924",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK GOSPODARKI ZYWNOSCIOWEJ, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "438956",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ABN AMRO BANK (POLSKA), S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "438957",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ABN AMRO BANK (POLSKA), S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "438977",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK GOSPODARKI ZYWNOSCIOWEJ, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "438978",
+      "issuer": "BANK GOSPODARKI ZYWNOSCIOWEJ, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "439217",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI SA W POZNANIU",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "439231",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK BPH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "439236",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI SA W POZNANIU",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "440044",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "440210",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "440211",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "440216",
+      "issuer": "POMORSKI BANK KREDYTOWY, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "440279",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "440328",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "440530",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "440547",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "440572",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "440573",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "440574",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "440586",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "440587",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "440807",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "441024",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "441025",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "441060",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "441068",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "441085",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "441086",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "441087",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "441088",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "441089",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "441090",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "441091",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "441092",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "441093",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "441094",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "441095",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "441096",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "441097",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "443845",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "443869",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "443870",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "443955",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "444444",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDIT AGRICOLE BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "444927",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK DNB NORD POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "445544",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "445545",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "445546",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "445547",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "445548",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "445549",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "445550",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EURO BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "445566",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "LUKAS BANK SWIETOKRZYSKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "445567",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "446293",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NORDEA BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "446650",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "446651",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "446652",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "446653",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "446654",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "446655",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "447577",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "447736",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT AGRICOLE BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "447752",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LUKAS BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "447839",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "447840",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "447841",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "448336",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "448347",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "448348",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "448349",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "448350",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "448351",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "448352",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "448360",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "GETIN BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "448361",
+      "issuer": "GETIN BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "448366",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "GETIN BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "448378",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "448379",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "450537",
+      "type": "CREDIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "451199",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "SOCIETE GENERALE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "452546",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "452547",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "452548",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "455065",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "455080",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "455081",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "455455",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "LUKAS BANK SWIETOKRZYSKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "456704",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "456713",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "457347",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "459031",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "459097",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "459098",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "459099",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "459391",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "459392",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "459393",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "459411",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "459412",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "459488",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "459811",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "460308",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK MILLENNIUM SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "460309",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK MILLENNIUM SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "460337",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "460349",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "461150",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "461151",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "461152",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "462715",
+      "issuer": "POWSZECHNY BANK KREDYTOWY SA W WARSZAWIE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "462728",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "462735",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "462736",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK POCZTOWY, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "462739",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "462755",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "462756",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK BPH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "462757",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "462762",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "462778",
+      "issuer": "POWSZECHNY BANK KREDYTOWY SA W WARSZAWIE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "464419",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "464420",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "464441",
+      "issuer": "POWSZECHNY BANK GOSPODARCZY SPOLKA AKCYJNA W LODZI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "464646",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "465240",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GETIN BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "465248",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "465516",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "465556",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "465557",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "465558",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "GETIN BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "465559",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "465988",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INVEST-BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "465989",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "INVEST-BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "465990",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "INVEST-BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "465991",
+      "issuer": "INVEST-BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "465992",
+      "issuer": "POWSZECHNY BANK KREDYTOWY SA W WARSZAWIE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "465993",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "466040",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "466041",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "466502",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK POLSKIEJ SPOLDZIELCZOSCI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "466503",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK POLSKIEJ SPOLDZIELCZOSCI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "466504",
+      "issuer": "BANK POLSKIEJ SPOLDZIELCZOSCI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "466506",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK POLSKIEJ SPOLDZIELCZOSCI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "466543",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "466722",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "466723",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "466724",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "466725",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "FORTIS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "468529",
+      "issuer": "RAIFFEISEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "468915",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "468916",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "468921",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "468922",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "468923",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "468924",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "468925",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "468927",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "NORDEA BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "468928",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NORDEA BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "469712",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "469719",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "469758",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "469759",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "469760",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "469761",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "469762",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "469784",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "469820",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "469877",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "469878",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "469879",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "469880",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "470922",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "470929",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "472404",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "472619",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "472620",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "472621",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "472622",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "472648",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "472808",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "472809",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "472817",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "472949",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "473704",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NORDEA BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "473705",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "473706",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "474161",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "474163",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "474164",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "474167",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK PBC, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "474168",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "DEUTSCHE BANK PBC, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "474169",
+      "issuer": "DEUTSCHE BANK 24, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "474170",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHE BANK PBC, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "474210",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "474273",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "474274",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "474275",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "474517",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "474518",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "474747",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "476007",
+      "issuer": "NORDEA BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "476083",
+      "issuer": "AIG BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "477102",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "477103",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "477189",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "477190",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "477191",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "477192",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "477193",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "477195",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "477262",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "477263",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "477282",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "477283",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "477540",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "477915",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "477924",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "477925",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "477958",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BIG BANK GDANSKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "478739",
+      "issuer": "BANK MILLENNIUM SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "478759",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "478781",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "478782",
+      "issuer": "BANK OCHRONY SRODOWISKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "479019",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "479035",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "479060",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "479061",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "479062",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "479078",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "479080",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "479084",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "479798",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "480233",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "480275",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CREDIT AGRICOLE BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "480929",
+      "issuer": "BIG BANK GDANSKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "480939",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "482432",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "482433",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FM BANK S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "482434",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FM BANK S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "482435",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "482436",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "482471",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI SA W POZNANIU",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "483018",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "483046",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "483047",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "484064",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "484065",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "484066",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "484067",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "484090",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "484091",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "484092",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "484848",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK BPH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "485453",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "485454",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "485723",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "485724",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "487462",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "487463",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "487470",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "487471",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "487474",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK MILLENNIUM SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "487489",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "487498",
+      "issuer": "POWSZECHNY BANK KREDYTOWY SA W WARSZAWIE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "487499",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "489406",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK BPH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "489407",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANK BPH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "489408",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK BPH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "490741",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "490810",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BIG BANK GDANSKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "490821",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK BPH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "490823",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "490870",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BIG BANK GDANSKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "491051",
+      "issuer": "BANK SLASKI S.A. W KATOWICACH",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "491052",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "491059",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "491761",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "494057",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK MILLENNIUM SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "494058",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "494059",
+      "issuer": "BANK ZACHODNI WE WROCLAWIU",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "494098",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK MILLENNIUM SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "494318",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK BPH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "498522",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "498558",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "498826",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK BPH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "498836",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK MILLENNIUM SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "498849",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK MILLENNIUM SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "498874",
+      "issuer": "BANK PRZEMYSLOWO-HANDLOWY W KRAKOWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "498885",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "499855",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "499857",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PL"
+      ]
+    }
+  ]
+}

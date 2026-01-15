@@ -1,0 +1,4222 @@
+{
+  "bins": [
+    {
+      "bin": "510020",
+      "type": "CREDIT",
+      "issuer": "FINECOBANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "510079",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SANTANDER CONSUMER BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "510095",
+      "type": "CREDIT",
+      "issuer": "BANCA MONTE DEI PASCHI DI SIENA",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "510134",
+      "type": "CREDIT",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "510171",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ISTITUTO CENTRALE DELLE BANCHE DI CREDITO COOPERATIVO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "510175",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "510185",
+      "issuer": "BANCA ANTONIANA POPOLARE VENETA SCARL - BANCA",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "510211",
+      "type": "CREDIT",
+      "issuer": "B@NCA 24-7 S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "510212",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "B@NCA 24-7 S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "510224",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AGOS DUCATO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "510247",
+      "type": "CREDIT",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "510248",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCA CARIGE S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "511650",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "511651",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "511652",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "511653",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "512362",
+      "type": "CREDIT",
+      "issuer": "BANCA POPOLARE DI MILANO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "512479",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCA NAZIONALE DEL LAVORO S.P.A. - BNL",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "512559",
+      "issuer": "MY FIN S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "512575",
+      "issuer": "MY FIN S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "512599",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "512669",
+      "type": "CREDIT",
+      "issuer": "CASSA CENTRALE BANCA - CREDITO COOPERATIVO DEL NORD E",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "512697",
+      "type": "CREDIT",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "512739",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCA POPOLARE DI MILANO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "512749",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FINECOBANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "512750",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "512774",
+      "type": "CREDIT",
+      "issuer": "BANCA POPOLARE DI MILANO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "512796",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "INTEGRA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "512797",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "513099",
+      "issuer": "BANCA NAZIONALE DEL LAVORO - BNL",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "513348",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "513550",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CARREFOUR SERVIZI FINANZIARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "515888",
+      "issuer": "SEDICIBANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "516795",
+      "type": "DEBIT",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "517600",
+      "type": "CREDIT",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "518489",
+      "type": "CREDIT",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "518501",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDITO EMILIANO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "518525",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "518527",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ISTITUTO CENTRALE DELLE BANCHE DI CREDITO COOPERATIVO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "518546",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "518648",
+      "type": "CREDIT",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "518662",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AGOS DUCATO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "518664",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "B@NCA 24-7 S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "518665",
+      "category": "STANDARD",
+      "issuer": "B@NCA 24-7 S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "518680",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "518944",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "518945",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "518962",
+      "type": "CREDIT",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "518964",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDITO EMILIANO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "518976",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "518980",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "519312",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FINECOBANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "520007",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "C-CARD",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "520014",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "520307",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "520330",
+      "type": "CREDIT",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "520345",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "520347",
+      "type": "CREDIT",
+      "issuer": "UNIONE DI BANCHE ITALIANE S.C.P.A",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "520669",
+      "type": "CREDIT",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "520678",
+      "type": "CREDIT",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "520900",
+      "type": "CREDIT",
+      "issuer": "B@NCA 24-7 S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "520902",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "UNIONE DI BANCHE ITALIANE S.C.P.A",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "520907",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ONEY S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "520915",
+      "type": "CREDIT",
+      "issuer": "B@NCA 24-7 S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "520916",
+      "category": "STANDARD",
+      "issuer": "B@NCA 24-7 S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "520942",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "BANCA DI SASSARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "520947",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCA POPOLARE DELL'ALTO ADIGE",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "520956",
+      "type": "CREDIT",
+      "issuer": "SETEFI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "520958",
+      "type": "CREDIT",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "520959",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "520960",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "520989",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "BANCA DI SASSARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "520998",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "521028",
+      "type": "CREDIT",
+      "issuer": "IW BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "521058",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "IW BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "521141",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "SETEFI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "521181",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "FINECOBANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "521337",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "521805",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCA SELLA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "521808",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "521864",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UBS (ITALIA) S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "521883",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "522036",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CHEBANCA! S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "522069",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CONSUM.IT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "522071",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CONSUM.IT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "522076",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "522145",
+      "category": "STANDARD",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "522194",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "522238",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "522239",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "COMPASS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "522675",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "522680",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "522686",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "522689",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "522694",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "522701",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "522714",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "522725",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "522842",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "522843",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "522844",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "522845",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "523078",
+      "issuer": "KEY CLIENT CARDS AND SOLUTIONS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "524323",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "524328",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "BANCA POPOLARE DI MILANO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "524343",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "524393",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "524395",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "524396",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "524397",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "524694",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "524739",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UBS (ITALIA) S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525417",
+      "type": "CREDIT",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525418",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525421",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525497",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525499",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525500",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525501",
+      "category": "STANDARD",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525502",
+      "category": "STANDARD",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525503",
+      "category": "STANDARD",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525504",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525505",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525506",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525507",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525508",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525509",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525510",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525511",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525512",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525513",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525514",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525515",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525516",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525517",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525518",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525519",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525520",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525521",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525522",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525523",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525524",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525525",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525526",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525527",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525528",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525529",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525530",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525531",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525532",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525533",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525534",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525535",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525536",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525537",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525538",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525539",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525540",
+      "category": "STANDARD",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525541",
+      "category": "STANDARD",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525542",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525543",
+      "category": "STANDARD",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525544",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525545",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525546",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525547",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525548",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525549",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525550",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525551",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525552",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525553",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525554",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525555",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525556",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525557",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525558",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525559",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525560",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525561",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525562",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525563",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525564",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525565",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525566",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525567",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525568",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525569",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525570",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525571",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525572",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525573",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525574",
+      "type": "CREDIT",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525575",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525576",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525577",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525578",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525579",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525580",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525581",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525582",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525583",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525584",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525585",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525586",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525587",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525588",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525589",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525590",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525591",
+      "category": "STANDARD",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525592",
+      "category": "STANDARD",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525593",
+      "category": "STANDARD",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525594",
+      "type": "CREDIT",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525595",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525596",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525597",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525598",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525599",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525610",
+      "type": "CREDIT",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525614",
+      "issuer": "FINECOBANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "525621",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCA DI SASSARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "526211",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "526265",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "526274",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "526391",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NEOS FINANCE S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "526430",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "526492",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "526724",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CASSA DI RISPARMIO DI PARMA E PIACENZA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "526729",
+      "issuer": "SEDICIBANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "526736",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCA DI SASSARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "526739",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "526740",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "526741",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "526742",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "526743",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "FINECOBANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "526759",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "AGOS DUCATO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "526776",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "AGOS DUCATO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "526789",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCA SELLA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "526817",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CONSUM.IT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "526820",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "C-CARD",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "527378",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "527445",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "528088",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "528089",
+      "type": "CREDIT",
+      "issuer": "BANCA MONTE DEI PASCHI DI SIENA",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "528097",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "528158",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "528163",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "528164",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "528397",
+      "category": "STANDARD",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "528914",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "528954",
+      "issuer": "SEDICIBANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "529204",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "529410",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "529580",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "VINCENTO PAYMENT SOLUTIONS, LTD.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "529911",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "529920",
+      "issuer": "BANCA NAZIONALE DEL LAVORO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "529948",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "POSTE ITALIANE",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "530097",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "COMPASS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "530402",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "530404",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BANCA DI SASSARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "530462",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "VENETO BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "530503",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "TRANSACT NETWORK, LTD.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "530514",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "530538",
+      "type": "CREDIT",
+      "issuer": "C-CARD",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531154",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "UNIONE DI BANCHE ITALIANE S.C.P.A",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531158",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CHEBANCA! S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531170",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "UNIONE DI BANCHE ITALIANE S.C.P.A",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531171",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "KEY CLIENT CARDS AND SOLUTIONS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531172",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCA LOMBARDA E PIEMONTESE S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531173",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531174",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCA LOMBARDA E PIEMONTESE S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531175",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "KEY CLIENT CARDS AND SOLUTIONS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531176",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCA LOMBARDA E PIEMONTESE S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531177",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "KEY CLIENT CARDS AND SOLUTIONS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531178",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531247",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531248",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "ISTITUTO CENTRALE DELLE BANCHE DI CREDITO COOPERATIVO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531300",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "MOBILMAT ISTITUTO DI MONETA ELETTRONICA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531330",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531340",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CREDITO EMILIANO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531341",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDITO EMILIANO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531346",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "POSTE ITALIANE",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531349",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NEOS FINANCE S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531414",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCA DELLE MARCHE",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531540",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531541",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531542",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531647",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531818",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "AGOS DUCATO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531819",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "AGOS DUCATO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531833",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CASSA CENTRALE RAIFFEISEN DELL'ALTO ADIGE",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "531839",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "532428",
+      "type": "CREDIT",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "532969",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "C-CARD",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "532977",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CARREFOUR SERVIZI FINANZIARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "532979",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "533003",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "533004",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "533008",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "SETEFI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "533018",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "533028",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "533146",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "533148",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "533203",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "533217",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "533220",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "INTEGRA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "533222",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "TRANSACT NETWORK, LTD.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "533307",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCA POPOLARE DI MILANO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "533317",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "POSTE ITALIANE",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "533419",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "MOBILMAT ISTITUTO DI MONETA ELETTRONICA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "533533",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "KEY CLIENT CARDS AND SOLUTIONS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "533862",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCA POPOLARE DELL'ALTO ADIGE",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "533870",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "POSTE ITALIANE",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "533875",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCA SELLA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "533883",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "533894",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCA SELLA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "533902",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "533903",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCA POPOLARE DI MILANO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "533921",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "533922",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "533934",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "533950",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "534121",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CONSUM.IT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "534122",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "534207",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "534223",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "ICCREA BANCA S.P.A",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "534924",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "SETEFI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "535314",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "535921",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCA POPOLARE DI MILANO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "535925",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCA PADOVANA CREDITO COOPERATIVO S.C.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "535928",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "KEY CLIENT CARDS AND SOLUTIONS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "536414",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "POSTE ITALIANE",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "536497",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "KEY CLIENT CARDS AND SOLUTIONS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "536579",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "536590",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "KEY CLIENT CARDS AND SOLUTIONS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "538431",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "538606",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "538670",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "539622",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "C-CARD",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "539631",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "KEY CLIENT CARDS AND SOLUTIONS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "539659",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "539697",
+      "type": "CREDIT",
+      "category": "WORLD ELITE",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "539701",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "539832",
+      "type": "CREDIT",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "539964",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CONSUM.IT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "539965",
+      "category": "STANDARD",
+      "issuer": "CONSUM.IT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "539966",
+      "category": "STANDARD",
+      "issuer": "CONSUM.IT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "539970",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "ISTITUTO DI MONETA ELETTRONICA EUROPEO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "540003",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO POPOLARE SOCIETA COOPERATIVA",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "540005",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO POPOLARE SOCIETA COOPERATIVA",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "540027",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO POPOLARE SOCIETA COOPERATIVA",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "540028",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "540033",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO POPOLARE SOCIETA COOPERATIVA",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "540047",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO POPOLARE SOCIETA COOPERATIVA",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "540056",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO POPOLARE SOCIETA COOPERATIVA",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "540058",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO POPOLARE SOCIETA COOPERATIVA",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "540117",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCA NAZIONALE DEL LAVORO S.P.A. - BNL",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "540608",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "KEY CLIENT CARDS AND SOLUTIONS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "540610",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "KEY CLIENT CARDS AND SOLUTIONS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "540700",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCA NAZIONALE DEL LAVORO S.P.A. - BNL",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "540706",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCA NAZIONALE DEL LAVORO S.P.A. - BNL",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "540776",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "COMPASS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "541061",
+      "type": "CREDIT",
+      "issuer": "UNIONE DI BANCHE ITALIANE S.C.P.A",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "541099",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "UNIONE DI BANCHE ITALIANE S.C.P.A",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "541155",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "541189",
+      "type": "CREDIT",
+      "issuer": "UNIONE DI BANCHE ITALIANE S.C.P.A",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "541238",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCA SELLA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "541263",
+      "issuer": "SEDICIBANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "541265",
+      "issuer": "SEDICIBANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "541344",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "UNIONE DI BANCHE ITALIANE S.C.P.A",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "541348",
+      "type": "CREDIT",
+      "issuer": "UNIONE DI BANCHE ITALIANE S.C.P.A",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "541506",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "541517",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "541520",
+      "type": "CREDIT",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "541539",
+      "type": "CREDIT",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "541869",
+      "type": "CREDIT",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "541962",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "542075",
+      "type": "CREDIT",
+      "issuer": "UNIPOL BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "542188",
+      "type": "CREDIT",
+      "issuer": "COMPASS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "542216",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "542284",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "542532",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "542763",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "543013",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCA NAZIONALE DEL LAVORO S.P.A. - BNL",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "543079",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCA NAZIONALE DEL LAVORO S.P.A. - BNL",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "543251",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "AGOS DUCATO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "543297",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "FIDITALIA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "543305",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CASSA DI RISPARMIO DI PARMA E PIACENZA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "543409",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "543785",
+      "type": "CREDIT",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "543826",
+      "type": "CREDIT",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "544120",
+      "issuer": "SEDICIBANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "544196",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCA MONTE DEI PASCHI DI SIENA",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "544309",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UNIPOL BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "544364",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ISTITUTO CENTRALE DELLE BANCHE DI CREDITO COOPERATIVO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "544452",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "544567",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "KEY CLIENT CARDS AND SOLUTIONS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "544664",
+      "issuer": "CITIBANK",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "545035",
+      "type": "CREDIT",
+      "issuer": "SETEFI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "545092",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "ONEY S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "545159",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BANCA SELLA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "545168",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "B@NCA 24-7 S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "545177",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "UBS (ITALIA) S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "545251",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "ONEY S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "545801",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "545814",
+      "issuer": "ISTITUTO CENTRALE DELLE BANCHE POPOLARI ITALIANE",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "545826",
+      "issuer": "ISTITUTO CENTRALE DELLE BANCHE POPOLARI ITALIANE",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "545827",
+      "issuer": "ISTITUTO CENTRALE DELLE BANCHE POPOLARI ITALIANE",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "545828",
+      "issuer": "ISTITUTO CENTRALE DELLE BANCHE POPOLARI ITALIANE",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "545830",
+      "issuer": "ISTITUTO CENTRALE DELLE BANCHE POPOLARI ITALIANE",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "546010",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "546301",
+      "type": "CREDIT",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "546330",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "546491",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "AGOS DUCATO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "546569",
+      "type": "CREDIT",
+      "issuer": "BANCA POPOLARE DI MILANO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "546705",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "546861",
+      "type": "CREDIT",
+      "issuer": "CARREFOUR SERVIZI FINANZIARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "546980",
+      "type": "CREDIT",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "546981",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "546982",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "546983",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "546984",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "546985",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "546986",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "546987",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "546988",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "546989",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "547001",
+      "type": "CREDIT",
+      "issuer": "BBVA FINANZIA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "547126",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "POSTE ITALIANE",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "547176",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "547245",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "547317",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AGOS DUCATO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "547461",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CREDITO EMILIANO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "547485",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NEOS FINANCE S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "547654",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ISTITUTO CENTRALE DELLE BANCHE DI CREDITO COOPERATIVO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "547896",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNIPOL BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "548102",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCA MONTE DEI PASCHI DI SIENA",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "548103",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NEOS FINANCE S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "548224",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "548281",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "548398",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "ING DIRECT, N.V.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "548570",
+      "type": "CREDIT",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "548605",
+      "type": "CREDIT",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "548660",
+      "type": "CREDIT",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "548661",
+      "category": "STANDARD",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "548662",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "548663",
+      "type": "CREDIT",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "548664",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "548665",
+      "type": "CREDIT",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "548666",
+      "issuer": "FINDOMESTIC S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "548667",
+      "issuer": "FINDOMESTIC S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "548668",
+      "issuer": "FINDOMESTIC S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "548669",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FINDOMESTIC BANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "548687",
+      "type": "CREDIT",
+      "issuer": "BANCA NAZIONALE DEL LAVORO S.P.A. - BNL",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "548983",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CARREFOUR SERVIZI FINANZIARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "549547",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CONSUM.IT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "549548",
+      "category": "STANDARD",
+      "issuer": "CONSUM.IT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "549549",
+      "type": "CREDIT",
+      "issuer": "INTEGRA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "549551",
+      "type": "CREDIT",
+      "issuer": "INTEGRA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "549817",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "550075",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "550208",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "550209",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "550217",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "550445",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "552172",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCA MONTE DEI PASCHI DI SIENA",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "552178",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "552179",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "552180",
+      "category": "PLATINUM",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "552181",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "552308",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BANCA MONTE DEI PASCHI DI SIENA",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "552542",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCA SELLA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "552615",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "552641",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "552651",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "552660",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "552686",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "552734",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "B@NCA 24-7 S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "552752",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "B@NCA 24-7 S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "552759",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "B@NCA 24-7 S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "552872",
+      "issuer": "SEDICIBANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "552963",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA DI SASSARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "552975",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA MONTE DEI PASCHI DI SIENA",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "553059",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CONSUM.IT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "553082",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "553086",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA POPOLARE DI MILANO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "553087",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "553139",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "553140",
+      "issuer": "KEY CLIENT CARDS AND SOLUTIONS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "553389",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "INTESA SANPAOLO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "553426",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "553429",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "553430",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "553432",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "553435",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCA POPOLARE DI MILANO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "553439",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "553449",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCA POPOLARE DI MILANO",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "553456",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "553471",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "LUFTHANSA AIRPLUS SERVICEKARTEN GMBH",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "554360",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "COMPASS S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "554414",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "554732",
+      "type": "CREDIT",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "554842",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "556025",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "556040",
+      "issuer": "SEDICIBANCA S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "556634",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "556635",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "556636",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "556688",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCA DI SASSARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "557891",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SANTANDER CONSUMER BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "558257",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "B@NCA 24-7 S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "558382",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "558475",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "558476",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "558477",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "558478",
+      "issuer": "SERVIZI INTERBANCARI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "558493",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CREDITO EMILIANO S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "558606",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "558626",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "558627",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "558628",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "558639",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "558646",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "558686",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "558687",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "558688",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "558689",
+      "issuer": "CARTASI S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "558793",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "558794",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "558795",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "bin": "558796",
+      "issuer": "DEUTSCHE BANK S.P.A.",
+      "countries": [
+        "IT"
+      ]
+    }
+  ]
+}

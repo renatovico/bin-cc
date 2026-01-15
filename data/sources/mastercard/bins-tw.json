@@ -1,0 +1,2668 @@
+{
+  "bins": [
+    {
+      "bin": "511098",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "E. SUN COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "511846",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CATHAY UNITED BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "512076",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "512131",
+      "issuer": "TAISHIN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "512255",
+      "type": "CREDIT",
+      "issuer": "BANK SINOPAC",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "512296",
+      "type": "CREDIT",
+      "issuer": "TAIWAN BUSINESS BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "512308",
+      "type": "CREDIT",
+      "issuer": "E. SUN COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "512366",
+      "type": "CREDIT",
+      "issuer": "LAND BANK OF TAIWAN",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "512371",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK SINOPAC",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "512385",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HUA NAN COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "512400",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TAIWAN BUSINESS BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "512405",
+      "issuer": "GE CAPITAL CREDIT CARD COMPANY",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "512418",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AEON CREDIT CARD (TAIWAN) CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "512429",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "LAND BANK OF TAIWAN",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "514023",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TAIWAN COOPERATIVE BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "514036",
+      "issuer": "CHINESE BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "514069",
+      "issuer": "GRAND COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "514096",
+      "type": "CREDIT",
+      "issuer": "BANK SINOPAC",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "514112",
+      "issuer": "E. SUN COMMERCIAL BANK CO.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "514738",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "514861",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TA CHONG BANK, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "514869",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CATHAY UNITED BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "514872",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK SINOPAC",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "514875",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "YUANTA COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "514883",
+      "issuer": "CHINESE BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "514884",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "514899",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HUA NAN COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "514903",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SUNNY BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "514910",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TAIWAN COOPERATIVE BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "514914",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TAISHIN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "514935",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "514949",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "514951",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TAIWAN BUSINESS BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "514952",
+      "issuer": "TAIWAN BUSINESS BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "515352",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "515611",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FAR EASTERN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "515687",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "515699",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "515706",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRST COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "515709",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNION BANK OF TAIWAN",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "515711",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "YUANTA COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "515713",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CATHAY UNITED BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "515716",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TAIPEI FUBON COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "515717",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "E. SUN COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "515721",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TAISHIN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "515879",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "E. SUN COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "515898",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "E. SUN COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "517643",
+      "type": "CREDIT",
+      "issuer": "E. SUN COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "517654",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK (TAIWAN), LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "517666",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "KING'S TOWN BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "517821",
+      "issuer": "BANK OF OVERSEAS CHINESE",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "517948",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK (TAIWAN), LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "517951",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UNION BANK OF TAIWAN",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "517965",
+      "type": "CREDIT",
+      "issuer": "FIRST COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "518102",
+      "issuer": "AMRO BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "518153",
+      "type": "CREDIT",
+      "issuer": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "518154",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "518423",
+      "issuer": "UNITED WORLD CHINESE COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "518434",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK SINOPAC",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "518488",
+      "type": "CREDIT",
+      "issuer": "BANK SINOPAC",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "518523",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK SINOPAC",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "518729",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIRST COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "518754",
+      "type": "CREDIT",
+      "issuer": "FIRST COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "518826",
+      "type": "CREDIT",
+      "issuer": "CATHAY UNITED BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "518830",
+      "type": "CREDIT",
+      "issuer": "STANDARD CHARTERED BANK (TAIWAN), LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "518844",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CATHAY UNITED BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "518846",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STANDARD CHARTERED BANK (TAIWAN), LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "518935",
+      "type": "CREDIT",
+      "issuer": "AEON CREDIT CARD (TAIWAN) CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "519466",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANK SINOPAC",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "519596",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "FAR EASTERN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "519793",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "519925",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "520063",
+      "type": "CREDIT",
+      "issuer": "E. SUN COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "520067",
+      "type": "CREDIT",
+      "issuer": "FAR EASTERN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "520119",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "E. SUN COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "520511",
+      "issuer": "E. SUN COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "520994",
+      "type": "CREDIT",
+      "issuer": "FAR EASTERN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "521129",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "E. SUN COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "521821",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AEON CREDIT CARD (TAIWAN) CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "521885",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "522218",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF TAIWAN",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "522232",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "522257",
+      "issuer": "CHINATRUST COMMERCIAL BANK, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "522778",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "522781",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "522831",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "E. SUN COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "522848",
+      "type": "CREDIT",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "522857",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "TA CHONG BANK, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "523489",
+      "type": "CREDIT",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "523493",
+      "type": "CREDIT",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "523501",
+      "category": "STANDARD",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "523505",
+      "category": "STANDARD",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "523509",
+      "category": "STANDARD",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "523764",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "523900",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "KING'S TOWN BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "523903",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "E. SUN COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "523953",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CHINATRUST COMMERCIAL BANK, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "523973",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "523976",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "E. SUN COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524033",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF TAIWAN",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524079",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CHANG HWA COMMERCIAL BANK, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524095",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TAISHIN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524106",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CATHAY UNITED BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524108",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TAIPEI FUBON COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524115",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK SINOPAC",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524122",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "COSMOS BANK, TAIWAN",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524131",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524132",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UNION BANK OF TAIWAN",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524170",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524189",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK SINOPAC",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524196",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK SINOPAC",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524199",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK SINOPAC",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524203",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524214",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AEON CREDIT CARD (TAIWAN) CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524217",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SUNNY BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524227",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524228",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524229",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "YUANTA COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524231",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JIH SUN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524255",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "E. SUN COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524256",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524263",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524264",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524265",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524268",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524321",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF TAIWAN",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524569",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524578",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524585",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "524714",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIRST COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "525432",
+      "type": "CREDIT",
+      "issuer": "CHANG HWA COMMERCIAL BANK, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "525628",
+      "type": "CREDIT",
+      "issuer": "FIRST COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "526465",
+      "type": "CREDIT",
+      "issuer": "FAR EASTERN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "528041",
+      "type": "CREDIT",
+      "issuer": "E. SUN COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "528602",
+      "type": "CREDIT",
+      "issuer": "E. SUN COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "528950",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "E. SUN COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "528952",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JIH SUN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "529127",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "530661",
+      "issuer": "FINANCIAL INFORMATION SYSTEM CENTER",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "531338",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK SINOPAC",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "531426",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANK SINOPAC",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "533623",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANK SINOPAC",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "533749",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "539657",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "540316",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "E. SUN COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "540505",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "CITIBANK TAIWAN, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "540511",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "BANK OF TAIWAN",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "540520",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "TAIWAN COOPERATIVE BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "540557",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "LAND BANK OF TAIWAN",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "540641",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TAISHIN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "540805",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "CITIBANK TAIWAN, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "540807",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK SINOPAC",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "540829",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CHINATRUST COMMERCIAL BANK, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "540835",
+      "issuer": "ASIA TRUST AND INVESTMENT CORPORATION",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "540836",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TAISHIN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "540842",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CATHAY UNITED BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "540843",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK SINOPAC",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "540853",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "540894",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STANDARD CHARTERED BANK (TAIWAN), LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "540945",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TAIPEI FUBON COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "540962",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STANDARD CHARTERED BANK (TAIWAN), LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "540965",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "COSMOS BANK, TAIWAN",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "540966",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UNION BANK OF TAIWAN",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "540969",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIRST COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "540970",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TAIWAN COOPERATIVE BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "540971",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HUA NAN COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "540972",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TAICHUNG COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "540973",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "LAND BANK OF TAIWAN",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "540974",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TAIWAN BUSINESS BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "540991",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JIH SUN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "541150",
+      "type": "CREDIT",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "541151",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "541227",
+      "type": "CREDIT",
+      "issuer": "KING'S TOWN BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "541272",
+      "issuer": "AMRO BANK, N.V.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "541510",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CATHAY UNITED BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "541609",
+      "issuer": "TA CHONG BANK, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "541910",
+      "issuer": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "542136",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "542367",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "542440",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CATHAY UNITED BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "542462",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "E. SUN COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "542700",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "E. SUN COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "542728",
+      "issuer": "UNION BANK OF TAIWAN",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "542730",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "542802",
+      "type": "CREDIT",
+      "issuer": "ENTIE COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "542821",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ENTIE COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "542827",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC BANK (TAIWAN), LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543045",
+      "issuer": "NATIONAL CREDIT CARD CENTER",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543064",
+      "issuer": "UNITED WORLD CHINESE COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543371",
+      "type": "CREDIT",
+      "issuer": "TAISHIN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543372",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CHINATRUST COMMERCIAL BANK, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543373",
+      "type": "CREDIT",
+      "issuer": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543374",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK TAIWAN, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543375",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CATHAY UNITED BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543376",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK SINOPAC",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543377",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TAIPEI FUBON COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543378",
+      "type": "CREDIT",
+      "issuer": "STANDARD CHARTERED BANK (TAIWAN), LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543379",
+      "type": "CREDIT",
+      "issuer": "JIH SUN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543380",
+      "type": "CREDIT",
+      "issuer": "COSMOS BANK, TAIWAN",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543381",
+      "type": "CREDIT",
+      "issuer": "UNION BANK OF TAIWAN",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543382",
+      "type": "CREDIT",
+      "issuer": "TAISHIN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543383",
+      "type": "CREDIT",
+      "issuer": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543456",
+      "type": "CREDIT",
+      "issuer": "YUANTA COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543492",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "YUANTA COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543642",
+      "type": "CREDIT",
+      "issuer": "CHANG HWA COMMERCIAL BANK, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543648",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK SINOPAC",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543677",
+      "type": "CREDIT",
+      "issuer": "STANDARD CHARTERED BANK (TAIWAN), LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543734",
+      "issuer": "CHUNG-SHING BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543741",
+      "issuer": "FINANCIAL INFORMATION SYSTEM CENTER",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543742",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "FIRST COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543743",
+      "type": "CREDIT",
+      "issuer": "HUA NAN COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543754",
+      "type": "CREDIT",
+      "issuer": "LAND BANK OF TAIWAN",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543766",
+      "type": "CREDIT",
+      "issuer": "TAICHUNG COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543768",
+      "type": "CREDIT",
+      "issuer": "TAIWAN COOPERATIVE BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543770",
+      "type": "CREDIT",
+      "issuer": "TAIWAN BUSINESS BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543782",
+      "type": "CREDIT",
+      "issuer": "TAISHIN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543906",
+      "type": "CREDIT",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "543941",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HSBC BANK (TAIWAN), LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "544135",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FAR EASTERN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "544168",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CHANG HWA COMMERCIAL BANK, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "544228",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TAISHIN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "544936",
+      "type": "CREDIT",
+      "issuer": "CITIBANK TAIWAN, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "545202",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "TAIWAN COOPERATIVE BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "545203",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BANK SINOPAC",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "545278",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "545279",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "545295",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CITIBANK TAIWAN, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "545305",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "FAR EASTERN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "545402",
+      "type": "CREDIT",
+      "issuer": "TA CHONG BANK, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "545411",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TA CHONG BANK, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "545465",
+      "issuer": "BANK OF KAOHSIUNG",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "545647",
+      "type": "CREDIT",
+      "issuer": "SUNNY BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "545662",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "545663",
+      "issuer": "BANK OF AMERICA N.T. AND, S.A.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "545745",
+      "type": "CREDIT",
+      "issuer": "TAIWAN COOPERATIVE BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "545779",
+      "issuer": "INTERNATIONAL COMMERCIAL BANK OF CHINA",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "545787",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK (TAIWAN), LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "545933",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SUNNY BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "546600",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "TAIPEI FUBON COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "546601",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "546622",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "HUA NAN COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "546623",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "YUANTA COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "546678",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ENTIE COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "546696",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "CATHAY UNITED BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "546697",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "CHINATRUST COMMERCIAL BANK, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "546699",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "FAR EASTERN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "546706",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK SINOPAC",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "546851",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TAIWAN COOPERATIVE BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "546858",
+      "type": "CREDIT",
+      "issuer": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "546873",
+      "type": "CREDIT",
+      "issuer": "BANK OF TAIWAN",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "546874",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF TAIWAN",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "546883",
+      "issuer": "LAND BANK OF TAIWAN",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "547172",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "547740",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HSBC BANK (TAIWAN), LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "547767",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "547785",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CHINATRUST COMMERCIAL BANK, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "548028",
+      "issuer": "INTERNATIONAL COMMERCIAL BANK OF CHINA",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "548067",
+      "issuer": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "548189",
+      "issuer": "BANK OF OVERSEAS CHINESE",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "548368",
+      "type": "CREDIT",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "548369",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "548671",
+      "type": "CREDIT",
+      "issuer": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "548672",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "549064",
+      "issuer": "OVERSEAS CHINESE COMMERCIAL BANKING CORPORATION",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "549065",
+      "issuer": "HUA NAN COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "550057",
+      "issuer": "FIRST COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "550310",
+      "issuer": "AMRO BANK, N.V.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "550915",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "552000",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "CITIBANK TAIWAN, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "552003",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TAISHIN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "552031",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK (TAIWAN), LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "552032",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CATHAY UNITED BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "552046",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TAIPEI FUBON COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "552049",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CHINATRUST COMMERCIAL BANK, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "552054",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK SINOPAC",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "552082",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FAR EASTERN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "552117",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "COSMOS BANK, TAIWAN",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "552129",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "552156",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "552158",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CHANG HWA COMMERCIAL BANK, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "552159",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK (TAIWAN), LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "552166",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FAR EASTERN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "552197",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CATHAY UNITED BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "552199",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "E. SUN COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "552235",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "552243",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HUA NAN COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "552335",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "TAISHIN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "552345",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "UNION BANK OF TAIWAN",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "552372",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "STANDARD CHARTERED BANK (TAIWAN), LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "552515",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CITIBANK TAIWAN, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "552579",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CATHAY UNITED BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "552634",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "552902",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "TAIWAN BUSINESS BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "553149",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK SINOPAC",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "554385",
+      "type": "CREDIT",
+      "issuer": "FAR EASTERN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "554392",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FAR EASTERN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "554432",
+      "type": "CREDIT",
+      "issuer": "SUNNY BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "554433",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SUNNY BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "555029",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "E. SUN COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "555030",
+      "issuer": "CHINFON COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "555033",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "TAIPEI FUBON COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "555170",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "556048",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "556096",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "556949",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "FAR EASTERN INTERNATIONAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "557769",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CITIBANK TAIWAN, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "558805",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TAIPEI FUBON COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "558815",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK OF TAIWAN",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "558827",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRST COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "558830",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "558839",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TAIWAN COOPERATIVE BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "558849",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TAICHUNG COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "558851",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "COSMOS BANK, TAIWAN",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "558852",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "LAND BANK OF TAIWAN",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "558865",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TAICHUNG COMMERCIAL BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "558866",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TAIWAN BUSINESS BANK",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "558888",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CHINATRUST COMMERCIAL BANK, LTD.",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "558893",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "558901",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "COSMOS BANK, TAIWAN",
+      "countries": [
+        "TW"
+      ]
+    },
+    {
+      "bin": "559323",
+      "countries": [
+        "TW"
+      ]
+    }
+  ]
+}

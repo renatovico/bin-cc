@@ -1,0 +1,1528 @@
+{
+  "bins": [
+    {
+      "bin": "402363",
+      "type": "DEBIT",
+      "category": "PLUS",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "402672",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SAMPATH BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "404186",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL DEVELOPMENT BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "404187",
+      "issuer": "NDB BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "405113",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "405114",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "405534",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "410095",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "412901",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "413450",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "414395",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "415738",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HATTON NATIONAL BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "415739",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HATTON NATIONAL BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "415979",
+      "issuer": "CITIBANK",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "418122",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL DEVELOPMENT BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "419982",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "419983",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "421347",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "421390",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "421391",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "421533",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "421534",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "421535",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "421658",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "421675",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ICICI BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "421676",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ICICI BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "421689",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "COMMERCIAL BANK OF CEYLON PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "428398",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "428417",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "428421",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "430337",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "432571",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMMERCIAL BANK OF CEYLON PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "432572",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "COMMERCIAL BANK OF CEYLON PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "432705",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "434342",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "436193",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF CEYLON",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "436561",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "436572",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "436573",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "437509",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "437555",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL DEVELOPMENT BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "437556",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NATIONAL DEVELOPMENT BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "437796",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "437840",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "COMMERCIAL BANK OF CEYLON PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "442413",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "442442",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "444064",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SAMPATH BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "444099",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF CEYLON",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "450089",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "450582",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SAMPATH BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "450594",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "450595",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451103",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451106",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451120",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451121",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451122",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451123",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451129",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451130",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451131",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451136",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451137",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451147",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451149",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451151",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451152",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451162",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451165",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451167",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451169",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451170",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451181",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451182",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451183",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451190",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451191",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451192",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451193",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451195",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451470",
+      "issuer": "COMMERCIAL BANK OF CEYLON, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451488",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451698",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SAMPATH BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "451816",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "452064",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "453213",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SAMPATH BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "453771",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "453772",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "454428",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF CEYLON",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "454429",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF CEYLON",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "454486",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PEOPLES BANK",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "454487",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PEOPLES BANK",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "454488",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PEOPLES BANK",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "454489",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "PEOPLES BANK",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "455559",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF CEYLON",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "455560",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF CEYLON",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "457551",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "457907",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "458868",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "462970",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF CEYLON",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "462975",
+      "issuer": "PEOPLES BANK",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "463785",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF CEYLON",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "463907",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464911",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464930",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464931",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464935",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464936",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464937",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464940",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464947",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464948",
+      "type": "DEBIT",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464949",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464950",
+      "type": "DEBIT",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464953",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464956",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464957",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464967",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464968",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464972",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464973",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464974",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464975",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464976",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464977",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464979",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464980",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464981",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464982",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464983",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464986",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464989",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464991",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464992",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464994",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464996",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464997",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464998",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "464999",
+      "type": "DEBIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "467494",
+      "issuer": "HATTON NATIONAL BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "467913",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "468208",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF CEYLON",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "468804",
+      "issuer": "SEYLAN BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "469342",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "472006",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "472008",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "472009",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "472014",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "472019",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "472032",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "472039",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "472050",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "472053",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "472054",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "472060",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "472061",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "472062",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "472063",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "472064",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "472069",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "472076",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "472078",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "472149",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "472636",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "476649",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AXIS BANK LIMITED",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "476650",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "AXIS BANK LIMITED",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "476673",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "COMMERCIAL BANK OF CEYLON PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "483557",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF CEYLON",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "483558",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "483559",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "483560",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL SAVINGS BANK",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "483753",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "484072",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CITIZENS DEVELOPMENT BUSINESS FINANCE PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "484771",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "486295",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "486296",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "488910",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "HATTON NATIONAL BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "488938",
+      "issuer": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "488958",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "489011",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "489978",
+      "issuer": "SAMPATH BANK, LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "489979",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SAMPATH BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "489980",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SAMPATH BANK PLC",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "491013",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "491014",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "491039",
+      "type": "CREDIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "491050",
+      "type": "CREDIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "491061",
+      "type": "CREDIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "491069",
+      "type": "CREDIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "491070",
+      "type": "CREDIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "492293",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "LK"
+      ]
+    },
+    {
+      "bin": "492301",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PEOPLES BANK",
+      "countries": [
+        "LK"
+      ]
+    }
+  ]
+}

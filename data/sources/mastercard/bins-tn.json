@@ -1,0 +1,737 @@
+{
+  "bins": [
+    {
+      "bin": "510403",
+      "type": "CREDIT",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "510506",
+      "type": "CREDIT",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "511868",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "512629",
+      "type": "CREDIT",
+      "issuer": "TUNISIAN QATARI BANK",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "512632",
+      "type": "CREDIT",
+      "issuer": "TUNISIAN QATARI BANK",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "512979",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "518812",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "518813",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "518832",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "518833",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "519602",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "521065",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "521116",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "521117",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "521873",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "521874",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "522889",
+      "type": "CREDIT",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "524166",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "524167",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "525883",
+      "type": "CREDIT",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "530043",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "531803",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "531813",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANQUE TUNISO KOWEITIENNE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "532352",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "532579",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "533159",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANQUE FRANCO-TUNISIENNE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "533408",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "534286",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "535948",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "535956",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "535958",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "535959",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "535965",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "536507",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "536522",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "536526",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "539934",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "539971",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "539984",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANQUE TUNISO-LYBIENNE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "539990",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "539991",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "539992",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "539993",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "539994",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "539995",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "539996",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "539997",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "540097",
+      "type": "CREDIT",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "540218",
+      "type": "CREDIT",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "540230",
+      "type": "CREDIT",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "540484",
+      "type": "CREDIT",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "542026",
+      "type": "CREDIT",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "542095",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "542151",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "542717",
+      "type": "CREDIT",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "543037",
+      "type": "CREDIT",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "543222",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "543223",
+      "issuer": "BANQUE NATIONALE AGRICOLE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "543278",
+      "type": "CREDIT",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "543481",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "543852",
+      "type": "CREDIT",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "543887",
+      "type": "CREDIT",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "543956",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "544021",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "544065",
+      "type": "CREDIT",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "544086",
+      "type": "CREDIT",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "544125",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "544144",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "544151",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "544154",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "544155",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "544213",
+      "issuer": "ARAB TUNISIAN BANK",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "544419",
+      "issuer": "UNION INTERNATIONALE DE BANQUES",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "545324",
+      "type": "CREDIT",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "545574",
+      "type": "CREDIT",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "545623",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "545648",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "545666",
+      "type": "CREDIT",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "545947",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "546493",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "547125",
+      "type": "CREDIT",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "547154",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "547322",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "549188",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "549308",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "549490",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "549788",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TUNISIAN QATARI BANK",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "549893",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANQUE TUNISO KOWEITIENNE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "549895",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANQUE TUNISO KOWEITIENNE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "552578",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANQUE TUNISO-LYBIENNE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "552586",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANQUE TUNISO-LYBIENNE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "552782",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "557765",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "557789",
+      "issuer": "SOCIETE MONETIQUE-TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "557967",
+      "type": "CREDIT",
+      "issuer": "BANQUE TUNISO KOWEITIENNE",
+      "countries": [
+        "TN"
+      ]
+    }
+  ]
+}

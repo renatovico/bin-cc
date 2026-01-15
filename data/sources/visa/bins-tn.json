@@ -1,0 +1,827 @@
+{
+  "bins": [
+    {
+      "bin": "402379",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OFFICE NATIONAL DES POSTES",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "404383",
+      "issuer": "ARAB TUNISIAN BANK",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "404763",
+      "issuer": "UNION INTERNATIONALE DE BANQUES (UIB)",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "405664",
+      "issuer": "BANQUE NATIONALE AGRICOLE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "405764",
+      "issuer": "OFFICE NATIONAL DES POSTES",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "406216",
+      "issuer": "BEIT ETTAMWIL TOUNSI SAUDI (B.E.S.T.)",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "406284",
+      "issuer": "AMEN BANK",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "409619",
+      "issuer": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "409733",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "409734",
+      "type": "DEBIT",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "410668",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNION INTERNATIONALE DE BANQUES (UIB)",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "412474",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE ATTIJARI DE TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "412545",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE DE TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "412618",
+      "issuer": "BANQUE DE TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "414286",
+      "issuer": "SOCIETE TUNISIENNE DE BANQUE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "414629",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "AMEN BANK",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "414646",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE DE LHABITAT",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "416843",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "417007",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "417481",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "419769",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE ATTIJARI DE TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "419770",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "419771",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANQUE ATTIJARI DE TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "420109",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CITIBANK",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "422255",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE DE TUNISIE ET DES EMIRATS",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "422256",
+      "type": "DEBIT",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "424521",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TUNIS INTERNATIONAL BANK",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "424612",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNION BANCAIRE POUR LE COMMERCE ET LINDUSTRIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "425160",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "425341",
+      "issuer": "BANQUE DE LHABITAT",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "425342",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "UNION INTERNATIONALE DE BANQUES (UIB)",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "425343",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "UNION INTERNATIONALE DE BANQUES (UIB)",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "431404",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SOCIETE TUNISIENNE DE BANQUE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "431405",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SOCIETE TUNISIENNE DE BANQUE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "431428",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "UNION BANCAIRE POUR LE COMMERCE ET LINDUSTRIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "431429",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "UNION BANCAIRE POUR LE COMMERCE ET LINDUSTRIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "432042",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "432043",
+      "issuer": "BANQUE DE TUNISIE ET DES EMIRATS",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "432903",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB BANKING CORPORATION TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "432904",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ARAB BANKING CORPORATION TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "432905",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB BANKING CORPORATION TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "432906",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "ARAB BANKING CORPORATION TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "432907",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB BANKING CORPORATION TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "432908",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "ARAB BANKING CORPORATION TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "432909",
+      "issuer": "ARAB BANKING CORPORATION TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "433304",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ARAB TUNISIAN BANK",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "433800",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "ARAB TUNISIAN BANK",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "433801",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ARAB TUNISIAN BANK",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "440500",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "440501",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNION INTERNATIONALE DE BANQUES (UIB)",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "440502",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "UNION INTERNATIONALE DE BANQUES (UIB)",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "440648",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE DE TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "440649",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANQUE DE TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "443958",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE DE TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "446015",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "446026",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "446027",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "446584",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "446966",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "446967",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "450921",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TUNIS INTERNATIONAL BANK",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "454144",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "454401",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "455040",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE NATIONALE AGRICOLE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "455041",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE NATIONALE AGRICOLE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "455042",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB TUNISIAN BANK",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "455043",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB TUNISIAN BANK",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "455044",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BEIT ETTAMWIL TOUNSI SAUDI (B.E.S.T.)",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "455045",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BEIT ETTAMWIL TOUNSI SAUDI (B.E.S.T.)",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "455563",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AMEN BANK",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "455564",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "AMEN BANK",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "455581",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNION BANCAIRE POUR LE COMMERCE ET LINDUSTRIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "455582",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNION BANCAIRE POUR LE COMMERCE ET LINDUSTRIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "455593",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AMEN BANK",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "455769",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE DE TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "456782",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE ATTIJARI DE TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "456894",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE DE TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "465245",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE NATIONALE AGRICOLE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "465246",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANQUE NATIONALE AGRICOLE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "467935",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OFFICE NATIONAL DES POSTES",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "471425",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "471426",
+      "type": "DEBIT",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "471427",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "472860",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "474156",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE DE TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "474157",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE DE TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "474200",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OFFICE NATIONAL DES POSTES",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "474201",
+      "issuer": "OFFICE NATIONAL DES POSTES",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "479761",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE DE LHABITAT",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "479762",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE DE LHABITAT",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "489977",
+      "issuer": "BANQUE DU SUD",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "490600",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SOCIETE TUNISIENNE DE BANQUE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "490601",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SOCIETE TUNISIENNE DE BANQUE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "490998",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "491219",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "491220",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "493836",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE DU SUD",
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "bin": "494364",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "SOCIETE TUNISIENNE DE BANQUE",
+      "countries": [
+        "TN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "bins": [
+    {
+      "bin": "402679",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "403073",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "403074",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "403350",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "405825",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ZAMBIA NATIONAL COMMERCIAL BANK, LTD.",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "406934",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "STANBIC BANK ZAMBIA, LTD.",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "406935",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANBIC BANK ZAMBIA, LTD.",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "406936",
+      "issuer": "STANBIC BANK ZAMBIA, LTD.",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "406937",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "406938",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "410622",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BARCLAYS BANK OF ZAMBIA, LTD.",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "412140",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "412511",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD CHARTERED BANK ZAMBIA PLC",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "414626",
+      "issuer": "STANDARD CHARTERED BANK ZAMBIA, LTD.",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "415013",
+      "issuer": "BARCLAYS BANK OF ZAMBIA, LTD.",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "419526",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "422129",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK ZAMBIA PLC",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "422810",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD CHARTERED BANK ZAMBIA, LTD.",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "426090",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "426091",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "426092",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "426093",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "426094",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "428649",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "440883",
+      "issuer": "ZAMBIA NATIONAL COMMERCIAL BANK, LTD.",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "444577",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "STANBIC BANK ZAMBIA, LTD.",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "446927",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "446928",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "455086",
+      "issuer": "BARCLAYS BANK OF ZAMBIA, LTD.",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "457902",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "458249",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "467852",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FIRST USA BANK",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "467853",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FIRST USA BANK",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "471443",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "471444",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "472457",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "472458",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "472459",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "476076",
+      "issuer": "ZAMBIA NATIONAL COMMERCIAL BANK, LTD.",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "486037",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "486056",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "496042",
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "bin": "496043",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INVESTRUST BANK PLC",
+      "countries": [
+        "ZM"
+      ]
+    }
+  ]
+}

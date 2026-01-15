@@ -1,0 +1,1535 @@
+{
+  "bins": [
+    {
+      "bin": "400925",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "402395",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO UNIVERSAL S.A. UNIBANCO",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "402479",
+      "issuer": "BANCO DE GUAYAQUIL, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "402748",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BOLIVARIANO, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "402749",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BOLIVARIANO, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "403378",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE MACHALA, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "404808",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "404837",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "404838",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "404839",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "404840",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "405786",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LOJA, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "405987",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE LOJA, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "407345",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO GENERAL RUMINAHUI, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "407346",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO GENERAL RUMINAHUI, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "407347",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO GENERAL RUMINAHUI, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "407426",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "407583",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "407850",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "407851",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "408386",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "409806",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "410283",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BOLIVARIANO, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "410284",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BOLIVARIANO, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "410285",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO BOLIVARIANO, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "410887",
+      "issuer": "SERVICIOS BANKCARD, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "411076",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE GUAYAQUIL, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "411077",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "INTERDIN S.A. EMISORA Y ADMINISTRADORA DE TARJETAS DE CREDIT",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "411078",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DEL AUSTRO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "414757",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "INTERDIN S.A. EMISORA Y ADMINISTRADORA DE TARJETAS DE CREDITO",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "414760",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO DEL AUSTRO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "414785",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "415240",
+      "issuer": "SOLBANCO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "415241",
+      "issuer": "SOLBANCO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "415242",
+      "issuer": "SOLBANCO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "415243",
+      "issuer": "SOLBANCO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "415465",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTERDIN S.A. EMISORA Y ADMINISTRADORA DE TARJETAS DE CREDIT",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "415788",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "417074",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE MACHALA, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "417882",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE MACHALA, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "417883",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE MACHALA, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "417945",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO TERRITORIAL, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "418788",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "419560",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "419561",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "421883",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL AUSTRO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "421906",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERNACIONAL, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "421907",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO INTERNACIONAL, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "422019",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE MACHALA, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "422139",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERNACIONAL, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "422140",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERNACIONAL, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "422148",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL PACIFICO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "422226",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "422249",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BOLIVARIANO, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "422282",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO BOLIVARIANO, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "422602",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DEL AUSTRO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "422603",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL AUSTRO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "423200",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "CHASE MANHATTAN BANK",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "423771",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "BANCO DEL PACIFICO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "426018",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO DEL PACIFICO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "427698",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "428930",
+      "issuer": "BANCO DEL PACIFICO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "432448",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DEL PACIFICO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "433425",
+      "issuer": "BANCO DE CREDITO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "433426",
+      "issuer": "BANCO DE CREDITO E HIPOTECARIO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "433427",
+      "issuer": "BANCO DE CREDITO E HIPOTECARIO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "433437",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO DE GUAYAQUIL, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "433820",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "434900",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "434901",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "434947",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "434948",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "434962",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL AUSTRO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "436402",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "436403",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "438106",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "438107",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "438108",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "439098",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "439471",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO INTERNACIONAL, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "439472",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO INTERNACIONAL, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "439473",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INTERNACIONAL, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "439474",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO INTERNACIONAL, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "440699",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DEL AUSTRO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "440826",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DEL AUSTRO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "442288",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "442289",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "442290",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "444088",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO BOLIVARIANO, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "445444",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "445445",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "445446",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "445447",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "446004",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "446005",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "446141",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "447889",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO UNIVERSAL S.A. UNIBANCO",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "447890",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO UNIVERSAL S.A. UNIBANCO",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "449741",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO AMAZONAS, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "449742",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO AMAZONAS, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "449743",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO AMAZONAS, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "450059",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "450080",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "450081",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "INTERDIN S.A. EMISORA Y ADMINISTRADORA DE TARJETAS DE CREDIT",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "450661",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "451375",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BOLIVARIANO, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "451432",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "454063",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE GUAYAQUIL, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "454064",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE GUAYAQUIL, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "454086",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE GUAYAQUIL, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "454437",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DE GUAYAQUIL, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "454460",
+      "issuer": "BANCO DEL AZUAY",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "454461",
+      "issuer": "BANCO DEL AZUAY",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "454729",
+      "issuer": "BANCO DE CREDITO E HIPOTECARIO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "454730",
+      "issuer": "BANCO DE CREDITO E HIPOTECARIO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "454731",
+      "issuer": "BANCO DE CREDITO E HIPOTECARIO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "454819",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "454820",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "454824",
+      "issuer": "FILANBANCO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "454854",
+      "issuer": "FILIAL LATINOAMERICANA DE TARJETAS DE CREDITO FILA",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "455177",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL PACIFICO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "455178",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL PACIFICO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "455179",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DEL PACIFICO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "455191",
+      "issuer": "BANCO BOLIVARIANO, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "455552",
+      "issuer": "BANCO DEL AZUAY",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "455553",
+      "issuer": "BANCO DEL AZUAY",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "455556",
+      "issuer": "FILANBANCO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "455587",
+      "issuer": "FILANBANCO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "456358",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL AUSTRO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "456359",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DEL AUSTRO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "456363",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BOLIVARIANO, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "456509",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "456510",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "456511",
+      "issuer": "BANCO LA PREVISORA",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "456512",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "456787",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO COMERCIAL DE MANABI, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "456788",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL DE MANABI, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "456789",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL DE MANABI, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "456872",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE MACHALA, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "456889",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE MACHALA, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "456898",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL AUSTRO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "456899",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE MACHALA, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "459353",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "459424",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "462943",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "465775",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO INTERNACIONAL, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "468570",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "468571",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "469716",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "469717",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "473293",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "473294",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "473296",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "474514",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "475398",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "476397",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "476942",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "477179",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "BANCO DE MACHALA, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "477275",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL PACIFICO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "477276",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DEL PACIFICO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "477281",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "480273",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "484696",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "484697",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "489956",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ASOCIACION MUTUALISTA DE AHORRO Y CREDITO PARA LA VIVIENDA A",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "489957",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ASOCIACION MUTUALISTA DE AHORRO Y CREDITO PARA LA VIVIENDA A",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "489958",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ASOCIACION MUTUALISTA DE AHORRO Y CREDITO PARA LA VIVIENDA AZUAY",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "491659",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO AMAZONAS, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "492418",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO BOLIVARIANO, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "493127",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO AMAZONAS, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "493128",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO AMAZONAS, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "493129",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO AMAZONAS, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "493176",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL AUSTRO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "493779",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "493849",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BOLIVARIANO, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "493850",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BOLIVARIANO, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "494391",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO DEL AUSTRO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "496602",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "498892",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO BOLIVARIANO, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "499801",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "INTERDIN S.A. EMISORA Y ADMINISTRADORA DE TARJETAS DE CREDIT",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "499802",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "INTERDIN S.A. EMISORA Y ADMINISTRADORA DE TARJETAS DE CREDITO",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "499883",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROMERICA, S.A.",
+      "countries": [
+        "EC"
+      ]
+    }
+  ]
+}

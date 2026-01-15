@@ -1,0 +1,157 @@
+{
+  "bins": [
+    {
+      "bin": "408411",
+      "type": "DEBIT",
+      "countries": [
+        "LY"
+      ]
+    },
+    {
+      "bin": "408412",
+      "type": "DEBIT",
+      "countries": [
+        "LY"
+      ]
+    },
+    {
+      "bin": "408413",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "LY"
+      ]
+    },
+    {
+      "bin": "417275",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANK OF COMMERCE AND DEVELOPMENT (LJSC)",
+      "countries": [
+        "LY"
+      ]
+    },
+    {
+      "bin": "417276",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF COMMERCE AND DEVELOPMENT (LJSC)",
+      "countries": [
+        "LY"
+      ]
+    },
+    {
+      "bin": "417277",
+      "issuer": "BANK OF COMMERCE AND DEVELOPMENT (LJSC)",
+      "countries": [
+        "LY"
+      ]
+    },
+    {
+      "bin": "424310",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF COMMERCE AND DEVELOPMENT (LJSC)",
+      "countries": [
+        "LY"
+      ]
+    },
+    {
+      "bin": "426871",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AMAN BANK FOR COMMERCE AND INVESTMENT",
+      "countries": [
+        "LY"
+      ]
+    },
+    {
+      "bin": "434973",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "AMAN BANK FOR COMMERCE AND INVESTMENT",
+      "countries": [
+        "LY"
+      ]
+    },
+    {
+      "bin": "437476",
+      "countries": [
+        "LY"
+      ]
+    },
+    {
+      "bin": "445005",
+      "type": "DEBIT",
+      "countries": [
+        "LY"
+      ]
+    },
+    {
+      "bin": "445006",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "LY"
+      ]
+    },
+    {
+      "bin": "445007",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "LY"
+      ]
+    },
+    {
+      "bin": "458732",
+      "type": "DEBIT",
+      "category": "GIFT",
+      "countries": [
+        "LY"
+      ]
+    },
+    {
+      "bin": "458844",
+      "countries": [
+        "LY"
+      ]
+    },
+    {
+      "bin": "458845",
+      "countries": [
+        "LY"
+      ]
+    },
+    {
+      "bin": "458846",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "LY"
+      ]
+    },
+    {
+      "bin": "458847",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "LY"
+      ]
+    },
+    {
+      "bin": "462252",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "LY"
+      ]
+    },
+    {
+      "bin": "470489",
+      "countries": [
+        "LY"
+      ]
+    }
+  ]
+}

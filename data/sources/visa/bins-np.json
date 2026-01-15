@@ -1,0 +1,713 @@
+{
+  "bins": [
+    {
+      "bin": "405019",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "WELLS FARGO BANK NEVADA, N.A.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "405544",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "405633",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NEPAL INVESTMENT BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "405634",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NEPAL INVESTMENT BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "405635",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NEPAL INVESTMENT BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "405636",
+      "issuer": "NEPAL INVESTMENT BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "405690",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NEPAL INVESTMENT BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "405691",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NEPAL INVESTMENT BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "405692",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NEPAL INVESTMENT BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "406142",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "406143",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "406750",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NABIL BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "409072",
+      "issuer": "NABIL BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "410102",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HIMALAYAN BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "410148",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HIMALAYAN BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "410149",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HIMALAYAN BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "410744",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD CHARTERED BANK NEPAL, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "418120",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "418121",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "418240",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "421104",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "421105",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "422627",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NABIL BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "428461",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HIMALAYAN BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "431792",
+      "type": "CREDIT",
+      "category": "ELECTRON",
+      "issuer": "NEPAL DEVELOPMENT BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "433698",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NEPAL INVESTMENT BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "436439",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NEPAL INVESTMENT BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "436440",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "436441",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NEPAL INVESTMENT BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "436442",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "436443",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NEPAL INVESTMENT BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "436444",
+      "type": "DEBIT",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "436497",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "436498",
+      "type": "DEBIT",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "437369",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "437370",
+      "type": "DEBIT",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "439076",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "439128",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KUMARI BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "439129",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KUMARI BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "439371",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NABIL BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "440403",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HIMALAYAN BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "440404",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "HIMALAYAN BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "440449",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HIMALAYAN BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "440450",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HIMALAYAN BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "440467",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HIMALAYAN BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "440468",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HIMALAYAN BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "442440",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "443083",
+      "issuer": "NEPAL DEVELOPMENT BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "444328",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "451132",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NABIL BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "452065",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "457412",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "457481",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "457484",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "457709",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "457987",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NABIL BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "458172",
+      "issuer": "HIMALAYAN BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "458701",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NABIL BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "459521",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "461743",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "461993",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "461994",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "462261",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF KATHMANDU, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "462262",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF KATHMANDU, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "462416",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "463724",
+      "issuer": "NEPAL GRINDLAYS BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "463725",
+      "issuer": "NEPAL GRINDLAYS BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "463726",
+      "issuer": "NEPAL GRINDLAYS BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "466042",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "466043",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "466044",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "466046",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "466293",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "470553",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NEPAL INVESTMENT BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "470554",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "474830",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "477550",
+      "issuer": "NEPAL GRINDLAYS BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "483751",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NMB BANK LIMITED",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "483752",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NMB BANK LIMITED",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "484814",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "484815",
+      "type": "DEBIT",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "486266",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "486267",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "GLOBAL BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "486268",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "486278",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF KATHMANDU, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "489743",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "492211",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NEPAL GRINDLAYS BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "492469",
+      "issuer": "KUMARI BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    },
+    {
+      "bin": "493811",
+      "issuer": "NEPAL GRINDLAYS BANK, LTD.",
+      "countries": [
+        "NP"
+      ]
+    }
+  ]
+}

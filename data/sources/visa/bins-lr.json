@@ -1,0 +1,48 @@
+{
+  "bins": [
+    {
+      "bin": "408383",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "LR"
+      ]
+    },
+    {
+      "bin": "444583",
+      "countries": [
+        "LR"
+      ]
+    },
+    {
+      "bin": "458806",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LR"
+      ]
+    },
+    {
+      "bin": "458807",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "LR"
+      ]
+    },
+    {
+      "bin": "458867",
+      "countries": [
+        "LR"
+      ]
+    },
+    {
+      "bin": "484684",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "LR"
+      ]
+    }
+  ]
+}

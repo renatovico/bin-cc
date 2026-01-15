@@ -1,0 +1,772 @@
+{
+  "bins": [
+    {
+      "bin": "400222",
+      "issuer": "MADURO AND CURIEL'S BANK, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "407326",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "411812",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "411818",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EXPRINTER INTERNATIONAL BANK, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "411819",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "EXPRINTER INTERNATIONAL BANK, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "414784",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "415205",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN), LTD.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "415206",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN), LTD.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "416800",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "416819",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "416820",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "416821",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "419528",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "422220",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MADURO AND CURIEL'S BANK, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "422234",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GIROBANK, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "422235",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "422236",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "GIROBANK, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "422722",
+      "issuer": "ANTILLES BANKING CORPORATION (CURACAO) N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "423619",
+      "issuer": "CITCO BANKING CORPORATION, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "423690",
+      "issuer": "MADURO & CURIELS BANK N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "430302",
+      "issuer": "RBTT BANK, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "430383",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "430483",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "430913",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN), LTD.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "430917",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN), LTD.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "430918",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN), LTD.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "430919",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "430971",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "430995",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "431008",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "RBTT BANK, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "431009",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "RBTT BANK, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "432113",
+      "issuer": "GIROBANK, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "432913",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "432916",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "432980",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "432981",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "432982",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "434655",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "434656",
+      "issuer": "FIRST CURACAO INTERNATIONAL BANK, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "434657",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "434658",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "434659",
+      "issuer": "FIRST CURACAO INTERNATIONAL BANK, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "434660",
+      "issuer": "FIRST CURACAO INTERNATIONAL BANK, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "435150",
+      "issuer": "CITCO BANKING CORPORATION, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "438233",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MADURO AND CURIEL'S BANK, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "438271",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "441530",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "441717",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GIRO CURACAO N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "441718",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "443951",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "443975",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN), LTD.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "443976",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN), LTD.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "443984",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "446850",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "448013",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "RBTT BANK, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "448172",
+      "issuer": "GIRO CURACAO N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "448744",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "448745",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN), LTD.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "450311",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "RBTT BANK, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "450312",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RBTT BANK, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "450313",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "RBTT BANK, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "450805",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "450807",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN), LTD.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "451878",
+      "issuer": "BANCO DI CARIBE, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "451879",
+      "issuer": "BANCO DI CARIBE, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "455149",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "455705",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DI CARIBE, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "455706",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DI CARIBE, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "456339",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MADURO AND CURIEL'S BANK, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "456349",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "MADURO AND CURIEL'S BANK, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "456369",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITCO BANKING CORPORATION, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "456370",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITCO BANKING CORPORATION, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "456371",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CITCO BANKING CORPORATION, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "456395",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MADURO AND CURIEL'S BANK, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "456396",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "MADURO AND CURIEL'S BANK, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "459491",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "459492",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "467471",
+      "issuer": "GIROBANK, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "468579",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "469274",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "469275",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "470418",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "470419",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "470445",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "470446",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "473123",
+      "issuer": "RBTT BANK, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "473124",
+      "issuer": "RBTT BANK, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "479472",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "479473",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CITCO BANKING CORPORATION, N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "479478",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "480220",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "491062",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "491269",
+      "issuer": "MADURO & CURIELS BANK N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "491287",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ANTILLES BANKING CORPORATION (CURACAO) N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "491289",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ANTILLES BANKING CORPORATION (CURACAO) N.V.",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "491290",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "CW"
+      ]
+    },
+    {
+      "bin": "499926",
+      "issuer": "BANCO PROVINCIAL OVERSEAS, N.V.",
+      "countries": [
+        "CW"
+      ]
+    }
+  ]
+}

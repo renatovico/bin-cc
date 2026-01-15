@@ -1,0 +1,1326 @@
+{
+  "bins": [
+    {
+      "bin": "510245",
+      "type": "CREDIT",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "510246",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "511865",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "512593",
+      "type": "CREDIT",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "512668",
+      "type": "CREDIT",
+      "issuer": "INTERNATIONAL CARD SERVICES BV",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "512715",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "INTERNATIONAL CARD SERVICES BV",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "513491",
+      "type": "CREDIT",
+      "issuer": "BUY WAY PERSONAL FINANCE, S.A.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "516441",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "516548",
+      "type": "DEBIT",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "517535",
+      "type": "CREDIT",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "517854",
+      "type": "CREDIT",
+      "issuer": "INTERNATIONAL CARD SERVICES BV",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "519367",
+      "type": "CREDIT",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "519376",
+      "type": "CREDIT",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "519377",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "520697",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "520914",
+      "issuer": "BANK CARD COMPANY, S.A.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "520984",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "INTERNATIONAL CARD SERVICES BV",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "521142",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "521890",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "522348",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "522354",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "525444",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "525636",
+      "type": "CREDIT",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "525665",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "INTERNATIONAL CARD SERVICES BV",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "526726",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCA MONTE PASCHI BELGIO, S.A.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "527534",
+      "type": "CREDIT",
+      "issuer": "BUY WAY PERSONAL FINANCE, S.A.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "528543",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "529036",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "529585",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "AXA BANK EUROPE, N.V.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "530115",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BUY WAY PERSONAL FINANCE, S.A.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "530558",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "530700",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BUY WAY PERSONAL FINANCE, S.A.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "530784",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "531179",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "531208",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "533810",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "534226",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "536496",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "536521",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BUY WAY PERSONAL FINANCE, S.A.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "538900",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "539815",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "TRANSACT NETWORK, LTD.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "539848",
+      "type": "CREDIT",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "539853",
+      "type": "CREDIT",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "541327",
+      "type": "CREDIT",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "541333",
+      "issuer": "EUROPAY INTERNATIONAL, S.A.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "541353",
+      "type": "CREDIT",
+      "issuer": "MASTERCARD EUROPE",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "542333",
+      "issuer": "EUROPAY INTERNATIONAL, S.A.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "542534",
+      "issuer": "EUROPAY INTERNATIONAL, S.A.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "543933",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "543968",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "544036",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "544037",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "544038",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "544043",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "544050",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "544056",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "544060",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "544124",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "544327",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "544333",
+      "issuer": "EUROPAY INTERNATIONAL, S.A.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "545333",
+      "issuer": "EUROPAY INTERNATIONAL, S.A.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "545681",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "546333",
+      "issuer": "EUROPAY INTERNATIONAL, S.A.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "546464",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "546898",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "CITIBANK BELGIUM S.A./, N.V.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "546899",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "CITIBANK BELGIUM S.A./, N.V.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "547027",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "547033",
+      "type": "CREDIT",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "547539",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "547549",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "547685",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "547750",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "547833",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "547835",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "547836",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "547837",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "547838",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "547841",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "549526",
+      "type": "CREDIT",
+      "issuer": "COFIDIS, S.A.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "549728",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "550091",
+      "issuer": "EUROPAY BELGIUM (BACOB, C.V.)",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "550092",
+      "issuer": "EUROPAY BELGIUM (ASLK BANK)",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "552041",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "552614",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "554192",
+      "issuer": "EUROPAY INTERNATIONAL, S.A.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "554505",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "554664",
+      "issuer": "EUROPAY BELGIUM S.C.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "554741",
+      "issuer": "EUROPAY INTERNATIONAL, S.A.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "558737",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "558783",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "558799",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "EUROPAY BELGIUM S.C.R.L.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559700",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559701",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559702",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559703",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559704",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559705",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559706",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559708",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559709",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559710",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559711",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559712",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559713",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559714",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559715",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559716",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559717",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559718",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559719",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559720",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559721",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559722",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559723",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559724",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559725",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559726",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559727",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559728",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559729",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559730",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559731",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559732",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559733",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559734",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559735",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559736",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559737",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559738",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559739",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559740",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559741",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559742",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559743",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559744",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559745",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559746",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559747",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559748",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559749",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559750",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559751",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559752",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559753",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559754",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559755",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559756",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559757",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559758",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559759",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559760",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559761",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559762",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559763",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559764",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559765",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559766",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559767",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559768",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559769",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559770",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559771",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559772",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559773",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559774",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559775",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559776",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559777",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559778",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559779",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559780",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559781",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559782",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559783",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559784",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559785",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559786",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559787",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559788",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559789",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559790",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559791",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559792",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559793",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559794",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559795",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559796",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559797",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559798",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "559799",
+      "countries": [
+        "BE"
+      ]
+    }
+  ]
+}

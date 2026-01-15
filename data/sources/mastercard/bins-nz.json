@@ -1,0 +1,361 @@
+{
+  "bins": [
+    {
+      "bin": "510753",
+      "type": "DEBIT",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "515682",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "WESTPAC NEW ZEALAND, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "518396",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "WESTPAC NEW ZEALAND, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "519163",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "KIWIBANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "523404",
+      "type": "CREDIT",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "524732",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "KIWIBANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "527628",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "530801",
+      "issuer": "ANZ NATIONAL BANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "531496",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANK OF NEW ZEALAND",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "533389",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "538419",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "538640",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "538643",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "539757",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "540207",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF NEW ZEALAND",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "540221",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ANZ NATIONAL BANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "540223",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "WESTPAC NEW ZEALAND, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "540224",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "540728",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ANZ NATIONAL BANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "542108",
+      "type": "CREDIT",
+      "issuer": "ANZ NATIONAL BANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "542764",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ANZ NATIONAL BANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "542766",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ANZ NATIONAL BANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "542782",
+      "issuer": "ASB BANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "543250",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK OF NEW ZEALAND",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "543335",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "KIWIBANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "543678",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "WESTPAC NEW ZEALAND, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "544291",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "KIWIBANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "545023",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "KIWIBANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "546256",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ASB BANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "546257",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ASB BANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "547343",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ANZ NATIONAL BANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "547433",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "WESTPAC NEW ZEALAND, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "548848",
+      "issuer": "ASB BANK LIMITED",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "551200",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "ANZ NATIONAL BANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "551201",
+      "type": "DEBIT",
+      "issuer": "ANZ NATIONAL BANK LIMITED",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "551202",
+      "type": "DEBIT",
+      "issuer": "ANZ NATIONAL BANK LIMITED",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "551203",
+      "type": "DEBIT",
+      "issuer": "ANZ NATIONAL BANK LIMITED",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "551204",
+      "type": "DEBIT",
+      "issuer": "ANZ NATIONAL BANK LIMITED",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "552923",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "552933",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "CITIBANK",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "553410",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CITIBANK",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "555230",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "556047",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "KIWIBANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "bin": "558251",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ANZ NATIONAL BANK, LTD.",
+      "countries": [
+        "NZ"
+      ]
+    }
+  ]
+}

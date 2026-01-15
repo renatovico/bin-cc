@@ -1,0 +1,85 @@
+{
+  "bins": [
+    {
+      "bin": "510036",
+      "issuer": "BANC SABADELL D'ANDORRA, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "530156",
+      "issuer": "BANC AGRICOL I COMMERCIAL D'ANDORRA, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "540073",
+      "type": "CREDIT",
+      "issuer": "BANCA MORA, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "542056",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCA PRIVADA D'ANDORRA, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "542165",
+      "type": "CREDIT",
+      "issuer": "ANDORRA BANC AGRICOL REIG, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "547205",
+      "type": "CREDIT",
+      "issuer": "CREDIT ANDORRA, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "552150",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ANDORRA BANC AGRICOL REIG, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "554706",
+      "type": "CREDIT",
+      "issuer": "CREDIT ANDORRA, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "554727",
+      "type": "CREDIT",
+      "issuer": "CREDIT ANDORRA, S.A.",
+      "countries": [
+        "AD"
+      ]
+    },
+    {
+      "bin": "558792",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "ANDORRA BANC AGRICOL REIG, S.A.",
+      "countries": [
+        "AD"
+      ]
+    }
+  ]
+}

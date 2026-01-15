@@ -1,0 +1,124 @@
+{
+  "bins": [
+    {
+      "bin": "512081",
+      "issuer": "BARCLAYS BANK TANZANIA, LTD.",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "519257",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "519611",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "522196",
+      "issuer": "FBME BANK, LTD.",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "524281",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "525454",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EXIM BANK TANZANIA, LTD.",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "526396",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FBME BANK, LTD.",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "526971",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "528648",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "534259",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EXIM BANK TANZANIA, LTD.",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "537029",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "CRDB BANK PLC",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "539593",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "539943",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "CRDB BANK PLC",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "552116",
+      "type": "CREDIT",
+      "issuer": "FBME BANK, LTD.",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "552471",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "555920",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "EXIM BANK TANZANIA, LTD.",
+      "countries": [
+        "TZ"
+      ]
+    }
+  ]
+}

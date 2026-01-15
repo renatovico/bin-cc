@@ -1,0 +1,3273 @@
+{
+  "bins": [
+    {
+      "bin": "400443",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "400486",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "400605",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO FACIL, S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "400818",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PRESTACOMER S.A. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "400819",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCOPPEL S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "400820",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO AHORRO FAMSA S.A., INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "401899",
+      "issuer": "IXE BANCO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "402029",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "COMMERCIAL NATIONAL BANK OF PENNSYLVANIA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "402145",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO INVEX S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "402318",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "IXE BANCO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "402338",
+      "issuer": "SCOTIABANK INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "402514",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GE CAPITAL BANK S.A., INSTITUCION DE BANCA MULTIPLE-GE CAPITAL GRUPO FINANC.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "402687",
+      "issuer": "HSBC MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "402766",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO AZTECA S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "402934",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "403506",
+      "type": "CREDIT",
+      "issuer": "BANAMEX CITI CARD",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "403703",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "403707",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "403856",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "404360",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO INBURSA, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "404380",
+      "issuer": "BANCO INBURSA, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "404748",
+      "issuer": "SCOTIABANK INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "404903",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INBURSA, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "405306",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "405689",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO SANTANDER SERFIN S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "405930",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "406129",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "406130",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "406447",
+      "issuer": "BANCO DEL BAJIO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "407304",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "407458",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "407559",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "407561",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "407848",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "408242",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "408244",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A. - AEROMEXICO",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "408245",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "408341",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "408343",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "408400",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DEL BAJIO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "409365",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO MERCANTIL DEL NORTE S.A.-INSTIT.DEBANCA MULTIPLE, GRUPO FINANCIERO BANORTE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "409851",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "409852",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "410177",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "410180",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "410181",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "410851",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "410852",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "412432",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "413098",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA AFIRME, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "413131",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "413153",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "413405",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "413406",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "413455",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "413475",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "415231",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "415269",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "415327",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GE CAPITAL FINANCIAL",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "416502",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC MEXICO S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINAN",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "416689",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "416916",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "417849",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DISTRIBUIDORA LIVERPOOL S.A. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "417967",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO REGIONAL DE MONTERREY S.A. BANREGIO",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "417968",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO REGIONAL DE MONTERREY S.A. BANREGIO",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "418073",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "418075",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "418076",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "418077",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "418080",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "418090",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "418093",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "418094",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "418914",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "418925",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "418926",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "418927",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "418928",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO MERCANTIL DEL NORTE S.A.., INSTITUCISN DE BANCA MZLTIP",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "419335",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "419663",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TARJETAS UNISOLUCIONES S.A. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "419664",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "419665",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "419690",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "419691",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "420199",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DEL BAJIO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "420713",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "421003",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DEL BAJIO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "421009",
+      "issuer": "IXE BANCO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "421017",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "421316",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC MEXICO S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINAN",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "421364",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO AZTECA S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "421648",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GE CAPITAL BANK S.A., INSTITUCION DE BANCA MULTIPLE-GE CAPITAL GRUPO FINANC.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "421811",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SPIRA DE MEXICO S.A. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "421812",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INVEX S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "422299",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "422582",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BNP PARIBAS PERSONAL FINANCE S.A. DE C.V., SOFOL FILIAL",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "422671",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "423173",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "423646",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA AFIRME, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "423688",
+      "issuer": "PROMOCION Y OPERACION, S.A. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "425165",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITICORP",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "425766",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "425918",
+      "issuer": "BANCRECER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "425981",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "IXE BANCO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "425982",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "IXE BANCO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "425983",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "IXE BANCO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "425984",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "IXE BANCO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "426012",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "426188",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL BAJIO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "426513",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HSBC MEXICO S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINAN",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "426514",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HSBC MEXICO S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINAN",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "426807",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCOPPEL S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "426808",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "427213",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCA MIFEL, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "428574",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "428575",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "429505",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "429522",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "430902",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "430967",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HSBC MEXICO S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINAN",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "431479",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO INBURSA, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "431880",
+      "issuer": "SCOTIABANK INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "432049",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA AFIRME, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "433114",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO MERCANTIL DEL NORTE S.A.-INSTIT.DEBANCA MULTIPLE, GRUPO FINANCIERO BANORTE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "433125",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO MERCANTIL DEL NORTE S.A.-INSTIT.DEBANCA MULTIPLE, GRUPO FINANCIERO BANORTE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "433126",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO SANTANDER SERFIN S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "433454",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "IXE BANCO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "433465",
+      "issuer": "BANCA SERFIN, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "434344",
+      "issuer": "BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S.N.C.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "434684",
+      "issuer": "PROMOCION Y OPERACION, S.A. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "435188",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "435741",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "435759",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SPIRA DE MEXICO S.A. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "435768",
+      "issuer": "PROMOCION Y OPERACION, S.A. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "435769",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANSI S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "436401",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANREGIO",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "437778",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "438099",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS S.N.C. - BANSEFI",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "439120",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "439185",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDOMATIC DE MEXICO S.A. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "439186",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDOMATIC DE MEXICO S.A. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "439187",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CREDOMATIC DE MEXICO S.A. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "441310",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "441311",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "441312",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "441313",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "441505",
+      "issuer": "PROMOCION Y OPERACION, S.A. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "441506",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "441507",
+      "issuer": "BANCO SANTANDER SERFIN S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "441541",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "441542",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "441545",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "441549",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "441551",
+      "issuer": "HSBC MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "441567",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "442268",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "442596",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "444085",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "444449",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "444452",
+      "issuer": "BANCO INBURSA, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "445016",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ABC CAPITAL, S.A. INSTITUCISN DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "445017",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "445992",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO INDUSTRIAL, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "446116",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "446117",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "446118",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "446137",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "446138",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "446139",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "446351",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "IBI SERVICES S. DE R.L.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "446565",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "446878",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA MIFEL, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "448767",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "448790",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCA AFIRME, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "449187",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "449558",
+      "issuer": "TOTAL SYSTEM SERVICES, INC.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "449700",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "449702",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "450437",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "450589",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HSBC MEXICO S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINAN",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "450929",
+      "issuer": "CITIBANK",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "450933",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "451298",
+      "issuer": "BANCO SANTANDER SERFIN S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "451299",
+      "issuer": "BANCO SANTANDER SERFIN S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "451306",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "451311",
+      "issuer": "BANCO DEL CENTRO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "451312",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO SANTANDER S.A. INST. DE BANCA MULTIPLE GRUPO FINANCIER",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "451326",
+      "issuer": "BANCO PROMOTOR DEL NORTE, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "451331",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "451332",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "451333",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "451334",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "451335",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "451352",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "451370",
+      "issuer": "BANCO PROMOTOR DEL NORTE, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "451371",
+      "issuer": "BANCO PROMOTOR DEL NORTE, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "451444",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "SCOTIABANK INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "451712",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "451791",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO DEL BAJIO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "451899",
+      "issuer": "BANCO MERCANTIL DEL NORTE S.A.-INSTIT.DEBANCA MULTIPLE, GRUPO FINANCIERO BANORTE MEXICO",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "452412",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "452421",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC MEXICO S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINAN",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "454057",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "454061",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "454069",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "454459",
+      "issuer": "BANCA CREMI, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "454463",
+      "issuer": "BANCA CREMI, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "454492",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "454747",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO SANTANDER S.A. INST. DE BANCA MULTIPLE GRUPO FINANCIERO SANTANDER",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455220",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455255",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455500",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455501",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455502",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455503",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455504",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455505",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455506",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455507",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455508",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455509",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455510",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455511",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455512",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455513",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455514",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455515",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455516",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455517",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455518",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455519",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455520",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455525",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455526",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455527",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455528",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455529",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455530",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455531",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455532",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455533",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455534",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455535",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455536",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455537",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455538",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455539",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455540",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455541",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455542",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455543",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455544",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455545",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455546",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455548",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455549",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455550",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "455617",
+      "issuer": "SCOTIABANK INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "456050",
+      "issuer": "BANCA CREMI, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "456300",
+      "issuer": "BANCO SANTANDER SERFIN S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "456344",
+      "issuer": "BANCO SANTANDER SERFIN S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "456550",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "PROMOCION Y OPERACION, S.A. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "456880",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC MEXICO S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINAN",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "460068",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "460700",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO AUTOFIN MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "460766",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO AUTOFIN MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "461159",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "462275",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "462278",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "462974",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INBURSA, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "463186",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO INVEX S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "463187",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO INVEX S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "464596",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "464597",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "464598",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "464599",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "465495",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "465828",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO INBURSA S.A. INSTITUCION DE BANCA MULTIPLE GRUPO FINAN",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "465829",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INBURSA S.A. INSTITUCION DE BANCA MULTIPLE GRUPO FINAN",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "467473",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "467508",
+      "issuer": "BANCO MERCANTIL DEL NORTE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "469693",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "469849",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "472303",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "472309",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO INDUSTRIAL, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "472323",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "473701",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INBURSA, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "474174",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO REGIONAL DE MONTERREY S.A. BANREGIO",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "474175",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO REGIONAL DE MONTERREY S.A. BANREGIO",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "474176",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC MEXICO S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINAN",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "474494",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "474646",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "476114",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "476115",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "476202",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO AZTECA S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "476203",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "BANCO AZTECA S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "476204",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO AZTECA S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "476588",
+      "type": "DEBIT",
+      "category": "PROPRIETARY",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "477130",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "477210",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "477211",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "477212",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "477213",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "477214",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "477247",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "477260",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SCOTIABANK INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "477291",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "477292",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "477831",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO AZTECA S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "479353",
+      "issuer": "HSBC MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "479438",
+      "issuer": "BANCO SANTANDER SERFIN S.A. INSTITUCION DE BANCA MULTIPLE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "479461",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "480790",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "480862",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "483030",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "483347",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "485942",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "485943",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO NACIONAL DE MEXICO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "486387",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "486388",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "490176",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "490178",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "490642",
+      "issuer": "SCOTIABANK INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491089",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HSBC MEXICO S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINAN",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491259",
+      "issuer": "BANCO SANTANDER MEXICANO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491271",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491272",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491279",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC MEXICO S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINAN",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491280",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC MEXICO S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINAN",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491281",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HSBC MEXICO S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINAN",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491282",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC MEXICO S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINAN",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491283",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HSBC MEXICO S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINAN",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491284",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC MEXICO S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINAN",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491294",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HSBC MEXICO S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINAN",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491295",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC MEXICO S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINAN",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491327",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO SANTANDER S.A. INST. DE BANCA MULTIPLE GRUPO FINANCIERO SANTANDER",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491340",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MERCANTIL DEL NORTE S.A.-INSTIT.DEBANCA MULTIPLE, GRUPO FINANCIERO BANORTE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491341",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MERCANTIL DEL NORTE S.A.., INSTITUCISN DE BANCA MZLTIP",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491342",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO MERCANTIL DEL NORTE S.A.., INSTITUCISN DE BANCA MZLTIP",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491343",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S.N.C.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491344",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S.N.C.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491346",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S.N.C.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491365",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO MERCANTIL DEL NORTE S.A.., INSTITUCISN DE BANCA MZLTIP",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491366",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MERCANTIL DEL NORTE S.A.., INSTITUCISN DE BANCA MZLTIP",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491369",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO MERCANTIL DEL NORTE S.A.., INSTITUCISN DE BANCA MZLTIP",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491371",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO MERCANTIL DEL NORTE S.A.., INSTITUCISN DE BANCA MZLTIP",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491375",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO MERCANTIL DEL NORTE S.A.., INSTITUCISN DE BANCA MZLTIP",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491376",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO MERCANTIL DEL NORTE S.A.-INSTIT.DEBANCA MULTIPLE, GRUPO FINANCIERO BANORTE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491398",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO DEL SURESTE, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491399",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL SURESTE, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491405",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCA SERFIN, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491406",
+      "issuer": "BANCA SERFIN",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491418",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO SANTANDER S.A. INST. DE BANCA MULTIPLE GRUPO FINANCIER",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491501",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491502",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491512",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER S.A. INST. DE BANCA MULTIPLE GRUPO FINANCIERO SANTANDER",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491566",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO MERCANTIL DEL NORTE S.A.., INSTITUCISN DE BANCA MZLTIP",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491567",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO MERCANTIL DEL NORTE S.A.-INSTIT.DEBANCA MULTIPLE, GRUPO FINANCIERO BANORTE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491572",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER MEXICANO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491573",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO SANTANDER MEXICANO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491580",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO MERCANTIL DEL NORTE S.A.., INSTITUCISN DE BANCA MZLTIP",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491584",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MERCANTIL DEL NORTE S.A.-INSTIT.DEBANCA MULTIPLE, GRUPO FINANCIERO BANORTE",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491586",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "BANCO MERCANTIL DEL NORTE S.A.., INSTITUCISN DE BANCA MZLTIP",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491591",
+      "issuer": "SCOTIABANK INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491702",
+      "issuer": "BANCO SANTANDER MEXICANO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491871",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491872",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SCOTIABANK INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "491873",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SCOTIABANK INVERLAT, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "492144",
+      "issuer": "SPIRA DE MEXICO S.A. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "492487",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL BAJIO, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "493135",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER S.A. INST. DE BANCA MULTIPLE GRUPO FINANCIERO SANTANDER",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "493136",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO SANTANDER S.A. INST. DE BANCA MULTIPLE GRUPO FINANCIERO SANTANDER",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "493157",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO MERCANTIL DEL NORTE S.A.., INSTITUCISN DE BANCA MZLTIP",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "493158",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO MERCANTIL DEL NORTE S.A.., INSTITUCISN DE BANCA MZLTIP",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "493160",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "493161",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "493162",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "493164",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "493165",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "493166",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HSBC MEXICO S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINAN",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "493172",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MERCANTIL DEL NORTE S.A.., INSTITUCISN DE BANCA MZLTIP",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "493173",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO MERCANTIL DEL NORTE S.A.., INSTITUCISN DE BANCA MZLTIP",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "493700",
+      "issuer": "BANCO INTERNACIONAL, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "493708",
+      "issuer": "BANCO INTERNACIONAL, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "494133",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER S.A. INST. DE BANCA MULTIPLE GRUPO FINANCIERO SANTANDER",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "494134",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO SANTANDER S.A. INST. DE BANCA MULTIPLE GRUPO FINANCIERO SANTANDER",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "494388",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "494398",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "494399",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BBVA BANCOMER, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "498460",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TARJETAS BANAMEX S.A. DE C.V. SOFOM ENTIDAD REGULADA",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "498462",
+      "issuer": "PROMOCION Y OPERACION, S.A. DE C.V.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "498474",
+      "issuer": "BANCA SERFIN, S.A.",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "498588",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "498589",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MX"
+      ]
+    },
+    {
+      "bin": "498590",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MX"
+      ]
+    }
+  ]
+}

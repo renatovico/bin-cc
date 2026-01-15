@@ -1,0 +1,22 @@
+{
+  "bins": [
+    {
+      "bin": "375548",
+      "type": "CREDIT",
+      "category": "BLUE",
+      "issuer": "SWEDBANK, A.S.",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "375549",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SWEDBANK, A.S.",
+      "countries": [
+        "EE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1273 @@
+{
+  "bins": [
+    {
+      "bin": "510443",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "MALAYAN BANKING BERHAD",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "510507",
+      "type": "CREDIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512043",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512133",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512134",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512135",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512137",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512138",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512139",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512149",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512150",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512157",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512158",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512159",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512162",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512163",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512165",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512166",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512167",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512170",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512171",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512173",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512174",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512177",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512179",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512180",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512182",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512184",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512186",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512187",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512192",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512193",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512194",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512195",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512196",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512197",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "512448",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "513097",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "514063",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "514916",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "515705",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "518424",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "518426",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "518427",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "518610",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "518757",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MALAYAN BANKING BERHAD",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "518834",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MALAYAN BANKING BERHAD",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "519607",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "STATE BANK OF INDIA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "519787",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "519788",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "520721",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "520723",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "522274",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "CITIBANK SINGAPORE, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "524040",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "OVERSEA-CHINESE BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "524355",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "524356",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "524357",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "524358",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "524597",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "525639",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "526471",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "528171",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "528172",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "528906",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ANZ SINGAPORE",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "528907",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ANZ SINGAPORE",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "528908",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ANZ SINGAPORE",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "528909",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ANZ SINGAPORE",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "528913",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "528922",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ANZ SINGAPORE",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "528926",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ANZ SINGAPORE",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "528927",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ANZ SINGAPORE",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "528928",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ANZ SINGAPORE",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "528929",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ANZ SINGAPORE",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "528930",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ANZ SINGAPORE",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "528934",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ANZ SINGAPORE",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "528957",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ANZ SINGAPORE",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "528959",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ANZ SINGAPORE",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "528962",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ANZ SINGAPORE",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "528994",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ANZ SINGAPORE",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "528999",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ANZ SINGAPORE",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "531218",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "531219",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "532357",
+      "type": "CREDIT",
+      "issuer": "CIMB BANK BERHAD",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "533607",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITIBANK N.A., SINGAPORE BRANCH",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "533940",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITIBANK N.A., SINGAPORE BRANCH",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "536575",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "EZ-LINK PTE, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "539700",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "540012",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "OVERSEA-CHINESE BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "540042",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "540188",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK SINGAPORE, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "540191",
+      "type": "CREDIT",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "540275",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "540543",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "540571",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "540693",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "540877",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF CHINA, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "541126",
+      "type": "CREDIT",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "541129",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "541287",
+      "type": "CREDIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "541383",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "OVERSEA-CHINESE BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "541386",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "OVERSEA-CHINESE BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "542089",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "542113",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "542125",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "542550",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "CITIBANK SINGAPORE, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "543671",
+      "type": "CREDIT",
+      "issuer": "BANK OF CHINA, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "543733",
+      "issuer": "NETWORK FOR ELECTRONIC TRANSFERS (SINGAPORE) PTE L",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "544234",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "544288",
+      "type": "CREDIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "544289",
+      "type": "CREDIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "545234",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "CIMB BANK BERHAD",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "545901",
+      "issuer": "OVERSEAS UNION BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "547065",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "548486",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "549834",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "549941",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "550252",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "552038",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "552047",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "552058",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "552061",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "552066",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "552076",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "552092",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "552163",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "552253",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "552352",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "552592",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "552630",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "MALAYAN BANKING BERHAD",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "552664",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MALAYAN BANKING BERHAD",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "552777",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CITIBANK SINGAPORE, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "552924",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "CITIBANK N.A., SINGAPORE BRANCH",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "552929",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "CITIBANK N.A., SINGAPORE BRANCH",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "553132",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "553381",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CITIBANK N.A., SINGAPORE BRANCH",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "553385",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "553402",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "554135",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "554704",
+      "issuer": "MALAYAN BANKING BERHAD",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "554797",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "554827",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "554939",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CIMB BANK BERHAD",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "555017",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "555226",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "557556",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "OVERSEA-CHINESE BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "557682",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "STATE BANK OF INDIA",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "558469",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "OVERSEA-CHINESE BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "558702",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "558715",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "558750",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "558778",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CITIBANK SINGAPORE, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "558804",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DBS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "558806",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "OVERSEA-CHINESE BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "558860",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "OVERSEA-CHINESE BANKING CORP., LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "558957",
+      "type": "CREDIT",
+      "category": "WORLD FOR BUSINESS",
+      "issuer": "UNITED OVERSEAS BANK, LTD.",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "558964",
+      "type": "CREDIT",
+      "category": "WORLD FOR BUSINESS",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "SG"
+      ]
+    },
+    {
+      "bin": "559221",
+      "countries": [
+        "SG"
+      ]
+    }
+  ]
+}

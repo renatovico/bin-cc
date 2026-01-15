@@ -1,0 +1,1044 @@
+{
+  "bins": [
+    {
+      "bin": "402355",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AS PRIVATBANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "402356",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AS PRIVATBANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "402357",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "402508",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "PAREX BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "402585",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSC RIETUMU BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "402776",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "GE MONEY BANK, A.S.",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "402908",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PAREX BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "403191",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "LATVIA SAVINGS BANK (LATVIA KRAJBANKA)",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "403192",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "LATVIA SAVINGS BANK (LATVIA KRAJBANKA)",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "403371",
+      "issuer": "JSC RIETUMU BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "404774",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "PAREX BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "408145",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ABLV BANK, AS",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "408146",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AS PRIVATBANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "408147",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PAREX BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "408148",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PAREX BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "408149",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ABLV BANK, AS",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "408150",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AS PRIVATBANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "408151",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PAREX BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "408152",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PAREX BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "408153",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ABLV BANK, AS",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "408154",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AS PRIVATBANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "408155",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "PAREX BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "408156",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "PAREX BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "408157",
+      "issuer": "PAREX BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "408159",
+      "issuer": "AS PARITATE BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "410561",
+      "issuer": "HIPOTEKU BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "411862",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF AMERICA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "414285",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AB CITADELE BANKAS",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "415000",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "LATVIA SAVINGS BANK (LATVIA KRAJBANKA)",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "415880",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "417634",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "MULTIBANKA, JSC",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "417635",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "MULTIBANKA, JSC",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "417636",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MULTIBANKA, JSC",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "417637",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "MULTIBANKA, JSC",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "417683",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NORVIK BANKA JSC",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "417684",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NORVIK BANKA JSC",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "417685",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NORVIK BANKA JSC",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "417686",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NORVIK BANKA JSC",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "417687",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NORVIK BANKA JSC",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "417720",
+      "issuer": "NORDEA BANK FINLAND PLC LATVIA BRANCH",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "417778",
+      "issuer": "AS PARITATE BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "419969",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "420150",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AS SEB BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "420573",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SWEDBANK, A.S.",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "423387",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JSC RIETUMU BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "423388",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSC RIETUMU BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "423389",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC RIETUMU BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "423390",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "JSC RIETUMU BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "426289",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SWEDBANK, A.S.",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "427371",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "LATVIA SAVINGS BANK (LATVIA KRAJBANKA)",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "427734",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AS SEB BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "427737",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SWEDBANK, A.S.",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "427749",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PAREX BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "428996",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "429555",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSC RIETUMU BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "431370",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "431420",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PAREX BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "431421",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "PAREX BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "431422",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PAREX BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "431446",
+      "issuer": "AS SEB LATVIJAS UNIBANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "431460",
+      "issuer": "JSC HANSABANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "433323",
+      "issuer": "AS DNB NORD BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "434304",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "GE MONEY BANK, A.S.",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "434305",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "GE MONEY BANK, A.S.",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "434306",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "GE MONEY BANK, A.S.",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "434307",
+      "issuer": "BALTIC TRANSIT BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "434350",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "GE MONEY BANK, A.S.",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "434386",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "GE MONEY BANK, A.S.",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "438923",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SWEDBANK, A.S.",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "438934",
+      "issuer": "AS SEB LATVIJAS UNIBANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "438936",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SWEDBANK, A.S.",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "438937",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SWEDBANK, A.S.",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "438938",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SWEDBANK, A.S.",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "438939",
+      "issuer": "JSC HANSABANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "440214",
+      "issuer": "SAULES BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "440298",
+      "issuer": "PAREX BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "440510",
+      "issuer": "LATVIA SAVINGS BANK (LATVIA KRAJBANKA)",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "440511",
+      "issuer": "LATVIA SAVINGS BANK (LATVIA KRAJBANKA)",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "440512",
+      "issuer": "LATVIA SAVINGS BANK (LATVIA KRAJBANKA)",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "440517",
+      "issuer": "LATVIA SAVINGS BANK (LATVIA KRAJBANKA)",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "440518",
+      "issuer": "LATVIA SAVINGS BANK (LATVIA KRAJBANKA)",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "440519",
+      "issuer": "LATVIA SAVINGS BANK (LATVIA KRAJBANKA)",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "440521",
+      "issuer": "LATVIA SAVINGS BANK (LATVIA KRAJBANKA)",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "440536",
+      "issuer": "LATVIA SAVINGS BANK (LATVIA KRAJBANKA)",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "440544",
+      "issuer": "LATVIA SAVINGS BANK (LATVIA KRAJBANKA)",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "440555",
+      "issuer": "LATVIA SAVINGS BANK (LATVIA KRAJBANKA)",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "440567",
+      "issuer": "LATVIA SAVINGS BANK (LATVIA KRAJBANKA)",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "440570",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "LATVIA SAVINGS BANK (LATVIA KRAJBANKA)",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "440581",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PAREX BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "440583",
+      "issuer": "LATVIA SAVINGS BANK (LATVIA KRAJBANKA)",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "442752",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AS DNB NORD BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "444048",
+      "type": "DEBIT",
+      "category": "GIFT",
+      "issuer": "LATVIA SAVINGS BANK (LATVIA KRAJBANKA)",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "444680",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AS PRIVATBANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "447580",
+      "issuer": "PAREX BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "448314",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JSC RIETUMU BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "448315",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JSC RIETUMU BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "448316",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC RIETUMU BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "459573",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "LATVIA SAVINGS BANK (LATVIA KRAJBANKA)",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "465215",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AS SEB BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "465228",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AS DNB NORD BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "465241",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AS SEB BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "465242",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AS SEB BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "465243",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AS SEB BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "466563",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "466564",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "467474",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PAREX BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "467813",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "472649",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "474186",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC RIETUMU BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "477560",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "PAREX BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "477573",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AS DNB NORD BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "482449",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "issuer": "ABLV BANK, AS",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "482450",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ABLV BANK, AS",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "485717",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ABLV BANK, AS",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "485718",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AS PRIVATBANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "485719",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PAREX BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "487446",
+      "issuer": "LATVIA SAVINGS BANK (LATVIA KRAJBANKA)",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "489994",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AS DNB NORD BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "490847",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PAREX BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "490848",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PAREX BANK",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "490849",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "LATVIA SAVINGS BANK (LATVIA KRAJBANKA)",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "492175",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AS DNB NORD BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "492176",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "AS DNB NORD BANKA",
+      "countries": [
+        "LV"
+      ]
+    },
+    {
+      "bin": "499962",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "AS DNB NORD BANKA",
+      "countries": [
+        "LV"
+      ]
+    }
+  ]
+}

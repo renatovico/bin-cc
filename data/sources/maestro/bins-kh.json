@@ -1,0 +1,27 @@
+{
+  "bins": [
+    {
+      "bin": "605000",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "636101",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "639618",
+      "type": "DEBIT",
+      "countries": [
+        "KH"
+      ]
+    }
+  ]
+}

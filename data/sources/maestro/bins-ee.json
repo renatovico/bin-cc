@@ -1,0 +1,94 @@
+{
+  "bins": [
+    {
+      "bin": "589744",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "HANSABANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "589748",
+      "type": "DEBIT",
+      "category": "ATM ONLY",
+      "issuer": "TALLINNA PANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "589857",
+      "type": "DEBIT",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "589963",
+      "type": "DEBIT",
+      "issuer": "AS SAMPO PANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "593220",
+      "type": "DEBIT",
+      "issuer": "TALLINNA PANK",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "600852",
+      "type": "DEBIT",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "676259",
+      "type": "DEBIT",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "676338",
+      "type": "DEBIT",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "676392",
+      "type": "DEBIT",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "676527",
+      "type": "DEBIT",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "676836",
+      "type": "DEBIT",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "bin": "677200",
+      "type": "DEBIT",
+      "countries": [
+        "EE"
+      ]
+    }
+  ]
+}

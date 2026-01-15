@@ -1,0 +1,498 @@
+{
+  "bins": [
+    {
+      "bin": "405751",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RBC ROYAL BANK (JAMAICA), LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "407344",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FIRST GLOBAL BANK, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "407421",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "410514",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RBTT BANK JAMAICA, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "410515",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RBTT BANK JAMAICA, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "415207",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "417975",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRST GLOBAL BANK, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "417976",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRST GLOBAL BANK, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "417977",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST GLOBAL BANK, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "421835",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "FIRST GLOBAL BANK, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "421836",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST GLOBAL BANK, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "424115",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "430196",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "430321",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "430390",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "430951",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "430998",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "434481",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "441167",
+      "issuer": "BANK OF NOVA SCOTIA JAMAICA, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "443944",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "443945",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "448793",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF NOVA SCOTIA JAMAICA, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "448794",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF NOVA SCOTIA JAMAICA, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "451369",
+      "issuer": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "451483",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "452549",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "453849",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "454310",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "454604",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "455162",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RBC ROYAL BANK (JAMAICA), LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "455243",
+      "issuer": "WORKERS SAVINGS AND LOAN BANK",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "455348",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RBC ROYAL BANK (JAMAICA), LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "455970",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RBC ROYAL BANK (JAMAICA), LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "455971",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "RBC ROYAL BANK (JAMAICA), LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "456545",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "RBC ROYAL BANK (JAMAICA), LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "457071",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "459071",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRST GLOBAL BANK, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "459072",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "FIRST GLOBAL BANK, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "469272",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "469273",
+      "type": "DEBIT",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "469757",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRST GLOBAL BANK, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "472229",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "472230",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "474490",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "479470",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "479471",
+      "type": "DEBIT",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "490790",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "RBC ROYAL BANK (JAMAICA), LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "490792",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "RBC ROYAL BANK (JAMAICA), LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "491393",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "491431",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "493486",
+      "issuer": "UNION BANK OF JAMAICA, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "496614",
+      "issuer": "UNION BANK OF JAMAICA, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "498468",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "498469",
+      "issuer": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "498864",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "499931",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "499936",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "NATIONAL COMMERCIAL BANK JAMAICA, LTD.",
+      "countries": [
+        "JM"
+      ]
+    },
+    {
+      "bin": "499953",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA), LTD.",
+      "countries": [
+        "JM"
+      ]
+    }
+  ]
+}

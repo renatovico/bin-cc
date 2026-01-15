@@ -1,0 +1,171 @@
+{
+  "bins": [
+    {
+      "bin": "401802",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "SY"
+      ]
+    },
+    {
+      "bin": "403559",
+      "type": "DEBIT",
+      "countries": [
+        "SY"
+      ]
+    },
+    {
+      "bin": "404922",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "COMMERCIAL BANK OF SYRIA",
+      "countries": [
+        "SY"
+      ]
+    },
+    {
+      "bin": "408604",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "COMMERCIAL BANK OF SYRIA",
+      "countries": [
+        "SY"
+      ]
+    },
+    {
+      "bin": "410768",
+      "issuer": "REAL ESTATE BANK",
+      "countries": [
+        "SY"
+      ]
+    },
+    {
+      "bin": "411807",
+      "countries": [
+        "SY"
+      ]
+    },
+    {
+      "bin": "413191",
+      "countries": [
+        "SY"
+      ]
+    },
+    {
+      "bin": "417319",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "COMMERCIAL BANK OF SYRIA",
+      "countries": [
+        "SY"
+      ]
+    },
+    {
+      "bin": "418740",
+      "countries": [
+        "SY"
+      ]
+    },
+    {
+      "bin": "418741",
+      "countries": [
+        "SY"
+      ]
+    },
+    {
+      "bin": "426805",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BYBLOS BANK - SYRIA",
+      "countries": [
+        "SY"
+      ]
+    },
+    {
+      "bin": "426806",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BYBLOS BANK - SYRIA",
+      "countries": [
+        "SY"
+      ]
+    },
+    {
+      "bin": "427200",
+      "issuer": "COMMERCIAL BANK OF SYRIA",
+      "countries": [
+        "SY"
+      ]
+    },
+    {
+      "bin": "428232",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANK AUDI SYRIA, S.A.",
+      "countries": [
+        "SY"
+      ]
+    },
+    {
+      "bin": "428233",
+      "countries": [
+        "SY"
+      ]
+    },
+    {
+      "bin": "428234",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK AUDI SYRIA, S.A.",
+      "countries": [
+        "SY"
+      ]
+    },
+    {
+      "bin": "428648",
+      "type": "DEBIT",
+      "countries": [
+        "SY"
+      ]
+    },
+    {
+      "bin": "429950",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF SYRIA AND OVERSEAS",
+      "countries": [
+        "SY"
+      ]
+    },
+    {
+      "bin": "429951",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANK OF SYRIA AND OVERSEAS",
+      "countries": [
+        "SY"
+      ]
+    },
+    {
+      "bin": "431250",
+      "countries": [
+        "SY"
+      ]
+    },
+    {
+      "bin": "459047",
+      "countries": [
+        "SY"
+      ]
+    },
+    {
+      "bin": "469284",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "SY"
+      ]
+    }
+  ]
+}

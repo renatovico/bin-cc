@@ -1,0 +1,47 @@
+{
+  "bins": [
+    {
+      "bin": "504324",
+      "type": "DEBIT",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "564160",
+      "type": "DEBIT",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "588803",
+      "type": "DEBIT",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "589169",
+      "type": "DEBIT",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "639170",
+      "type": "DEBIT",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "639406",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "MY"
+      ]
+    }
+  ]
+}

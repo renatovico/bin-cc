@@ -1,0 +1,2409 @@
+{
+  "bins": [
+    {
+      "bin": "510081",
+      "type": "CREDIT",
+      "issuer": "FIRST GULF BANK PJSC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "510097",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "510389",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "510466",
+      "type": "CREDIT",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "510468",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "510470",
+      "type": "CREDIT",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "510487",
+      "type": "CREDIT",
+      "issuer": "EMIRATES NBD BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "510545",
+      "issuer": "NATIONAL BANK OF ABU DHABI",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "511851",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "511879",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NATIONAL BANK OF RAS AL-KHAIMAH (RAKBANK)",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "512253",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "FIRST GULF BANK PJSC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "512304",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NATIONAL BANK OF RAS AL-KHAIMAH (RAKBANK)",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "512383",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIRST GULF BANK PJSC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "512403",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NATIONAL BANK OF RAS AL-KHAIMAH (RAKBANK)",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "512480",
+      "type": "CREDIT",
+      "issuer": "ABU DHABI COMMERCIAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "512670",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EMIRATES NBD",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "512717",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EMIRATES NBD",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "512778",
+      "type": "CREDIT",
+      "issuer": "ABU DHABI COMMERCIAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "512970",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "SHARJAH ISLAMIC BANK PJSC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "514002",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "514056",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "514084",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "514469",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "CITIBANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "514731",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "FIRST GULF BANK PJSC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "514740",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "NOOR ISLAMIC BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "515604",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SAMBA FINANCIAL GROUP",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "515624",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "515737",
+      "issuer": "COMMERCIAL BANK OF DUBAI",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "515843",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "515907",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ABU DHABI COMMERCIAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "516018",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "516019",
+      "type": "DEBIT",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "517554",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "NATIONAL BANK OF ABU DHABI",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "517639",
+      "type": "CREDIT",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "517715",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EMIRATES NBD BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "517722",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "517723",
+      "type": "CREDIT",
+      "issuer": "EMIRATES NBD BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "517734",
+      "type": "CREDIT",
+      "issuer": "EMIRATES NBD BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "517736",
+      "type": "CREDIT",
+      "issuer": "NATIONAL BANK OF ABU DHABI",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "517738",
+      "type": "CREDIT",
+      "issuer": "MASHREQBANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "517742",
+      "type": "CREDIT",
+      "issuer": "EMIRATES NBD BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "517773",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EMIRATES NBD BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "517780",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "UNION NATIONAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "517783",
+      "type": "CREDIT",
+      "issuer": "EMIRATES NBD BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "518429",
+      "issuer": "CITIBANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "518436",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "518478",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EMIRATES NBD BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "518857",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIRST GULF BANK PJSC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "518870",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EMIRATES NBD BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "518871",
+      "category": "STANDARD",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "518872",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "518910",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "FIRST GULF BANK PJSC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "519296",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "519305",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ABU DHABI COMMERCIAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "519508",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "519610",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "SHARJAH ISLAMIC BANK PJSC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "519616",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "519855",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "519868",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "519875",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "520029",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "520157",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "520192",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ABU DHABI COMMERCIAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "520376",
+      "type": "CREDIT",
+      "issuer": "ABU DHABI COMMERCIAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "520385",
+      "type": "CREDIT",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "521070",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "521077",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "521088",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "521188",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "521314",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST GULF BANK PJSC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "521315",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "521320",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ABU DHABI COMMERCIAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "521338",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "521340",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ABU DHABI COMMERCIAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "521380",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NOOR ISLAMIC BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "521389",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "521858",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MASHREQBANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "522026",
+      "type": "CREDIT",
+      "issuer": "SAMBA FINANCIAL GROUP",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "522468",
+      "type": "CREDIT",
+      "issuer": "BLC BANK S.A.L.",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "522707",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "522785",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "522962",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "522968",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "NATIONAL BANK OF RAS AL-KHAIMAH (RAKBANK)",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "523926",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NATIONAL BANK OF RAS AL-KHAIMAH (RAKBANK)",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "523963",
+      "category": "STANDARD",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "523977",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SAMBA FINANCIAL GROUP",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "523978",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "524092",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "COMMERCIAL BANK OF DUBAI",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "524104",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "524105",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "524136",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MASHREQBANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "524137",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MASHREQBANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "524139",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NATIONAL BANK OF ABU DHABI",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "524175",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "524179",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MASHREQBANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "524198",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SHARJAH ISLAMIC BANK PJSC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "524200",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST GULF BANK PJSC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "524204",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "524211",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "524222",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "524237",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DUNIA FINANCE L.L.C.",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "524243",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NATIONAL BANK OF ABU DHABI",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "524372",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "524399",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ABU DHABI COMMERCIAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "524628",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "524747",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "COMMERCIAL BANK OF DUBAI",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "525431",
+      "type": "CREDIT",
+      "issuer": "ABU DHABI COMMERCIAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "525601",
+      "type": "CREDIT",
+      "issuer": "ABU DHABI COMMERCIAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "525649",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ABU DHABI COMMERCIAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "525858",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "526277",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "526408",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ABU DHABI COMMERCIAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "526455",
+      "issuer": "COMMERCIAL BANK OF DUBAI",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "526488",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SAMBA FINANCIAL GROUP",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "526707",
+      "type": "CREDIT",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "526842",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "526844",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "526885",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "526917",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "527568",
+      "type": "CREDIT",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "527579",
+      "type": "CREDIT",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "528201",
+      "type": "CREDIT",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "528203",
+      "type": "CREDIT",
+      "issuer": "NATIONAL BANK OF RAS AL-KHAIMAH (RAKBANK)",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "529106",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "529112",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "529120",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "529510",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "529546",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "NATIONAL BANK OF RAS AL-KHAIMAH (RAKBANK)",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "529549",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "NATIONAL BANK OF RAS AL-KHAIMAH (RAKBANK)",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "529562",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "NOOR ISLAMIC BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "529606",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "529929",
+      "type": "CREDIT",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "530466",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MASHREQBANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "530560",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "NATIONAL BANK OF ABU DHABI",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "530583",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "UAE EXCHANGE CENTRE LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "530937",
+      "type": "CREDIT",
+      "issuer": "DUNIA FINANCE L.L.C.",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "531074",
+      "type": "CREDIT",
+      "issuer": "FIRST GULF BANK PJSC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "531166",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "532425",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "532660",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "ABU DHABI COMMERCIAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "532665",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "ABU DHABI COMMERCIAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "532667",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "NOOR ISLAMIC BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "532671",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "NATIONAL BANK OF ABU DHABI",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "532688",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "ABU DHABI COMMERCIAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "532689",
+      "type": "DEBIT",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "532712",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "532723",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "SHARJAH ISLAMIC BANK PJSC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "532730",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "532735",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "532934",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "532951",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "SHARJAH ISLAMIC BANK PJSC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "533104",
+      "type": "DEBIT",
+      "category": "WORLD DEBIT EMBOSSED",
+      "issuer": "SHARJAH ISLAMIC BANK PJSC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "533113",
+      "type": "DEBIT",
+      "category": "WORLD DEBIT EMBOSSED",
+      "issuer": "NATIONAL BANK OF ABU DHABI",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "533176",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "533184",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "533191",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "NATIONAL BANK OF ABU DHABI",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "533422",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "533537",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "533539",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "SHARJAH ISLAMIC BANK PJSC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "533767",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "533812",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "533819",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "COMMERCIAL INTERNATIONAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "533861",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "UAE EXCHANGE CENTRE LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "534159",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ABU DHABI COMMERCIAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "534176",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "534257",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "534295",
+      "type": "CREDIT",
+      "issuer": "SAMBA FINANCIAL GROUP",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "534976",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "536272",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "536509",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DUNIA FINANCE L.L.C.",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "537207",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "UAE EXCHANGE CENTRE LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "537700",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "CITIBANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "537707",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "538425",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "538809",
+      "type": "CREDIT",
+      "issuer": "ABU DHABI COMMERCIAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "539624",
+      "type": "CREDIT",
+      "category": "WORLD ELITE",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "539830",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "539888",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ABU DHABI COMMERCIAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "539980",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "COMMERCIAL INTERNATIONAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "539987",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "FIRST GULF BANK PJSC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "539999",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NOOR ISLAMIC BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "540090",
+      "type": "CREDIT",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "540121",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "540672",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EMIRATES NBD BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "540750",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EMIRATES NBD BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "540901",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UNION NATIONAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "540908",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "540909",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "540977",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MASHREQBANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "540978",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EMIRATES NBD BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "541521",
+      "type": "CREDIT",
+      "issuer": "ABU DHABI COMMERCIAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "541834",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "542536",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NATIONAL BANK OF ABU DHABI",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "542618",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIRST GULF BANK PJSC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "542816",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MASHREQBANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "542933",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ABU DHABI COMMERCIAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "543072",
+      "type": "CREDIT",
+      "issuer": "MASHREQBANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "543195",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "543676",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EMIRATES NBD BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "543681",
+      "type": "CREDIT",
+      "issuer": "NATIONAL BANK OF ABU DHABI",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "543688",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NOOR ISLAMIC BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "543729",
+      "issuer": "MASHREQBANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "543737",
+      "type": "CREDIT",
+      "issuer": "UNION NATIONAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "543757",
+      "type": "CREDIT",
+      "issuer": "EMIRATES NBD BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "543860",
+      "type": "CREDIT",
+      "issuer": "ABU DHABI COMMERCIAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "543879",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "544370",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "544590",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "544627",
+      "type": "CREDIT",
+      "issuer": "MASHREQBANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "544628",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MASHREQBANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "544666",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NATIONAL BANK OF ABU DHABI",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "544782",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EMIRATES NBD BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "544815",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "544975",
+      "type": "CREDIT",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "544976",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "545150",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "545649",
+      "type": "CREDIT",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "545650",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "545657",
+      "type": "CREDIT",
+      "issuer": "COMMERCIAL INTERNATIONAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "545658",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "COMMERCIAL INTERNATIONAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "545748",
+      "type": "CREDIT",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "545825",
+      "type": "CREDIT",
+      "issuer": "EMIRATES NBD BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "545873",
+      "type": "CREDIT",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "545874",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "545987",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CITIBANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "546068",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "546265",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "546266",
+      "type": "CREDIT",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "546529",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "546879",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "547105",
+      "type": "CREDIT",
+      "issuer": "SHARJAH ISLAMIC BANK PJSC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "547111",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NATIONAL BANK OF ABU DHABI",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "547147",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "547148",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "547362",
+      "issuer": "ABU DHABI COMMERCIAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "547658",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ABU DHABI COMMERCIAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "547704",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "548247",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SAMBA FINANCIAL GROUP",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "548670",
+      "type": "CREDIT",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "548760",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ABU DHABI COMMERCIAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "549140",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "549284",
+      "type": "CREDIT",
+      "issuer": "FIRST GULF BANK PJSC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "549305",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NOOR ISLAMIC BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "549755",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "FIRST GULF BANK PJSC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "549838",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "COMMERCIAL BANK OF DUBAI",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "549990",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SHARJAH ISLAMIC BANK PJSC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "550110",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "550126",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "550130",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "550263",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "550368",
+      "issuer": "DUBAI BANK PJSC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "550582",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "551034",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "SHARJAH ISLAMIC BANK PJSC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "552006",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ABU DHABI COMMERCIAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "552102",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "552191",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EMIRATES NBD BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "552192",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "552278",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "552291",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "552312",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "COMMERCIAL BANK OF DUBAI",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "552340",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "NATIONAL BANK OF ABU DHABI",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "552347",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "552370",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "SHARJAH ISLAMIC BANK PJSC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "552381",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "552392",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "552435",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "552469",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "552563",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "552577",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "553117",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "553533",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "553605",
+      "issuer": "NATIONAL BANK OF DUBAI, LTD.",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "554379",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "554491",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DUNIA FINANCE L.L.C.",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "554576",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "554907",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST GULF BANK PJSC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "555010",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "555015",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "CITIBANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "555035",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "CITIBANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "555041",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "555044",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST GULF BANK PJSC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "555265",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "555941",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "557587",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "557652",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ABU DHABI COMMERCIAL BANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "557661",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NATIONAL BANK OF ABU DHABI",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "558724",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CITIBANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "558802",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CITIBANK",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "558871",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "558872",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "559234",
+      "countries": [
+        "AE"
+      ]
+    },
+    {
+      "bin": "559328",
+      "countries": [
+        "AE"
+      ]
+    }
+  ]
+}

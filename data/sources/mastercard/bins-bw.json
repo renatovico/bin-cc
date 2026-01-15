@@ -1,0 +1,49 @@
+{
+  "bins": [
+    {
+      "bin": "516996",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "534239",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "KINGDOM BANK AFRICA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "538441",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "539928",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "KINGDOM BANK AFRICA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "540851",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "541631",
+      "issuer": "BARCLAYS BANK OF BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    }
+  ]
+}

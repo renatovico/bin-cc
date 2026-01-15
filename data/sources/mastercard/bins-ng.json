@@ -1,0 +1,933 @@
+{
+  "bins": [
+    {
+      "bin": "512269",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ECOBANK NIGERIA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "512336",
+      "type": "CREDIT",
+      "issuer": "ZENITH BANK",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "512450",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ECOBANK NIGERIA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "512451",
+      "issuer": "ECOBANK NIGERIA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "513469",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "514585",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "515692",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "515803",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ZENITH BANK",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "515883",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "517754",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "INTERCONTINENTAL BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "517868",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "517960",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "518304",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "519863",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "519878",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "519885",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "519899",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "519902",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "519904",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "519905",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "519908",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "519909",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "519911",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "520053",
+      "type": "CREDIT",
+      "issuer": "INTERCONTINENTAL BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "521090",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "521623",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "INTERCONTINENTAL BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "521958",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "521982",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "521988",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "522899",
+      "type": "CREDIT",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "523740",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "523776",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "524271",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "524275",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "524311",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "INTERCONTINENTAL BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "524687",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "525634",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "UNITED BANK FOR AFRICA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "525685",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "INTERCONTINENTAL BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "525993",
+      "type": "CREDIT",
+      "issuer": "ECOBANK NIGERIA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "525994",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "526897",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "INTERCONTINENTAL BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "528047",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "528649",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "528650",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "528655",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "528668",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "528916",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ECOBANK NIGERIA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "528917",
+      "issuer": "ECOBANK NIGERIA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "528955",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "529539",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "529720",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "529975",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INTERCONTINENTAL BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "530519",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ZENITH BANK",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "531165",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "UNITED BANK FOR AFRICA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "531213",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "INTERCONTINENTAL BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "531224",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "531498",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "531499",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "531504",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "531505",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "531525",
+      "type": "CREDIT",
+      "issuer": "ZENITH BANK",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "531667",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ECOBANK NIGERIA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "532330",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "532732",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "GUARANTY TRUST BANK",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "532968",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "ECOBANK NIGERIA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "533031",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CITIBANK NIGERIA, LTD.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "533301",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "ZENITH BANK",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "533853",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "GUARANTY TRUST BANK",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "533856",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "GUARANTY TRUST BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "533887",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "533897",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "535955",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "536399",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "UNITY BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "536439",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "537010",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ECOBANK NIGERIA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "537011",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ECOBANK NIGERIA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "537610",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "539586",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "539923",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "FIRST BANK OF NIGERIA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "539941",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ZENITH BANK",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "539945",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "SKYE BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "539948",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "539983",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "GUARANTY TRUST BANK",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "540648",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "540884",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "ZENITH BANK",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "541508",
+      "type": "CREDIT",
+      "issuer": "GUARANTY TRUST BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "541569",
+      "type": "CREDIT",
+      "issuer": "GUARANTY TRUST BANK",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "542077",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STANBIC IBTC BANK",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "542231",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "ZENITH BANK",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "543338",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "FIRST BANK OF NIGERIA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "546557",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SKYE BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "547160",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ZENITH BANK",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "547638",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "548458",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ECOBANK NIGERIA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "548644",
+      "type": "CREDIT",
+      "issuer": "OCEANIC BANK",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "548712",
+      "type": "CREDIT",
+      "issuer": "ECOBANK NIGERIA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "549970",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "550019",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "551609",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "UNITY BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "552160",
+      "type": "CREDIT",
+      "issuer": "STANBIC IBTC BANK",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "552264",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "GUARANTY TRUST BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "552279",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "GUARANTY TRUST BANK",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "553420",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "INTERCONTINENTAL BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "555060",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "CITIBANK NIGERIA, LTD.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "555061",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "CITIBANK NIGERIA, LTD.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "555062",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "CITIBANK NIGERIA, LTD.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "555940",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANK PHB PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "556350",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "557581",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "557669",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "557693",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "INTERCONTINENTAL BANK PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "557694",
+      "type": "DEBIT",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "557972",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "558773",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "ECOBANK NIGERIA PLC",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "559424",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "559432",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "559441",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "559443",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ZENITH BANK",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "559447",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "bin": "559453",
+      "countries": [
+        "NG"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "bins": [
+    {
+      "bin": "504300",
+      "type": "DEBIT",
+      "issuer": "BANK AL JAZIRA",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "508160",
+      "type": "DEBIT",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "585265",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "588845",
+      "type": "DEBIT",
+      "issuer": "ALBANK ALSAUDI ALFRANSI",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "588846",
+      "type": "DEBIT",
+      "issuer": "ALBANK ALAWWAL",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "588847",
+      "type": "DEBIT",
+      "issuer": "AL RAJHI BANKING AND INVESTMENT CORP.",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "588848",
+      "type": "DEBIT",
+      "issuer": "Arab National Bank",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "588849",
+      "type": "DEBIT",
+      "issuer": "RIYAD BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "588850",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "NATIONAL COMMERCIAL BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "588851",
+      "type": "DEBIT",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "588982",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "SAMBA FINANCIAL GROUP",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "588983",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "SAMBA FINANCIAL GROUP",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "589206",
+      "type": "DEBIT",
+      "issuer": "SAUDI INVESTMENT BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "604906",
+      "type": "DEBIT",
+      "issuer": "NATIONAL BANK OF BAHRAIN",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "605141",
+      "type": "DEBIT",
+      "issuer": "SAUDI BRITISH BANK",
+      "countries": [
+        "SA"
+      ]
+    },
+    {
+      "bin": "636120",
+      "type": "DEBIT",
+      "issuer": "AL BILAD BANK",
+      "countries": [
+        "SA"
+      ]
+    }
+  ]
+}

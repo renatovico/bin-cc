@@ -1,0 +1,987 @@
+{
+  "bins": [
+    {
+      "bin": "403364",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "409040",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "409078",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "414284",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "415723",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK (URUGUAY), S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "418989",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "420720",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NUEVO BANCO COMERCIAL, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "421300",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ITAU URUGUAY, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "421301",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ITAU URUGUAY, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "421571",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OCA CASA FINANCIERA, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "421821",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "421827",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "422754",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BANDES URUGUAY, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "422755",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BANDES URUGUAY, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "422756",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BANDES URUGUAY, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "422757",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "PERSONAS SANTANDER EMPRESA ADMINISTRADORA DE CREDITOS, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "422758",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PERSONAS SANTANDER EMPRESA ADMINISTRADORA DE CREDITOS, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "422796",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "425677",
+      "type": "DEBIT",
+      "category": "CHECK CARD",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "426511",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "433479",
+      "issuer": "REDBANC S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "437846",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "440696",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "441010",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "441573",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OCA CASA FINANCIERA, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "444781",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "444782",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "444783",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "448162",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "448163",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "448164",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "448721",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CITIBANK",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "448722",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "449749",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DISCOUNT BANK (LATIN AMERICA), S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "449750",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DISCOUNT BANK (LATIN AMERICA), S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "449769",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DISCOUNT BANK (LATIN AMERICA), S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "450624",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "450626",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NUEVO BANCO COMERCIAL, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "450637",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NUEVO BANCO COMERCIAL, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "450642",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO LA CAJA OBRERA",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "450706",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO LA CAJA OBRERA",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "451319",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "451366",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "451367",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "451475",
+      "issuer": "PALDEC S.A. (EDICARD)",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "454053",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "NUEVO BANCO COMERCIAL, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "454065",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NUEVO BANCO COMERCIAL, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "454066",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NUEVO BANCO COMERCIAL, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "454090",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NUEVO BANCO COMERCIAL, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "454602",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "EXPRINTER CASA BANCARIA, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "454603",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EXPRINTER CASA BANCARIA, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "454883",
+      "issuer": "SISTARBANC S.R.L.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "454884",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO LA CAJA OBRERA",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "455104",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO ITAU URUGUAY, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "455110",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO ITAU URUGUAY, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "455134",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NUEVO BANCO COMERCIAL, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "455148",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "455175",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ITAU URUGUAY, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "455176",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO ITAU URUGUAY, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "455189",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ITAU URUGUAY, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "455987",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "455988",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITIBANK",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "456357",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "INTERCONTINENTAL BANK (URUGUAY), S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "459801",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CITIBANK",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "460067",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "466240",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "466241",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "467490",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BNL DE URUGUAY, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "468562",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "469703",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "472811",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "472812",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "472813",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "473103",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "473496",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK (URUGUAY), S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "477157",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BAUTZEN S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "477158",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BAUTZEN S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "480859",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "NUEVO BANCO COMERCIAL, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "480996",
+      "issuer": "RIAS S.R.L. (BANCOMAT)",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "483087",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "485956",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "489417",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "489991",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "491385",
+      "issuer": "OCA, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "491394",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "491395",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "491396",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO COMERCIAL",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "491510",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "491516",
+      "issuer": "EDIGUAY, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "491548",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "491549",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "491555",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "491669",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OCA CASA FINANCIERA, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "491670",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "OCA CASA FINANCIERA, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "491882",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "491883",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "491954",
+      "issuer": "COMPANIA URUGUAYA DE MEDIOS DE PROCESAMIENTO, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "493726",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HSBC BANK (URUGUAY), S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "493771",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "493772",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "493787",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "494007",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "494008",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "494016",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "494044",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "494078",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "494085",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "494095",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "494197",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO DE MONTEVIDEO, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "496034",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "498479",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NUEVO BANCO COMERCIAL, S.A.",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "498524",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "498525",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CITIBANK",
+      "countries": [
+        "UY"
+      ]
+    },
+    {
+      "bin": "498535",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "UY"
+      ]
+    }
+  ]
+}

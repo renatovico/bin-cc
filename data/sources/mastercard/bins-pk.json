@@ -1,0 +1,505 @@
+{
+  "bins": [
+    {
+      "bin": "510012",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "512077",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "512176",
+      "type": "CREDIT",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "514010",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ASKARI BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "514099",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ASKARI BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "514907",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "516011",
+      "type": "CREDIT",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "518496",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "518579",
+      "issuer": "STANDARD CHARTERED GRINDLAYS BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "518893",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK ALFALAH, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "519249",
+      "type": "CREDIT",
+      "issuer": "BANK ALFALAH, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "519828",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "520171",
+      "issuer": "UNITED BANK LIMITED (UBL)",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "521151",
+      "type": "CREDIT",
+      "issuer": "ASKARI BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "522105",
+      "issuer": "UNITED BANK LIMITED (UBL)",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "523969",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK ALFALAH, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "524084",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FAYSAL BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "524112",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FAYSAL BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "524218",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "524643",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "525452",
+      "type": "CREDIT",
+      "issuer": "FAYSAL BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "525780",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "526859",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "526919",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "526922",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "529729",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "529731",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "531141",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "531211",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "531322",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "532701",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "UNITED BANK LIMITED (UBL)",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "532709",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "UNITED BANK LIMITED (UBL)",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "532971",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "535991",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "536015",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "536072",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "536565",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "540345",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "540375",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "540547",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "ASKARI BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "541120",
+      "issuer": "UNION BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "542513",
+      "issuer": "UNION BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "542831",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "544147",
+      "issuer": "UNION BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "544148",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "545249",
+      "type": "CREDIT",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "546369",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "547009",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "547175",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "548044",
+      "issuer": "UNION BANK LIMITED <<<",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "548070",
+      "issuer": "UNION BANK LIMITED <<<",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "548193",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "549756",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "549757",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "552224",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ASKARI BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "552233",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FAYSAL BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "552512",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "552844",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "ASKARI BANK, LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "552922",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "552930",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "553137",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "554387",
+      "type": "CREDIT",
+      "issuer": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "554394",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STANDARD CHARTERED BANK (PAKISTAN), LTD.",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "555011",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "countries": [
+        "PK"
+      ]
+    },
+    {
+      "bin": "556689",
+      "countries": [
+        "PK"
+      ]
+    }
+  ]
+}

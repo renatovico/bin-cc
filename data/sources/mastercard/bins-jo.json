@@ -1,0 +1,956 @@
+{
+  "bins": [
+    {
+      "bin": "510442",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INTERNATIONAL CARD CO., LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "512023",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "INTERNATIONAL CARD CO., LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "512041",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "INTERNATIONAL CARD CO., LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "512267",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "INTERNATIONAL CARD CO., LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "512337",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "512386",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "INTERNATIONAL CARD CO., LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "512436",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JORDAN AHLI BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "515837",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "515870",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "516554",
+      "type": "DEBIT",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "517579",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "517727",
+      "type": "CREDIT",
+      "issuer": "JORDAN AHLI BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "517730",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INTERNATIONAL CARD CO., LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "517816",
+      "type": "CREDIT",
+      "issuer": "JORDAN KUWAIT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "517978",
+      "type": "CREDIT",
+      "issuer": "JORDAN AHLI BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "518271",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "INTERNATIONAL CARD CO., LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "518272",
+      "issuer": "INTERNATIONAL CARD CO., LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "518722",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JORDAN AHLI BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "519190",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "520008",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "JORDAN AHLI BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "520146",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "520375",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "521356",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "521505",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "521629",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "521800",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JORDAN AHLI BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "521950",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "522014",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "522068",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "522187",
+      "type": "CREDIT",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "522652",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "522969",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "INTERNATIONAL CARD CO., LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "524063",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "524077",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "524107",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "524174",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "524510",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "524866",
+      "type": "CREDIT",
+      "issuer": "INTERNATIONAL CARD CO., LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "524867",
+      "issuer": "INTERNATIONAL CARD CO., LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "525434",
+      "type": "CREDIT",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "525491",
+      "type": "CREDIT",
+      "issuer": "INTERNATIONAL CARD CO., LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "526409",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "526411",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "526412",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "526425",
+      "issuer": "JORDAN AHLI BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "526445",
+      "type": "CREDIT",
+      "issuer": "INTERNATIONAL CARD CO., LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "526760",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "528010",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "528027",
+      "type": "CREDIT",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "528485",
+      "category": "STANDARD",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "529624",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "529908",
+      "type": "CREDIT",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "531121",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "531180",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "531181",
+      "issuer": "LEBANON AND GULF BANK S.A.L.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "531186",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "531187",
+      "issuer": "LEBANON AND GULF BANK S.A.L.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "531812",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "532429",
+      "type": "CREDIT",
+      "issuer": "INTERNATIONAL CARD CO., LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "533175",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "533320",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "533988",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "JORDAN AHLI BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "534100",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "535944",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "537020",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "537794",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "539606",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "INTERNATIONAL CARD CO., LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "539926",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "539961",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "540611",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JORDAN AHLI BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "540612",
+      "type": "CREDIT",
+      "issuer": "JORDAN AHLI BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "540762",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JORDAN KUWAIT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "540959",
+      "issuer": "JORDAN NATIONAL BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "542878",
+      "issuer": "JORDAN NATIONAL BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "543176",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "543197",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "543302",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "INTERNATIONAL CARD CO., LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "543751",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "JORDAN AHLI BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "544002",
+      "issuer": "JORDAN NATIONAL BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "544035",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "544427",
+      "type": "CREDIT",
+      "issuer": "INTERNATIONAL CARD CO., LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "544466",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "INTERNATIONAL CARD CO., LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "544620",
+      "type": "CREDIT",
+      "issuer": "INTERNATIONAL CARD CO., LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "544761",
+      "issuer": "JORDAN NATIONAL BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "544763",
+      "issuer": "JORDAN NATIONAL BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "544765",
+      "issuer": "JORDAN NATIONAL BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "544869",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "545531",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "545532",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "545556",
+      "type": "CREDIT",
+      "issuer": "JORDAN KUWAIT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "545607",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JORDAN KUWAIT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "545723",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "546526",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "JORDAN KUWAIT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "546635",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "JORDAN AHLI BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "546743",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "INTERNATIONAL CARD CO., LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "546760",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "INTERNATIONAL CARD CO., LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "546891",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JORDAN AHLI BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "546893",
+      "issuer": "JORDAN NATIONAL BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "546894",
+      "issuer": "JORDAN NATIONAL BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "547003",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "INTERNATIONAL CARD CO., LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "548286",
+      "type": "CREDIT",
+      "issuer": "INTERNATIONAL CARD CO., LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "548585",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JORDAN KUWAIT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "548703",
+      "type": "CREDIT",
+      "issuer": "JORDAN AHLI BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "548894",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JORDAN KUWAIT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "549067",
+      "issuer": "JORDAN NATIONAL BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "549069",
+      "issuer": "JORDAN NATIONAL BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "549860",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "550342",
+      "issuer": "JORDAN NATIONAL BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "551347",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "JORDAN KUWAIT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "552105",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "552261",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "552281",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "JORDAN KUWAIT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "552346",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "553428",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "INTERNATIONAL CARD CO., LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "554649",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "557601",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "JORDAN KUWAIT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "557670",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "558352",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK AUDI- AUDI SARADAR GROUP",
+      "countries": [
+        "JO"
+      ]
+    }
+  ]
+}

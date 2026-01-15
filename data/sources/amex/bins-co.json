@@ -1,0 +1,36 @@
+{
+  "bins": [
+    {
+      "bin": "370110",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS COMPANY",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "372656",
+      "type": "CREDIT",
+      "issuer": "BANCO POPULAR",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "377813",
+      "type": "CREDIT",
+      "issuer": "BANCOLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "377815",
+      "type": "CREDIT",
+      "issuer": "BANCOLOMBIA",
+      "countries": [
+        "CO"
+      ]
+    }
+  ]
+}

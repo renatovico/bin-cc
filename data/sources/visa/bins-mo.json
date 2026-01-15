@@ -1,0 +1,670 @@
+{
+  "bins": [
+    {
+      "bin": "400363",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO NACIONAL ULTRAMARINO, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "405232",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO WENG HANG, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "405285",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL DE MACAU, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "405715",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF CHINA, LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "406052",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TAI FUNG BANK, LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "410507",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LUSO INTERNATIONAL BANKING, LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "410508",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "LUSO INTERNATIONAL BANKING, LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "411909",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LUSO INTERNATIONAL BANKING, LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "411910",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "LUSO INTERNATIONAL BANKING, LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "413444",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "419970",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "420188",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO NACIONAL ULTRAMARINO, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "426582",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL DE MACAU, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "426583",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO COMERCIAL DE MACAU, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "426584",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL DE MACAU, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "426585",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO COMERCIAL DE MACAU, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "428151",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "428152",
+      "issuer": "HANG SENG BANK, LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "428343",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "430267",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TAI FUNG BANK, LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "430268",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF CHINA, LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "430487",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO WENG HANG, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "431902",
+      "issuer": "BANK OF EAST ASIA, LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "432709",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "433643",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK OF CHINA, LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "433647",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "433661",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK OF CHINA, LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "433663",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK OF CHINA",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "433665",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "437717",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL DE MACAU, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "437729",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL DE MACAU, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "437765",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "438077",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LIU CHONG HING BANK, LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "444095",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO WENG HANG, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "445983",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO WENG HANG, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "451178",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF CHINA, LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "451179",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF CHINA, LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "451187",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO NACIONAL ULTRAMARINO, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "451188",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO NACIONAL ULTRAMARINO, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "451433",
+      "issuer": "BANCO WENG HANG, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "453264",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL DE MACAU, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "455350",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO WENG HANG, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "455351",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO WENG HANG, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "457410",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "459556",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "459559",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "461741",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO COMERCIAL DE MACAU, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "461742",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO COMERCIAL DE MACAU, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "461784",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "464792",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL DE MACAU, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "464793",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL DE MACAU, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "466074",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "472047",
+      "issuer": "BANCO COMERCIAL DE MACAU, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "472048",
+      "issuer": "BANCO COMERCIAL DE MACAU, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "473194",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL DE MACAU, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "475515",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "475516",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "475695",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "480216",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO NACIONAL ULTRAMARINO, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "489669",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL DE MACAU, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "489670",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL DE MACAU, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "489671",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL DE MACAU, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "489672",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL DE MACAU, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "489673",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL DE MACAU, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "489674",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL DE MACAU, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "489675",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMERCIAL DE MACAU, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "489676",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO COMERCIAL DE MACAU, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "489677",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO COMERCIAL DE MACAU, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "489967",
+      "issuer": "BANCO NACIONAL ULTRAMARINO, S.A.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "490857",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF CHINA, LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "490858",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF CHINA, LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "490859",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "490860",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "490866",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "490867",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "491886",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "491887",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU), LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "492441",
+      "issuer": "BOC CREDIT CARD (INTERNATIONAL), LTD.",
+      "countries": [
+        "MO"
+      ]
+    },
+    {
+      "bin": "498483",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "MO"
+      ]
+    }
+  ]
+}

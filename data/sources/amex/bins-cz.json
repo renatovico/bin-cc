@@ -1,0 +1,34 @@
+{
+  "bins": [
+    {
+      "bin": "375500",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "375501",
+      "type": "CREDIT",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "375502",
+      "type": "CREDIT",
+      "countries": [
+        "CZ"
+      ]
+    },
+    {
+      "bin": "377944",
+      "type": "CREDIT",
+      "countries": [
+        "CZ"
+      ]
+    }
+  ]
+}

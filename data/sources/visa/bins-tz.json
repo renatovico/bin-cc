@@ -1,0 +1,449 @@
+{
+  "bins": [
+    {
+      "bin": "402279",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "402662",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "410773",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CRDB BANK, LTD.",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "411699",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "411748",
+      "issuer": "CRDB BANK, LTD.",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "413837",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "413838",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FBME BANK, LTD.",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "417441",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NATIONAL BANK OF COMMERCE, LTD.",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "417442",
+      "issuer": "NATIONAL BANK OF COMMERCE, LTD.",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "418352",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "418353",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "418354",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "418392",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "419827",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DIAMOND TRUST BANK TANZANIA, LTD.",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "419828",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DIAMOND TRUST BANK TANZANIA, LTD.",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "419837",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "419838",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "420564",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BARCLAYS BANK TANZANIA, LTD.",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "420572",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "422128",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK TANZANIA, LTD.",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "422802",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD CHARTERED BANK TANZANIA, LTD.",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "422806",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "422807",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD CHARTERED BANK TANZANIA, LTD.",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "423212",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "424426",
+      "issuer": "NATIONAL BANK OF COMMERCE, LTD.",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "428552",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EXIM BANK TANZANIA, LTD.",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "428553",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "EXIM BANK TANZANIA, LTD.",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "428554",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EXIM BANK TANZANIA, LTD.",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "428555",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EXIM BANK TANZANIA, LTD.",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "431331",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "STANBIC BANK TANZANIA, LTD.",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "431332",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANBIC BANK TANZANIA, LTD.",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "431333",
+      "issuer": "STANBIC BANK TANZANIA, LTD.",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "431334",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "431335",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "433816",
+      "issuer": "STANDARD CHARTERED BANK TANZANIA, LTD.",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "437446",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "444566",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "457280",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "457716",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "457878",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "457879",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "470356",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "483969",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BARCLAYS BANK TANZANIA LIMITED",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "486036",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "486043",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "486044",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "486045",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AFRICAN BANKING CORPORATION TANZANIA LIMITED",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "486046",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "486047",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "486048",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "486049",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "486050",
+      "type": "DEBIT",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "486051",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "486052",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "486053",
+      "type": "DEBIT",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "486054",
+      "type": "DEBIT",
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "bin": "494147",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "TZ"
+      ]
+    }
+  ]
+}

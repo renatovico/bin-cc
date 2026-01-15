@@ -1,0 +1,493 @@
+{
+  "bins": [
+    {
+      "bin": "404306",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "404894",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "405789",
+      "issuer": "BARCLAYS BANK OF BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "406901",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "STANBIC BANK BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "406902",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANBIC BANK BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "406903",
+      "issuer": "STANBIC BANK BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "406915",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "406928",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "STANBIC BANK BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "406944",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STANBIC BANK BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "407150",
+      "issuer": "CITIZENS NATIONAL BANK OF EVANSVILLE",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "412513",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "412514",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "STANDARD CHARTERED BANK OF BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "413277",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FIRST NATIONAL BANK OF BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "413278",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST NATIONAL BANK OF BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "413279",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "FIRST NATIONAL BANK OF BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "414276",
+      "issuer": "FIRST NATIONAL BANK OF BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "416918",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "420163",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "420164",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "420167",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BARCLAYS BANK OF BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "420236",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "420727",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRST NATIONAL BANK OF BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "422125",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK OF BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "432162",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK GABORONE, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "432163",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANK GABORONE, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "432164",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK GABORONE, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "432165",
+      "issuer": "BANK GABORONE, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "433333",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BARCLAYS BANK OF BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "438985",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "438986",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "444562",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "STANBIC BANK BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "445613",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "445614",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "445625",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "448330",
+      "issuer": "BARCLAYS BANK OF BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "458749",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "AFRICAN BANKING CORPORATION OF BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "458750",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "458751",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "AFRICAN BANKING CORPORATION OF BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "458752",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "AFRICAN BANKING CORPORATION OF BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "458753",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AFRICAN BANKING CORPORATION OF BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "463300",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "467361",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "468544",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "471396",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "474110",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "476295",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "486035",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "486084",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "486085",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "489571",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AFRICAN BANKING CORPORATION OF BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "489572",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AFRICAN BANKING CORPORATION OF BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "489573",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AFRICAN BANKING CORPORATION OF BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "489574",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AFRICAN BANKING CORPORATION OF BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "489575",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "AFRICAN BANKING CORPORATION OF BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "489576",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AFRICAN BANKING CORPORATION OF BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "489577",
+      "type": "DEBIT",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "489578",
+      "type": "DEBIT",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "490132",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRST NATIONAL BANK OF BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "490133",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FIRST NATIONAL BANK OF BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "bin": "490134",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRST NATIONAL BANK OF BOTSWANA, LTD.",
+      "countries": [
+        "BW"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3499 @@
+{
+  "bins": [
+    {
+      "bin": "510010",
+      "type": "CREDIT",
+      "issuer": "BANK PRZEMYSLOWO-HANDLOWY PBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "510018",
+      "issuer": "PKO SAVINGS BANK",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "510045",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "INVEST-BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "510048",
+      "issuer": "LG PETRO BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "510057",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI S.A. (GBW S.A.)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "510064",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "INVEST-BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "510068",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NORDEA BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "510109",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "INVEST-BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "510114",
+      "issuer": "BANK PRZEMYSLOWO-HANDLOWY PKB, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "510148",
+      "type": "CREDIT",
+      "issuer": "INVEST-BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "510259",
+      "category": "STANDARD",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "510284",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "511663",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "511686",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "511796",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "511845",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "511873",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "512317",
+      "type": "CREDIT",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "512333",
+      "type": "CREDIT",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "512361",
+      "type": "CREDIT",
+      "issuer": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "512495",
+      "type": "CREDIT",
+      "issuer": "INVEST-BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "512568",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "512570",
+      "type": "CREDIT",
+      "issuer": "INVEST-BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "512589",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "512592",
+      "type": "CREDIT",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "512597",
+      "type": "CREDIT",
+      "issuer": "INVEST-BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "512601",
+      "type": "CREDIT",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "512602",
+      "category": "STANDARD",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "512628",
+      "type": "CREDIT",
+      "issuer": "CREDIT AGRICOLE BANK POLSKA SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "512680",
+      "type": "CREDIT",
+      "issuer": "SANTANDER CONSUMER BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "512716",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "512748",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK MILLENNIUM, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "512792",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK MILLENNIUM, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "512826",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI S.A. (GBW S.A.)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "513003",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "513204",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI S.A. (GBW S.A.)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "514905",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "515632",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "RAIFFEISEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "515681",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "515710",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "516010",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "516392",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "516393",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "516394",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "516745",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "516817",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "516819",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "516827",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "516828",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "516831",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "516832",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "516898",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "516920",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "516969",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "517786",
+      "type": "CREDIT",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "518590",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "518682",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "518780",
+      "issuer": "BANK MILLENNIUM, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "518790",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "518794",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "518797",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "518798",
+      "category": "STANDARD",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "518799",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "518809",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI S.A. (GBW S.A.)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "518849",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI S.A. (GBW S.A.)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "518984",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OCHRONY SRODOWISKA S.A. (BOS S.A.)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "519005",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK PRZEMYSLOWO-HANDLOWY PBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "519195",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "519308",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "519365",
+      "type": "CREDIT",
+      "issuer": "ALIOR BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "519467",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "519486",
+      "type": "CREDIT",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "519755",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "519758",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "520046",
+      "type": "CREDIT",
+      "issuer": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "520084",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "520127",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI S.A. (GBW S.A.)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "520177",
+      "type": "CREDIT",
+      "issuer": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "520311",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "520312",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "520313",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "520314",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "520319",
+      "type": "CREDIT",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "520343",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "520624",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "520625",
+      "category": "STANDARD",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "520626",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "520644",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI S.A. (GBW S.A.)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "520648",
+      "issuer": "BANK INICJATYW SPOLECZNO-EKONOMICZNYCH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "520654",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "520659",
+      "type": "CREDIT",
+      "issuer": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "520672",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "520684",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK DNB NORD POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "520718",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "520910",
+      "type": "CREDIT",
+      "issuer": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "520925",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NORDEA BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "520936",
+      "type": "CREDIT",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "521156",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "521169",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "KRAJOWA SPOLDZIELCZA KASA OSZCZEDNOSCIOWO KREDYTOWA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "521173",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SANTANDER CONSUMER BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "521186",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "521187",
+      "issuer": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "521195",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "521196",
+      "issuer": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "521787",
+      "type": "CREDIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "521840",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "522004",
+      "type": "CREDIT",
+      "issuer": "CREDIT AGRICOLE BANK POLSKA SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "522005",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "LUKAS BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "522006",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "522007",
+      "type": "CREDIT",
+      "issuer": "CREDIT AGRICOLE BANK POLSKA SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "522084",
+      "type": "CREDIT",
+      "issuer": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "522211",
+      "type": "CREDIT",
+      "issuer": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "522252",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "522434",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "522436",
+      "type": "CREDIT",
+      "category": "OTHER",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "522467",
+      "type": "CREDIT",
+      "issuer": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "522471",
+      "type": "CREDIT",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "522829",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "522874",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BRE BANK SPOLKA AKCYJNA BRE BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "522875",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BANK PRZEMYSLOWO-HANDLOWY PBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "522877",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "RAIFFEISEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "522878",
+      "type": "CREDIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "523203",
+      "type": "CREDIT",
+      "issuer": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "523427",
+      "type": "CREDIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "523523",
+      "category": "STANDARD",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "523625",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "BANK MILLENNIUM, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "523944",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NORDEA BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "524382",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "524749",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "524750",
+      "category": "STANDARD",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "524842",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NORDEA BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "524874",
+      "type": "CREDIT",
+      "issuer": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "524890",
+      "type": "CREDIT",
+      "issuer": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "524891",
+      "type": "CREDIT",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI S.A. (GBW S.A.)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "525427",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI S.A. (GBW S.A.)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "525472",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK DNB NORD POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "525632",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE BANK PBC, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "525658",
+      "type": "CREDIT",
+      "issuer": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "525789",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "526203",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "526452",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "526453",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "526457",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "526459",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "526744",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "526770",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "526771",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "526941",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "527310",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "527409",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "527438",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "527439",
+      "issuer": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "527440",
+      "issuer": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "528176",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "528234",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDIT AGRICOLE BANK POLSKA SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "528577",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "528623",
+      "type": "CREDIT",
+      "issuer": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "529030",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "529227",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "529246",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "529316",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BRE BANK SPOLKA AKCYJNA BRE BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "529422",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ALIOR BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "529454",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK MILLENNIUM, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "529474",
+      "type": "CREDIT",
+      "issuer": "SANTANDER CONSUMER BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "529576",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "529577",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI S.A. (GBW S.A.)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "529584",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "529949",
+      "issuer": "BANK INICJATYW SPOLECZNO-EKONOMICZNYCH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "529950",
+      "issuer": "BANK INICJATYW SPOLECZNO-EKONOMICZNYCH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "529951",
+      "issuer": "BANK INICJATYW SPOLECZNO-EKONOMICZNYCH, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "530182",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "530400",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "530408",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "ALIOR BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "530421",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BANK MILLENNIUM, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "530660",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "530874",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "530903",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "530975",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "531035",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "ALIOR BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "531143",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "531204",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "RAIFFEISEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "531206",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "RAIFFEISEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "531235",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "BANK PRZEMYSLOWO-HANDLOWY PBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "531343",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "531682",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "532962",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "532966",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "533015",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "533119",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "533120",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "533531",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BRE BANK SPOLKA AKCYJNA BRE BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "533535",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BRE BANK SPOLKA AKCYJNA BRE BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "533666",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "533737",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "533908",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "533941",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "534160",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHE BANK PBC, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "534288",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "534714",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANK MILLENNIUM, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "535942",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "536360",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "536366",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "536368",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ALIOR BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "536373",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "BANK DNB NORD POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "536388",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "536410",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "536411",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "536412",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHE BANK PBC, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "536413",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "536415",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "536416",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "536487",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "536490",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "ACCORD FINANCE SPOLKA AZKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "536508",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK MILLENNIUM, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "536515",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK GOSPODARKI ZYWNOSCIOWEJ SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "537002",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "539603",
+      "type": "CREDIT",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "539650",
+      "category": "GOLD",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "539837",
+      "type": "CREDIT",
+      "issuer": "BANK GOSPODARKI ZYWNOSCIOWEJ SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "541495",
+      "type": "CREDIT",
+      "issuer": "INVEST-BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "541787",
+      "type": "CREDIT",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "541862",
+      "type": "CREDIT",
+      "issuer": "ALIOR BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "542046",
+      "type": "CREDIT",
+      "issuer": "BRE BANK SPOLKA AKCYJNA BRE BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "542080",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "542084",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "542280",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "542310",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "542517",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "542738",
+      "type": "CREDIT",
+      "issuer": "BRE BANK SPOLKA AKCYJNA BRE BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "542757",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANK MILLENNIUM, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "542848",
+      "type": "CREDIT",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "543134",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "543310",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "RAIFFEISEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "543553",
+      "issuer": "POWSZECHNY BANK KREDYTOWY S.A. W WARSAWIE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "543589",
+      "type": "CREDIT",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI S.A. (GBW S.A.)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "543608",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI S.A. (GBW S.A.)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "543625",
+      "type": "CREDIT",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI S.A. (GBW S.A.)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "543627",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "543647",
+      "type": "CREDIT",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI S.A. (GBW S.A.)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "543651",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "544018",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK GOSPODARKI ZYWNOSCIOWEJ SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "544201",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "544202",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "544246",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "544258",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BRE BANK SPOLKA AKCYJNA BRE BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "544268",
+      "type": "CREDIT",
+      "issuer": "RAIFFEISEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "544536",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "SYGMA BANQUE SOCIETE ANONYME ODDZIAL W POLSCE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "544674",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "544685",
+      "type": "CREDIT",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI S.A. (GBW S.A.)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "544995",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "545119",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "545158",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "545164",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "545250",
+      "type": "CREDIT",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "545258",
+      "type": "CREDIT",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "545281",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "545287",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "545371",
+      "category": "STANDARD",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "545377",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "545380",
+      "type": "CREDIT",
+      "issuer": "DEUTSCHE BANK PBC, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "545454",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "545508",
+      "type": "CREDIT",
+      "issuer": "BANK PRZEMYSLOWO-HANDLOWY PBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "545580",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHE BANK PBC, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "545602",
+      "type": "CREDIT",
+      "issuer": "BANK MILLENNIUM, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "545871",
+      "type": "CREDIT",
+      "issuer": "IKANO BANK GMBH",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "546003",
+      "type": "CREDIT",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "546102",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "546566",
+      "type": "CREDIT",
+      "issuer": "BANK PRZEMYSLOWO-HANDLOWY PBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "546719",
+      "issuer": "BANK PRZEMYSLOWO-HANDLOWY PKB, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547212",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK PRZEMYSLOWO-HANDLOWY PBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547215",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547267",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547280",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CREDIT AGRICOLE BANK POLSKA SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547303",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547333",
+      "issuer": "NATIONAL BANK OF COMMERCE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547334",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK GOSPODARKI ZYWNOSCIOWEJ SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547342",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547366",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547384",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547396",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547430",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK OCHRONY SRODOWISKA S.A. (BOS S.A.)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547435",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547440",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547557",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CREDIT AGRICOLE BANK POLSKA SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547574",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547594",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK MILLENNIUM, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547605",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHE BANK PBC, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547607",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHE BANK PBC, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547688",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ALIOR BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547689",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ALIOR BANKU SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547695",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547701",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK OCHRONY SRODOWISKA S.A. (BOS S.A.)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547729",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547778",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547781",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547794",
+      "issuer": "BANK GDANSKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547831",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK GOSPODARKI ZYWNOSCIOWEJ SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547832",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547839",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547890",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547892",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547893",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BRE BANK SPOLKA AKCYJNA BRE BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547900",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547919",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "547923",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "548004",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI S.A. (GBW S.A.)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "548197",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "548372",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "548600",
+      "type": "CREDIT",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "548606",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "548823",
+      "issuer": "HYPO BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "548967",
+      "issuer": "KREDYT BANK PBI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "549029",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "549078",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "549246",
+      "type": "CREDIT",
+      "issuer": "BANK MILLENNIUM, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "549726",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK OCHRONY SRODOWISKA S.A. (BOS S.A.)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "549847",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "549959",
+      "issuer": "BANK HANDLOWY W WARSZAWIE SA - CITI GROUP",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "550100",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDIT AGRICOLE BANK POLSKA SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "550314",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "550429",
+      "issuer": "PKO SAVINGS BANK",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "552044",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DEUTSCHE BANK PBC, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "552185",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "552232",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "552248",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SKANDINAVISKA ENSKILDA BANKEN AB",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "552570",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANK MILLENNIUM, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "552572",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "552583",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "552600",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI S.A. (GBW S.A.)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "552602",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI S.A. (GBW S.A.)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "552652",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK PRZEMYSLOWO-HANDLOWY PBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "552672",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "552683",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "552714",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI S.A. (GBW S.A.)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "552715",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BRE BANK SPOLKA AKCYJNA BRE BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "552758",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "552776",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BRE BANK SPOLKA AKCYJNA BRE BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "552816",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BRE BANK SPOLKA AKCYJNA BRE BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "552875",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "552956",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "553037",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "553041",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "553042",
+      "category": "STANDARD",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "553084",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK MILLENNIUM, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "553141",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "553148",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "553260",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "BANK MILLENNIUM, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "553454",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "553455",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "553460",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "553512",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "553591",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "554176",
+      "issuer": "POWSZECHNY BANK KREDYTOWY S.A. W WARSAWIE",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "554193",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "554695",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "554821",
+      "type": "CREDIT",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "554895",
+      "issuer": "BANK GOSPODARKI ZYWNOSCIOWEJ",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "554971",
+      "issuer": "BANK PRZEMYSLOWO-HANDLOWY PKB, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "556028",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK GOSPODARKI ZYWNOSCIOWEJ SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "556074",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "556076",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "556079",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "556080",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ALIOR BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "556623",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "SKANDINAVISKA ENSKILDA BANKEN AB",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "556641",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557501",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557502",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557503",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANK GOSPODARKI ZYWNOSCIOWEJ SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557504",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557505",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANK HANDLOWY W WARSZAWIE, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557506",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ALIOR BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557507",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557509",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557510",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "BRE BANK SPOLKA AKCYJNA BRE BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557511",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557513",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BRE BANK SPOLKA AKCYJNA BRE BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557515",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BNP PARIBAS BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557516",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557519",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557520",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANK PRZEMYSLOWO-HANDLOWY PBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557521",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANK PRZEMYSLOWO-HANDLOWY PBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557522",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ALIOR BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557523",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "RAIFFEISEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557524",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557525",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557526",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557527",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557528",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557529",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557530",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ING BANK SLASKI, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557533",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANK DNB NORD POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557536",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557537",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557538",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "RAIFFEISEN BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557539",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI S.A. (GBW S.A.)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557540",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557541",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557542",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557543",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557545",
+      "type": "DEBIT",
+      "category": "WORLD DEBIT EMBOSSED",
+      "issuer": "BANK MILLENNIUM, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557546",
+      "type": "DEBIT",
+      "category": "WORLD DEBIT EMBOSSED",
+      "issuer": "ALIOR BANK SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557547",
+      "type": "DEBIT",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557700",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557701",
+      "type": "CREDIT",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI S.A. (GBW S.A.)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557710",
+      "type": "CREDIT",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557714",
+      "type": "CREDIT",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557716",
+      "type": "CREDIT",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557830",
+      "issuer": "BANK GOSPODARKI ZYWNOSCIOWEJ",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557894",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "557895",
+      "type": "CREDIT",
+      "issuer": "BRE BANK SPOLKA AKCYJNA BRE BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "558256",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "558341",
+      "issuer": "HYPO BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "558348",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK BPH SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "558350",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "558395",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "558431",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "558466",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "GOSPODARCZY BANK WIELKOPOLSKI S.A. (GBW S.A.)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "558467",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK ZACHODNI WBK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "558494",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "558528",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NORDEA BANK POLSKA, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "558592",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK GOSPODARKI ZYWNOSCIOWEJ SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "558643",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "558670",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BRE BANK SPOLKA AKCYJNA BRE BANK, S.A.",
+      "countries": [
+        "PL"
+      ]
+    },
+    {
+      "bin": "558816",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK GOSPODARKI ZYWNOSCIOWEJ SPOLKA AKCYJNA",
+      "countries": [
+        "PL"
+      ]
+    }
+  ]
+}

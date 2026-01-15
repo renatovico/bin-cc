@@ -1,0 +1,112 @@
+{
+  "bins": [
+    {
+      "bin": "406358",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JOINT DEVELOPMENT BANK, LTD.",
+      "countries": [
+        "LA"
+      ]
+    },
+    {
+      "bin": "428469",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LA"
+      ]
+    },
+    {
+      "bin": "428470",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "LA"
+      ]
+    },
+    {
+      "bin": "428471",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LA"
+      ]
+    },
+    {
+      "bin": "436805",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JOINT DEVELOPMENT BANK, LTD.",
+      "countries": [
+        "LA"
+      ]
+    },
+    {
+      "bin": "436806",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JOINT DEVELOPMENT BANK, LTD.",
+      "countries": [
+        "LA"
+      ]
+    },
+    {
+      "bin": "451257",
+      "issuer": "JOINT DEVELOPMENT BANK, LTD.",
+      "countries": [
+        "LA"
+      ]
+    },
+    {
+      "bin": "462234",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LA"
+      ]
+    },
+    {
+      "bin": "462833",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PHONGSAVANH BANK, LTD.",
+      "countries": [
+        "LA"
+      ]
+    },
+    {
+      "bin": "462834",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PHONGSAVANH BANK, LTD.",
+      "countries": [
+        "LA"
+      ]
+    },
+    {
+      "bin": "470530",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LA"
+      ]
+    },
+    {
+      "bin": "470531",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "LA"
+      ]
+    },
+    {
+      "bin": "470532",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LA"
+      ]
+    }
+  ]
+}

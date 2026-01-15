@@ -1,0 +1,118 @@
+{
+  "bins": [
+    {
+      "bin": "418085",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "MR"
+      ]
+    },
+    {
+      "bin": "418337",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE AL-WAVA MAURITANIENNE ISLAMIQUE BAMIS",
+      "countries": [
+        "MR"
+      ]
+    },
+    {
+      "bin": "418381",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "MR"
+      ]
+    },
+    {
+      "bin": "418382",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "MR"
+      ]
+    },
+    {
+      "bin": "420347",
+      "countries": [
+        "MR"
+      ]
+    },
+    {
+      "bin": "437519",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MR"
+      ]
+    },
+    {
+      "bin": "437708",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "MR"
+      ]
+    },
+    {
+      "bin": "444003",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE MAURITANIENNE POUR LE COMMERCE INTERNATIONAL",
+      "countries": [
+        "MR"
+      ]
+    },
+    {
+      "bin": "456585",
+      "countries": [
+        "MR"
+      ]
+    },
+    {
+      "bin": "456586",
+      "countries": [
+        "MR"
+      ]
+    },
+    {
+      "bin": "468590",
+      "countries": [
+        "MR"
+      ]
+    },
+    {
+      "bin": "471360",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "MR"
+      ]
+    },
+    {
+      "bin": "471361",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MR"
+      ]
+    },
+    {
+      "bin": "488985",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "MR"
+      ]
+    },
+    {
+      "bin": "488986",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "MR"
+      ]
+    }
+  ]
+}

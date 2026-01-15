@@ -1,0 +1,983 @@
+{
+  "bins": [
+    {
+      "bin": "401188",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ENTREPRISE DES POSTES ET TELECOMMUNICATIONS",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "402527",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ING LUXEMBOURG, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "405214",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "FORTIS BANQUE LUXEMBOURG, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408513",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408517",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408518",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408519",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408701",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "ENTREPRISE DES POSTES ET TELECOMMUNICATIONS",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408702",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408703",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408704",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408705",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408706",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408707",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408708",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408709",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408710",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408711",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408712",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408713",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408714",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408715",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408716",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408717",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408718",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408719",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408720",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "DEXIA BANQUE INTERNATIONALE A LUXEMBOURG, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408721",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408722",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408723",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408724",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408725",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408726",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408727",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408728",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408729",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408730",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408731",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408732",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408733",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408734",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408735",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408736",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408737",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408738",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408739",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408750",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408760",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "ING LUXEMBOURG, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408767",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408768",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408769",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408772",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408773",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408774",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408785",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "408799",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "VISALUX S.C.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "420792",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "420793",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "420794",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "420795",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "420796",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "424369",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "425722",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "429731",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "450659",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FORTIS BANQUE LUXEMBOURG, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "450697",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FORTIS BANK LUXEMBOURG",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "450760",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ING LUXEMBOURG, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "454102",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ENTREPRISE DES POSTES ET TELECOMMUNICATIONS",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "456755",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "456756",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "456757",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "456758",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "456760",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "456761",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "456762",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "456763",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "456766",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "456767",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "456769",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "456770",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "456771",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "456772",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "456773",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "456774",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "459002",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "459003",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "459019",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "466262",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "466263",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "466264",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "466265",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "466508",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "466509",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "466510",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "466557",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "466558",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "466559",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "466560",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "466561",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "466562",
+      "type": "DEBIT",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "469731",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "ENTREPRISE DES POSTES ET TELECOMMUNICATIONS",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "472312",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "476310",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANQUE (LUXEMBOURG), S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "476311",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CORNER BANQUE (LUXEMBOURG), S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "477952",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "FORTIS BANQUE LUXEMBOURG, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "477953",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "FORTIS BANQUE LUXEMBOURG, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "477954",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "FORTIS BANQUE LUXEMBOURG, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "479202",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ENTREPRISE DES POSTES ET TELECOMMUNICATIONS",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "480980",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "480981",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "490737",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "490738",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "490739",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "492308",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "493733",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "493734",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE INVIK, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "493736",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ING LUXEMBOURG, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "494024",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VISALUX S.C.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "494025",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISALUX S.C.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "494032",
+      "issuer": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "494036",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "VISALUX S.C.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "496611",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ING LUXEMBOURG, S.A.",
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "bin": "496637",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "FORTIS BANK LUXEMBOURG",
+      "countries": [
+        "LU"
+      ]
+    }
+  ]
+}

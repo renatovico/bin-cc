@@ -1,0 +1,2197 @@
+{
+  "bins": [
+    {
+      "bin": "400271",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AGRICULTURAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "400874",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "MARFIN EGNATIA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "402068",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "402090",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MARFIN EGNATIA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "402132",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MARFIN EGNATIA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "402593",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "402629",
+      "issuer": "TAHIDROMIKO TAMIEFTIRIO (GREEK POSTAL SAVINGS BANK)",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "402798",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "402957",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "403278",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "403348",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "403721",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HELLENIC BANK PUBLIC CO., LTD.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "404255",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "404736",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EMPORIKI CREDICOM BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "404737",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EMPORIKI CREDICOM BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "404934",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "405050",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "405115",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "405116",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "405211",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HELLENIC BANK PUBLIC CO., LTD.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "405470",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PROBANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "405471",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PROBANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "405472",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PROBANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "405473",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PROBANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "405474",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PROBANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "405475",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PROBANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "405752",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "405784",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "406001",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "406301",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "406302",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "406312",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF CYPRUS PUBLIC CO., LTD.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "406313",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF CYPRUS PUBLIC CO., LTD.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "407534",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PANELLINIA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "407582",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ATTICA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "407709",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "409313",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GENERAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "409314",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "GENERAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "409348",
+      "issuer": "ASPIS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "409638",
+      "issuer": "EGNATIA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "409673",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "409840",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "T.BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "410201",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PANELLINIA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "410222",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CARREFOUR MARINOPOULOS CREDIT COMPANY, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "410788",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "410789",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "411569",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "412558",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "413420",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "413492",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "413756",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ATTICA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "414028",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF CYPRUS PUBLIC CO., LTD.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "414029",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF CYPRUS PUBLIC CO., LTD.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "414278",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "414279",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "415478",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "415500",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ING BANK, N.V.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "415511",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PANELLINIA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "415512",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PANELLINIA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "415953",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AGRICULTURAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "415954",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AGRICULTURAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "415955",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AGRICULTURAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "415958",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK MILLENNIUM, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "415959",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK MILLENNIUM, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "415960",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK MILLENNIUM, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "415963",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "415970",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HELLENIC BANK PUBLIC CO., LTD.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "416739",
+      "issuer": "PROBANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "417056",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "T.BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "418680",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "418861",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "418895",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "421587",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "422057",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "422117",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MARFIN EGNATIA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "422152",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "422164",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "422183",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MARFIN EGNATIA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "423294",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HELLENIC POST CREDIT, CREDIT COMPANY SOCIETE ANONYME",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "423295",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HELLENIC POST CREDIT, CREDIT COMPANY SOCIETE ANONYME",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "423296",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TT HELLENIC POSTBANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "425591",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PROTON BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "425592",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PROTON INVESTMENT BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "425593",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PROTON INVESTMENT BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "425594",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PROTON BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "425595",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PROTON INVESTMENT BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "425596",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PROTON INVESTMENT BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "426340",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "426366",
+      "issuer": "OMEGA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "427307",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "427310",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "428539",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "428540",
+      "type": "DEBIT",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "428541",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "429070",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "429108",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MARFIN EGNATIA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "429383",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ATTICA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "429384",
+      "issuer": "BANK OF ATTICA, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "429417",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "429579",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK OF CYPRUS PUBLIC CO., LTD.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "429764",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "429970",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK MILLENNIUM, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "430252",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF CYPRUS PUBLIC CO., LTD.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "430502",
+      "issuer": "TAHIDROMIKO TAMIEFTIRIO (GREEK POSTAL SAVINGS BANK)",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "430528",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "430588",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "430589",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "432495",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PANELLINIA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "432496",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PANELLINIA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "432497",
+      "issuer": "PANELLINIA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "432532",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "432537",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "439059",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MARFIN EGNATIA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "439074",
+      "issuer": "PROBANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "440606",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HELLENIC BANK PUBLIC CO., LTD.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "440767",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "441029",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "442317",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "444681",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "445821",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FBB - FIRST BUSINESS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "445822",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "446355",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "446356",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "450903",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "451189",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "453212",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "454077",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "454320",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "454321",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "455039",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "455054",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "455140",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "455192",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "455258",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "455603",
+      "issuer": "CITIBANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "455604",
+      "issuer": "CITIBANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "455628",
+      "issuer": "CITIBANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "455629",
+      "issuer": "CITIBANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "455638",
+      "issuer": "CITIBANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "455639",
+      "issuer": "CITIBANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "455643",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITIBANK INTERNATIONAL PLC",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "455644",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK INTERNATIONAL PLC",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "455716",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK INTERNATIONAL PLC",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "456711",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BNP PARIBAS INTERCONTINENTALE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "456712",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BNP PARIBAS INTERCONTINENTALE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "459346",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "461297",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "T.BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "461298",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "T.BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "461299",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ASPIS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "462746",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "464417",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "466526",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK MILLENNIUM, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "467105",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HELLENIC POST CREDIT, CREDIT COMPANY SOCIETE ANONYME",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "467106",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HELLENIC POST CREDIT, CREDIT COMPANY SOCIETE ANONYME",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "467107",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HELLENIC POST CREDIT, CREDIT COMPANY SOCIETE ANONYME",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "467108",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HELLENIC POST CREDIT, CREDIT COMPANY SOCIETE ANONYME",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "474343",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK MILLENNIUM, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "476336",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MARFIN EGNATIA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "477105",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "477178",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ATTICA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "477943",
+      "issuer": "CITIBANK INTERNATIONAL PLC",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "479239",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "MARFIN EGNATIA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "479240",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MARFIN EGNATIA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "479273",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "479274",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "479275",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "479276",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "479744",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MARFIN EGNATIA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "480204",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "GENERAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "480946",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "480947",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "482428",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "483016",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "486341",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CYPRUS POPULAR BANK PUBLIC CO LTD",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "489403",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "GENERAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "489453",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "489459",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "490140",
+      "issuer": "CITIBANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "490700",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ATTICA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "490701",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ATTICA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "490844",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "490845",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "490846",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "490926",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "490927",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "490947",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "490948",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "491370",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "491791",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "492072",
+      "issuer": "IONIAN AND POPULAR BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "492073",
+      "issuer": "IONIAN AND POPULAR BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "494039",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AGRICULTURAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "494040",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AGRICULTURAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "494041",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AGRICULTURAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "494042",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AGRICULTURAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "494061",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "MARFIN EGNATIA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "494062",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MARFIN EGNATIA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "494090",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MARFIN EGNATIA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "494091",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "494092",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "494093",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MARFIN EGNATIA BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "494096",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496000",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EMPORIKI BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496012",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496013",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496015",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496016",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496017",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496020",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496025",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496027",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496028",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496029",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496030",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496035",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496040",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496041",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496044",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496045",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496046",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496047",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496050",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496051",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496053",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496054",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496055",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496056",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496057",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496058",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496059",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496060",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496061",
+      "type": "CREDIT",
+      "issuer": "EMPORIKI BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496062",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496063",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496064",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496065",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496066",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496067",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496068",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496069",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496070",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496071",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496072",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496089",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496090",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EMPORIKI BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496091",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EMPORIKI BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496092",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EMPORIKI BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496093",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496094",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "EMPORIKI BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496095",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "COMMERCIAL BANK OF GREECE",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496096",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EMPORIKI BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496097",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EMPORIKI BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496098",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EMPORIKI BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "496099",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "EMPORIKI BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "498536",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "498815",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EFG EUROBANK ERGASIAS, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "498877",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "498878",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PIRAEUS BANK, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "499954",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GENERAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "499970",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "GENERAL BANK OF GREECE, S.A.",
+      "countries": [
+        "GR"
+      ]
+    }
+  ]
+}

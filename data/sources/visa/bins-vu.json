@@ -1,0 +1,103 @@
+{
+  "bins": [
+    {
+      "bin": "403353",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "VU"
+      ]
+    },
+    {
+      "bin": "403354",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "VU"
+      ]
+    },
+    {
+      "bin": "419034",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "VU"
+      ]
+    },
+    {
+      "bin": "431496",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "VU"
+      ]
+    },
+    {
+      "bin": "455938",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "VU"
+      ]
+    },
+    {
+      "bin": "455939",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "VU"
+      ]
+    },
+    {
+      "bin": "463717",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "VU"
+      ]
+    },
+    {
+      "bin": "463719",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "VU"
+      ]
+    },
+    {
+      "bin": "464081",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "VU"
+      ]
+    },
+    {
+      "bin": "467843",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "VU"
+      ]
+    },
+    {
+      "bin": "469528",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "VU"
+      ]
+    },
+    {
+      "bin": "491663",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "VU"
+      ]
+    }
+  ]
+}

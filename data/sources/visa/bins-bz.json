@@ -1,0 +1,417 @@
+{
+  "bins": [
+    {
+      "bin": "404721",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HERITAGE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "404722",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HERITAGE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "404723",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HERITAGE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "404724",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ALLIANCE BANK OF BELIZE, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "404725",
+      "issuer": "ALLIANCE BANK OF BELIZE, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "406667",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "407322",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "409966",
+      "issuer": "BELIZE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "414307",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PROVIDENT BANK AND TRUST OF BELIZE, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "415212",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "415213",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "426053",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PROVIDENT BANK AND TRUST OF BELIZE, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "427000",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BELIZE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "430912",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "430953",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "430994",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "431028",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ATLANTIC BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "432679",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PROVIDENT BANK AND TRUST OF BELIZE, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "433145",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BELIZE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "438169",
+      "issuer": "PROVIDENT BANK AND TRUST OF BELIZE, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "442160",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "442161",
+      "type": "DEBIT",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "443932",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "443933",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "446822",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BELIZE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "451282",
+      "issuer": "PROVIDENT BANK AND TRUST OF BELIZE, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "458185",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BELIZE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "458186",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BELIZE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "465814",
+      "issuer": "PROVIDENT BANK AND TRUST OF BELIZE, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "468200",
+      "issuer": "BELIZE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "469250",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "469251",
+      "type": "DEBIT",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "472065",
+      "issuer": "ATLANTIC BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "476018",
+      "issuer": "BELIZE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "476524",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "479469",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "489248",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PROVIDENT BANK AND TRUST OF BELIZE, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "489249",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PROVIDENT BANK AND TRUST OF BELIZE, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "491063",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "491094",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ATLANTIC BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "491320",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ATLANTIC BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "491321",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ATLANTIC BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "491378",
+      "issuer": "ATLANTIC BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "491551",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BELIZE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "491665",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BELIZE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "498490",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "498550",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "498551",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "499894",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "499895",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "BZ"
+      ]
+    }
+  ]
+}

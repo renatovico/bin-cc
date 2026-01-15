@@ -1,0 +1,47 @@
+{
+  "bins": [
+    {
+      "bin": "512032",
+      "issuer": "ARUBA BANK, LTD.",
+      "countries": [
+        "AW"
+      ]
+    },
+    {
+      "bin": "545581",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ARUBA BANK, N.V.",
+      "countries": [
+        "AW"
+      ]
+    },
+    {
+      "bin": "547008",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BBA BANK, N.V.",
+      "countries": [
+        "AW"
+      ]
+    },
+    {
+      "bin": "553165",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ARUBA BANK, N.V.",
+      "countries": [
+        "AW"
+      ]
+    },
+    {
+      "bin": "553631",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BBA BANK, N.V.",
+      "countries": [
+        "AW"
+      ]
+    }
+  ]
+}

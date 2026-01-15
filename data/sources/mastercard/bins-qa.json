@@ -1,0 +1,874 @@
+{
+  "bins": [
+    {
+      "bin": "510471",
+      "type": "CREDIT",
+      "issuer": "COMMERCIAL BANK OF QATAR, LTD.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "511589",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "QATAR NATIONAL BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "511621",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "QATAR ISLAMIC BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "511623",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "QATAR ISLAMIC BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "511625",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "QATAR ISLAMIC BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "512066",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MASHREQBANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "512321",
+      "issuer": "QATAR ISLAMIC BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "512434",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DOHA BANK, LTD.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "512664",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "QATAR NATIONAL BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "514077",
+      "type": "CREDIT",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "514894",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "QATAR NATIONAL BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "515661",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "QATAR NATIONAL BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "515846",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "QATAR NATIONAL BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "515902",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "QATAR NATIONAL BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "517729",
+      "type": "CREDIT",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "517741",
+      "type": "CREDIT",
+      "issuer": "COMMERCIAL BANK OF QATAR, LTD.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "517744",
+      "type": "CREDIT",
+      "issuer": "QATAR NATIONAL BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "517745",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "517970",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "518917",
+      "issuer": "DOHA BANK, LTD.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "519288",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "519957",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "519962",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "520070",
+      "type": "CREDIT",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "520123",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "520414",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "520419",
+      "type": "CREDIT",
+      "issuer": "DOHA BANK, LTD.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "521355",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "521372",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "522445",
+      "type": "CREDIT",
+      "issuer": "COMMERCIAL BANK OF QATAR, LTD.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "523905",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "QATAR NATIONAL BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "524150",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "QATAR NATIONAL BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "524163",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "QATAR NATIONAL BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "524176",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "524191",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "QATAR NATIONAL BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "524192",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "524258",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "524270",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "524380",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "524497",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "525244",
+      "type": "CREDIT",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "525645",
+      "type": "CREDIT",
+      "issuer": "MASHREQBANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "525788",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "526850",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "QATAR NATIONAL BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "526900",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "526904",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "527384",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "527582",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "QATAR NATIONAL BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "528617",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "QATAR NATIONAL BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "529988",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "530774",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "QATAR NATIONAL BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "530776",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "QATAR NATIONAL BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "531427",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "531442",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "531446",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "531801",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "QATAR NATIONAL BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "531835",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "532704",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "INTERNATIONAL BANK OF QATAR (Q.S.C.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "532715",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "QATAR NATIONAL BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "532716",
+      "type": "DEBIT",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "532967",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "QATAR NATIONAL BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "533103",
+      "type": "DEBIT",
+      "category": "WORLD DEBIT EMBOSSED",
+      "issuer": "QATAR ISLAMIC BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "533106",
+      "type": "DEBIT",
+      "category": "WORLD DEBIT EMBOSSED",
+      "issuer": "QATAR NATIONAL BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "533123",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "533177",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "533898",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INTERNATIONAL BANK OF QATAR (Q.S.C.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "536281",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "536547",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "540651",
+      "type": "CREDIT",
+      "issuer": "COMMERCIAL BANK OF QATAR, LTD.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "541509",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "INTERNATIONAL BANK OF QATAR (Q.S.C.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "541684",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "COMMERCIAL BANK OF QATAR, LTD.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "541847",
+      "type": "CREDIT",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "541849",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "542783",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "QATAR NATIONAL BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "542826",
+      "issuer": "AL-AHLI BANK OF QATAR Q.S.C",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "543030",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "543120",
+      "type": "CREDIT",
+      "issuer": "AHLI BANK Q.S.C.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "543198",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "543707",
+      "type": "CREDIT",
+      "issuer": "COMMERCIAL BANK OF QATAR, LTD.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "543726",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "QATAR ISLAMIC BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "543735",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "QATAR ISLAMIC BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "543776",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "QATAR ISLAMIC BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "543820",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "QATAR NATIONAL BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "544126",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "INTERNATIONAL BANK OF QATAR (Q.S.C.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "545209",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "QATAR NATIONAL BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "545816",
+      "type": "CREDIT",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "547017",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "547021",
+      "type": "CREDIT",
+      "issuer": "COMMERCIAL BANK OF QATAR, LTD.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "547432",
+      "issuer": "QATAR NATIONAL BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "548127",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "548128",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "549842",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "552067",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "552113",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "QATAR NATIONAL BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "552348",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "ARAB FINANCIAL SERVICES COMPANY B.S.C. (C)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "552383",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "QATAR NATIONAL BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "552400",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "552467",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "552784",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "552913",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "553111",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NETWORK INTERNATIONAL LLC",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "556613",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "557628",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "QATAR ISLAMIC BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "557649",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "557685",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "INTERNATIONAL BANK OF QATAR (Q.S.C.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "557686",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "557689",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "INTERNATIONAL BANK OF QATAR (Q.S.C.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "558878",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "QATAR NATIONAL BANK",
+      "countries": [
+        "QA"
+      ]
+    }
+  ]
+}

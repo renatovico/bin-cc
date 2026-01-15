@@ -1,0 +1,1940 @@
+{
+  "bins": [
+    {
+      "bin": "402730",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT SUISSE",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "403601",
+      "issuer": "TELEKURS MULTIPAY AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "404240",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDIT SUISSE",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "404701",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "404702",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "404703",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "404704",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "404705",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "404706",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "404707",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "404708",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "404792",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "404793",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "405911",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDIT SUISSE",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "405912",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDIT SUISSE",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "406377",
+      "issuer": "TELEKURS MULTIPAY AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "406755",
+      "issuer": "UBS AG (UNION BANK OF SWITZERLAND)",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "406756",
+      "issuer": "TELEKURS MULTIPAY AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "407461",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "407462",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "407463",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "407571",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SWISS POST",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "408582",
+      "issuer": "UBS AG (UNION BANK OF SWITZERLAND)",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "408583",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "UBS AG (UNION BANK OF SWITZERLAND)",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "408584",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "TOPCARD SERVICE, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "409424",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BONUSCARD.CH AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "409889",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ROTHSCHILD BANK AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "412536",
+      "type": "DEBIT",
+      "category": "PRIVATE LABEL",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "412538",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "412539",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "412590",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "412596",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "412599",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "413391",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "UBS AG (UNION BANK OF SWITZERLAND)",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "413392",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UBS AG (UNION BANK OF SWITZERLAND)",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "413393",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UBS AG (UNION BANK OF SWITZERLAND)",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "413394",
+      "issuer": "UBS AG (UNION BANK OF SWITZERLAND)",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "413429",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "TOPCARD SERVICE, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "413430",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "TOPCARD SERVICE, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "413431",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TOPCARD SERVICE, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "413432",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TOPCARD SERVICE, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "413500",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "413596",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "413599",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "413773",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TOPCARD SERVICE, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "418759",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "419372",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BONUSCARD.CH AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "419373",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BONUSCARD.CH AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "419374",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BONUSCARD.CH AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "419375",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BONUSCARD.CH AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "419990",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "421197",
+      "issuer": "UBS CARD CENTER, LTD.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "427331",
+      "issuer": "CREDIT SUISSE",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "427345",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UBS AG (UNION BANK OF SWITZERLAND)",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "427346",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UBS AG (UNION BANK OF SWITZERLAND)",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "427347",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TOPCARD SERVICE, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "431431",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BONUSCARD.CH AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "434960",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SWISS POST",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "434961",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SWISS POST",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "440653",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TOPCARD SERVICE, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "440654",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TOPCARD SERVICE, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "440655",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TOPCARD SERVICE, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "440656",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "TOPCARD SERVICE, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "443592",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MIGROS BANK AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "443593",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "MIGROS BANK AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "443611",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ENTRIS BANKING AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "443612",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ENTRIS BANKING AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "447882",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK COOP",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "447883",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK COOP",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "448433",
+      "category": "PURCHASING",
+      "issuer": "UBS AG (UNION BANK OF SWITZERLAND)",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "448434",
+      "category": "PURCHASING",
+      "issuer": "TOPCARD SERVICE, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "448574",
+      "category": "PURCHASING",
+      "issuer": "UBS AG (UNION BANK OF SWITZERLAND)",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "448575",
+      "category": "PURCHASING",
+      "issuer": "TOPCARD SERVICE, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "454713",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "459485",
+      "type": "DEBIT",
+      "category": "PRIVATE LABEL",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "462722",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ZUERCHER KANTONALBANK",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "462723",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ZUERCHER KANTONALBANK",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "465554",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CBH - COMPAGNIE BANCAIRE HELVETIQUE, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "465555",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CBH - COMPAGNIE BANCAIRE HELVETIQUE, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "465568",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CBH - COMPAGNIE BANCAIRE HELVETIQUE, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "465569",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CBH - COMPAGNIE BANCAIRE HELVETIQUE, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "465570",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CBH - COMPAGNIE BANCAIRE HELVETIQUE, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "465571",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CBH - COMPAGNIE BANCAIRE HELVETIQUE, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "465967",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "465968",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISECA CARD SERVICES, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "466219",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BONUSCARD.CH AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "466274",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BONUSCARD.CH AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "466296",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "467296",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TOPCARD SERVICE AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "467297",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TOPCARD SERVICE, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "467298",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TOPCARD SERVICE AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "467299",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TOPCARD SERVICE AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "467406",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TOPCARD SERVICE AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "467407",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "TOPCARD SERVICE, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "467408",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "467442",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "467443",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "467444",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "467445",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "UBS AG (UNION BANK OF SWITZERLAND)",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "467446",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "467447",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UBS AG (UNION BANK OF SWITZERLAND)",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "468937",
+      "type": "CREDIT",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "468938",
+      "type": "CREDIT",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "468939",
+      "type": "CREDIT",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "473104",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDIT SUISSE",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "476314",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "476326",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "485750",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "TOPCARD SERVICE AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "485751",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "TOPCARD SERVICE, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "485752",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "485753",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "UBS AG (UNION BANK OF SWITZERLAND)",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "487880",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "487881",
+      "type": "DEBIT",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "487899",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "SIX MULTIPAY AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "489402",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SWISS POST",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "489432",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TOPCARD SERVICE AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "489433",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "490117",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "490118",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "490765",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TOPCARD SERVICE, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "490767",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UBS AG (UNION BANK OF SWITZERLAND)",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "490768",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "UBS AG (UNION BANK OF SWITZERLAND)",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "490935",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UBS AG (UNION BANK OF SWITZERLAND)",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "490936",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UBS AG (UNION BANK OF SWITZERLAND)",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "492013",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "492113",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "494013",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "TOPCARD SERVICE, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "494118",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UBS AG",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495000",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495001",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495002",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495003",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495004",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495005",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495006",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495007",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495008",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495009",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495010",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495011",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495012",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495013",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495014",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495015",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495016",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495017",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495018",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495019",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495020",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495021",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495022",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495023",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495024",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495025",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495026",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495027",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495028",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495029",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495030",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495031",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495032",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495033",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495034",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495035",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495036",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495037",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495038",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495039",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495040",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495041",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495042",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495043",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495044",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495045",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495046",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495047",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495048",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495049",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495051",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495052",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495053",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495054",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495055",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495056",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495057",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495058",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495059",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495060",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495061",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495062",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495063",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495064",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495066",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495068",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495069",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495070",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495071",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495072",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495073",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495074",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495075",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495076",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495077",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495078",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495079",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495080",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495081",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495082",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495083",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495084",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495085",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495086",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495087",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495088",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495089",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495095",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495096",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495097",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495098",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    },
+    {
+      "bin": "495099",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CORNER BANCA, S.A.",
+      "countries": [
+        "CH"
+      ]
+    }
+  ]
+}

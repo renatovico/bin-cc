@@ -1,0 +1,935 @@
+{
+  "bins": [
+    {
+      "bin": "511054",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PACIFICARD, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "512102",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "512250",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "512294",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO BOLIVARIANO, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "512345",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "512401",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO BOLIVARIANO, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "512646",
+      "issuer": "PACIFICARD, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "514072",
+      "issuer": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "515638",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO INTERNACIONAL, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "515826",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO DE LA PRODUCCION, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "516986",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "517943",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DEL AUSTRO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "518030",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PACIFICARD, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "518114",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "518115",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "518172",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "518923",
+      "type": "CREDIT",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "518968",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "519169",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO PROCREDIT ECUADOR, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "519209",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO BOLIVARIANO, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "520081",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO BOLIVARIANO, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "520133",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "520777",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "521309",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "521329",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "521384",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO BOLIVARIANO, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "522200",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "PACIFICARD, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "522225",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "522827",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO DEL AUSTRO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "523042",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DE GUAYAQUIL, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "523768",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "523777",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "524071",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DE GUAYAQUIL, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "524327",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "527498",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO INTERNACIONAL, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "527601",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "527617",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "VAZCORP SOCIEDAD FINANCIERA, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "529573",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "PACIFICARD, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "530054",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "530219",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "530349",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "ICUL SERVICE CORPORATION",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "530795",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "531089",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "531950",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "535325",
+      "type": "CREDIT",
+      "issuer": "VAZCORP SOCIEDAD FINANCIERA, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "537701",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO INTERNACIONAL, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "539668",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "539706",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "540771",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "541326",
+      "type": "CREDIT",
+      "issuer": "PACIFICARD, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "542258",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PACIFICARD, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "542400",
+      "type": "CREDIT",
+      "issuer": "PACIFICARD, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "542703",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO TERRITORIAL, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "542989",
+      "type": "CREDIT",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "543393",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DEL AUSTRO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "544328",
+      "issuer": "MASTERCARD ECUADOR",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "544366",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PACIFICARD, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "544686",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "PACIFICARD, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "545178",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "PACIFICARD, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "545195",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "545320",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "PACIFICARD, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "546435",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "546605",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "546838",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PACIFICARD, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "546843",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DE GUAYAQUIL, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "546993",
+      "type": "CREDIT",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "546994",
+      "type": "CREDIT",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "547081",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PACIFICARD, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "547649",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO DE LA PRODUCCION,S.A. (PRODUBANCO)",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "547662",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PACIFICARD, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "547663",
+      "issuer": "MASTERCARD ECUADOR",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "547883",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PACIFICARD, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "548146",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "VAZCORP SOCIEDAD FINANCIERA, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "548244",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DEL AUSTRO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "548344",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "549145",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE GUAYAQUIL, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "549618",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO BOLIVARIANO, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "549638",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "550014",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "550015",
+      "type": "CREDIT",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "550227",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "550469",
+      "type": "CREDIT",
+      "issuer": "PACIFICARD, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "550470",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PACIFICARD, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "550488",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "550495",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PACIFICARD, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "550496",
+      "issuer": "MASTERCARD ECUADOR",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "550497",
+      "type": "CREDIT",
+      "issuer": "PACIFICARD, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "550498",
+      "issuer": "MASTERCARD ECUADOR",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "552036",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "552536",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "552995",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DEL AUSTRO, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "553634",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO BOLIVARIANO, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "553660",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO INTERNACIONAL, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "553677",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "554277",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "554436",
+      "type": "CREDIT",
+      "issuer": "PACIFICARD, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "554437",
+      "type": "CREDIT",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "554438",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PACIFICARD, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "554439",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "554510",
+      "issuer": "MASTERCARD ECUADOR",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "554511",
+      "type": "CREDIT",
+      "issuer": "PACIFICARD, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "554527",
+      "issuer": "MASTERCARD ECUADOR",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "554574",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PACIFICARD, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "554596",
+      "issuer": "MASTERCARD ECUADOR",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "554597",
+      "type": "CREDIT",
+      "issuer": "PACIFICARD, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "554857",
+      "issuer": "MASTERCARD ECUADOR",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "554968",
+      "issuer": "MASTERCARD ECUADOR",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "556614",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO INTERNACIONAL, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "556953",
+      "category": "STANDARD",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "558284",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "558423",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "558534",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PACIFICARD, S.A.",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "558659",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DEL PICHINCHA, C.A.",
+      "countries": [
+        "EC"
+      ]
+    }
+  ]
+}

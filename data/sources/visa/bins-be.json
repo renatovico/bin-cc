@@ -1,0 +1,743 @@
+{
+  "bins": [
+    {
+      "bin": "400889",
+      "issuer": "VISA BELGIUM",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "402540",
+      "issuer": "VISA BELGIUM",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "402797",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MONABANQ",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "408300",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "RECORD BANQUE / RECORD BANK",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "408490",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "408491",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "413778",
+      "issuer": "VISA BELGIUM",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "417454",
+      "issuer": "BANK CARD COMPANY",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "417455",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "417456",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "417457",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "422246",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIMASER, S.A.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "422247",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIMASER, S.A.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "422248",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIMASER, S.A.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "423608",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ING BELGIUM SA/NV",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "423686",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ING BELGIUM SA/NV",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "425728",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "VISA BELGIUM",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "428158",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "429308",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "429551",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK CARD COMPANY",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "434936",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA BELGIUM",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "439078",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA BELGIUM",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "439079",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "VISA BELGIUM",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "440603",
+      "issuer": "VISA BELGIUM",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "445470",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "445471",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "445472",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "445473",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "445474",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "445475",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "445476",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "445477",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "445478",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "445479",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "KEYTRADE BANK",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "445480",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "KEYTRADE BANK",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "445481",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "445482",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "448418",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "VISA BELGIUM",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "448495",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BCC CORPORATE, N.V.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "448496",
+      "category": "PURCHASING",
+      "issuer": "BANK CARD COMPANY",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "448497",
+      "category": "PURCHASING",
+      "issuer": "BANK CARD COMPANY",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "450620",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA BELGIUM",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "450663",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA BELGIUM",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "454402",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EUROPABANK",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "454403",
+      "issuer": "EUROPABANK",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "454441",
+      "issuer": "EUROPABANK",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "454442",
+      "issuer": "EUROPABANK",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "455218",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA S.A. (BBVA)",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "455752",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "VISA BELGIUM",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "456397",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "456452",
+      "issuer": "CITIBANK",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "456873",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "457983",
+      "issuer": "EUFISERV",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "472315",
+      "type": "DEBIT",
+      "category": "TRAVEL MONEY",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "472321",
+      "type": "DEBIT",
+      "category": "TRAVEL MONEY",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "474810",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "KBC BANK N.V.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "474811",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "KBC BANK N.V.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "485778",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "VISA BELGIUM",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "487600",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "487602",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "487603",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "487604",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "489100",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA BELGIUM",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "489101",
+      "issuer": "VISA BELGIUM",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "489102",
+      "issuer": "VISA BELGIUM",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "489103",
+      "issuer": "VISA BELGIUM",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "489104",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VISA BELGIUM",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "489105",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA BELGIUM",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "489106",
+      "issuer": "VISA BELGIUM",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "489107",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RECORD BANQUE / RECORD BANK",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "489108",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "KBC CONSUMER FINANCE, N.V.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "489109",
+      "issuer": "VISA BELGIUM",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "489110",
+      "issuer": "VISA BELGIUM",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "489111",
+      "issuer": "VISA BELGIUM",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "489112",
+      "issuer": "VISA BELGIUM",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "489113",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "KBC BANK N.V.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "489114",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AXA BANK EUROPE, S.A.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "489115",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AXA BANK EUROPE, S.A.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "489116",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CBC BANQUE, S.A.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "489117",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CENTEA",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "490930",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CITIBANK",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "490931",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "490932",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "490933",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CITIBANK",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "491832",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITIBANK",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "491833",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITIBANK",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "493400",
+      "issuer": "EUFISERV",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "493406",
+      "issuer": "EUFISERV",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "494003",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "issuer": "VISALUX S.C.",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "494043",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "BE"
+      ]
+    },
+    {
+      "bin": "494099",
+      "issuer": "BANK CARD COMPANY",
+      "countries": [
+        "BE"
+      ]
+    }
+  ]
+}

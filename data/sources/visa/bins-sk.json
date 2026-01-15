@@ -1,0 +1,912 @@
+{
+  "bins": [
+    {
+      "bin": "400686",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "400687",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "401648",
+      "issuer": "LUDOVA BANKA BRATISLAVA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "402734",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNIBANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "403186",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT BANK SLOVAKIA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "403187",
+      "issuer": "UNIBANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "403188",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNICREDIT BANK SLOVAKIA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "404198",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OTP BANKA SLOVENSKO, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "404199",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OTP BANKA SLOVENSKO, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "404325",
+      "issuer": "TATRA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "404768",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HVB BANK SLOVAKIA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "404769",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "issuer": "UNICREDIT BANK SLOVAKIA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "405235",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT BANK SLOVAKIA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "405236",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNICREDIT BANK SLOVAKIA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "407547",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "VSEOBECNA UVEROVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "407573",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "VSEOBECNA UVEROVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "407579",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT BANK SLOVAKIA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "407580",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNIBANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "408240",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "408241",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "410614",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VOLKSBANK SLOVENSKO, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "413234",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "VSEOBECNA UVEROVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "413267",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "VSEOBECNA UVEROVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "413268",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "VSEOBECNA UVEROVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "413854",
+      "issuer": "HVB BANK SLOVAKIA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "413855",
+      "issuer": "HVB BANK SLOVAKIA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "415011",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VSEOBECNA UVEROVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "415480",
+      "issuer": "VOLKSBANK SLOVENSKO, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "417084",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "417287",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DEXIA BANKA SLOVENSKO, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "417345",
+      "issuer": "DEXIA BANKA SLOVENSKO, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "417379",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "417389",
+      "issuer": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "417617",
+      "issuer": "OTP BANKA SLOVENSKO, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "421626",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TATRA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "421660",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SLOVENSKA SPORITELNA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "421661",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SLOVENSKA SPORITELNA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "421853",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEXIA BANKA SLOVENSKO, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "422338",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "423609",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "426127",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SLOVENSKA SPORITELNA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "426128",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SLOVENSKA SPORITELNA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "427766",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "VSEOBECNA UVEROVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "427880",
+      "issuer": "CITIBANK (SLOVAKIA), A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "429009",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNICREDIT BANK SLOVAKIA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "429019",
+      "issuer": "HVB BANK SLOVAKIA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "429021",
+      "issuer": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "432789",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TATRA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "433315",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "POSTOVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "433332",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VSEOBECNA UVEROVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "433335",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "VSEOBECNA UVEROVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "433703",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TATRA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "433704",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TATRA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "433705",
+      "issuer": "TATRA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "433912",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SLOVENSKA SPORITELNA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "433913",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "SLOVENSKA SPORITELNA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "433914",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SLOVENSKA SPORITELNA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "434114",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "438916",
+      "issuer": "VSEOBECNA UVEROVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "440506",
+      "issuer": "POSTOVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "440577",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TATRA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "440578",
+      "issuer": "TATRA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "440626",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SLOVENSKA SPORITELNA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "440627",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SLOVENSKA SPORITELNA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "440632",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "440633",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "440634",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "440750",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "440751",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "440793",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ISTROBANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "441069",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ZUNO BANK AG",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "446152",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "446154",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "446156",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "446158",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BRE BANK SPOLKA AKCYJNA",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "449342",
+      "issuer": "SLOVENSKA SPORITELNA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "450528",
+      "type": "CREDIT",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "450529",
+      "type": "CREDIT",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "451148",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SLOVENSKA SPORITELNA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "454408",
+      "issuer": "SLOVENSKA SPORITELNA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "454409",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "SLOVENSKA SPORITELNA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "454412",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SLOVENSKA SPORITELNA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "454417",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "SLOVENSKA SPORITELNA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "459434",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "459533",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "459598",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VSEOBECNA UVEROVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "459806",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "460058",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "460329",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNICREDIT BANK SLOVAKIA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "462737",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "465817",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TATRA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "465891",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT BANK SLOVAKIA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "465892",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HVB BANK SLOVAKIA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "465893",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "UNICREDIT BANK SLOVAKIA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "469743",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "469744",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "469745",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "469746",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "477968",
+      "issuer": "OTP BANKA SLOVENSKO, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "477976",
+      "issuer": "LUDOVA BANKA BRATISLAVA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "478770",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VSEOBECNA UVEROVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "479086",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "POSTOVA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "483081",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITIBANK EUROPE PLC",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "485651",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "485710",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TATRA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "485711",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TATRA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "489388",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "491728",
+      "issuer": "TATRA BANKA, A.S.",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "491826",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "SK"
+      ]
+    },
+    {
+      "bin": "491827",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "SK"
+      ]
+    }
+  ]
+}

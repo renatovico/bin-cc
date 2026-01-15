@@ -1,0 +1,707 @@
+{
+  "bins": [
+    {
+      "bin": "403317",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VTB BANK (ARMENIA) CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "403318",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "VTB BANK (ARMENIA) CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "403319",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VTB BANK (ARMENIA) CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "403320",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "VTB BANK (ARMENIA) CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "404298",
+      "issuer": "VTB BANK (ARMENIA) CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "404590",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CONVERSE BANK CORPORATION",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "406476",
+      "issuer": "AGRICULTURAL COOPERATIVE BANK OF ARMENIA",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "406624",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "408306",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AMERIABANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "408307",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "AMERIABANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "408308",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "AMERIABANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "408309",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "AMERIABANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "408310",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AMERIABANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "409720",
+      "issuer": "CONVERSE BANK CORPORATION",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "410644",
+      "issuer": "AREXIMBANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "411952",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNIBANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "411953",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "UNIBANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "411954",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNIBANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "411955",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNIBANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "411956",
+      "issuer": "UNIBANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "411989",
+      "issuer": "AREXIMBANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "418732",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "CONVERSE BANK CORPORATION",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "418733",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "418799",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "423936",
+      "type": "DEBIT",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "424106",
+      "type": "DEBIT",
+      "category": "GIFT",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "427691",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "428536",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "428537",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "431827",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "ANELIK BANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "431828",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ANELIK BANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "431829",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ANELIK BANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "431830",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ANELIK BANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "431831",
+      "issuer": "ANELIK BANK LTD. COMPANY",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "433541",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AREXIMBANK-GAZPROMBANK GROUP CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "433542",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AREXIMBANK-GAZPROMBANK GROUP CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "433543",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AREXIMBANK-GAZPROMBANK GROUP CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "433544",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "AREXIMBANK-GAZPROMBANK GROUP CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "435501",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ACBA CREDIT AGRICOLE BANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "435503",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ACBA CREDIT AGRICOLE BANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "435504",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ACBA CREDIT AGRICOLE BANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "435505",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ACBA CREDIT AGRICOLE BANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "435506",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ACBA CREDIT AGRICOLE BANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "435507",
+      "issuer": "AGRICULTURAL COOPERATIVE BANK OF ARMENIA",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "437469",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "437470",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "437471",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "437472",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "437473",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "437474",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "437511",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ARARATBANK OJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "437512",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "ARARATBANK OJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "437513",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ARARATBANK OJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "437520",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VTB BANK (ARMENIA) CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "437521",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VTB BANK (ARMENIA) CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "437522",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "VTB BANK (ARMENIA) CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "437580",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "ARMBUSINESSBANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "437581",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "issuer": "ARMBUSINESSBANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "445428",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "ARDSHININVESTBANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "445429",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ARDSHININVESTBANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "445430",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ARDSHININVESTBANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "445431",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ARDSHININVESTBANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "445615",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ARDSHININVESTBANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "445616",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "ARDSHININVESTBANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "457368",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "457372",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "457889",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "457890",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "457891",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "457892",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "484701",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CONVERSE BANK CORPORATION",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "484702",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CONVERSE BANK CORPORATION",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "484703",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CONVERSE BANK CORPORATION",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "484704",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CONVERSE BANK CORPORATION",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "484712",
+      "issuer": "CONVERSE BANK CORPORATION",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "484764",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ARMBUSINESSBANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "484765",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "ARMBUSINESSBANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "484766",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ARMBUSINESSBANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "484767",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ARMBUSINESSBANK CJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "485496",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "ARMENIAN ECONOMY DEVELOPMENT BANK OJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "486362",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ARMENIAN ECONOMY DEVELOPMENT BANK OJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "488962",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARMENIAN ECONOMY DEVELOPMENT BANK OJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "488963",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ARMENIAN ECONOMY DEVELOPMENT BANK OJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "488964",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ARMENIAN ECONOMY DEVELOPMENT BANK OJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "488965",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ARMENIAN ECONOMY DEVELOPMENT BANK OJSC",
+      "countries": [
+        "AM"
+      ]
+    },
+    {
+      "bin": "489356",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "VTB BANK (ARMENIA) CJSC",
+      "countries": [
+        "AM"
+      ]
+    }
+  ]
+}

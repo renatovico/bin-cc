@@ -1,0 +1,324 @@
+{
+  "bins": [
+    {
+      "bin": "403022",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VISA ICELAND",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "415552",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "VISA ICELAND",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "450728",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA ICELAND",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "450729",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SPARISJODUR HAFNARFJARDAR",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "450730",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SPARISJODUR BOLUNGARVIKUR",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "450731",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SPARISJODUR MYRASYSLU",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "450732",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SPARISJODUR NORDFJARDAR",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "450733",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SPARISJODUR OLAFSFJARDAR",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "450734",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SPARISJODUR SIGLUFJARDAR",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "450735",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SPARISJODUR SVARFDAELA",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "450736",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SPARISJODUR VESTMANNAEYJA",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "450737",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SPARISJODUR VESTUR HUNAVATNSSYSLU",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "450738",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SPARISJODUR KOPAVOGS",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "450739",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SPARISJODURINN I KEFLAVIK",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "450740",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "EYRARSPARISJODUR",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "450741",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SPARISJODUR REYKJAVIKUR OG NAGRENNIS",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "450742",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA ICELAND",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "450743",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GLITNIR BANKI HF",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "450744",
+      "issuer": "VISA ICELAND",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "450745",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "KAUPTHING BANK HF",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "453981",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VISA ICELAND",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "453982",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA ICELAND",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "453983",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA ICELAND",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "453984",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "VISA ICELAND",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "453985",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VISA ICELAND",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "453986",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA ICELAND",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "453987",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "VISA ICELAND",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "454337",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA ICELAND",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "454890",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LANDSBANKI ISLANDS (NATIONAL BANK OF ICELAND)",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "456715",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA ICELAND",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "456716",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VISA ICELAND",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "456717",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VISA ICELAND",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "456718",
+      "issuer": "VISA ICELAND",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "456837",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "VISA ICELAND",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "474152",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA ICELAND",
+      "countries": [
+        "IS"
+      ]
+    },
+    {
+      "bin": "480428",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "VISA ICELAND",
+      "countries": [
+        "IS"
+      ]
+    }
+  ]
+}

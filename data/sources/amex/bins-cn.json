@@ -1,0 +1,71 @@
+{
+  "bins": [
+    {
+      "bin": "370246",
+      "type": "CREDIT",
+      "category": "PEONY",
+      "issuer": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "370247",
+      "type": "CREDIT",
+      "issuer": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "370285",
+      "type": "CREDIT",
+      "category": "GREEN",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "370286",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CHINA MERCHANTS BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "376960",
+      "type": "CREDIT",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "376966",
+      "type": "CREDIT",
+      "issuer": "CHINA CITIC BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "376968",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CHINA CITIC BANK",
+      "countries": [
+        "CN"
+      ]
+    },
+    {
+      "bin": "377677",
+      "type": "CREDIT",
+      "issuer": "BANK OF CHINA",
+      "countries": [
+        "CN"
+      ]
+    }
+  ]
+}

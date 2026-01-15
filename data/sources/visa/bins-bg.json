@@ -1,0 +1,1373 @@
+{
+  "bins": [
+    {
+      "bin": "400915",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DSK BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "401140",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISENBANK (BULGARIA) EAD",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "402840",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CB MKB UNIONBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "402995",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ALLIANZ BANK BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "403363",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "COMMERCIAL BANK ALLIANZ BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "404256",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT BULBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "404257",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNICREDIT BULBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "404713",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST INVESTMENT BANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "404760",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT BULBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "404761",
+      "issuer": "HVB BANK BIOCHIM",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "406227",
+      "issuer": "RAIFFEISENBANK (BULGARIA) A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "407375",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HEBROSBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "407376",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HEBROSBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "407377",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "HEBROSBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "407509",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRST INVESTMENT BANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "407533",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CENTRAL COOPERATIVE BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "407555",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EMPORIKI BANK - BULGARIA EAD",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "407581",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "407810",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PROCREDIT BANK (BULGARIA) A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "408972",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "409612",
+      "issuer": "DZI BANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "409729",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "EUROBANK EFG BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "409730",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "EUROBANK EFG BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "409856",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EUROBANK EFG BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "409857",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNICREDIT BULBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "409884",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CORPORATE COMMERCIAL BANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "409885",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CORPORATE COMMERCIAL BANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "409886",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CORPORATE COMMERCIAL BANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "409887",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CORPORATE COMMERCIAL BANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "410663",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HVB BANK BIOCHIM",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "410664",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT BULBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "411062",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CIBANK JSC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "411620",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UNICREDIT BULBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "411653",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED BULGARIAN BANK, LTD.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "411711",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PIRAEUS BANK BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "411712",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PIRAEUS BANK BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "411713",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PIRAEUS BANK BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "411923",
+      "issuer": "FIRST INVESTMENT BANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "413889",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CB MKB UNIONBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "414386",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISENBANK (BULGARIA) EAD",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "414387",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "RAIFFEISENBANK (BULGARIA) EAD",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "415026",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BNP PARIBAS (BULGARIA) A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "415596",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DSK BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "416988",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DSK BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "416989",
+      "issuer": "DSK BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "416990",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DSK BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "416991",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DSK BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "417003",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "EUROBANK EFG BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "417057",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DZI BANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "417058",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "DZI BANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "417099",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "EUROBANK EFG BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "417644",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT BULBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "417645",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNICREDIT BULBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "417646",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HVB BANK BIOCHIM",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "417648",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FIRST INVESTMENT BANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "417650",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CB MKB UNIONBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "419938",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "420758",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DZI BANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "420780",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EUROBANK EFG BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "421634",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CENTRAL COOPERATIVE BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "421874",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRST INVESTMENT BANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "421875",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRST INVESTMENT BANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "421876",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST INVESTMENT BANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "422082",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CENTRAL COOPERATIVE BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "422083",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CENTRAL COOPERATIVE BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "422116",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PROCREDIT BANK (BULGARIA) A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "422257",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EMPORIKI BANK - BULGARIA EAD",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "422258",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "EMPORIKI BANK - BULGARIA EAD",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "422863",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT BULBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "423292",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ING BANK, N.V.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "423293",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ING BANK, N.V.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "424326",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "PIRAEUS BANK BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "424468",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALLIANZ BANK BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "424520",
+      "issuer": "SG EXPRESS BANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "424980",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ALLIANZ BANK BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "424981",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ALLIANZ BANK BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "424982",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ALLIANZ BANK BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "425523",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRST INVESTMENT BANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "425524",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "FIRST INVESTMENT BANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "425525",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRST INVESTMENT BANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "425526",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FIRST INVESTMENT BANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "426082",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PROCREDIT BANK (BULGARIA) A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "427312",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "UNITED BULGARIAN BANK, LTD.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "427348",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNITED BULGARIAN BANK, LTD.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "427372",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT BULBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "428546",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DSK BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "428547",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "429510",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DZI BANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "429521",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ING BANK, N.V.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "429527",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DZI BANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "429952",
+      "issuer": "FIRST INVESTMENT BANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "431693",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BNP PARIBAS (BULGARIA) A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "431694",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BNP PARIBAS (BULGARIA) A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "432045",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EMPORIKI BANK - BULGARIA EAD",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "432178",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISENBANK (BULGARIA) EAD",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "432179",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "RAIFFEISENBANK (BULGARIA) EAD",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "433321",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "UNITED BULGARIAN BANK, LTD.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "433325",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED BULGARIAN BANK, LTD.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "433326",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNITED BULGARIAN BANK, LTD.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "433327",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNITED BULGARIAN BANK, LTD.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "433375",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNITED BULGARIAN BANK, LTD.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "433376",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "UNITED BULGARIAN BANK, LTD.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "433377",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNITED BULGARIAN BANK, LTD.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "433378",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNITED BULGARIAN BANK, LTD.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "437850",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "437851",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "437858",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "437859",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "439058",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SOCIETE GENERALE EXPRESSBANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "440255",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNICREDIT BULBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "440278",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNICREDIT BULBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "440537",
+      "issuer": "UNITED BULGARIAN BANK, LTD.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "443922",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "443923",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "443924",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "444220",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SOCIETE GENERALE EXPRESSBANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "444221",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "444222",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "444223",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "451464",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "457267",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "459335",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "459887",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "459888",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "459889",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "464591",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CB INVESTBANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "464592",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "464593",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "464594",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "465233",
+      "issuer": "BULGARIAN POST BANK LTD. (POSTENSKA BANKA)",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "466030",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "467037",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "469722",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "469764",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "477101",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TBI CREDIT EAD",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "479000",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EUROBANK EFG BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "479001",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EUROBANK EFG BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "479002",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EUROBANK EFG BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "479083",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EUROBANK EFG BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "480256",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BNP PARIBAS",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "487002",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DSK BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "487054",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DSK BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "487094",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "DSK BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "487098",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CIBANK JSC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "487099",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CIBANK JSC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "488000",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "UNICREDIT BULBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "488001",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "UNICREDIT BULBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "488002",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "UNICREDIT BULBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "488003",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "UNICREDIT BULBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "488005",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "TBI CREDIT EAD",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "488006",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "UNICREDIT BULBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "488007",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "UNICREDIT BULBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "488010",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "BULGARIAN-AMERICAN CREDIT BANK AD",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "489415",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CENTRAL COOPERATIVE BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "489481",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "489482",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "491830",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "FIRST PRIVATE BANK, LTD.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "493412",
+      "issuer": "BALKANBANK, LTD.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "498595",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "498596",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BG"
+      ]
+    }
+  ]
+}

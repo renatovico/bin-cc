@@ -1,0 +1,2309 @@
+{
+  "bins": [
+    {
+      "bin": "400623",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANESCO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "400688",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PROMERICA, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "400916",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "400947",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "401601",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA (PANAMA) S.A. - BBVA (PANAMA",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "401602",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA (PANAMA) S.A. - BBVA (PANAMA",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "401642",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "401654",
+      "issuer": "UNIBANCO - UNIAO DE BANCOS BRASILEIROS, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "401900",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANESCO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "402794",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "402795",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "403347",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "403480",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "404203",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK USA",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "404882",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MULTIBANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "404883",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "MULTIBANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "404884",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MULTIBANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "404931",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA (PANAMA) S.A. - BBVA (PANAMA",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "405262",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "POPULAR BANK LTD., INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "405653",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CREDICORP BANK, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "405840",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CREDICORP BANK, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "405928",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "405929",
+      "issuer": "PROCESSING CENTER S.A. (PROCESA)",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "405931",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MULTIBANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "406239",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE BOGOTA S.A. - PANAMA",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "406241",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "406275",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "CAJA DE AHORROS",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "406359",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA (PANAMA) S.A. - BBVA (PANAMA",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "406458",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PROMERICA, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "406489",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "PROMERICA, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "406490",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PROMERICA, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "406704",
+      "type": "DEBIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "407450",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANESCO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "409702",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ST. GEORGES BANK AND COMPANY, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "409723",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PROMERICA, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "409724",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ST. GEORGES BANK AND COMPANY, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "409902",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "409903",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "410144",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDOMATIC DE PANAMA, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "410145",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDOMATIC DE PANAMA, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "411072",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANESCO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "411073",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANESCO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "411829",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "411844",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "413129",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "413726",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "METROBANK, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "414308",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "414326",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "414327",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "414328",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "414329",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "414530",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "414788",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "INTERNATIONAL UNION BANK, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "415426",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO AZTECA (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "415607",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "416833",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "GLOBAL BANK CORPORATION",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "417890",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "417891",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "418683",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "418746",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PANAMENO DE LA VIVIENDA, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "419110",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA (PANAMA) S.A. - BBVA (PANAMA",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "419113",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA (PANAMA) S.A. - BBVA (PANAMA",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "419588",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "419589",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "419658",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "419659",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "METROBANK, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "419660",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "421348",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "MULTI CREDIT BANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "421356",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "MULTI CREDIT BANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "421357",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "MULTI CREDIT BANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "421381",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "421449",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "MULTIBANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "421459",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PROMERICA, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "421460",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "421552",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "421568",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CREDICORP BANK, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "421586",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "MULTIBANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "421664",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CREDICORP BANK, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "421696",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "421854",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MULTIBANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "421922",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PROMERICA, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "422062",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AUSTROBANK OVERSEAS (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "422115",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MULTIBANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "422156",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO AZTECA (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "422227",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ST. GEORGES BANK AND COMPANY, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "422283",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ST. GEORGES BANK AND COMPANY, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "422298",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ST. GEORGES BANK AND COMPANY, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "423659",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "426014",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "426028",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "426029",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "426073",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "426079",
+      "issuer": "MULTI CREDIT BANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "426729",
+      "issuer": "CREDICORP BANK S.A. PANAMA",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "428260",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "428293",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "428329",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AUSTROBANK OVERSEAS (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "428330",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "428953",
+      "issuer": "MULTI CREDIT BANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "429513",
+      "issuer": "MULTI CREDIT BANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "430447",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "430448",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "430449",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "430456",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TOWERBANK INTERNATIONAL, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "431265",
+      "issuer": "CREDICORP BANK, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "431846",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "431923",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO PANAMENO DE LA VIVIENDA, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "432139",
+      "issuer": "PRIMER BANCO DEL ISTMO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "432191",
+      "type": "DEBIT",
+      "category": "GIFT",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "432192",
+      "type": "DEBIT",
+      "category": "GIFT",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "432403",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PANAMENO DE LA VIVIENDA, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "432404",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO PANAMENO DE LA VIVIENDA, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "432405",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO PANAMENO DE LA VIVIENDA, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "433137",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO UNIVERSAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "433415",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCAFE(PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "433484",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO NACIONAL DE PANAMA",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "433555",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "434151",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "434330",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "434905",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "INTERNATIONAL UNION BANK, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "434984",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ST. GEORGES BANK AND COMPANY, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "434986",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "INTERNATIONAL UNION BANK, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "434996",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "435186",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "435187",
+      "issuer": "HSBC BANK PLC",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "435789",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CREDOMATIC DE PANAMA, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "436337",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "438076",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "438225",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "GLOBAL BANK CORPORATION",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "439179",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "439190",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "440415",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "440681",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "440684",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "441110",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "POPULAR BANK LTD., INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "441169",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "441643",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "ST. GEORGES BANK AND COMPANY, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "441778",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "444089",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "446807",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "446808",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "446856",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "446947",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "447661",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "449729",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA (PANAMA) S.A. - BBVA (PANAMA",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "450404",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "450417",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "450592",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "450825",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "POPULAR BANK LTD., INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "451393",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "451394",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "451395",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO CONTINENTAL DE PANAMA, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "451463",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "451480",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "451481",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "451793",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "451801",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PRIMER BANCO DEL ISTMO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "451986",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "451989",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CREDOMATIC DE PANAMA, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "451990",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CREDOMATIC DE PANAMA, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "452344",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "452345",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "452346",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "452347",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "452348",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "452349",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "452350",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "452500",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "452501",
+      "issuer": "CHASE MANHATTAN BANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "452502",
+      "issuer": "CHASE MANHATTAN BANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "452503",
+      "issuer": "CHASE MANHATTAN BANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "452504",
+      "issuer": "CHASE MANHATTAN BANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "452505",
+      "issuer": "CHASE MANHATTAN BANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "452506",
+      "issuer": "CHASE MANHATTAN BANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "452507",
+      "issuer": "CHASE MANHATTAN BANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "452508",
+      "issuer": "CHASE MANHATTAN BANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "452509",
+      "issuer": "CHASE MANHATTAN BANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "452520",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "452521",
+      "issuer": "CHASE MANHATTAN BANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "452522",
+      "issuer": "CHASE MANHATTAN BANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "452523",
+      "issuer": "CHASE MANHATTAN BANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "452524",
+      "issuer": "CHASE MANHATTAN BANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "452525",
+      "issuer": "CHASE MANHATTAN BANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "452526",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "454048",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TOWERBANK INTERNATIONAL, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "454049",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA (PANAMA) S.A. - BBVA (PANAMA",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "454050",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA (PANAMA) S.A. - BBVA (PANAMA",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "454308",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "454651",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "454652",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "454856",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDOMATIC DE PANAMA, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "455144",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "POPULAR BANK LTD., INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "455159",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PRIMER BANCO DEL ISTMO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "455316",
+      "issuer": "CREDICORP BANK, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "455328",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANESCO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "455597",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "POPULAR BANK LTD., INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "455732",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "455733",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "456547",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "456548",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "456721",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "PRIMER BANCO DEL ISTMO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "456722",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PRIMER BANCO DEL ISTMO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "456780",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "457273",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "457529",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "457530",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "457531",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "457532",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "457533",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "457534",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "458175",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "458176",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "458177",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "458178",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "460028",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "461219",
+      "issuer": "CREDOMATIC DE PANAMA, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "462946",
+      "issuer": "MULTI CREDIT BANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "467915",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "467994",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "468523",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "472045",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "472066",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "472091",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "472100",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BAC INTERNATIONAL BANK (PANAMA), INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "473101",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "473212",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO NACIONAL DE PANAMA",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "475518",
+      "issuer": "PRIMER BANCO DEL ISTMO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "476528",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAJA DE AHORROS",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "476529",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CAJA DE AHORROS",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "476534",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CREDICORP BANK, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "476535",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CREDICORP BANK, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "476536",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDICORP BANK, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "476557",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO UNIVERSAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "477367",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "480221",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "480419",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "482462",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "482474",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "486354",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "ST. GEORGES BANK & COMPANY INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "486355",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE GUAYAQUIL (PANAMA) S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "486356",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DE GUAYAQUIL (PANAMA) S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "486357",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE GUAYAQUIL (PANAMA) S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "486425",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "489924",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "491095",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ST. GEORGES BANK AND COMPANY, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "491096",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ST. GEORGES BANK AND COMPANY, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "491099",
+      "issuer": "HSBC BANK USA",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "491403",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "491433",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "491434",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "491442",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PRIMER BANCO DEL ISTMO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "491443",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "PRIMER BANCO DEL ISTMO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "491444",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PRIMER BANCO DEL ISTMO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "491712",
+      "issuer": "BANCO GENERAL",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "491921",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "HSBC BANK USA",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "492292",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "492461",
+      "issuer": "TELERED S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "493114",
+      "issuer": "MULTI CREDIT BANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "493122",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "493123",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "493124",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "493126",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PRIMER BANCO DEL ISTMO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "493462",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "493851",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "493856",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TOWERBANK INTERNATIONAL, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "494148",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "GLOBAL BANK CORPORATION",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "494151",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "494152",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "494162",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "494171",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GLOBAL BANK CORPORATION",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "496601",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CREDOMATIC DE PANAMA, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "498896",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK USA",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "499888",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BANCO BOLIVARIANO (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "499948",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "499949",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    }
+  ]
+}

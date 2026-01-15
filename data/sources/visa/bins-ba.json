@@ -1,0 +1,859 @@
+{
+  "bins": [
+    {
+      "bin": "400132",
+      "issuer": "HYPO ALPE-ADRIA-BANK JSC",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "402332",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UPI BANKA DD SARAJEVO",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "404324",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "VOLKSBANK A.D. BANJA LUKA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "404867",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT BANK A.D. BANJA LUKA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "404868",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNICREDIT BANK A.D. BANJA LUKA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "404912",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "405222",
+      "issuer": "NOVA BANJALUCKA BANKA A.D.",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "405239",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HYPO ALPE-ADRIA-BANK A.D.",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "405240",
+      "issuer": "HYPO ALPE-ADRIA-BANK A.D.",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "405529",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HYPO ALPE-ADRIA-BANK D.D. JSC",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "406318",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HYPO ALPE-ADRIA-BANK A.D.",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "406335",
+      "issuer": "UPI BANKA DD SARAJEVO",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "406427",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NLB RAZVOJNA BANKA JSC BANJA LUKA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "406444",
+      "issuer": "NLB RAZVOJNA BANKA JSC BANJA LUKA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "406970",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "406971",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "408073",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VOLKSBANK A.D. BANJA LUKA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "408074",
+      "issuer": "ZEPTER KOMERC BANKA A.D. BANJA LUKA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "409653",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VOLKSBANK A.D. BANJA LUKA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "410340",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VOLKSBANK BH DD SARAJEVO",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "410554",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "NLB RAZVOJNA BANKA JSC BANJA LUKA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "411646",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT BANK A.D. BANJA LUKA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "413888",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NLB RAZVOJNA BANKA JSC BANJA LUKA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "414509",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HYPO ALPE-ADRIA-BANK A.D.",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "414635",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CENTRAL PROFIT BANKA D.D. SARAJEVO",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "414636",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNICREDIT BANK D.D.",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "414637",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT BANK D.D.",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "417336",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "UPI BANKA DD SARAJEVO",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "417371",
+      "issuer": "NOVA BANKA A.D. BIJELJINA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "417372",
+      "issuer": "NOVA BANKA A.D. BIJELJINA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "417488",
+      "issuer": "BOSNA BANK INTERNATIONAL",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "417616",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BOSNA BANK INTERNATIONAL",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "418335",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "418336",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "418390",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NLB TUZLANSKA BANKA DD. TUZLA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "418391",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "NLB TUZLANSKA BANKA DD. TUZLA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "419210",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SPARKASSE BANK D.D.",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "419211",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPARKASSE BANK D.D.",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "419212",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "SPARKASSE BANK D.D.",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "419616",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "419617",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "422196",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "422975",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNICREDIT BANK D.D.",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "424183",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISEN BANK DD BOSNA I HERCEGOVINA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "424656",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HYPO ALPE-ADRIA-BANK D.D. JSC",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "425501",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "RAIFFEISEN BANK DD BOSNA I HERCEGOVINA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "425502",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISEN BANK DD BOSNA I HERCEGOVINA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "425503",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "RAIFFEISEN BANK DD BOSNA I HERCEGOVINA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "425504",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISEN BANK DD BOSNA I HERCEGOVINA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "425505",
+      "issuer": "RAIFFEISEN BANK DD BOSNA I HERCEGOVINA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "425527",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NLB TUZLANSKA BANKA DD. TUZLA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "425528",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NLB TUZLANSKA BANKA DD. TUZLA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "425529",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NLB TUZLANSKA BANKA DD. TUZLA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "425556",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "425557",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "425558",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "428172",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "428173",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BOSNA BANK INTERNATIONAL",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "429586",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TURKISH ZIRAAT BANK BOSNIA D.D.",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "429783",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NLB RAZVOJNA BANKA JSC BANJA LUKA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "431020",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PROCREDIT BANK D.D.",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "431021",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PROCREDIT BANK D.D.",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "431022",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PROCREDIT BANK D.D.",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "431023",
+      "issuer": "PROCREDIT BANK D.D.",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "431865",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "HYPO ALPE-ADRIA-BANK D.D. JSC",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "433310",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT BANK D.D.",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "433961",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "KOMERCIJALNA BANKA AD BANJA LUKA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "433962",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KOMERCIJALNA BANKA AD BANJA LUKA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "433963",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "KOMERCIJALNA BANKA AD BANJA LUKA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "446913",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "450076",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INTESA SANPAOLO BANKA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "450077",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTESA SANPAOLO BANKA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "450078",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "INTESA SANPAOLO BANKA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "451760",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "HYPO ALPE-ADRIA-BANK A.D.",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "456070",
+      "issuer": "ZAGREBACKA BANKA BH D.D.",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "457409",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "457744",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "457745",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "457746",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "457880",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "457881",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "457882",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "458299",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BALKAN INVESTMENT BANK AD BANJA LUKA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "458863",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HYPO ALPE-ADRIA-BANK D.D. JSC",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "460043",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNICREDIT BANK A.D. BANJA LUKA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "460061",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "INVESTICIONO-KOMERCIJALNA BANKA DD ZENICA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "460062",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "INVESTICIONO-KOMERCIJALNA BANKA DD ZENICA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "460063",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INVESTICIONO-KOMERCIJALNA BANKA DD ZENICA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "462724",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TURKISH ZIRAAT BANK BOSNIA D.D.",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "462725",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TURKISH ZIRAAT BANK BOSNIA D.D.",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "467761",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "467762",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "467763",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "470452",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTESA SANPAOLO BANKA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "472428",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "473835",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "475169",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BALKAN INVESTMENT BANK AD BANJA LUKA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "475170",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BALKAN INVESTMENT BANK AD BANJA LUKA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "475171",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BALKAN INVESTMENT BANK AD BANJA LUKA",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "476087",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT BANK D.D.",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "480231",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT BANK D.D.",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "484761",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HYPO ALPE-ADRIA-BANK A.D.",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "486025",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "486026",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "BA"
+      ]
+    },
+    {
+      "bin": "486027",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "BA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "bins": [
+    {
+      "bin": "441055",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SR"
+      ]
+    },
+    {
+      "bin": "441056",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "SR"
+      ]
+    },
+    {
+      "bin": "441057",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "SR"
+      ]
+    },
+    {
+      "bin": "460078",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SR"
+      ]
+    }
+  ]
+}

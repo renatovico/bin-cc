@@ -1,0 +1,66 @@
+{
+  "bins": [
+    {
+      "bin": "518969",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "JSCB ASAKA",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "519746",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "527685",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "531951",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "547687",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSCB ASAKA",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "554269",
+      "type": "CREDIT",
+      "issuer": "ROYAL BANK OF SCOTLAND NB UZBEKISTAN CJSC",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "554270",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ROYAL BANK OF SCOTLAND NB UZBEKISTAN CJSC",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "558616",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ROYAL BANK OF SCOTLAND NB UZBEKISTAN CJSC",
+      "countries": [
+        "UZ"
+      ]
+    }
+  ]
+}

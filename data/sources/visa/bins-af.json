@@ -1,0 +1,61 @@
+{
+  "bins": [
+    {
+      "bin": "410648",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "AF"
+      ]
+    },
+    {
+      "bin": "410649",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "AF"
+      ]
+    },
+    {
+      "bin": "422110",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AF"
+      ]
+    },
+    {
+      "bin": "422178",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK ALFALAH, LTD.",
+      "countries": [
+        "AF"
+      ]
+    },
+    {
+      "bin": "422244",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "AF"
+      ]
+    },
+    {
+      "bin": "422245",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "AF"
+      ]
+    },
+    {
+      "bin": "486244",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AF"
+      ]
+    }
+  ]
+}

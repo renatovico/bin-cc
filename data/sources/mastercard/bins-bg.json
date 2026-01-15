@@ -1,0 +1,1012 @@
+{
+  "bins": [
+    {
+      "bin": "510050",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MUNICIPAL BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "510077",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "UNICREDIT BULBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "510078",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UNICREDIT BULBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "510154",
+      "issuer": "DSK BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "512560",
+      "issuer": "HEBROS BANK, LTD.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "512638",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TRANSCARD FINANCIAL SERVICES EAD",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "513683",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PIRAEUS BANK BULGARIA",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "513692",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CIBANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "515586",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST INVESTMENT BANK, LTD.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "516810",
+      "type": "DEBIT",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "516811",
+      "type": "DEBIT",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "516849",
+      "type": "DEBIT",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "516901",
+      "type": "DEBIT",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "516975",
+      "type": "DEBIT",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "516976",
+      "type": "DEBIT",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "517660",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "TRANSCARD FINANCIAL SERVICES EAD",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "518504",
+      "issuer": "BULBANK, LTD.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "518585",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "COMMERCIAL BANK INVESTBANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "518658",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PIRAEUS BANK BULGARIA",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "518784",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EUROBANK EFG BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "518972",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MUNICIPAL BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "518979",
+      "type": "CREDIT",
+      "issuer": "UNICREDIT BULBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "518994",
+      "issuer": "COMMERCIAL BANK BIOCHIM PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "518995",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UNICREDIT BULBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "520011",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ALLIANZ BANK BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "520015",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EUROBANK EFG BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "520016",
+      "issuer": "DZI BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "520310",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SG EXPRESSBANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "520679",
+      "type": "CREDIT",
+      "issuer": "PIRAEUS BANK BULGARIA",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "520950",
+      "type": "CREDIT",
+      "issuer": "FIRST INVESTMENT BANK, LTD.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "520992",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIRST INVESTMENT BANK, LTD.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "521170",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TRANSCARD FINANCIAL SERVICES EAD",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "521500",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DSK BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "521816",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EUROBANK EFG BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "522056",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "INTERCARD FINANCE A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "524710",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DSK BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "524869",
+      "type": "CREDIT",
+      "issuer": "RAIFFEISENBANK (BULGARIA) A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "525453",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "UNITED BULGARIAN BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "525747",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "RAIFFEISENBANK (BULGARIA) A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "526833",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PIRAEUS BANK BULGARIA",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "528637",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "UNITED BULGARIAN BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "528874",
+      "type": "CREDIT",
+      "issuer": "UNICREDIT BULBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "530405",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "INTERCARD FINANCE A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "530436",
+      "type": "CREDIT",
+      "issuer": "FIRST INVESTMENT BANK, LTD.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "531011",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "531530",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "532333",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "TBI CREDIT EAD",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "532459",
+      "type": "CREDIT",
+      "issuer": "CB MKB UNIONBANK, LTD.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "532577",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "532651",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "INTERCARD FINANCE A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "533850",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "TBI CREDIT EAD",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "533851",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "533863",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INTERCARD FINANCE A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "533979",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "534116",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "D COMMERCE BANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "534807",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "539625",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CENTRAL COOPERATIVE BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "539713",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "COMMERCIAL BANK INVESTBANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "539720",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ALLIANZ BANK BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "539728",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SG EXPRESSBANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "540026",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "RAIFFEISENBANK (BULGARIA) A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "540748",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CENTRAL COOPERATIVE BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "540846",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CIBANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "541188",
+      "issuer": "FIRST INVESTMENT BANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "541196",
+      "type": "CREDIT",
+      "issuer": "EUROBANK EFG BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "541233",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "UNITED BULGARIAN BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "541260",
+      "type": "CREDIT",
+      "issuer": "UNITED BULGARIAN BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "541270",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CIBANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "542144",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "INTERNATIONAL ASSET BANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "542147",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "INTERNATIONAL ASSET BANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "542617",
+      "type": "CREDIT",
+      "issuer": "DSK BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "542748",
+      "type": "CREDIT",
+      "issuer": "DSK BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "543219",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CB MKB UNIONBANK, LTD.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "543808",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "INTERNATIONAL ASSET BANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "543828",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "INTERNATIONAL ASSET BANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "544177",
+      "issuer": "DSK BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "544242",
+      "issuer": "DSK BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "544497",
+      "type": "CREDIT",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "544532",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CENTRAL COOPERATIVE BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "546100",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UNITED BULGARIAN BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "546108",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UNITED BULGARIAN BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "546643",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "INTERCARD FINANCE A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "546667",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EUROBANK EFG BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "546715",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UNICREDIT BULBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "547264",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "INTERCARD FINANCE A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "547475",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "INTERNATIONAL ASSET BANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "547694",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISENBANK (BULGARIA) A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "547696",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT BULBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "547727",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "INTERNATIONAL ASSET BANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "547784",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CB MKB UNIONBANK, LTD.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "547805",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNITED BULGARIAN BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "547980",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TBI CREDIT EAD",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "548208",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "D COMMERCE BANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "548863",
+      "type": "CREDIT",
+      "issuer": "PROCREDIT BANK (BULGARIA) A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "549857",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "550221",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "550354",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "552126",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UNICREDIT BULBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "552208",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "COMMERCIAL BANK INVESTBANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "552214",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST INVESTMENT BANK, LTD.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "552551",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "COMMERCIAL BANK INVESTBANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "552607",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "COMMERCIAL BANK INVESTBANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "552621",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ALLIANZ BANK BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "552622",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "EUROBANK EFG BULGARIA A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "552625",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CENTRAL COOPERATIVE BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "552646",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SG EXPRESSBANK",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "552711",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MUNICIPAL BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "552720",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PIRAEUS BANK BULGARIA",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "552877",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CIBANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "552887",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DSK BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "552966",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRST INVESTMENT BANK, LTD.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "553039",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PIRAEUS BANK BULGARIA",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "553072",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "TRANSCARD FINANCIAL SERVICES EAD",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "553261",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "INTERCARD FINANCE A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "554723",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DSK BANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "555962",
+      "type": "CREDIT",
+      "issuer": "COMMERCIAL BANK INVESTBANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "556054",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "COMMERCIAL BANK INVESTBANK PLC",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "558338",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNICREDIT BULBANK A.D.",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "558648",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "bin": "558657",
+      "countries": [
+        "BG"
+      ]
+    }
+  ]
+}

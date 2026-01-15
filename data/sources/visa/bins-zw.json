@@ -1,0 +1,370 @@
+{
+  "bins": [
+    {
+      "bin": "401651",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "402535",
+      "issuer": "ZIMBABWE BANKING CORP., LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "402723",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NMB BANK, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "406896",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "STANDARD CHARTERED BANK ZIMBABWE, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "406909",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "STANBIC BANK ZIMBABWE, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "406913",
+      "issuer": "STANBIC BANK ZIMBABWE, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "406930",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANBIC BANK ZIMBABWE, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "421158",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NMB BANK, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "421159",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "NMB BANK, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "423803",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NMB BANK, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "423815",
+      "issuer": "NMB BANK, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "424347",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "STANBIC BANK ZIMBABWE, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "424348",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANBIC BANK ZIMBABWE, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "425176",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "429067",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "COMMERCIAL BANK OF ZIMBABWE, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "429068",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "COMMERCIAL BANK OF ZIMBABWE, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "429081",
+      "type": "DEBIT",
+      "category": "PLUS",
+      "issuer": "COMMERCIAL BANK OF ZIMBABWE, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "429326",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NMB BANK, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "429502",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NMB BANK, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "429592",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "COMMERCIAL BANK OF ZIMBABWE, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "429593",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "COMMERCIAL BANK OF ZIMBABWE, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "433003",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ZB BANK, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "433004",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ZB BANK, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "434118",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "438914",
+      "issuer": "BARCLAYS BANK OF ZIMBABWE, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "440225",
+      "issuer": "STANDARD CHARTERED BANK ZIMBABWE, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "440292",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD CHARTERED BANK ZIMBABWE, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "440571",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BARCLAYS BANK OF ZIMBABWE, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "445972",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ZB BANK, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "445973",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ZIMBABWE BANKING CORP., LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "446094",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "456484",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BARCLAYS BANK OF ZIMBABWE, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "456791",
+      "issuer": "STANDARD CHARTERED BANK ZIMBABWE, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "465880",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ZB BANK, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "465881",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ZIMBABWE BANKING CORP., LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "483965",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "BARCLAYS BANK OF ZIMBABWE LIMITED",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "483966",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BARCLAYS BANK OF ZIMBABWE LIMITED",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "484807",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "486424",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "ZB BANK, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "487457",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMMERCIAL BANK OF ZIMBABWE, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "487458",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "COMMERCIAL BANK OF ZIMBABWE, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "487497",
+      "issuer": "COMMERCIAL BANK OF ZIMBABWE, LTD.",
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "bin": "489030",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "ZW"
+      ]
+    }
+  ]
+}

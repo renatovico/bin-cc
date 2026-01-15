@@ -1,0 +1,27 @@
+{
+  "bins": [
+    {
+      "bin": "376652",
+      "type": "CREDIT",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "376653",
+      "type": "CREDIT",
+      "issuer": "BANCO DE GUAYAQUIL",
+      "countries": [
+        "EC"
+      ]
+    },
+    {
+      "bin": "376659",
+      "type": "CREDIT",
+      "issuer": "BANCO DE GUAYAQUIL",
+      "countries": [
+        "EC"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "bins": [
+    {
+      "bin": "512206",
+      "issuer": "BANK OF NEVIS, LTD.",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "513019",
+      "issuer": "ST. KITTS-NEVIS-ANGUILLA NATIONAL BANK",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "513080",
+      "issuer": "CARIBBEAN CREDIT CARD CORP., LTD.",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "515726",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "515728",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "518147",
+      "issuer": "CARIBBEAN CREDIT CARD CORP., LTD.",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "524821",
+      "type": "CREDIT",
+      "issuer": "CARIBBEAN CREDIT CARD CORP., LTD.",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "525600",
+      "type": "CREDIT",
+      "issuer": "CARIBBEAN CREDIT CARD CORP., LTD.",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "525716",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CARIBBEAN CREDIT CARD CORP., LTD.",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "525796",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CARIBBEAN CREDIT CARD CORP., LTD.",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "531144",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "ST. KITTS-NEVIS-ANGUILLA NATIONAL BANK",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "539876",
+      "type": "CREDIT",
+      "issuer": "CARIBBEAN CREDIT CARD CORP., LTD.",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "540155",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "ST. KITTS-NEVIS-ANGUILLA NATIONAL BANK",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "541208",
+      "issuer": "ST. KITTS-NEVIS-ANGUILLA NATIONAL BANK",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "543510",
+      "type": "CREDIT",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "545259",
+      "type": "CREDIT",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS), LTD.",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "546784",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "546785",
+      "category": "STANDARD",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "546786",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "546787",
+      "category": "STANDARD",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "546788",
+      "category": "STANDARD",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "546789",
+      "category": "STANDARD",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "546792",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "546793",
+      "category": "GOLD",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "546794",
+      "category": "GOLD",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "546795",
+      "category": "GOLD",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "546796",
+      "category": "GOLD",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "546797",
+      "category": "GOLD",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "547517",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "547523",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "547608",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CARIBBEAN CREDIT CARD CORP., LTD.",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "548545",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CARIBBEAN CREDIT CARD CORP., LTD.",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "548546",
+      "issuer": "CARIBBEAN CREDIT CARD CORP., LTD.",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "548547",
+      "issuer": "CARIBBEAN CREDIT CARD CORP., LTD.",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "548548",
+      "issuer": "CARIBBEAN CREDIT CARD CORP., LTD.",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "548549",
+      "issuer": "CARIBBEAN CREDIT CARD CORP., LTD.",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "548551",
+      "issuer": "CARIBBEAN CREDIT CARD CORP., LTD.",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "548552",
+      "issuer": "CARIBBEAN CREDIT CARD CORP., LTD.",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "548553",
+      "issuer": "CARIBBEAN CREDIT CARD CORP., LTD.",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "548560",
+      "issuer": "CARIBBEAN CREDIT CARD CORP., LTD.",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "548561",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CARIBBEAN CREDIT CARD CORP., LTD.",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "548562",
+      "issuer": "CARIBBEAN CREDIT CARD CORP., LTD.",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "548563",
+      "issuer": "CARIBBEAN CREDIT CARD CORP., LTD.",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "548574",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ROYAL BANK OF CANADA",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "548609",
+      "issuer": "CARIBBEAN CREDIT CARD CORP., LTD.",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "548610",
+      "issuer": "CARIBBEAN CREDIT CARD CORP., LTD.",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "549889",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CARIBBEAN CREDIT CARD CORP., LTD.",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "550367",
+      "issuer": "BANK OF NEVIS LIMITED (THE)",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "553129",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CARIBBEAN CREDIT CARD CORP., LTD.",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "554794",
+      "issuer": "ST. KITTS-NEVIS-ANGUILLA NATIONAL BANK",
+      "countries": [
+        "KN"
+      ]
+    },
+    {
+      "bin": "557896",
+      "type": "CREDIT",
+      "issuer": "ROYAL BANK OF CANADA",
+      "countries": [
+        "KN"
+      ]
+    }
+  ]
+}

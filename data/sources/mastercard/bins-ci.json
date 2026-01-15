@@ -1,0 +1,45 @@
+{
+  "bins": [
+    {
+      "bin": "517578",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "525732",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "528046",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "533765",
+      "countries": [
+        "CI"
+      ]
+    },
+    {
+      "bin": "535920",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "CI"
+      ]
+    }
+  ]
+}

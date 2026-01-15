@@ -1,0 +1,1114 @@
+{
+  "bins": [
+    {
+      "bin": "510266",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "PHILIPPINE NATIONAL BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "510496",
+      "issuer": "ONECARD COMPANY, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "511736",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "512571",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "512634",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ALLIED BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "513047",
+      "issuer": "CITIBANK, N.A., PHILIPPINES",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "514921",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EAST WEST BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "515603",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SECURITY BANK CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "517706",
+      "type": "DEBIT",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "517790",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "517968",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "RIZAL COMMERCIAL BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "517982",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "RIZAL COMMERCIAL BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "517988",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EAST WEST BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "518096",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EAST WEST BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "518178",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SECURITY BANK CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "518217",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SECURITY BANK CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "518869",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "518886",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EAST WEST BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "519149",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "EAST WEST BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "519463",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "519597",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "519963",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "520365",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK OF THE PHILIPPINE ISLANDS",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "521347",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "521387",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ALLIED BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "521822",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "522272",
+      "type": "CREDIT",
+      "issuer": "CITIBANK, N.A., PHILIPPINES",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "522452",
+      "type": "CREDIT",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "522465",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "SECURITY BANK CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "523550",
+      "category": "STANDARD",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "523994",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "524005",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "524046",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ALLIED BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "524067",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CITIBANK, N.A., PHILIPPINES",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "524202",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK SAVINGS, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "524224",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EAST WEST BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "524260",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "524301",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "524302",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "RIZAL COMMERCIAL BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "524318",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "RIZAL COMMERCIAL BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "524326",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "524736",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "525462",
+      "issuer": "RIZAL COMMERCIAL BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "525617",
+      "type": "CREDIT",
+      "issuer": "SECURITY BANK CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "525731",
+      "issuer": "RIZAL COMMERCIAL BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "526491",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANK OF THE PHILIPPINE ISLANDS",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "526727",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "526737",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "SECURITY BANK CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "528204",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "PHILIPPINE NATIONAL BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "528667",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "529543",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITIBANK, N.A., PHILIPPINES",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "529967",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "529978",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "530220",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "530566",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "530567",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "530568",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "530569",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "530570",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "531210",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "SECURITY BANK CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "531228",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "531229",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CITIBANK, N.A., PHILIPPINES",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "531402",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "531403",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "531404",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "531405",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "531406",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "531826",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "SECURITY BANK CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "531832",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "532808",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "533639",
+      "type": "CREDIT",
+      "issuer": "ALLIED BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "533653",
+      "type": "CREDIT",
+      "issuer": "ALLIED BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "533946",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITIBANK, N.A., PHILIPPINES",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "533959",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "534507",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "537726",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CITIBANK SAVINGS, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "540076",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ALLIED BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "540127",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CITIBANK, N.A., PHILIPPINES",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "540161",
+      "issuer": "UNIBANCARD CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "540173",
+      "issuer": "UNIBANCARD CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "540726",
+      "issuer": "RIZAL COMMERCIAL BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "541702",
+      "type": "CREDIT",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "541781",
+      "type": "CREDIT",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "541788",
+      "type": "CREDIT",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "541990",
+      "issuer": "PHILIPPINE COMMERCIAL INTERNATIONAL BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "541996",
+      "issuer": "PHILIPPINE COMMERCIAL INTERNATIONAL BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "542027",
+      "issuer": "ASIANBANK CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "542339",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CITIBANK, N.A., PHILIPPINES",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "542375",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORPORATION, LTD.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "542458",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANK OF THE PHILIPPINE ISLANDS",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "543431",
+      "issuer": "RIZAL COMMERCIAL BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "543761",
+      "type": "CREDIT",
+      "issuer": "ALLIED BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "544651",
+      "issuer": "METROPOLITAN BANK AND TRUST COMPANY (METROBANK)",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "544757",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "544758",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "545143",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "ALLIED BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "545235",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "545275",
+      "type": "CREDIT",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "545369",
+      "issuer": "RIZAL COMMERCIAL BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "545420",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "545512",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK OF THE PHILIPPINE ISLANDS",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "545635",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "545636",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "546308",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "EAST WEST BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "546497",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "546498",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "547150",
+      "type": "CREDIT",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "548095",
+      "type": "CREDIT",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "548352",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "548353",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "548487",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "548509",
+      "type": "CREDIT",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "548809",
+      "type": "CREDIT",
+      "issuer": "BANK OF THE PHILIPPINE ISLANDS",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "548924",
+      "type": "CREDIT",
+      "issuer": "EAST WEST BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "549419",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CITIBANK SAVINGS, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "549832",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "SECURITY BANK CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "550317",
+      "issuer": "RIZAL COMMERCIAL BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "552097",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK, N.A., PHILIPPINES",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "552280",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "ALLIED BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "552366",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "RIZAL COMMERCIAL BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "552413",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "552414",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "553283",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "RIZAL COMMERCIAL BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "553286",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "RIZAL COMMERCIAL BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "553294",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "ALLIED BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "553532",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "554550",
+      "type": "CREDIT",
+      "issuer": "EAST WEST BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "554601",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "EAST WEST BANKING CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "555021",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "CITIBANK, N.A., PHILIPPINES",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "555260",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "556628",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "556658",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "METROBANK CARD CORPORATION (A FINANCE COMPANY)",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "557317",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "557751",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO DE ORO UNIBANK, INC.",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "557753",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANK OF THE PHILIPPINE ISLANDS",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "557754",
+      "issuer": "FIRST E-BANK CORPORATION",
+      "countries": [
+        "PH"
+      ]
+    },
+    {
+      "bin": "558769",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANK OF THE PHILIPPINE ISLANDS",
+      "countries": [
+        "PH"
+      ]
+    }
+  ]
+}

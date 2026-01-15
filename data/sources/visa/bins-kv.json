@@ -1,0 +1,28 @@
+{
+  "bins": [
+    {
+      "bin": "410131",
+      "type": "DEBIT",
+      "issuer": "PROCREDIT BANK",
+      "countries": [
+        "KV"
+      ]
+    },
+    {
+      "bin": "410687",
+      "type": "DEBIT",
+      "issuer": "RAIFFEISEN BANK",
+      "countries": [
+        "KV"
+      ]
+    },
+    {
+      "bin": "467765",
+      "type": "PREPAID",
+      "issuer": "RAIFFEISEN BANK",
+      "countries": [
+        "KV"
+      ]
+    }
+  ]
+}

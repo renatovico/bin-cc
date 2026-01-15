@@ -1,0 +1,831 @@
+{
+  "bins": [
+    {
+      "bin": "400630",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ZAGREBACKA BANKA BH D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "402286",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "402991",
+      "issuer": "SLAVONSKA BANKA D.D. OSIJEK",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "403367",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "403877",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PODRAVSKA BANKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "406955",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "406964",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "408485",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ERSTE CARD CLUB D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "408486",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "ERSTE CARD CLUB D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "408487",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ERSTE CARD CLUB D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "408488",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "issuer": "ERSTE CARD CLUB D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "408489",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ERSTE CARD CLUB D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "409640",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "410310",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "411746",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HRVATSKA POSTANSKA BANKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "411747",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HRVATSKA POSTANSKA BANKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "411949",
+      "issuer": "HRVATSKA POSTANSKA BANKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "412058",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "414037",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "RAIFFEISENBANK AUSTRIA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "414085",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "PRIVREDNA BANKA ZAGREB D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "414086",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PRIVREDNA BANKA ZAGREB D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "414650",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OTP BANKA HRVATSKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "414660",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OTP BANKA HRVATSKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "414661",
+      "issuer": "OTP BANKA HRVATSKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "414815",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "414967",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "SOCIETE GENERALE - SPLITSKA BANKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "414968",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "SOCIETE GENERALE - SPLITSKA BANKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "416981",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ZAGREBACKA BANKA BH D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "417238",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISENBANK AUSTRIA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "417239",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "RAIFFEISENBANK AUSTRIA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "417766",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HYPO ALPE-ADRIA-BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "418389",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "419446",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "METROPOLITAN BANK AND TRUST COMPANY",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "421858",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ERSTE CARD CLUB D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "423310",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "HRVATSKA POSTANSKA BANKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "424325",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SLAVONSKA BANKA D.D. OSIJEK",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "424365",
+      "issuer": "RAIFFEISENBANK AUSTRIA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "424423",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ZAGREBACKA BANKA BH D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "424444",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "SLAVONSKA BANKA D.D. OSIJEK",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "424472",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "424684",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ZAGREBACKA BANKA BH D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "425750",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "426733",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PRIVREDNA BANKA ZAGREB D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "427215",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "427851",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ZAGREBACKA BANKA BH D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "429588",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "431079",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SLAVONSKA BANKA D.D. OSIJEK",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "431610",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "431841",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "431868",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "432048",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "432566",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HYPO ALPE-ADRIA-BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "433103",
+      "issuer": "HYPO ALPE-ADRIA-BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "433322",
+      "issuer": "ISTARSKA KREDITNA BANKA UMAG D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "433870",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "437356",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ZAGREBACKA BANKA BH D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "437357",
+      "type": "DEBIT",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "438969",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PRIVREDNA BANKA ZAGREB D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "440130",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "OTP BANKA HRVATSKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "440240",
+      "issuer": "ALPE JADRAN BANKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "440556",
+      "issuer": "BANK AUSTRIA CROATIA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "440589",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OTP BANKA HRVATSKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "444056",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "446902",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "448312",
+      "issuer": "RAIFFEISENBANK AUSTRIA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "448375",
+      "issuer": "PRIVREDNA BANKA ZAGREB D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "450063",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "457341",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "457342",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "457343",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "457418",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "459081",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "459082",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "460331",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "PRIVREDNA BANKA ZAGREB D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "460335",
+      "issuer": "SOCIETE GENERALE - SPLITSKA BANKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "460336",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "462280",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "PRIVREDNA BANKA ZAGREB D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "462765",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "462766",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "464447",
+      "issuer": "ZAGREBACKA BANKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "464448",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "ZAGREBACKA BANKA BH D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "464449",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ZAGREBACKA BANKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "465560",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ZAGREBACKA BANKA BH D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "465585",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SOCIETE GENERALE - SPLITSKA BANKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "468522",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "HYPO ALPE-ADRIA-BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "468771",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "471450",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "472801",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "474197",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HYPO ALPE-ADRIA-BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "478767",
+      "issuer": "SLAVONSKA BANKA D.D. OSIJEK",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "478768",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SLAVONSKA BANKA D.D. OSIJEK",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "478772",
+      "issuer": "RIJECKA BANKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "479076",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SOCIETE GENERALE - SPLITSKA BANKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "479077",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SOCIETE GENERALE - SPLITSKA BANKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "484801",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ZAGREBACKA BANKA BH D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "487460",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SOCIETE GENERALE - SPLITSKA BANKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "487483",
+      "issuer": "ISTARSKA BANKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "487493",
+      "issuer": "DALMATINSKA BANKA D.D",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "490761",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "SOCIETE GENERALE - SPLITSKA BANKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "492006",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SOCIETE GENERALE - SPLITSKA BANKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "499907",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "OTP BANKA HRVATSKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    }
+  ]
+}

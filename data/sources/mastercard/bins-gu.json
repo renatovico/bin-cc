@@ -1,0 +1,46 @@
+{
+  "bins": [
+    {
+      "bin": "541045",
+      "type": "CREDIT",
+      "issuer": "ANZ GUAM, INC.",
+      "countries": [
+        "GU"
+      ]
+    },
+    {
+      "bin": "541047",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ANZ GUAM, INC.",
+      "countries": [
+        "GU"
+      ]
+    },
+    {
+      "bin": "541052",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ANZ GUAM, INC.",
+      "countries": [
+        "GU"
+      ]
+    },
+    {
+      "bin": "543185",
+      "issuer": "CITIBANK, N.A.",
+      "countries": [
+        "GU"
+      ]
+    },
+    {
+      "bin": "547639",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ANZ GUAM, INC.",
+      "countries": [
+        "GU"
+      ]
+    }
+  ]
+}

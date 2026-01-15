@@ -1,0 +1,591 @@
+{
+  "bins": [
+    {
+      "bin": "400392",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VENECREDIT BANK AND TRUST, LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "406668",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANINTER AND TRUST COMPANY",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "407324",
+      "issuer": "SCOTIABANK (CAYMAN ISLAND), LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "414330",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "415203",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCOLOMBIA CAYMAN",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "415204",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCOLOMBIA CAYMAN",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "417944",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "419729",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "419730",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "419731",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "419732",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "420575",
+      "issuer": "BUTTERFIELD BANK (CAYMAN), LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "423219",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "423382",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN), LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "423620",
+      "issuer": "BUTTERFIELD BANK (CAYMAN), LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "426297",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIDELITY BANK (CAYMAN), LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "426298",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIDELITY BANK (CAYMAN), LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "428366",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ATLANTIC SECURITY BANK",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "431309",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIDELITY BANK (CAYMAN), LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "431350",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "431367",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIDELITY BANK (CAYMAN), LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "433160",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANINTER AND TRUST COMPANY",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "433161",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANINTER AND TRUST COMPANY",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "434066",
+      "issuer": "GLOBAL TECHNOLOGY PARTNERS, LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "434682",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SCOTIABANK (CAYMAN ISLAND), LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "441525",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN), LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "441647",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BUTTERFIELD BANK (CAYMAN), LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "443949",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN), LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "443950",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN), LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "444091",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CAYMAN NATIONAL BANK AND TRUST, LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "444092",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "446849",
+      "issuer": "SCOTIABANK (CAYMAN ISLAND), LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "448746",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN), LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "449118",
+      "issuer": "PACIFIC INDUSTRIAL BANK",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "450748",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK ESPIRITO SANTO INTERNATIONAL, LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "450964",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ATLANTIC SECURITY BANK",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "450967",
+      "issuer": "ROYAL BANK OF CANADA",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "451284",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN), LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "451346",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "451388",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BUTTERFIELD BANK (CAYMAN), LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "451389",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BUTTERFIELD BANK (CAYMAN), LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "452369",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN), LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "454611",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CAYMAN NATIONAL BANK AND TRUST, LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "454660",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO FRANCES DEL RIO DE LA PLATA (CAYMAN), LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "454711",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ROYAL BANK OF CANADA",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "454712",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ROYAL BANK OF CANADA",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "455111",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ROYAL BANK OF CANADA",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "455112",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ROYAL BANK OF CANADA",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "455128",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA (DUPLICATED BID SEE 10021435)",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "458088",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN), LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "458089",
+      "issuer": "CIBC BANK AND TRUST COMPANY CAYMAN, LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "459944",
+      "issuer": "SERFIN INTERNATIONAL BANK AND TRUST",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "469270",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN), LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "469271",
+      "type": "DEBIT",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "472231",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "476523",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN), LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "479480",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN), LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "479481",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "489413",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "491407",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DO ESTADO DE SAO PAULO, S.A.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "491417",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO DO ESTADO DE SAO PAULO, S.A.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "492003",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "TRADE AND COMMERCE BANK",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "496653",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANK ESPIRITO SANTO INTERNATIONAL, LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "498418",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "498419",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "498838",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO DE GALICIA (CAYMAN), LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "498891",
+      "issuer": "PACIFIC INDUSTRIAL BANK",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "499925",
+      "issuer": "BANCO PROVINCIAL OVERSEAS",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "499935",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "MERCURY BANK AND TRUST, LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "499980",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN), LTD.",
+      "countries": [
+        "KY"
+      ]
+    },
+    {
+      "bin": "499981",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN), LTD.",
+      "countries": [
+        "KY"
+      ]
+    }
+  ]
+}

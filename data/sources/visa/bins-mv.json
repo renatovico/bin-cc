@@ -1,0 +1,73 @@
+{
+  "bins": [
+    {
+      "bin": "401618",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "countries": [
+        "MV"
+      ]
+    },
+    {
+      "bin": "402384",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "MV"
+      ]
+    },
+    {
+      "bin": "407387",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF MALDIVES PLC",
+      "countries": [
+        "MV"
+      ]
+    },
+    {
+      "bin": "407388",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF MALDIVES PLC",
+      "countries": [
+        "MV"
+      ]
+    },
+    {
+      "bin": "409739",
+      "issuer": "BANK OF MALDIVES PLC",
+      "countries": [
+        "MV"
+      ]
+    },
+    {
+      "bin": "421363",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF MALDIVES PLC",
+      "countries": [
+        "MV"
+      ]
+    },
+    {
+      "bin": "443089",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "MV"
+      ]
+    },
+    {
+      "bin": "483755",
+      "countries": [
+        "MV"
+      ]
+    },
+    {
+      "bin": "483756",
+      "countries": [
+        "MV"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "bins": [
+    {
+      "bin": "518399",
+      "type": "CREDIT",
+      "issuer": "OJSC AGROINVESTBANK",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "518703",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "OJSC AGROINVESTBANK",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "518836",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "OJSC AGROINVESTBANK",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "519735",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "525820",
+      "countries": [
+        "TJ"
+      ]
+    },
+    {
+      "bin": "529051",
+      "countries": [
+        "TJ"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1413 @@
+{
+  "bins": [
+    {
+      "bin": "400274",
+      "issuer": "BANK OF PALESTINE, LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "402781",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JORDAN INVESTMENT AND FINANCE BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "402782",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JORDAN INVESTMENT AND FINANCE BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "405228",
+      "type": "DEBIT",
+      "category": "TRAVEL MONEY",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "405427",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "406766",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HOUSING BANK FOR TRADE AND FINANCE",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "409626",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JORDAN KUWAIT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "410339",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JORDAN AHLI BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "410786",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "411642",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK AUDI S.A.L. - AUDI SARADAR GROUP",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "411643",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK AUDI S.A.L. - AUDI SARADAR GROUP",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "411644",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK AUDI S.A.L. - AUDI SARADAR GROUP",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "411645",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK AUDI S.A.L. - AUDI SARADAR GROUP",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "412940",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "413011",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JORDAN ISLAMIC BANK FOR FINANCE AND INVESTMENT",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "413823",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "414383",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NATIONAL BANK OF KUWAIT, S.A.K.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "414687",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "414689",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "415435",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ARAB JORDAN INVESTMENT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "415436",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ARAB BANKING CORPORATION (JORDAN)",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "415437",
+      "issuer": "HOUSING BANK FOR TRADE AND FINANCE",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "416759",
+      "issuer": "BANK AUDI S.A.L. - AUDI SARADAR GROUP",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "417065",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HOUSING BANK FOR TRADE AND FINANCE",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "417066",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HOUSING BANK FOR TRADE AND FINANCE",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "417067",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HOUSING BANK FOR TRADE AND FINANCE",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "417469",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "417996",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "419088",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIRST CHARTER NATIONAL BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "420729",
+      "issuer": "ARAB BANKING CORPORATION (JORDAN)",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "421353",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CAIRO AMMAN BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "421887",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JORDAN KUWAIT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "421888",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "JORDAN KUWAIT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "421889",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JORDAN KUWAIT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "421890",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "JORDAN KUWAIT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "422147",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JORDAN AHLI BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "422154",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JORDAN AHLI BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "422284",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CAPITAL BANK OF JORDAN PLC. CO.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "422289",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAPITAL BANK OF JORDAN PLC. CO.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "423113",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAIRO AMMAN BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "423158",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAIRO AMMAN BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "423159",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CAIRO AMMAN BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "424368",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "424454",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ISLAMIC INTERNATIONAL ARAB BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "424509",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ARAB BANKING CORPORATION (JORDAN)",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "424510",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "issuer": "JORDAN KUWAIT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "425506",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ISLAMIC INTERNATIONAL ARAB BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "425507",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ISLAMIC INTERNATIONAL ARAB BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "425508",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ISLAMIC INTERNATIONAL ARAB BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "425687",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HOUSING BANK FOR TRADE AND FINANCE",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "426060",
+      "issuer": "JORDAN COMMERCIAL BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "427864",
+      "issuer": "ARAB BANKING CORPORATION (JORDAN)",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "428950",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INVEST BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "429920",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "429944",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNION BANK FOR SAVINGS AND INVESTMENT",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "429945",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNION BANK PLC. CO.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "432044",
+      "issuer": "JORDAN AHLI BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "432067",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "432503",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "432525",
+      "issuer": "JORDAN KUWAIT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "432578",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "432579",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "432589",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "432591",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "432596",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "432597",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "432720",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB JORDAN INVESTMENT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "432721",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ARAB JORDAN INVESTMENT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "433362",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JORDAN ISLAMIC BANK FOR FINANCE AND INVESTMENT",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "433363",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JORDAN ISLAMIC BANK FOR FINANCE AND INVESTMENT",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "433364",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JORDAN ISLAMIC BANK FOR FINANCE AND INVESTMENT",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "433971",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SOCIETE GENERALE DE BANQUE - JORDAN",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "433972",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SOCIETE GENERALE DE BANQUE - JORDAN",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "435208",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JORDAN COMMERCIAL BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "435209",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JORDAN COMMERCIAL BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "435220",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JORDAN COMMERCIAL BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "437394",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "437395",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "445814",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "446255",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ARAB JORDAN INVESTMENT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "447522",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "449349",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HOUSING BANK FOR TRADE AND FINANCE",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "452514",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JORDAN KUWAIT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "452518",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JORDAN KUWAIT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "452519",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JORDAN KUWAIT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "452538",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "452539",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "452543",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "INVEST BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "452544",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INVEST BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "452545",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JORDAN KUWAIT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "455007",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK OF KUWAIT, S.A.K.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "455008",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NATIONAL BANK OF KUWAIT, S.A.K.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "455089",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB JORDAN INVESTMENT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "455090",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB JORDAN INVESTMENT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "455091",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "ARAB JORDAN INVESTMENT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "455092",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ARAB BANKING CORPORATION (JORDAN)",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "455093",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB BANKING CORPORATION (JORDAN)",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "455094",
+      "issuer": "VISA JORDAN CARD SERVICES",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "455095",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CAIRO AMMAN BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "455096",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CAIRO AMMAN BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "455097",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CAIRO AMMAN BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "455208",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "455381",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB BANKING CORPORATION (JORDAN)",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "457866",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "457867",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "457895",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "458271",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "458273",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "458597",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CAIRO AMMAN BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "461141",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ARAB BANKING CORPORATION (JORDAN)",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "470395",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "470465",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "470466",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "470467",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "470468",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "470478",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "470647",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EGYPTIAN ARAB LAND BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "470648",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "EGYPTIAN ARAB LAND BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "470649",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EGYPTIAN ARAB LAND BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "471485",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "471488",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "472592",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "472593",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "472873",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "472874",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "472902",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "472903",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "472905",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "474701",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "474702",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "474703",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "474704",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "474716",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "474722",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "474724",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "474730",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "474731",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "474732",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "474739",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "474740",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "476031",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "476032",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "476035",
+      "issuer": "JORDAN ISLAMIC BANK FOR FINANCE AND INVESTMENT",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "477969",
+      "issuer": "JORDAN INVESTMENT AND FINANCE BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "478726",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF JORDAN",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "478760",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ARAB BANKING CORPORATION (JORDAN)",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "478773",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF JORDAN",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "478775",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF JORDAN",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "478776",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF JORDAN",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "478777",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF JORDAN",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "478778",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF JORDAN",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "478784",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK OF JORDAN",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "479039",
+      "issuer": "BANK OF JORDAN",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "479044",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "479067",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JORDAN KUWAIT BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "479071",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CAPITAL BANK OF JORDAN PLC. CO.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "479705",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "479708",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "479756",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "479757",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "479758",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "483005",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "487423",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CAIRO AMMAN BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "487454",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CAIRO AMMAN BANK",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "494072",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HOUSING BANK FOR TRADE AND FINANCE",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "494073",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HOUSING BANK FOR TRADE AND FINANCE",
+      "countries": [
+        "JO"
+      ]
+    },
+    {
+      "bin": "494074",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "HOUSING BANK FOR TRADE AND FINANCE",
+      "countries": [
+        "JO"
+      ]
+    }
+  ]
+}

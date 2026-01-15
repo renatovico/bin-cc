@@ -1,0 +1,753 @@
+{
+  "bins": [
+    {
+      "bin": "510308",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "511578",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BBVA BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "511842",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "512312",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BBVA BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "512372",
+      "type": "CREDIT",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "512409",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BBVA BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "512712",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "514940",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO FINANCIERO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "516003",
+      "type": "DEBIT",
+      "category": "GOLD",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "516013",
+      "type": "CREDIT",
+      "issuer": "BANCO FINANCIERO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "516071",
+      "type": "CREDIT",
+      "issuer": "BANCO FINANCIERO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "517815",
+      "type": "CREDIT",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "518587",
+      "type": "CREDIT",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "518819",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "520009",
+      "type": "CREDIT",
+      "issuer": "CREDISCOTIA FINANCIERA, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "520187",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDISCOTIA FINANCIERA, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "520374",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "521140",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "521628",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "522075",
+      "category": "STANDARD",
+      "issuer": "PROCESOS DE MEDIOS DE PAGO, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "522772",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "524088",
+      "issuer": "BANCO DEL TRABAJO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "524601",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "524854",
+      "type": "CREDIT",
+      "issuer": "BANCO AZTECA DEL PERU, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "525435",
+      "category": "STANDARD",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "525474",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO RIPLEY, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "525476",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDISCOTIA FINANCIERA, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "525616",
+      "type": "CREDIT",
+      "issuer": "CREDISCOTIA FINANCIERA, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "525727",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "526464",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO FINANCIERO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "526821",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDISCOTIA FINANCIERA, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "527550",
+      "type": "CREDIT",
+      "issuer": "CREDISCOTIA FINANCIERA, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "527556",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO FINANCIERO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "527581",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDISCOTIA FINANCIERA, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "527603",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "CITIBANK DEL PERU, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "527612",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "528638",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "528800",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "528802",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "529206",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "529517",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "529555",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "UNIBANCA, S.A",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "529976",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "UNIBANCA, S.A",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "530150",
+      "issuer": "PROCESOS MC PERU SOCIEDAD ANONIMA",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "530549",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "531161",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "531491",
+      "issuer": "INTERNATIONAL CARD SYSTEMS",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "531500",
+      "issuer": "INTERNATIONAL CARD SYSTEMS",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "531502",
+      "issuer": "INTERNATIONAL CARD SYSTEMS",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "531975",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "532358",
+      "type": "CREDIT",
+      "issuer": "BANCO FINANCIERO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "532359",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "532471",
+      "type": "CREDIT",
+      "issuer": "BANCO RIPLEY, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "533170",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "533309",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "533633",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "UNIBANCA, S.A",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "533635",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "UNIBANCA, S.A",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "534252",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO FINANCIERO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "534282",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "UNIBANCA, S.A",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "534715",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "UNIBANCA, S.A",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "540413",
+      "type": "CREDIT",
+      "issuer": "BANCO DE CREDITO DEL PERU (BCP)",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "540822",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "541124",
+      "type": "CREDIT",
+      "issuer": "BANCO DE CREDITO DEL PERU (BCP)",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "542020",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO RIPLEY, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "542070",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "543331",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO RIPLEY, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "544359",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "544402",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "544527",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "545028",
+      "issuer": "BANCO FIDUCIARIO, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "545545",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "545546",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "545938",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "546799",
+      "type": "CREDIT",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "547782",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "547880",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "548022",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "UNIBANCA, S.A",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "548034",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "UNIBANCA, S.A",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "548242",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "548544",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "548630",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "548812",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CITIBANK DEL PERU, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "549161",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO INTERNACIONAL DEL PERU",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "549783",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO AZTECA DEL PERU, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "550218",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "550356",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "552271",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "553043",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO FINANCIERO",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "553650",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BBVA BANCO CONTINENTAL",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "554046",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK DEL PERU, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "554403",
+      "issuer": "UNIBANCA, S.A",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "554840",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CITIBANK DEL PERU, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "554860",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CITIBANK DEL PERU, S.A.",
+      "countries": [
+        "PE"
+      ]
+    },
+    {
+      "bin": "554911",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SCOTIABANK PERU S.A.A.",
+      "countries": [
+        "PE"
+      ]
+    }
+  ]
+}

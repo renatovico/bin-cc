@@ -1,0 +1,433 @@
+{
+  "bins": [
+    {
+      "bin": "402306",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JS INNOVATION CB IPAK YULI",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "403262",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "UZPROMSTROYBANK UZBEK JSC INDUSTRIAL AND CONSTRUCTION BANK",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "403484",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HIGHLAND BANK",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "408416",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "408417",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "409662",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "409782",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UZPROMSTROYBANK UZBEK JSC INDUSTRIAL AND CONSTRUCTION BANK",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "409783",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UZPROMSTROYBANK UZBEK JSC INDUSTRIAL AND CONSTRUCTION BANK",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "409784",
+      "issuer": "UZPROMSTROYBANK UZBEK JSC INDUSTRIAL AND CONSTRUCTION BANK",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "410172",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "410659",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UZKDB BANK",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "415252",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "416672",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PRIVATE JS EXCHANGE BANK TRUSTBANK",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "416673",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "416674",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "416675",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "416967",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UZKDB BANK",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "417440",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "UZPROMSTROYBANK UZBEK JSC INDUSTRIAL AND CONSTRUCTION BANK",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "418009",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "UZKDB BANK",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "418689",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "418780",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OPEN-END JSC AGROBANK",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "418781",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "OPEN-END JSC AGROBANK",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "418782",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OPEN-END JSC AGROBANK",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "423120",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "424232",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "424233",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "427831",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSCB KAPITALBANK",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "427832",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSCB KAPITALBANK",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "427833",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSCB KAPITALBANK",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "427834",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSCB KAPITALBANK",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "429558",
+      "issuer": "UZDAEWOO BANK",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "446904",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "446905",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "446906",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "447848",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "447849",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "447850",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "447851",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "458812",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "468597",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "468598",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "479046",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "UZKDB BANK",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "479047",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UZKDB BANK",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "479048",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UZKDB BANK",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "479049",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "UZKDB BANK",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "479074",
+      "issuer": "UZKDB BANK",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "479091",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NATIONAL BANK FOR FOREIGN ECONOMIC ACTIVITY OF THE REPUBLIC OF UZBEKISTAN",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "479092",
+      "issuer": "NATIONAL BANK FOR FOREIGN ECONOMIC ACTIVITY OF THE REPUBLIC OF UZBEKISTAN",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "484149",
+      "type": "DEBIT",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "484799",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "485469",
+      "type": "DEBIT",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "485470",
+      "type": "DEBIT",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "491664",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NATIONAL BANK FOR FOREIGN ECONOMIC ACTIVITY OF THE REPUBLIC OF UZBEKISTAN",
+      "countries": [
+        "UZ"
+      ]
+    },
+    {
+      "bin": "491699",
+      "issuer": "NATIONAL BANK FOR FOREIGN ECONOMIC ACTIVITY OF THE REPUBLIC OF UZBEKISTAN",
+      "countries": [
+        "UZ"
+      ]
+    }
+  ]
+}

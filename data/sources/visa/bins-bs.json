@@ -1,0 +1,562 @@
+{
+  "bins": [
+    {
+      "bin": "401686",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "401687",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "405790",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "405982",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE BOGOTA (NASSAU), LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "405984",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "406086",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "MODULAR DATA",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "410019",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "INTELIGO BANK, LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "411840",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "414759",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "BAC BAHAMAS BANK, LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "419725",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "419726",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "419727",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "419728",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "423185",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "423186",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF THE BAHAMAS, LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "423187",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK OF THE BAHAMAS, LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "423188",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK OF THE BAHAMAS, LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "423189",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANK OF THE BAHAMAS, LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "426010",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "426215",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "426216",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIDELITY BANK (BAHAMAS), LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "430006",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "430007",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "430327",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK (BAHAMAS), LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "430381",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK (BAHAMAS), LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "430993",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "431300",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "431390",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIDELITY BANK (BAHAMAS), LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "431399",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "443942",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "443943",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "443946",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "443947",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "444930",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "449550",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "450010",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTELIGO BANK, LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "450563",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "450951",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "450969",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "451305",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "452428",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TRANSAMERICA BANK AND TRUST CO., LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "452429",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "TRANSAMERICA BANK AND TRUST CO., LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "453938",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SCOTIABANK (BAHAMAS), LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "453939",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SCOTIABANK (BAHAMAS), LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "454044",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "454079",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "454702",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ROYAL BANK OF CANADA",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "454704",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ROYAL BANK OF CANADA",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "454705",
+      "issuer": "ROYAL BANK OF CANADA",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "454734",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ROYAL BANK OF CANADA",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "455154",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ROYAL BANK OF CANADA",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "455155",
+      "issuer": "ROYAL BANK OF CANADA",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "455156",
+      "issuer": "ROYAL BANK OF CANADA",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "456002",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "467532",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "469268",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "469269",
+      "type": "DEBIT",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "474645",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "479432",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "479433",
+      "type": "DEBIT",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "480464",
+      "type": "DEBIT",
+      "category": "PURCHASING",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "486694",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "490694",
+      "issuer": "CANADIAN IMPERIAL BANK OF COMMERCE",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "491300",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "491301",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "491940",
+      "issuer": "SCOTIABANK (BAHAMAS), LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "499841",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "499905",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+      "countries": [
+        "BS"
+      ]
+    },
+    {
+      "bin": "499972",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS), LTD.",
+      "countries": [
+        "BS"
+      ]
+    }
+  ]
+}

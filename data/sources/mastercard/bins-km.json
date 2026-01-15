@@ -1,0 +1,28 @@
+{
+  "bins": [
+    {
+      "bin": "516598",
+      "type": "DEBIT",
+      "countries": [
+        "KM"
+      ]
+    },
+    {
+      "bin": "522245",
+      "type": "CREDIT",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "KM"
+      ]
+    },
+    {
+      "bin": "524241",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "KM"
+      ]
+    }
+  ]
+}

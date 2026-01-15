@@ -1,0 +1,1340 @@
+{
+  "bins": [
+    {
+      "bin": "511617",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "511680",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CREDOMATIC INTERNATIONAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "511733",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "512096",
+      "category": "STANDARD",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "512329",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "512417",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "512487",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MULTIBANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "514012",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "514042",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "514043",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "514046",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "514049",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "514057",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "514059",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "514060",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "514064",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "514067",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "514068",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "514070",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "514080",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "514081",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "514083",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "514091",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "514092",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "514093",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "514095",
+      "issuer": "CITIBANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "514893",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "515806",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "METROBANK, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "515811",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BAC FINANCIAL CORPORATION",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "515823",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "CREDICORP BANK, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "515831",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BAC FINANCIAL CORPORATION",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "515834",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "515845",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "516371",
+      "type": "CREDIT",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "516405",
+      "type": "DEBIT",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "517695",
+      "issuer": "MULTI CREDIT BANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "518061",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "518144",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "518145",
+      "issuer": "BANCO UNO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "518204",
+      "issuer": "MULTI CREDIT BANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "518443",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BAC FINANCIAL CORPORATION",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "518877",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "519709",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "519743",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "519773",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "520057",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BAC FINANCIAL CORPORATION",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "520361",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "520661",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDICORP BANK, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "520981",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "522168",
+      "type": "CREDIT",
+      "issuer": "MULTIBANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "522172",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MULTIBANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "522387",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "522691",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "522696",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "522724",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "522761",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "522764",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "522849",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SCOTIABANK EL SALVADOR, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "523563",
+      "category": "STANDARD",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "523564",
+      "category": "STANDARD",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "523565",
+      "category": "STANDARD",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "523566",
+      "category": "STANDARD",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "523574",
+      "category": "STANDARD",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "523576",
+      "category": "STANDARD",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "523763",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "523767",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "523775",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "524085",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "524661",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "525754",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDICORP BANK, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "526893",
+      "issuer": "STANFORD BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "526894",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MULTIBANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "527614",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "527618",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "527885",
+      "type": "CREDIT",
+      "issuer": "ST. GEORGES BANK AND COMPANY, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "528868",
+      "type": "CREDIT",
+      "issuer": "FEDERACION DE COOPERATIVAS DE AHORRO Y CREDITO DE PANAMA, R.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "528889",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "528910",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "528947",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FINANCIERA FINANGENTE, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "529233",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "529443",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "530461",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BALBOA BANK AND TRUST, CORP.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "530486",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "530814",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "530978",
+      "issuer": "PRIMER BANCO DEL ISTMO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "531025",
+      "issuer": "CREDICORP BANK, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "531029",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "FIRST CENTRAL INTERNATIONAL BANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "531116",
+      "type": "CREDIT",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "531147",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "MULTIBANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "531485",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "531595",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "531962",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "532926",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "533410",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "533970",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "534125",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "536022",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "536475",
+      "type": "CREDIT",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "536599",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CAJA DE AHORROS",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "538829",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "539674",
+      "category": "STANDARD",
+      "issuer": "STANFORD BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "539863",
+      "category": "STANDARD",
+      "issuer": "STANFORD BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "540158",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "540172",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "540249",
+      "issuer": "BAC FINANCIAL CORPORATION",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "540494",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "540722",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CAJA DE AHORROS",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "540895",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "FPB BANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "541088",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE OCCIDENTE (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "541295",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "541376",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BAC FINANCIAL CORPORATION",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "541515",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "541854",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BAC FINANCIAL CORPORATION",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "542050",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "MULTIBANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "542131",
+      "type": "CREDIT",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "542492",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "542497",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "543610",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "544077",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "544200",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "544513",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "544514",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "544868",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ST. GEORGES BANK AND COMPANY, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "544961",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "545225",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO PICHINCHA PANAMA, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "545423",
+      "type": "CREDIT",
+      "issuer": "FINANCIERA FINANGENTE, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "545488",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CAJA DE AHORROS",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "545504",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BAC FINANCIAL CORPORATION",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "545536",
+      "type": "CREDIT",
+      "category": "MASTERMONEY",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "545577",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "545600",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "545698",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "545732",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIRST CENTRAL INTERNATIONAL BANK",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "545815",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDICORP BANK, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "546295",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "546374",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "FPB BANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "546466",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "547002",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BALBOA BANK AND TRUST, CORP.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "547028",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "547807",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BAC FINANCIAL CORPORATION",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "547821",
+      "type": "CREDIT",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "548084",
+      "category": "GOLD",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "548320",
+      "issuer": "HSBC BANK USA",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "548441",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "548650",
+      "issuer": "PRIMER BANCO DEL ISTMO, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "548815",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "548980",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FINANCIERA FINANGENTE, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "549560",
+      "type": "CREDIT",
+      "issuer": "MULTIBANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "550232",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "550236",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "551827",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BALBOA BANK AND TRUST, CORP.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "552162",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "HSBC BANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "552550",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "552710",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "METROBANK, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "552797",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BAC FINANCIAL CORPORATION",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "552976",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "553164",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "553166",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BAC FINANCIAL CORPORATION",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "553175",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BALBOA BANK AND TRUST, CORP.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "553620",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BAC FINANCIAL CORPORATION",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "553622",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "CREDICORP BANK, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "553626",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "PRIVAL BANK, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "553629",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BALBOA BANK AND TRUST, CORP.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "553630",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "ST. GEORGES BANK AND COMPANY, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "553642",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "PRODUBANK (PANAMA) S.A. SONIA DE NEWELL",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "553653",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO GENERAL, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "554922",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITIBANK (PANAMA), S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "554946",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "557613",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "PRIVAL BANK, S.A.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "558607",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MULTIBANK, INC.",
+      "countries": [
+        "PA"
+      ]
+    },
+    {
+      "bin": "559387",
+      "countries": [
+        "PA"
+      ]
+    }
+  ]
+}

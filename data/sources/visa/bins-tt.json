@@ -1,0 +1,638 @@
+{
+  "bins": [
+    {
+      "bin": "400340",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRST CITIZENS BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "400631",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST CITIZENS BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "402249",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "402906",
+      "issuer": "RBTT BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "404282",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TRINIDAD AND TOBAGO UNIT TRUST CORPORATION",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "405988",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "407390",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "409160",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRST CITIZENS BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "410858",
+      "issuer": "FIRST CITIZENS BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "411360",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRST CITIZENS BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "412660",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "FIRST CITIZENS BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "413763",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "414310",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRST CITIZENS BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "414790",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "FIRST CITIZENS BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "420797",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "421342",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "INTERCOMMERCIAL BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "421551",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TRINIDAD AND TOBAGO UNIT TRUST CORPORATION",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "421667",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TRINIDAD AND TOBAGO UNIT TRUST CORPORATION",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "421931",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "421953",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "423636",
+      "issuer": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "424105",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "429514",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "430301",
+      "issuer": "RBTT BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "430444",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "430908",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRST CITIZENS BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "434604",
+      "issuer": "RBTT BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "441130",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "441171",
+      "issuer": "SCOTIABANK TRINIDAD AND TOBAGO, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "441521",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "INTERCOMMERCIAL BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "441522",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTERCOMMERCIAL BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "441560",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "441599",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "INTERCOMMERCIAL BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "448795",
+      "issuer": "CITIBANK",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "448796",
+      "issuer": "CITIBANK",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "450391",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RBTT BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "450392",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "RBTT BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "450393",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "RBTT BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "451304",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "451732",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FIRST CITIZENS BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "452110",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "452403",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "INTERCOMMERCIAL BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "454664",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "454665",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "455794",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RBTT BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "455795",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "RBTT BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "456707",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "456708",
+      "issuer": "FIRST CITIZENS BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "456790",
+      "issuer": "FIRST CITIZENS BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "457059",
+      "issuer": "BANK OF COMMERCE TRINIDAD AND TOBAGO, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "462969",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "464969",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "470417",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "470442",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "470443",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "476079",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "490149",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "490150",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "490152",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "490168",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "491262",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "RBTT BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "491517",
+      "type": "CREDIT",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "491529",
+      "type": "CREDIT",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "491534",
+      "type": "CREDIT",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "491543",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "491544",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "491564",
+      "type": "CREDIT",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "491568",
+      "type": "CREDIT",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "491574",
+      "type": "CREDIT",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "491575",
+      "type": "CREDIT",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "491576",
+      "type": "CREDIT",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "491579",
+      "type": "CREDIT",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "491595",
+      "type": "CREDIT",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "491597",
+      "type": "CREDIT",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "491599",
+      "type": "CREDIT",
+      "issuer": "REPUBLIC BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "491644",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "RBTT BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    },
+    {
+      "bin": "492125",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "FIRST CITIZENS BANK, LTD.",
+      "countries": [
+        "TT"
+      ]
+    }
+  ]
+}

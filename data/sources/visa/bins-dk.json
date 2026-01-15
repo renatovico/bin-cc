@@ -1,0 +1,2234 @@
+{
+  "bins": [
+    {
+      "bin": "402620",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NORDEA BANK DANMARK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "405245",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JYSKE BANK",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "405266",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAREKASSEN FARSOE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "405267",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MIDDELFART SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "405268",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FROES HERREDS SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "405269",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAREKASSEN HIMMERLAND",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "405270",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAREKASSEN KRONJYLLAND",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "405271",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MORSOE SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "405272",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAR NORD BANK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "405273",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAREKASSEN LOLLAND",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "405274",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "405275",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAREKASSEN THY",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "405276",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FIONIA BANK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "405277",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "405832",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "405833",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SYDBANK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "405834",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SKJERN BANK",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "405835",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BONUSBANKEN A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "405836",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HADSTEN BANK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "405837",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "RINGKJOEBING BANK",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "405838",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OESTJYDSK BANK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "405839",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NOERRESUNDBY BANK",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "405860",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAREKASSEN SJAELLAND",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "405864",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ALM. BRAND BANK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "405934",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NORDJYSKE BANK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "406432",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NYKREDIT BANK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "406433",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "406434",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "406435",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "406436",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "406437",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "406438",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "406443",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "413222",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "IKANO BANK SE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "415421",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417500",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417501",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BASISBANK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417502",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAREKASSEN SPAR MORS",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417503",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BORBJERG SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417504",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BROAGER SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417505",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BROVST SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417506",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BROERUP SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417507",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DEN JYSKE SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417508",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DRAGSHOLM SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417509",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DRONNINGLUND SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417510",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DURUP SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417511",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EBH BANK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417512",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FANOE SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417513",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FLEMLOESE SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417514",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FOLKESPAREKASSEN",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417515",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FUUR SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417516",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "GALTEN SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417517",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "GJERLEV-ENSLEV SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417518",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HALS SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417519",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HELLEVAD-OERUM SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417520",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HUNSTRUP-OESTERLID SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417521",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAREKASSE HVETBO",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417522",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HVIDBJERG-OERUM SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417523",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JELLING SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417524",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JERSLEV SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417525",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "EIK BANK DANMARK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417526",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KLIM SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417527",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "LANGAA SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417528",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MOERKE SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417529",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAREKASSEN FOR NR. NEBEL OG OMEGN",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417530",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "RISE SPARE- OG LAANEKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417531",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ROSLEV SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417532",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAREKASSEN MIDTDJURS",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417533",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ROENDE OG OMEGNS SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417534",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SNEDSTED-NOERHAA SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417535",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAREKASSEN BALLING",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417536",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAREKASSEN BREDEBRO",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417538",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAREKASSEN DEN LILLE BIKUBE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417539",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAREKASSEN FAABORG",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417540",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "LOEKKEN SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417541",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAREKASSEN HOBRO",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417542",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAREKASSEN I SKALS",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417543",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ULSTED SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417544",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAREKASSEN LOEGUMKLOSTER",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417545",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAREKASSEN MIDT VEST",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417546",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAREKASSEN MIDTFJORD",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417547",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAREKASSEN NORDMORS",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417548",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAREKASSEN SUNDSORE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417550",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAREKASSEN VESTSALLING",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417551",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAREKASSEN OSTJYLLAND",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417552",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAREKASSEN SPARTRELLEBORG",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417553",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ST. BROENDUM SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417554",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SVENDBORG SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417555",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SOENDERHAA-HOERSTED SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417556",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAREKASSEN LIMFJORDEN",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417557",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TVED SOGNS SPARE- OG LANEKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417558",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TOEDSOE-ERSLEV SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417559",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAREKASSEN VENDSYSSEL",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417560",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VISTOFT SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417561",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VIVILD OG OMEGNS SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417562",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VORBASSE-HEJNSVIG SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417563",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OE BROENDERSLEV SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417564",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "GROENLANDSBANKEN",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417565",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "RINGKJOEBING BANK",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417566",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VESTJYSK BANK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417567",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ARBEJDERNES LANDSBANK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417568",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HVIDBJERG BANK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417569",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VINDERUP BANK",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417570",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SALLING BANK",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417571",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "PEN-SAM BANK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417572",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "LAEGERNES PENSIONSBANK",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417573",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MORSOE BANK",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417574",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HANDELSBANKEN MIDTBANK",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417575",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ANDELSKASSEN FAELLESKASSEN",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417576",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SKANDIABANKEN A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417577",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DANSKE ANDELSKASSERS BANK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417578",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MOENS BANK",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417579",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SKAELSKOER BANK",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417580",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FROESLEV-MOLLERUP SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417581",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "RYSLINGE ANDELSKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417582",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FROERUP ANDELSKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417583",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VORDINGBORG BANK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417584",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SDR. LEM ANDELSKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417585",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "LUNDE-KVONG ANDELSKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417586",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KOEBENHAVNS ANDELSKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417587",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FASTER ANDELSKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417588",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MERKUR",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417589",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TOTALBANKEN A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417590",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "LOLLANDS BANK",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417591",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPAREKASSEN FOR ARTS HERRED",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417592",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AGRI-EGENS SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417593",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SOEBY-SKADER-HALLING SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417594",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FANEFJORD SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417595",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KONGSTED SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417596",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SPARE- OG LANEKASSEN I VIUM SOGN",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417597",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FRUERING-VITVED SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417598",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HAARSLEV SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417599",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FLAKKEBJERG OG OMEGNS SPAREKASSE",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417600",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VESTFYNS BANK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417601",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TOENDER BANK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417602",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KREDITBANKEN",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "417603",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NORDFYNS BANK A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "418757",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "426069",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SUDUROYAR SPARIKASSI",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "426070",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NORDOYA SPARIKASSI",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "426071",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "FOEROYA SPARIKASSI",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "426072",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "P/F FOEROYA BANKI",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "434352",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "434353",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "INTERPAYMENT SERVICES, LTD.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "448397",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITIBANK ESPANA, S.A.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457100",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TELLER, A.S.",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457101",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457102",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457103",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457104",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457105",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457106",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457107",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457108",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457109",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457110",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457111",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457112",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457113",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457114",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457115",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457116",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457117",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457118",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457119",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457120",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457121",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457122",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457123",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457124",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457125",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457126",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457127",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457128",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457129",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457130",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457131",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457132",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457133",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457134",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457135",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457136",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457137",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457138",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457139",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457140",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457141",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457142",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457143",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457144",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457145",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457146",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457147",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457148",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457149",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457150",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457151",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457152",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457153",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457154",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457155",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457156",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457157",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457158",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457159",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457160",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457161",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457162",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457163",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457164",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457165",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457166",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457167",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457168",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457169",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457170",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457171",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457172",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457173",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457174",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457175",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457176",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457177",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457178",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457179",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457180",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457181",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457182",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457183",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457184",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457185",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457186",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457187",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457188",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457189",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457190",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457191",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457192",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457193",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457194",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457195",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457196",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457197",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457198",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "457199",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "475162",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "477961",
+      "issuer": "PBS INTERNATIONAL A/S",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "484076",
+      "countries": [
+        "DK"
+      ]
+    },
+    {
+      "bin": "489499",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "DK"
+      ]
+    }
+  ]
+}

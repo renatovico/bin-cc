@@ -2,186 +2,5908 @@
   "scheme": "visa",
   "bins": [
     {
-      "bin": "454659",
-      "type": "credit",
-      "issuer": "ICBC",
-      "countries": ["AR"]
+      "bin": "400103",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
     },
     {
-      "bin": "450979",
+      "bin": "400104",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "400276",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "400440",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "400448",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "400449",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "400615",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "401669",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO PROVINCIA DE TIERRA DEL FUEGO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "401696",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "401722",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "COMMERCIAL FEDERAL BANK",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "402541",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "402785",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMAFI, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "402786",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO COMAFI, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "402787",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO COMAFI, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "402788",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COMAFI, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "402789",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "402914",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "402917",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE GALICIA Y BUENOS AIRES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "402918",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE GALICIA Y BUENOS AIRES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "403338",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "CITIBANK",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "403682",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "403692",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "403779",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "404028",
       "type": "credit",
-      "issuer": "Santander Río",
-      "countries": ["AR"]
+      "issuer": "CMR Falabella",
+      "category": "pro",
+      "countries": [
+        "CL",
+        "AR",
+        "PE",
+        "CO"
+      ]
+    },
+    {
+      "bin": "404205",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE GALICIA Y BUENOS AIRES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "404210",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NUEVO BANCO DE LA RIOJA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "404211",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NUEVO BANCO DE LA RIOJA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "404212",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NUEVO BANCO DE LA RIOJA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "404213",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NUEVO BANCO DE LA RIOJA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "404252",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE LA PAMPA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "404370",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO COMAFI, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "404510",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO POPULAR NORTH AMERICA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "404625",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "404854",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "405069",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "405071",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO SANTANDER RIO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "405511",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "405515",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "405516",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "405517",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "405643",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COLUMBIA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "405644",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO COLUMBIA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "405645",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO COLUMBIA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "405646",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO COLUMBIA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "405755",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "405896",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "405897",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "406172",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "406190",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "406290",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "406291",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "406375",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "406650",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO SUDAMERIS ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "406651",
+      "issuer": "BANCO SUDAMERIS ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "406652",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "406653",
+      "issuer": "BANCO SUDAMERIS ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "406654",
+      "issuer": "BANCO SUDAMERIS ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "406997",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "406998",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "406999",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "407119",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "FIRST VIRGINIA CARD SERVICES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "407170",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "408134",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "408515",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "409152",
+      "type": "credit",
+      "issuer": "CMR Falabella",
+      "category": "contactless",
+      "countries": [
+        "CL",
+        "AR",
+        "PE",
+        "CO"
+      ]
+    },
+    {
+      "bin": "409705",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO PROVINCIA DE TIERRA DEL FUEGO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "410007",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "410016",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO MACRO BANSUD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "410082",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "410083",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "410084",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "410121",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "410122",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "410123",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "410129",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "FLEET NATIONAL BANK",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "410451",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "410803",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO FRANCES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "410853",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "410854",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO SUPERVIELLE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "410855",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO SUPERVIELLE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "410856",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SUPERVIELLE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "410857",
+      "issuer": "BANCO SAN LUIS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "411010",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO PRIVADO DE INVERSIONES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "411011",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PRIVADO DE INVERSIONES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "411012",
+      "issuer": "BANCO PRIVADO DE INVERSIONES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "411014",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO PRIVADO DE INVERSIONES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "411032",
+      "issuer": "BANCO DE GALICIA Y BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "411086",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO MACRO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "411087",
+      "issuer": "BANCO MACRO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "411197",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "411199",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "411436",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "411612",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANQUE NATIONALE DE PARIS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "411613",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BNP PARIBAS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "411614",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANQUE NATIONALE DE PARIS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "411763",
+      "issuer": "BANCO DE GALICIA Y BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "411764",
+      "issuer": "BANCO DE GALICIA Y BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "411765",
+      "issuer": "BANCO DE GALICIA Y BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "411828",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO MUNICIPAL DE ROSARIO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "411849",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "412705",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO PROVINCIA DEL NEUQUEN, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "412944",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ANZ GRINDLAYS BANK, LTD.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "415292",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO SANTANDER RIO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "415303",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NUEVO BANCO DE SANTA FE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "415463",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CAJA POPULAR DE AHORROS DE LA PROVINCIA DE TUCUMAN",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "415589",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "416414",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NUEVO BANCO DE SANTA FE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "416415",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NUEVO BANCO DE SANTA FE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "416416",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NUEVO BANCO DE SANTA FE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "416417",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NUEVO BANCO DE SANTA FE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "416424",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL CHUBUT, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "416425",
+      "issuer": "BANCO DEL CHUBUT, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "416426",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DEL CHUBUT, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "416427",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DEL CHUBUT, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "416430",
+      "issuer": "BANCO DE CATAMARCA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "416431",
+      "issuer": "BANCO DE CATAMARCA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "416432",
+      "issuer": "BANCO DE CATAMARCA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "416435",
+      "issuer": "BANCO DE JUJUY, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "416436",
+      "issuer": "BANCO DE JUJUY, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "416437",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO MACRO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "416498",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "HSBC BANK ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "416861",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "417309",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "417856",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BBVA BANCO FRANCES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "417857",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BBVA BANCO FRANCES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "419080",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "419382",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MASVENTAS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "419383",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO MASVENTAS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "419384",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MASVENTAS, S.A.",
+      "countries": [
+        "AR"
+      ]
     },
     {
       "bin": "419551",
       "type": "credit",
       "category": "gold",
       "issuer": "Santander Río",
-      "countries": ["AR"]
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "420061",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO SUPERVIELLE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "420076",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "420356",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO MASVENTAS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "421024",
+      "issuer": "BANCO DE GALICIA Y BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "421518",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE SERVICIOS Y TRANSACCIONES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "421528",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FLEET NATIONAL BANK",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "421540",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NUEVO BANCO DE SANTA FE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "421541",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NUEVO BANCO DE SANTA FE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "421738",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "422051",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "422409",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO PATAGONIA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "423001",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "423018",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "423077",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "423139",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "423172",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "423215",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "423269",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "423270",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "423465",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "423623",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "423669",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE LA CIUDAD DE BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "423710",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "423945",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CITIBANK",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "424924",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "424964",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "424965",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROVINCIA DE TIERRA DEL FUEGO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "424966",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROVINCIA DE TIERRA DEL FUEGO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "424967",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO PROVINCIA DE TIERRA DEL FUEGO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "424968",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROVINCIA DE TIERRA DEL FUEGO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "424969",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROVINCIA DE TIERRA DEL FUEGO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "424989",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "425821",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "425822",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "426618",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "COMPANIA FINANCIERA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "426898",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "426899",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "426900",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "427156",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "427157",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "428062",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "428063",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "428064",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "428977",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "SCOTIABANK QUILMES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "429751",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SANTANDER RIO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "429752",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO RIO DE LA PLATA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "430469",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "BANCO MACRO BANSUD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "430488",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO MACRO BANSUD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "430495",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO HIPOTECARIO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "430496",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO HIPOTECARIO, S.A.",
+      "countries": [
+        "AR"
+      ]
     },
     {
       "bin": "430497",
       "type": "credit",
       "category": "premier",
       "issuer": "Hipotecario",
-      "countries": ["AR"]
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "430957",
+      "issuer": "BANCO MUNICIPAL DE LA PLATA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "431070",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA NACION ARGENTINA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "431071",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA NACION ARGENTINA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "432030",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "432250",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "432251",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "432959",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO MACRO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "433147",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NUEVO BANCO BISEL, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "433148",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO FRANCES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "433441",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE CORRIENTES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "433807",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "433810",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "433812",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CREDICOOP COOPERATIVO LTDO.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "433815",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NUEVO BANCO DE SANTA FE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "433817",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "433822",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO SUPERVIELLE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "433826",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "433830",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE GALICIA Y BUENOS AIRES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "433831",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BBVA BANCO FRANCES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "433832",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE SAN JUAN",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "433833",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "433834",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE FORMOSA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "433841",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO MASVENTAS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "433843",
+      "issuer": "MERCOBANK, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "433844",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO REGIONAL DE CUYO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "433845",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE LA NACION ARGENTINA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "433846",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO SUPERVIELLE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "433847",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "433848",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO SUDAMERIS ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "433849",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "433850",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NUEVO BANCO INDUSTRIAL DE AZUL, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "433851",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "433898",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "434531",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "434532",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "434533",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "434534",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "434535",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "434536",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "434537",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "434538",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "434539",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "434540",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "434541",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "434542",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "434586",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "434617",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DE LA CIUDAD DE BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "434795",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "435731",
+      "issuer": "HSBC BANK ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "435750",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO VELOX, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "435751",
+      "issuer": "BANCO VELOX, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "435752",
+      "issuer": "BANCO VELOX, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "435753",
+      "issuer": "BANCO VELOX, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "435754",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO VELOX, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "437996",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "438050",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE GALICIA Y BUENOS AIRES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "438051",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCO FRANCES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "438228",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMPANIA FINANCIERA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "438229",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMPANIA FINANCIERA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "438230",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "COMPANIA FINANCIERA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "438844",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "439259",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MUNICIPAL DE ROSARIO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "439818",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "440692",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "441046",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO SANTANDER RIO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "442186",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "442312",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "442371",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "442548",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "442775",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO FRANCES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "443264",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "443694",
+      "issuer": "BANCO MERCURIO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "443695",
+      "issuer": "BANCO MERCURIO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "444060",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "444267",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "444268",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "444493",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "445596",
+      "type": "credit",
+      "issuer": "CMR Falabella",
+      "category": "platinum",
+      "countries": [
+        "CL",
+        "AR",
+        "PE",
+        "CO"
+      ]
+    },
+    {
+      "bin": "445891",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "446197",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO VELOX, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "446343",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "446344",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "446345",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "446346",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "446347",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "446809",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO VELOX, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "446841",
+      "issuer": "BANCO VELOX, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "446842",
+      "issuer": "BANCO VELOX, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "446843",
+      "issuer": "BANCO VELOX, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "446866",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE SANTA CRUZ, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "446884",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO VELOX, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "448175",
+      "issuer": "BANCO DEL BUEN AYRE",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "448441",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "FLEET NATIONAL BANK",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "448459",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO SANTANDER RIO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "448478",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "448479",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DE LA NACION ARGENTINA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "448481",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO PRIVADO DE INVERSIONES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "448484",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "NUEVO BANCO BISEL, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "448487",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "HSBC BANK ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "448493",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DE GALICIA Y BUENOS AIRES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "448502",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "CITIBANK",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "448505",
+      "category": "PURCHASING",
+      "issuer": "BANCO SUDAMERIS ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "448511",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO MACRO BANSUD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "448514",
+      "category": "PURCHASING",
+      "issuer": "BANCO MAYO COOPERATIVO LIMITADO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "448516",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO PROVINCIA DE TIERRA DEL FUEGO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "448519",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANQUE NATIONALE DE PARIS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "448534",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BBVA BANCO FRANCES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "448712",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "448729",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NUEVO BANCO BISEL, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "448730",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NUEVO BANCO BISEL, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "448731",
+      "issuer": "BANCO REAL DE ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "448732",
+      "issuer": "BANCO REAL",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "448760",
+      "issuer": "BANCO REAL DE ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "448761",
+      "issuer": "BANCO REAL",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "448762",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO PROVINCIA DE TIERRA DEL FUEGO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "449119",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO SAENZ, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "449128",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE FORMOSA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "449129",
+      "issuer": "BANCO DE FORMOSA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "449130",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE FORMOSA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "449131",
+      "issuer": "BANCO DE FORMOSA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "449136",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BANCO PATAGONIA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450409",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO MACRO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450412",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450610",
+      "issuer": "BANCO MENDOZA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450635",
+      "issuer": "BANCO MENDOZA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450750",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROVINCIA DEL NEUQUEN, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450751",
+      "issuer": "BANCO DE LA PROVINCIA DEL NEUQUEN",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450752",
+      "issuer": "BANCO DE RIO NEGRO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450753",
+      "issuer": "BANCO DE RIO NEGRO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450754",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAJA POPULAR DE AHORROS DE LA PROVINCIA DE TUCUMAN",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450755",
+      "issuer": "CAJA POPULAR DE AHORROS DE LA PROVINCIA DE TUCUMAN",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450757",
+      "issuer": "NUEVO BANCO DE SANTA FE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450758",
+      "issuer": "NUEVO BANCO DE SANTA FE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450759",
+      "issuer": "BANCO SOCIAL DE CORDOBA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450764",
+      "issuer": "BANCO SOCIAL DE CORDOBA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450784",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO PROVINCIA DE TIERRA DEL FUEGO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450785",
+      "issuer": "BANCO PROVINCIA DE TIERRA DEL FUEGO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450799",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450815",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA CIUDAD DE BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450832",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CAJA DE AHORRO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450833",
+      "issuer": "BANCO CAJA DE AHORRO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450842",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA CIUDAD DE BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450843",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO BANSUD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450844",
+      "issuer": "BANCO BANSUD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450851",
+      "issuer": "BANCO DEL BUEN AYRE",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450852",
+      "issuer": "BANCO DEL BUEN AYRE",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450910",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450911",
+      "issuer": "HSBC BANK ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450972",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL TUCUMAN, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450976",
+      "issuer": "BANCO POPULAR ARGENTINO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450977",
+      "issuer": "BANCO POPULAR ARGENTINO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450979",
+      "type": "credit",
+      "issuer": "Santander Río",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450980",
+      "issuer": "BANCO RIO DE LA PLATA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450989",
+      "issuer": "BANCO TORNQUIST, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450990",
+      "issuer": "BANCO TORNQUIST, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450993",
+      "issuer": "BANCO MAYO COOPERATIVO LIMITADO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450994",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO CAJA DE AHORRO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450995",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO SANTANDER RIO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "450997",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL TUCUMAN, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451253",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HSBC BANK ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451275",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451313",
+      "issuer": "BANCO MERCURIO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451361",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MERCOBANK, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451362",
+      "issuer": "BANCO POPULAR FINANCIERO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451377",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451446",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO ITAU BUEN AYRE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451447",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO ITAU BUEN AYRE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451451",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO PATAGONIA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451696",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO COMAFI, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451701",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451702",
+      "issuer": "BANCO MERCURIO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451713",
+      "issuer": "BANCO DE BALCARCE COOPERATIVO LTDO.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451714",
+      "issuer": "BANCO DE BALCARCE COOPERATIVO LTDO.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451715",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE BALCARCE COOPERATIVO LTDO.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451716",
+      "issuer": "BANCO DE BALCARCE COOPERATIVO LTDO.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451751",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451752",
+      "issuer": "CITIBANK",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451753",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CORP BANCA S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451754",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCO TORNQUIST, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451755",
+      "issuer": "BANCO MAYO COOPERATIVO LIMITADO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451756",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451757",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451758",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451761",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451762",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE SERVICIOS Y TRANSACCIONES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451763",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451764",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451765",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451766",
+      "type": "debit",
+      "issuer": "Santander Río",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451767",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451768",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451769",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451770",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451771",
+      "issuer": "BANCO PATRICIOS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451772",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451773",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451774",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451786",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "451831",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO PATAGONIA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "452378",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "CITIBANK",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "452405",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BBVA BANCO FRANCES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "452487",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE GALICIA Y BUENOS AIRES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "452488",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE GALICIA Y BUENOS AIRES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "452489",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE GALICIA Y BUENOS AIRES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "452996",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HSBC BANK ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "452997",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE LA NACION ARGENTINA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "453562",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "453770",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454060",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE SANTIAGO DEL ESTERO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454070",
+      "issuer": "BANCO FRANCES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454071",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE SANTIAGO DEL ESTERO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454072",
+      "issuer": "BANCO TORNQUIST, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454073",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BBVA BANCO FRANCES, S.A.",
+      "countries": [
+        "AR"
+      ]
     },
     {
       "bin": "454074",
       "type": "credit",
       "category": "classic",
       "issuer": "BBVA Banco Francés",
-      "countries": ["AR"]
+      "countries": [
+        "AR"
+      ]
     },
     {
-      "bin": "485715",
+      "bin": "454075",
+      "issuer": "BANCO FRANCES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454078",
+      "issuer": "BANCO BANSUD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454145",
+      "issuer": "BANCO LINIERS SUDAMERICANO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454146",
+      "issuer": "BANCO LINIERS SUDAMERICANO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454147",
+      "issuer": "BANCO LINIERS SUDAMERICANO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454148",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO CREDICOOP COOPERATIVO LTDO.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454149",
+      "issuer": "BANCO CREDICOOP COOPERATIVO LTDO.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454425",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE LA PAMPA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454450",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA PAMPA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454451",
+      "issuer": "BANCO DE LA PAMPA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454471",
+      "issuer": "SCOTIABANK QUILMES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454472",
+      "issuer": "SCOTIABANK QUILMES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454473",
+      "issuer": "SCOTIABANK QUILMES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454640",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE GALICIA Y BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454641",
+      "issuer": "BANCO DE GALICIA Y BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454642",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE GALICIA Y BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454643",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LLOYDS TSB",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454644",
+      "issuer": "LLOYDS TSB",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454645",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "LLOYDS TSB",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454657",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454658",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "FLEET NATIONAL BANK",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454659",
       "type": "credit",
-      "issuer": "HSBC",
-      "countries": ["AR"]
+      "issuer": "ICBC",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454708",
+      "issuer": "BANCO BANSUD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454709",
+      "issuer": "BANCO BANSUD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454710",
+      "issuer": "BANCO BANSUD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454832",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454843",
+      "issuer": "BANCO DEL IBERA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454844",
+      "issuer": "BANCO DEL IBERA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454845",
+      "issuer": "BANCO DEL IBERA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454846",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454847",
+      "issuer": "BANCO ISRAELITA DE CORDOBA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454848",
+      "issuer": "BANCO ISRAELITA DE CORDOBA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454850",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454853",
+      "issuer": "BANCO ISRAELITA DE CORDOBA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "454882",
+      "issuer": "BANCO BANSUD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "455124",
+      "type": "CREDIT",
+      "category": "GOLD/PREM",
+      "issuer": "BANCO SUPERVIELLE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "455125",
+      "type": "CREDIT",
+      "category": "GOLD/PREM",
+      "issuer": "BANCO SUPERVIELLE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "455141",
+      "type": "CREDIT",
+      "category": "GOLD/PREM",
+      "issuer": "BANCO SUPERVIELLE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "455193",
+      "type": "CREDIT",
+      "category": "GOLD/PREM",
+      "issuer": "BANCO SUPERVIELLE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "455194",
+      "type": "CREDIT",
+      "category": "GOLD/PREM",
+      "issuer": "BANCO SUPERVIELLE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "455195",
+      "type": "CREDIT",
+      "category": "GOLD/PREM",
+      "issuer": "BANCO SUPERVIELLE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "455196",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SUPERVIELLE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "455197",
+      "type": "CREDIT",
+      "category": "GOLD/PREM",
+      "issuer": "BANCO SUPERVIELLE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "455198",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO SUPERVIELLE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "455330",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANCA NAZIONALE DEL LAVORO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "455349",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HSBC BANK ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "455599",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO BANSUD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "455635",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO REGIONAL DE CUYO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "455636",
+      "issuer": "BANCO REGIONAL DE CUYO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "455637",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO REGIONAL DE CUYO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "455756",
+      "issuer": "BERSA (BANCO DE ENTRE RIOS S.A.)",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "455798",
+      "issuer": "BERSA (BANCO DE ENTRE RIOS S.A.)",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "456381",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "456382",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "456383",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "456385",
+      "issuer": "BANCO MUNICIPAL DE LA PLATA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "456392",
+      "issuer": "BANCO LOCAL COOPERATIVO LTDO.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "456393",
+      "issuer": "BANCO LOCAL COOPERATIVO LTDO.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "456394",
+      "issuer": "BANCO LOCAL COOPERATIVO LTDO.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "456513",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE SANTA CRUZ, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "456514",
+      "issuer": "BANCO DE LA PROVINCIA DE SANTA CRUZ, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "456564",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO INDUSTRIAL, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "456565",
+      "issuer": "NUEVO BANCO INDUSTRIAL DE AZUL, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "456566",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO INDUSTRIAL, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "456579",
+      "issuer": "BANCO EMPRESARIO DE TUCUMAN COOPERATIVO LIMITADO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "456580",
+      "issuer": "BANCO EMPRESARIO DE TUCUMAN COOPERATIVO LIMITADO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "456581",
+      "issuer": "BANCO EMPRESARIO DE TUCUMAN COOPERATIVO LIMITADO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "456582",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BERSA (BANCO DE ENTRE RIOS S.A.)",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "456583",
+      "issuer": "BERSA (BANCO DE ENTRE RIOS S.A.)",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "456584",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BERSA (BANCO DE ENTRE RIOS S.A.)",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "456589",
+      "issuer": "BANCO COMERCIAL DE TRES ARROYOS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "456591",
+      "issuer": "BANCO COMERCIAL ISRAELITA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "456592",
+      "issuer": "BANCO COMERCIAL ISRAELITA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "457055",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO MUNICIPAL DE ROSARIO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "457056",
+      "issuer": "BANCO MUNICIPAL DE ROSARIO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "457073",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DEL SUQUIA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "457074",
+      "issuer": "BANCO DEL SUQUIA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "457075",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DEL SUQUIA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "457080",
+      "issuer": "BANCO DE LA EDIFICADORA DE OLAVARRIA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "457081",
+      "issuer": "BANCO DE LA EDIFICADORA DE OLAVARRIA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "457308",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "457509",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "457596",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "457665",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "457666",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "457667",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "459354",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "459467",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "459473",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "459474",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HSBC BANK ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "460072",
+      "type": "credit",
+      "issuer": "CMR Falabella",
+      "category": "chip",
+      "countries": [
+        "CL",
+        "AR",
+        "PE",
+        "CO"
+      ]
+    },
+    {
+      "bin": "462761",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITICORP",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "462815",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "462929",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "462930",
+      "issuer": "CITIBANK",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "462937",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO INDUSTRIAL, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "462982",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO SANTANDER RIO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "463463",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "463464",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "463465",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "463466",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "463482",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "463483",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "465375",
+      "type": "credit",
+      "issuer": "CMR Falabella",
+      "category": "signature",
+      "countries": [
+        "CL",
+        "AR",
+        "PE",
+        "CO"
+      ]
+    },
+    {
+      "bin": "465403",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "465494",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "466057",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "467080",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANK OF AMERICA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "468508",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "468531",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "468549",
+      "type": "DEBIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "468574",
+      "type": "DEBIT",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "469283",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "469700",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "469701",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "469724",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "469725",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "469736",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE CORRIENTES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "469737",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "469771",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "469870",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "469874",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "469875",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "issuer": "HSBC BANK ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "470455",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "472041",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCO FRANCES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "472042",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BBVA BANCO FRANCES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "472090",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BBVA BANCO FRANCES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "473221",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCA NAZIONALE DEL LAVORO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "473222",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "473223",
+      "issuer": "BANCO ARGENCOOP COOPERATIVA LIMITADA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "473224",
+      "issuer": "BANCO ARGENCOOP COOPERATIVA LIMITADA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "473225",
+      "issuer": "BANCO ARGENCOOP COOPERATIVA LIMITADA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "473226",
+      "issuer": "BANCO ARGENCOOP COOPERATIVA LIMITADA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "473227",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "473246",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NUEVO BANCO DEL CHACO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "473247",
+      "issuer": "NUEVO BANCO DEL CHACO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "473248",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NUEVO BANCO DEL CHACO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "473249",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "473263",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "473710",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "473711",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "473712",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "473713",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "473714",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "473715",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "473716",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "473717",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "473718",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "473719",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "473720",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "473721",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "473722",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "473725",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "474183",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "474209",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "474212",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO SUPERVIELLE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "474505",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO MUNICIPAL DE ROSARIO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "474531",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO SANTANDER RIO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "475392",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "475393",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "475809",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "476002",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "HSBC BANK ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "476520",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "476537",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "476538",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "476539",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "476540",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "476590",
+      "issuer": "BANCO DE GALICIA Y BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "476591",
+      "issuer": "BANCO DE GALICIA Y BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "476604",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ITAU BUEN AYRE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "476605",
+      "issuer": "BANCO ITAU BUEN AYRE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "476606",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO ITAU BUEN AYRE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "476941",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "477051",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "477053",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "477162",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "477163",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "477169",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "AR"
+      ]
     },
     {
       "bin": "479352",
       "type": "credit",
       "category": "premier",
       "issuer": "Banco Credicoop Cooperativo Ltdo",
-      "countries": ["AR"]
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "479375",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA NACION ARGENTINA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "479376",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE LA NACION ARGENTINA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "479377",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE LA NACION ARGENTINA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "479378",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE LA NACION ARGENTINA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "479454",
+      "issuer": "BANCO DO BRASIL, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "480286",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO MERCURIO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "480462",
+      "type": "DEBIT",
+      "category": "PURCHASING",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "480724",
+      "type": "CREDIT",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "480857",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "480860",
+      "type": "DEBIT",
+      "category": "PURCHASING",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "480875",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "481397",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "481501",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "481502",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "481550",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "482469",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "482470",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "483002",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "483020",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "483049",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO DE LA NACION ARGENTINA",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "483188",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "484168",
+      "type": "DEBIT",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "484198",
+      "type": "DEBIT",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "485011",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "485482",
+      "type": "CREDIT",
+      "category": "SIGNATURE",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "485715",
+      "type": "credit",
+      "issuer": "HSBC",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "485749",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BBVA BANCO FRANCES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "485904",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "485922",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BBVA BANCO FRANCES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "485934",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO SUPERVIELLE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "485938",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "485947",
+      "type": "DEBIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO SANTANDER RIO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "485955",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486421",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "HSBC BANK ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486422",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486423",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BANCO REGIONAL DE CUYO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486502",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BBVA BANCO FRANCES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486510",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "NUEVO BANCO DE SANTA FE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486515",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "HSBC BANK ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486538",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO SANTANDER RIO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486547",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486549",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO PROVINCIA DE TIERRA DEL FUEGO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486556",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DEL TUCUMAN, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486566",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486568",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486569",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486570",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "NUEVO BANCO DEL SUQUIA S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486571",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "NUEVO BANCO BISEL, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486572",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486573",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486577",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486582",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486585",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "NUEVO BANCO DE SANTA FE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486587",
+      "type": "DEBIT",
+      "category": "PURCHASING",
+      "issuer": "BBVA BANCO FRANCES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486596",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486604",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486608",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486609",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486611",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "NUEVO BANCO DE SANTA FE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486614",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486615",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DEL TUCUMAN, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486616",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "NUEVO BANCO BISEL, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486620",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO REGIONAL DE CUYO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486625",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DE CORRIENTES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486631",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO SUPERVIELLE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486634",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO SUPERVIELLE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486649",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486657",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486661",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DE SANTA CRUZ, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486662",
+      "type": "DEBIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DE SANTA CRUZ, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486663",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "BANCO DE SAN JUAN",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486665",
+      "type": "DEBIT",
+      "category": "PURCHASING",
+      "issuer": "HSBC BANK ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "486672",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "NUEVO BANCO DEL CHACO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "487053",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "488241",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "489242",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "LLOYDS BANK (BLSA) LTD.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "489244",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NUEVO BANCO BISEL, S.A.",
+      "countries": [
+        "AR"
+      ]
     },
     {
       "bin": "489321",
       "type": "credit",
       "category": "signature",
       "issuer": "Banco de la Provincia de Buenos Aires",
-      "countries": ["AR"]
+      "countries": [
+        "AR"
+      ]
     },
-    {"bin": "499847", "type": "credit", "issuer": "CMR Falabella", "countries": ["CL", "AR", "PE", "CO"]},
-    {"bin": "460072", "type": "credit", "issuer": "CMR Falabella", "category": "chip", "countries": ["CL", "AR", "PE", "CO"]},
-    {"bin": "445596", "type": "credit", "issuer": "CMR Falabella", "category": "platinum", "countries": ["CL", "AR", "PE", "CO"]},
-    {"bin": "465375", "type": "credit", "issuer": "CMR Falabella", "category": "signature", "countries": ["CL", "AR", "PE", "CO"]},
-    {"bin": "409152", "type": "credit", "issuer": "CMR Falabella", "category": "contactless", "countries": ["CL", "AR", "PE", "CO"]},
-    {"bin": "404028", "type": "credit", "issuer": "CMR Falabella", "category": "pro", "countries": ["CL", "AR", "PE", "CO"]},
-    {"bin": "453770", "type": "debit", "countries": ["AR"]},
-    {"bin": "448712", "type": "debit", "countries": ["AR"]},
-    {"bin": "434541", "type": "debit", "countries": ["AR"]},
-    {"bin": "411199", "type": "debit", "countries": ["AR"]},
-    {"bin": "423465", "type": "debit", "countries": ["AR"]},
-    {"bin": "434540", "type": "debit", "countries": ["AR"]},
-    {"bin": "434542", "type": "debit", "countries": ["AR"]},
-    {"bin": "434538", "type": "debit", "countries": ["AR"]},
-    {"bin": "423018", "type": "debit", "countries": ["AR"]},
-    {"bin": "488241", "type": "debit", "countries": ["AR"]},
-    {"bin": "489634", "type": "debit", "countries": ["AR"]},
-    {"bin": "434537", "type": "debit", "countries": ["AR"]},
-    {"bin": "434539", "type": "debit", "countries": ["AR"]},
-    {"bin": "434536", "type": "debit", "countries": ["AR"]},
-    {"bin": "427156", "type": "debit", "countries": ["AR"]},
-    {"bin": "427157", "type": "debit", "countries": ["AR"]},
-    {"bin": "434535", "type": "debit", "countries": ["AR"]},
-    {"bin": "434534", "type": "debit", "countries": ["AR"]},
-    {"bin": "434533", "type": "debit", "countries": ["AR"]},
-    {"bin": "423077", "type": "debit", "countries": ["AR"]},
-    {"bin": "434532", "type": "debit", "countries": ["AR"]},
-    {"bin": "434586", "type": "debit", "countries": ["AR"]},
-    {"bin": "423001", "type": "debit", "countries": ["AR"]},
-    {"bin": "434531", "type": "debit", "countries": ["AR"]},
-    {"bin": "411197", "type": "debit", "countries": ["AR"]},
-    {"bin": "443264", "type": "debit", "countries": ["AR"]},
-    {"bin": "400276", "type": "debit", "countries": ["AR"]},
-    {"bin": "405069", "type": "debit", "countries": ["AR"]},
-    {"bin": "405755", "type": "debit", "countries": ["AR"]},
-    {"bin": "400615", "type": "debit", "countries": ["AR"]},
-    {"bin": "405896", "type": "debit", "countries": ["AR"]},
-    {"bin": "402789", "type": "debit", "countries": ["AR"]},
-    {"bin": "405897", "type": "debit", "countries": ["AR"]},
-    {"bin": "402914", "type": "debit", "countries": ["AR"]},
-    {"bin": "406290", "type": "debit", "countries": ["AR"]},
-    {"bin": "404625", "type": "debit", "countries": ["AR"]},
-    {"bin": "406291", "type": "debit", "countries": ["AR"]},
-    {"bin": "405515", "type": "debit", "countries": ["AR"]},
-    {"bin": "406998", "type": "debit", "countries": ["AR"]},
-    {"bin": "405516", "type": "debit", "countries": ["AR"]},
-    {"bin": "406999", "type": "debit", "countries": ["AR"]},
-    {"bin": "405517", "type": "debit", "countries": ["AR"]},
-    {"bin": "410082", "type": "debit", "countries": ["AR"]},
-    {"bin": "406375", "type": "debit", "countries": ["AR"]},
-    {"bin": "410083", "type": "debit", "countries": ["AR"]},
-    {"bin": "406652", "type": "debit", "countries": ["AR"]},
-    {"bin": "439818", "type": "debit", "countries": ["AR"]},
-    {"bin": "408515", "type": "debit", "countries": ["AR"]},
-    {"bin": "444060", "type": "debit", "countries": ["AR"]},
-    {"bin": "410121", "type": "debit", "countries": ["AR"]},
-    {"bin": "450412", "type": "debit", "countries": ["AR"]},
-    {"bin": "410122", "type": "debit", "countries": ["AR"]},
-    {"bin": "451377", "type": "debit", "countries": ["AR"]},
-    {"bin": "410123", "type": "debit", "countries": ["AR"]},
-    {"bin": "463465", "type": "debit", "countries": ["AR"]},
-    {"bin": "410853", "type": "debit", "countries": ["AR"]},
-    {"bin": "473711", "type": "debit", "countries": ["AR"]},
-    {"bin": "411849", "type": "debit", "countries": ["AR"]},
-    {"bin": "473725", "type": "debit", "countries": ["AR"]},
-    {"bin": "417309", "type": "debit", "countries": ["AR"]},
-    {"bin": "477051", "type": "debit", "countries": ["AR"]},
-    {"bin": "421738", "type": "debit", "countries": ["AR"]},
-    {"bin": "483020", "type": "debit", "countries": ["AR"]},
-    {"bin": "423623", "type": "debit", "countries": ["AR"]},
-    {"bin": "428062", "type": "debit", "countries": ["AR"]},
-    {"bin": "428063", "type": "debit", "countries": ["AR"]},
-    {"bin": "428064", "type": "debit", "countries": ["AR"]},
-    {"bin": "434795", "type": "debit", "countries": ["AR"]},
-    {"bin": "437996", "type": "debit", "countries": ["AR"]},
-    {"bin": "442371", "type": "debit", "countries": ["AR"]},
-    {"bin": "442548", "type": "debit", "countries": ["AR"]},
-    {"bin": "444493", "type": "debit", "countries": ["AR"]},
-    {"bin": "446343", "type": "debit", "countries": ["AR"]},
-    {"bin": "446347", "type": "debit", "countries": ["AR"]},
-    {"bin": "451701", "type": "debit", "countries": ["AR"]},
-    {"bin": "451751", "type": "debit", "countries": ["AR"]},
-    {"bin": "451756", "type": "debit", "countries": ["AR"]},
-    {"bin": "451757", "type": "debit", "countries": ["AR"]},
-    {"bin": "451758", "type": "debit", "countries": ["AR"]},
-    {"bin": "451761", "type": "debit", "countries": ["AR"]},
-    {"bin": "451763", "type": "debit", "countries": ["AR"]},
-    {"bin": "451764", "type": "debit", "countries": ["AR"]},
-    {"bin": "451765", "type": "debit", "countries": ["AR"]},
-    {"bin": "451766", "type": "debit", "issuer": "Santander Río", "countries": ["AR"]},
-    {"bin": "451767", "type": "debit", "countries": ["AR"]},
-    {"bin": "451768", "type": "debit", "countries": ["AR"]},
-    {"bin": "451769", "type": "debit", "countries": ["AR"]},
-    {"bin": "451770", "type": "debit", "countries": ["AR"]},
-    {"bin": "451772", "type": "debit", "countries": ["AR"]},
-    {"bin": "451773", "type": "debit", "countries": ["AR"]},
-    {"bin": "457596", "type": "debit", "countries": ["AR"]},
-    {"bin": "457665", "type": "debit", "countries": ["AR"]},
-    {"bin": "462815", "type": "debit", "countries": ["AR"]},
-    {"bin": "468508", "type": "debit", "countries": ["AR"]},
-    {"bin": "473227", "type": "debit", "countries": ["AR"]},
-    {"bin": "473710", "type": "debit", "countries": ["AR"]},
-    {"bin": "473712", "type": "debit", "countries": ["AR"]},
-    {"bin": "473713", "type": "debit", "countries": ["AR"]},
-    {"bin": "473714", "type": "debit", "countries": ["AR"]},
-    {"bin": "473715", "type": "debit", "countries": ["AR"]},
-    {"bin": "473716", "type": "debit", "countries": ["AR"]},
-    {"bin": "473717", "type": "debit", "countries": ["AR"]},
-    {"bin": "473718", "type": "debit", "countries": ["AR"]},
-    {"bin": "473719", "type": "debit", "countries": ["AR"]},
-    {"bin": "473720", "type": "debit", "countries": ["AR"]},
-    {"bin": "473721", "type": "debit", "countries": ["AR"]},
-    {"bin": "473722", "type": "debit", "countries": ["AR"]},
-    {"bin": "476520", "type": "debit", "countries": ["AR"]},
-    {"bin": "477053", "type": "debit", "countries": ["AR"]},
-    {"bin": "481397", "type": "debit", "countries": ["AR"]},
-    {"bin": "481501", "type": "debit", "countries": ["AR"]},
-    {"bin": "481502", "type": "debit", "countries": ["AR"]},
-    {"bin": "481550", "type": "debit", "countries": ["AR"]},
-    {"bin": "483002", "type": "debit", "countries": ["AR"]},
-    {"bin": "483188", "type": "debit", "countries": ["AR"]},
-    {"bin": "492528", "type": "debit", "countries": ["AR"]},
-    {"bin": "450799", "type": "debit", "countries": ["AR"]},
-    {"bin": "489412", "type": "debit", "countries": ["AR"]},
-    {"bin": "499859", "type": "debit", "issuer": "Hipotecario", "countries": ["AR"]},
-    {"bin": "446344", "type": "debit", "countries": ["AR"]},
-    {"bin": "446345", "type": "debit", "countries": ["AR"]},
-    {"bin": "446346", "type": "debit", "countries": ["AR"]},
-    {"bin": "400448", "type": "debit", "countries": ["AR"]}
+    {
+      "bin": "489412",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "489467",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO INDUSTRIAL, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "489634",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "490110",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "490111",
+      "type": "DEBIT",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "490696",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "490698",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITIBANK",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "490699",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "490791",
+      "issuer": "BANCO MACRO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "491241",
+      "issuer": "BANCO COOPESUR COOPERATIVO LIMITADO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "491285",
+      "issuer": "BANCO BICA COOPERATIVO LTDO.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "491324",
+      "issuer": "BANCO PLATENSE",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "491325",
+      "issuer": "BANCO PLATENSE",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "491519",
+      "issuer": "BANCO ALMAFUERTE COOPERATIVO LIMITADO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "491520",
+      "issuer": "BANCO ALMAFUERTE COOPERATIVO LIMITADO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "491521",
+      "issuer": "BANCO ALMAFUERTE COOPERATIVO LIMITADO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "491956",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DEL TUCUMAN, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "492043",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "492137",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HSBC BANK ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "492169",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CORRIENTES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "492180",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE CORRIENTES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "492203",
+      "issuer": "BANCO SUDECOR LITORAL COOPERATIVO LTDO.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "492204",
+      "issuer": "BANCO SUDECOR LITORAL COOPERATIVO LTDO.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "492205",
+      "issuer": "BANCO SUDECOR LITORAL COOPERATIVO LTDO.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "492306",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "492307",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO DE SAN JUAN",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "492498",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "492499",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "492528",
+      "type": "debit",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493435",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE LA EDIFICADORA DE OLAVARRIA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493438",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493440",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO EMPRESARIO DE TUCUMAN COOPERATIVO LIMITADO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493444",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO FRANCES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493447",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NUEVO BANCO INDUSTRIAL DE AZUL, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493451",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO SUDECOR COOPERATIVO LTDO.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493452",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CORP BANCA S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493453",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO SUDECOR COOPERATIVO LTDO.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493455",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO MACRO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493456",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO MUNICIPAL DE ROSARIO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493457",
+      "issuer": "BANCO COMERCIAL DEL TANDIL, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493458",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO COMERCIAL ISRAELITA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493459",
+      "issuer": "BANCO COMERCIAL DE TRES ARROYOS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493461",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493464",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO SUDECOR COOPERATIVO LTDO.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493466",
+      "issuer": "BANCO DE JUNIN",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493487",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493488",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493489",
+      "issuer": "ABN AMRO BANK, N.V.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493702",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493704",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO MAYO COOPERATIVO LIMITADO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493705",
+      "issuer": "BANCO LOCAL COOPERATIVO LTDO.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493706",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PROVIDIAN BANK S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493715",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BBVA BANCO FRANCES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493717",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493718",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE SAN JUAN",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493719",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO CREDICOOP COOPERATIVO LTDO.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493759",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "LLOYDS BANK (BLSA) LTD.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493760",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO TORNQUIST, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493761",
+      "issuer": "BANCO BANSUD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493762",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HSBC BANK ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493763",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO SANTANDER RIO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493764",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO REGIONAL DE CUYO",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493765",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SCOTIABANK QUILMES, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493768",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO SUPERVIELLE, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493770",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "493781",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "494172",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO SAENZ, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "494173",
+      "issuer": "BANCO SAENZ, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "494355",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO SAENZ, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "494392",
+      "issuer": "BANCO BICA COOPERATIVO LTDO.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "494393",
+      "issuer": "BANCO BICA COOPERATIVO LTDO.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "494394",
+      "issuer": "BANCO BICA COOPERATIVO LTDO.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "496036",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "496085",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "496086",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "498434",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "498435",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VISA ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "498484",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANCO DE SAN JUAN",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "499838",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "499847",
+      "type": "credit",
+      "issuer": "CMR Falabella",
+      "countries": [
+        "CL",
+        "AR",
+        "PE",
+        "CO"
+      ]
+    },
+    {
+      "bin": "499859",
+      "type": "debit",
+      "issuer": "Hipotecario",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "499924",
+      "issuer": "BANCO MENDOZA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "499998",
+      "issuer": "BANCO TRANSANDINO, S.A.",
+      "countries": [
+        "AR"
+      ]
+    }
   ]
 }

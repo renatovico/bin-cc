@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/renatovico/bin-cc/issues"
   },
-  "homepage": "https://github.com/renatovico/bin-cc#readme"
+  "homepage": "https://github.com/renatovico/bin-cc#readme",
+  "devDependencies": {
+    "js-yaml": "^4.1.1"
+  }
 }

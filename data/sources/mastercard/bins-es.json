@@ -2,10 +2,5912 @@
   "scheme": "mastercard",
   "bins": [
     {
+      "bin": "510013",
+      "issuer": "SOCIEDAD ESPANOLA DE MEDIOS DE PAGOS (SEMP)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "510017",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO CETELEM, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "510024",
+      "type": "CREDIT",
+      "issuer": "BANCO COOPERATIVO ESPANOL",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "510025",
+      "type": "CREDIT",
+      "issuer": "SERVIRED, SOCIEDAD ESPANOLA DE MEDIOS DE PAGO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "510033",
+      "type": "CREDIT",
+      "issuer": "BANCO CETELEM, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "510034",
+      "category": "STANDARD",
+      "issuer": "BANCO CETELEM, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "510051",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "510052",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "510060",
+      "issuer": "SOCIEDAD ESPANOLA DE MEDIOS DE PAGOS (SEMP)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "510061",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SERVIRED, SOCIEDAD ESPANOLA DE MEDIOS DE PAGO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "510072",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO ESPANOL DE CREDITO (BANESTO)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "510087",
+      "type": "CREDIT",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "510088",
+      "issuer": "BANCO SANTANDER CENTRAL HISPANO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "510107",
+      "type": "CREDIT",
+      "issuer": "BANCO ESPANOL DE CREDITO (BANESTO)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "510113",
+      "issuer": "SEMP",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "510120",
+      "issuer": "SEMP",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "510131",
+      "type": "CREDIT",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "510132",
+      "issuer": "BANCO SANTANDER CENTRAL HISPANO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "510133",
+      "type": "CREDIT",
+      "issuer": "BANCO COOPERATIVO ESPANOL",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "510146",
+      "type": "CREDIT",
+      "issuer": "BANCO PASTOR, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "510150",
+      "issuer": "PATAGON INTERNET BANK, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "510220",
+      "issuer": "SISTEMA 4B, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "510242",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SERVIRED, SOCIEDAD ESPANOLA DE MEDIOS DE PAGO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "510413",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "512299",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANKIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "512470",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO PASTOR, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "512482",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "512483",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "512486",
+      "type": "CREDIT",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "512551",
+      "type": "CREDIT",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "512552",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "512553",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "512554",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "512555",
+      "type": "CREDIT",
+      "issuer": "BANKIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "512562",
+      "type": "CREDIT",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "512563",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "512564",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "512565",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "512566",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "512581",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "512582",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "512583",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "512584",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "512585",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "512590",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "512596",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "512604",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "512729",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "512799",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ACCORDFIN ESPANA, ESTABLECIMIENTO FINANCIERO DE",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "515853",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO GUIPUZCOANO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "515857",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCA MARCH, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "515878",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "516459",
+      "type": "DEBIT",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "518179",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "518503",
+      "issuer": "CAJA DE AHORROS Y PENSIONES DE BARCELONA-ANDORRA",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "518506",
+      "type": "CREDIT",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "518507",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "518508",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "518509",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "518510",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "518511",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "518512",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "518513",
+      "type": "CREDIT",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "518514",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "518515",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "518624",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SERVIRED, SOCIEDAD ESPANOLA DE MEDIOS DE PAGO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "518656",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "518674",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SERVIRED, SOCIEDAD ESPANOLA DE MEDIOS DE PAGO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "518775",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO CETELEM, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "518782",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CETELEM, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "518801",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO ESPANOL DE CREDITO (BANESTO)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "518807",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO ESPANOL DE CREDITO (BANESTO)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "518939",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "518940",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "518963",
+      "type": "CREDIT",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "519297",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "519356",
+      "type": "CREDIT",
+      "issuer": "BANCO GUIPUZCOANO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "519363",
+      "type": "CREDIT",
+      "issuer": "BANCO DE VALENCIA",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "519364",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "520023",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "520302",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CITIBANK ESPANA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "520346",
+      "type": "CREDIT",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "520629",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO ESPANOL DE CREDITO (BANESTO)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "520663",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "520692",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "520693",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "520695",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "520696",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "520729",
+      "issuer": "CAJA DE AHORROS Y PENSIONES DE BARCELONA(LA CAIXA)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "520730",
+      "issuer": "CAJA DE AHORROS Y PENSIONES DE BARCELONA(LA CAIXA)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "520731",
+      "issuer": "CAJA DE AHORROS Y PENSIONES DE BARCELONA(LA CAIXA)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "521192",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO ESPANOL DE CREDITO (BANESTO)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "521566",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "521803",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "521817",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "521818",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "521829",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "521834",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO ESPANOL DE CREDITO (BANESTO)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "521879",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "521941",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "522205",
+      "type": "CREDIT",
+      "issuer": "CAJA DE AHORROS Y PENSIONES DE BARCELONA(LA CAIXA)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "522719",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "522754",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "523921",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANKINTER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "524352",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BANCO ESPANOL DE CREDITO (BANESTO)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "524712",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "524720",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO PASTOR, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "524722",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "524723",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "524724",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "524725",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "524726",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "524727",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "524728",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "524731",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "525635",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANKIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "525637",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANKIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "525638",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "525997",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SANTANDER CONSUMER FINANCE, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "526389",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANKIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "526390",
+      "issuer": "CAJA DE AHORROS Y MONTE DE PIEDAD DE MADRID",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "526454",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO ESPANOL DE CREDITO (BANESTO)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "526493",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANKIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "526494",
+      "issuer": "CAJA DE AHORROS Y MONTE DE PIEDAD DE MADRID",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "526751",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "526752",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "526754",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "526755",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "526756",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "526757",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "526758",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "526827",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANKINTER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "526991",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "527424",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "527434",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "527599",
+      "type": "CREDIT",
+      "issuer": "BANCO CETELEM, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528081",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528087",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528093",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO ESPANOL DE CREDITO (BANESTO)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528094",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528530",
+      "type": "CREDIT",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528605",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528606",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528611",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528620",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528622",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528632",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528634",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528639",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528640",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528641",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528651",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528653",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528654",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528656",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528657",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528659",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528660",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528661",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528664",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528665",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528670",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528671",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528672",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528673",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528674",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528675",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528679",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528685",
+      "type": "CREDIT",
+      "issuer": "BANCO ESPANOL DE CREDITO (BANESTO)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528687",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO SYGMA HISPANIA, SUCURSAL EN ESPANA",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528688",
+      "issuer": "BANCO SYGMA HISPANIA, SUCURSAL EN ESPANA",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528696",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528697",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528698",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528699",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "528915",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "529312",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CAJA DE AHORROS Y PENSIONES DE BARCELONA(LA CAIXA)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "529480",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "529481",
+      "type": "CREDIT",
+      "issuer": "BANCO GUIPUZCOANO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "529550",
+      "type": "CREDIT",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "529918",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "529931",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO COOPERATIVO ESPANOL",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "529933",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SISTEMA 4B, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "530092",
+      "type": "CREDIT",
+      "issuer": "BANCA MARCH, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "530130",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "530280",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO GUIPUZCOANO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "530444",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "530524",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "530541",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO COOPERATIVO ESPANOL",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "530543",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO COOPERATIVO ESPANOL",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "530545",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO COOPERATIVO ESPANOL",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "530547",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO COOPERATIVO ESPANOL",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "530584",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "530976",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SERVIRED, SOCIEDAD ESPANOLA DE MEDIOS DE PAGO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "531040",
+      "issuer": "BANCO HERRERO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "531100",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO PASTOR, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "531242",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "SISTEMA 4B, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "531309",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "531418",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "531697",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "531723",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CAJA DE AHORROS Y PENSIONES DE BARCELONA(LA CAIXA)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "531821",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANKIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "531822",
+      "category": "STANDARD",
+      "issuer": "CAJA DE AHORROS Y MONTE DE PIEDAD DE MADRID",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "531823",
+      "type": "CREDIT",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "531867",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO SABADELL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "532760",
+      "issuer": "BANCO ATLANTICO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "533011",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO COOPERATIVO ESPANOL",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "533025",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO COOPERATIVO ESPANOL",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "533182",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO COOPERATIVO ESPANOL",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "533183",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "533204",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "533420",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "533468",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "533820",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANCO SABADELL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "533821",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "533836",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "533855",
+      "type": "CREDIT",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "533882",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO COOPERATIVO ESPANOL",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "533888",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "534124",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SERVIRED, SOCIEDAD ESPANOLA DE MEDIOS DE PAGO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "534228",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "534283",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "535929",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO ESPANOL DE CREDITO (BANESTO)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "537205",
+      "type": "CREDIT",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "538671",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "539630",
+      "type": "CREDIT",
+      "category": "WORLD ELITE",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "539709",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANKIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "539716",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SERVIRED, SOCIEDAD ESPANOLA DE MEDIOS DE PAGO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "539723",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO ESPANOL DE CREDITO (BANESTO)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "539724",
+      "issuer": "BANCO ESPANOL DE CREDITO (BANESTO)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "539725",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CITIBANK ESPANA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "540029",
+      "type": "CREDIT",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "540031",
+      "issuer": "BANCO ESPANOL DE CREDITO",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
       "bin": "540205",
       "type": "debit",
       "issuer": "Sabadell",
-      "countries": ["ES"]
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "540209",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO SABADELL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "540231",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "540232",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANKIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "540246",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANKIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "540262",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "540402",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "540467",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "540495",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SERVIRED, SOCIEDAD ESPANOLA DE MEDIOS DE PAGO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "540583",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "540703",
+      "type": "CREDIT",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "540714",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO ESPANOL DE CREDITO (BANESTO)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "540734",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "540866",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "540888",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "540896",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "540897",
+      "issuer": "BANCO DE CASTILLA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "540898",
+      "issuer": "BANCO DE CREDITO BALEAR, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "540899",
+      "issuer": "BANCO DE GALICIA",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "540900",
+      "issuer": "BANCO DE VASCONIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "540982",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SERVIRED, SOCIEDAD ESPANOLA DE MEDIOS DE PAGO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "540987",
+      "type": "CREDIT",
+      "issuer": "BANKIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541008",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SERVIRED, SOCIEDAD ESPANOLA DE MEDIOS DE PAGO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541077",
+      "issuer": "BANCO DE SABADELL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541079",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SANTANDER CONSUMER FINANCE, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541082",
+      "issuer": "BANCO URQUIJO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541106",
+      "type": "CREDIT",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541135",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541163",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO ESPANOL DE CREDITO (BANESTO)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541201",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541202",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SERVIRED, SOCIEDAD ESPANOLA DE MEDIOS DE PAGO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541289",
+      "type": "CREDIT",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541302",
+      "issuer": "BANCA MARCH, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541310",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541311",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541321",
+      "issuer": "BANCA MARCH, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541345",
+      "type": "CREDIT",
+      "issuer": "SERVIRED, SOCIEDAD ESPANOLA DE MEDIOS DE PAGO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541469",
+      "issuer": "CONFEDERACION ESPANOLA DE CAJAS DE AHORROS",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541540",
+      "type": "CREDIT",
+      "issuer": "SISTEMA 4B, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541541",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541542",
+      "category": "STANDARD",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541543",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO ESPANOL DE CREDITO (BANESTO)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541544",
+      "issuer": "BANCO CENTRAL HISPANOAMERICANO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541565",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541612",
+      "issuer": "BANCO DE SANTANDER",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541613",
+      "issuer": "BANCO DE SANTANDER",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541625",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CAJA DE AHORROS Y PENSIONES DE BARCELONA(LA CAIXA)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541708",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SANTANDER CONSUMER FINANCE, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541763",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANKIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541764",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANKINTER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541846",
+      "issuer": "CAJA DE AHORROS Y PENSIONES DE BARCELONA-ANDORRA",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541852",
+      "issuer": "BILBAO BIZKAIA KUTXA",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541856",
+      "type": "CREDIT",
+      "issuer": "BANCO ESPANOL DE CREDITO (BANESTO)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541877",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SERVIRED, SOCIEDAD ESPANOLA DE MEDIOS DE PAGO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541980",
+      "type": "CREDIT",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "541985",
+      "type": "CREDIT",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "542013",
+      "type": "CREDIT",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "542140",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CITIBANK ESPANA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "542146",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CITIBANK ESPANA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "542152",
+      "type": "CREDIT",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "542153",
+      "issuer": "BANCO DE CASTILLA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "542154",
+      "issuer": "BANCO DE CREDITO BALEAR, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "542155",
+      "issuer": "BANCO DE GALICIA",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "542156",
+      "issuer": "BANCO DE VASCONIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "542199",
+      "type": "CREDIT",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "542200",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CAJA DE AHORROS Y PENSIONES DE BARCELONA(LA CAIXA)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "542204",
+      "issuer": "CAJA DE AHORROS Y PENSIONES DE BARCELONA-ANDORRA",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "542543",
+      "issuer": "BANCO ESPANOL DE CREDITO",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "542790",
+      "issuer": "CAJA DE AHORROS Y PENSIONES DE BARCELONA-ANDORRA",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "543162",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "543445",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SANTANDER CONSUMER FINANCE, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "543462",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CAIXA D'ESTALVIS DE PENEDES",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "543877",
+      "type": "CREDIT",
+      "issuer": "BANCO SABADELL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "543938",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "544007",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "544012",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "544048",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SERVIRED, SOCIEDAD ESPANOLA DE MEDIOS DE PAGO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "544280",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SANTANDER CONSUMER FINANCE, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "544604",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANKIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "544625",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SOCIEDAD CONJUNTA PARA LA EMISION Y GESTION DE MEDIOS DE",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "544720",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO PASTOR, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "544749",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SERVICIOS FINANCIEROS CARREFOUR, ESTABLECIMIENTO",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "544771",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SOCIEDAD CONJUNTA PARA LA EMISION Y GESTION DE MEDIOS DE",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "544786",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SOCIEDAD CONJUNTA PARA LA EMISION Y GESTION DE MEDIOS DE",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "544898",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "544958",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CAJA DE AHORROS Y PENSIONES DE BARCELONA(LA CAIXA)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "545047",
+      "issuer": "CAJA DE AHORROS Y PENSIONES DE BARCELONA(LA CAIXA)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "545118",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "545283",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SERVIRED, SOCIEDAD ESPANOLA DE MEDIOS DE PAGO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "545328",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SOCIEDAD CONJUNTA PARA LA EMISION Y GESTION DE MEDIOS DE",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "545477",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SANTANDER CONSUMER FINANCE, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "545659",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "545878",
+      "type": "CREDIT",
+      "issuer": "BANCO CETELEM, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "546264",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SANTANDER CONSUMER FINANCE, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "546691",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "546801",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CAJA DE AHORROS Y PENSIONES DE BARCELONA(LA CAIXA)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "546802",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CAJA DE AHORROS Y PENSIONES DE BARCELONA(LA CAIXA)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "547275",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO PASTOR, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "547416",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANKIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "547596",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "547617",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO SABADELL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "547655",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "547659",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "547711",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE VALENCIA",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "547824",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "547876",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO COOPERATIVO ESPANOL",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "547916",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANKINTER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "547917",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "547918",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "547978",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "547979",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "548371",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO SABADELL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "548820",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "RBC DEXIA INVESTOR SERVICES ESPANA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "548821",
+      "issuer": "BANCOVAL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "548900",
+      "issuer": "SISTEMA 4B",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "548901",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "548902",
+      "category": "STANDARD",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "548903",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SISTEMA 4B, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "548904",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO ESPANOL DE CREDITO (BANESTO)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "548906",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "548907",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "548908",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "548909",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "548910",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "548911",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "548912",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "548913",
+      "category": "STANDARD",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "548914",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO GUIPUZCOANO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "548915",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCA MARCH, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "548918",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO PASTOR, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "548925",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SISTEMA 4B, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "548928",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DE VALENCIA",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "548969",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO POPULAR ESPANOL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "548982",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SANTANDER CONSUMER FINANCE, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "549821",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SERVICIOS FINANCIEROS CARREFOUR, ESTABLECIMIENTO",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "549928",
+      "type": "CREDIT",
+      "issuer": "SERVICIOS FINANCIEROS CARREFOUR, ESTABLECIMIENTO",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "550546",
+      "issuer": "CAJA DE AHORROS DE CATALUNA (CAIXA DESTALVIS DE)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "550584",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "552091",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANKINTER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "552145",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "552151",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "552152",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "552189",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "552210",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "552540",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO ESPANOL DE CREDITO (BANESTO)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "552541",
+      "category": "CORPORATE",
+      "issuer": "BANCO ESPANOL DE CREDITO (BANESTO)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "552546",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO SABADELL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "552548",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "552698",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO ESPANOL DE CREDITO (BANESTO)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "552699",
+      "category": "STANDARD",
+      "issuer": "BANCO ESPANOL DE CREDITO (BANESTO)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "552700",
+      "issuer": "BANCO ESPANOL DE CREDITO (BANESTO)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "552701",
+      "issuer": "BANCO ESPANOL DE CREDITO (BANESTO)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "552763",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "RBC DEXIA INVESTOR SERVICES ESPANA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "552795",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "552859",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO ESPANOL DE CREDITO (BANESTO)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "552894",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANKIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "552897",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "552899",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "552931",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "552998",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "553001",
+      "category": "BUSINESS",
+      "issuer": "BANCO SANTANDER CENTRAL HISPANO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "553002",
+      "category": "BUSINESS",
+      "issuer": "BANCO SANTANDER CENTRAL HISPANO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "553108",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CAJA DE AHORROS Y PENSIONES DE BARCELONA(LA CAIXA)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "553110",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SERVIRED, SOCIEDAD ESPANOLA DE MEDIOS DE PAGO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "553153",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CAJA DE AHORROS Y PENSIONES DE BARCELONA(LA CAIXA)",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "553401",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "553416",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "553476",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "RBC DEXIA INVESTOR SERVICES ESPANA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "553514",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "553912",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "553921",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "553927",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "553997",
+      "type": "CREDIT",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554000",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554001",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554002",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554003",
+      "category": "GOLD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554004",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554005",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554006",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554007",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554008",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554009",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554010",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554011",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554012",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554013",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554014",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554015",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554016",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554017",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554019",
+      "type": "CREDIT",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554020",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554021",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554022",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554023",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554024",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554025",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554026",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554027",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554028",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554029",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554030",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554031",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554032",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554033",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554034",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554035",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554036",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554037",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554038",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554039",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554040",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554041",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554042",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554043",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554044",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554045",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554047",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554048",
+      "type": "CREDIT",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554050",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554051",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANKIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554052",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554053",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554054",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554055",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554056",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554057",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554058",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554059",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554060",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554061",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554062",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554063",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554064",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554065",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554066",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554067",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554068",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554069",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554070",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554071",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554072",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554073",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554074",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554075",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554076",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554077",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554078",
+      "type": "CREDIT",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554079",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554080",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554081",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554082",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554083",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554084",
+      "category": "GOLD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554085",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554086",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554087",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554088",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554089",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554090",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554091",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554092",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554093",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554094",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554095",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554096",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554097",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554098",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554099",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554100",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554102",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554103",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554104",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554105",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554106",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554107",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554115",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554116",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554117",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554119",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554120",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554121",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554122",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554124",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554125",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554126",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554127",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554128",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554129",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554130",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554131",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554132",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554133",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554134",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554137",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554138",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554139",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554140",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554141",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554142",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554143",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554144",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554145",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554147",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554150",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554151",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554152",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554154",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554160",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554161",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554162",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554165",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554166",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554167",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554168",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554169",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554171",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554177",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554178",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554179",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554181",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554182",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554183",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554184",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554188",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554189",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554194",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554195",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554202",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554212",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554215",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554216",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554217",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554218",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554219",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554220",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554221",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554222",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554223",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554226",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554227",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554228",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554229",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554230",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554231",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554232",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554233",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554234",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554236",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554237",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554238",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554240",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554241",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554243",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554245",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554248",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554249",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554250",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554252",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554253",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554254",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554260",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554266",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554280",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554283",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554284",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554288",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554338",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554352",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554353",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554358",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554359",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554361",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554366",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554368",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554369",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554380",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554381",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554390",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554401",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554402",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554406",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554407",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554410",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554411",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554412",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554415",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554421",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554423",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554424",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554425",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554434",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554452",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554465",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554466",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554467",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554469",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554472",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554474",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554475",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554476",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554478",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554479",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554480",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554493",
+      "issuer": "ARGENTARIA SERVICIOS FINANCIEROS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554494",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554495",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554496",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554498",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554520",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554526",
+      "issuer": "BANCO ATLANTICO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554529",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554530",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554531",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554532",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554537",
+      "issuer": "BANCOVAL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554542",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554543",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554551",
+      "type": "CREDIT",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554557",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554561",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554568",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554572",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554583",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554588",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554591",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554592",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554614",
+      "type": "CREDIT",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554618",
+      "type": "CREDIT",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554624",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554626",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554627",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554630",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554638",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554640",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554653",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554656",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554657",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554659",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554660",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554662",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554665",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554669",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554671",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554672",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554673",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554676",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554677",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554678",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554679",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554683",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554685",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554687",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554688",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554689",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554692",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554696",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554697",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554700",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554701",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554702",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554705",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554708",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554709",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554711",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554716",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554717",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554718",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554719",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554720",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554721",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554730",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554731",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554737",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554739",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554742",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554743",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554744",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554745",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554746",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554747",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554748",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554763",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554768",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554779",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554784",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554788",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554789",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554801",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554802",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554803",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554804",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554805",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554806",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554808",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554809",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554810",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554811",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554813",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554814",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554815",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554816",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554818",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554819",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554820",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554822",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554823",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554824",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554825",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554829",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554846",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554855",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554862",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554865",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554869",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554870",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554875",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554876",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554877",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554878",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554884",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554885",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554886",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554887",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554888",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554890",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554892",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554893",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "554894",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "556021",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "556626",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "LUFTHANSA AIRPLUS SERVICEKARTEN GMBH",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "556671",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO SABADELL, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "556672",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "556682",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO COOPERATIVO ESPANOL",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "556978",
+      "type": "CREDIT",
+      "category": "CORPORATE FLEET CARD",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "557644",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558276",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558384",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558435",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558436",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558439",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558442",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558454",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SERVICIOS FINANCIEROS CARREFOUR, ESTABLECIMIENTO",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558540",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558541",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558543",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558544",
+      "category": "BUSINESS",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558546",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558547",
+      "category": "BUSINESS",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558548",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558550",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558551",
+      "category": "BUSINESS",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558552",
+      "category": "BUSINESS",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558553",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558554",
+      "category": "BUSINESS",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558555",
+      "category": "BUSINESS",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558556",
+      "category": "STANDARD",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558560",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558566",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558570",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558571",
+      "issuer": "EUROPAY 6000",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558573",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558584",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558585",
+      "category": "BUSINESS",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558586",
+      "category": "BUSINESS",
+      "issuer": "MASTERCAJAS, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558755",
+      "issuer": "BANCO SANTANDER CENTRAL HISPANO, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558756",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
+    },
+    {
+      "bin": "558781",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO SANTANDER, S.A.",
+      "countries": [
+        "ES"
+      ]
     }
   ]
 }

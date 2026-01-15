@@ -1,0 +1,143 @@
+{
+  "bins": [
+    {
+      "bin": "425700",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "issuer": "NOUVOBANQ - SEYCHELLES INTERNATIONAL MERCANTILE BANKING CORP.",
+      "countries": [
+        "SC"
+      ]
+    },
+    {
+      "bin": "426351",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NOUVOBANQ - SEYCHELLES INTERNATIONAL MERCANTILE BANKING CORP.",
+      "countries": [
+        "SC"
+      ]
+    },
+    {
+      "bin": "426352",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NOUVOBANQ - SEYCHELLES INTERNATIONAL MERCANTILE BANKING CORP.",
+      "countries": [
+        "SC"
+      ]
+    },
+    {
+      "bin": "432411",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SEYCHELLES SAVINGS BANK, LTD.",
+      "countries": [
+        "SC"
+      ]
+    },
+    {
+      "bin": "433468",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BARCLAYS BANK (SEYCHELLES), LTD.",
+      "countries": [
+        "SC"
+      ]
+    },
+    {
+      "bin": "440270",
+      "issuer": "BARCLAYS BANK (SEYCHELLES), LTD.",
+      "countries": [
+        "SC"
+      ]
+    },
+    {
+      "bin": "457403",
+      "countries": [
+        "SC"
+      ]
+    },
+    {
+      "bin": "457404",
+      "countries": [
+        "SC"
+      ]
+    },
+    {
+      "bin": "457900",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "countries": [
+        "SC"
+      ]
+    },
+    {
+      "bin": "458828",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "SC"
+      ]
+    },
+    {
+      "bin": "476124",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SC"
+      ]
+    },
+    {
+      "bin": "476125",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "SC"
+      ]
+    },
+    {
+      "bin": "479706",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MCB INTERNATIONAL SERVICES, LTD.",
+      "countries": [
+        "SC"
+      ]
+    },
+    {
+      "bin": "479714",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MCB INTERNATIONAL SERVICES, LTD.",
+      "countries": [
+        "SC"
+      ]
+    },
+    {
+      "bin": "484788",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BMI OFFSHORE BANK LTD",
+      "countries": [
+        "SC"
+      ]
+    },
+    {
+      "bin": "484789",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BMI OFFSHORE BANK LTD",
+      "countries": [
+        "SC"
+      ]
+    },
+    {
+      "bin": "498816",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "SC"
+      ]
+    }
+  ]
+}

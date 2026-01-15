@@ -1,0 +1,1049 @@
+{
+  "bins": [
+    {
+      "bin": "400825",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "COMMERCIAL BANK OF QATAR (Q.S.C.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "400826",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "COMMERCIAL BANK OF QATAR (Q.S.C.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "405487",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "405750",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "406626",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "408388",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "COMMERCIAL BANK OF QATAR (Q.S.C.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "408597",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "INTERNATIONAL BANK OF QATAR (Q.S.C.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "410680",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "QATAR INTERNATIONAL ISLAMIC BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "410681",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "QATAR INTERNATIONAL ISLAMIC BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "410735",
+      "issuer": "QATAR INTERNATIONAL ISLAMIC BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "410805",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "411981",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "QATAR INTERNATIONAL ISLAMIC BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "412256",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "412585",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "414082",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "QATAR ISLAMIC BANK (S.A.Q.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "414393",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "QATAR ISLAMIC BANK (S.A.Q.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "415161",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AL KHALIJ COMMERCIAL BANK (Q.S.C.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "415163",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AL KHALIJ COMMERCIAL BANK (Q.S.C.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "415164",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "415180",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AL KHALIJ COMMERCIAL BANK (Q.S.C.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "416638",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "416639",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "416966",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "417285",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MASHREQBANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "417286",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "MASHREQBANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "417485",
+      "issuer": "COMMERCIAL BANK OF QATAR LTD. (Q.S.C.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "418346",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "418347",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "418349",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "420372",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BARWA BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "420373",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BARWA BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "420374",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BARWA BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "420375",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BARWA BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "421537",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "MASHREQBANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "422598",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MASHREQBANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "423304",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "423305",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "424900",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMMERCIAL BANK OF QATAR (Q.S.C.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "425869",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "425886",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "INTERNATIONAL BANK OF QATAR (Q.S.C.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "426822",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "QATAR INTERNATIONAL ISLAMIC BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "426823",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "QATAR INTERNATIONAL ISLAMIC BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "426824",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "428131",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "428132",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "428133",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "428245",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "428246",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DOHA BANK, LTD.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "428681",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "428682",
+      "type": "DEBIT",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "428683",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "428684",
+      "type": "DEBIT",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "428685",
+      "type": "DEBIT",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "428686",
+      "type": "DEBIT",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "429079",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "429786",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "430198",
+      "issuer": "COMMERCIAL BANK OF QATAR LTD. (Q.S.C.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "430599",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "431360",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "COMMERCIAL BANK OF QATAR (Q.S.C.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "431484",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITICORP",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "432062",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "432229",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "UNITED BANK, LTD.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "432438",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "COMMERCIAL BANK OF QATAR (Q.S.C.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "432582",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "432583",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "433033",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AHLI BANK Q.S.C.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "433034",
+      "issuer": "AHLI BANK Q.S.C.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "433104",
+      "issuer": "QATAR ISLAMIC BANK (S.A.Q.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "433370",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "433371",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "434138",
+      "issuer": "DOHA BANK, LTD.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "434141",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DOHA BANK, LTD.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "434204",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "COMMERCIAL BANK OF QATAR (Q.S.C.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "442421",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "442422",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "447526",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "448382",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "QATAR ISLAMIC BANK (S.A.Q.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "449387",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AHLI BANK Q.S.C.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "449388",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AHLI BANK Q.S.C.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "452338",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "452339",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "453927",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "453928",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "455000",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMMERCIAL BANK OF QATAR (Q.S.C.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "455391",
+      "issuer": "HSBC BANK MIDDLE EAST",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "456525",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "QATAR ISLAMIC BANK (S.A.Q.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "456526",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "QATAR ISLAMIC BANK (S.A.Q.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "457658",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "457659",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "458506",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "458592",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "462035",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "464400",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DOHA BANK, LTD.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "464421",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DOHA BANK, LTD.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "464422",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DOHA BANK, LTD.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "464423",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DOHA BANK, LTD.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "464470",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DOHA BANK, LTD.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "464471",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "DOHA BANK, LTD.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "465202",
+      "issuer": "DOHA BANK, LTD.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "467895",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "471354",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "471369",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "472481",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DOHA BANK, LTD.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "472839",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "DOHA BANK, LTD.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "474720",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "474736",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ARAB BANK PLC",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "476851",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "476852",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "476853",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "476854",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "477779",
+      "issuer": "MASRAF AL RAYAN",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "478745",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MASHREQBANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "478746",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "MASHREQBANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "484823",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "489019",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "489329",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "489330",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "QATAR ISLAMIC BANK (S.A.Q.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "490981",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "QATAR NATIONAL BANK, S. A. Q.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "491807",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "MASHREQBANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "491809",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMMERCIAL BANK OF QATAR (Q.S.C.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "491810",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "COMMERCIAL BANK OF QATAR (Q.S.C.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "493816",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "QATAR NATIONAL BANK, S. A. Q.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "493818",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "QATAR NATIONAL BANK, S. A. Q.",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "494047",
+      "issuer": "COMMERCIAL BANK OF QATAR LIMITED (Q.S.C.)",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "494373",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "MASHREQBANK",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "498622",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "QA"
+      ]
+    },
+    {
+      "bin": "498884",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "COMMERCIAL BANK OF QATAR (Q.S.C.)",
+      "countries": [
+        "QA"
+      ]
+    }
+  ]
+}

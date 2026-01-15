@@ -1,0 +1,835 @@
+{
+  "bins": [
+    {
+      "bin": "374622",
+      "type": "CREDIT",
+      "category": "OPTIMA",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374900",
+      "type": "CREDIT",
+      "issuer": "SOCI",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374901",
+      "type": "CREDIT",
+      "issuer": "CR",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374902",
+      "type": "CREDIT",
+      "issuer": "BANQUE POPULAIRE",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374903",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374904",
+      "type": "CREDIT",
+      "issuer": "SOCREDO BANK - POLYN",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374905",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374906",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374907",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374908",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374909",
+      "type": "CREDIT",
+      "issuer": "CREDIT LYONNAIS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374910",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374911",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374912",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374913",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374914",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374915",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374916",
+      "type": "CREDIT",
+      "issuer": "CREDIT LYONNAIS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374917",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374918",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374919",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374920",
+      "type": "CREDIT",
+      "issuer": "SOCIETE G",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374921",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374922",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374923",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374924",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374925",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374926",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374927",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374928",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374929",
+      "type": "CREDIT",
+      "issuer": "BANQUE TRANSATLANTIQUE",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374930",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374931",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374932",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374933",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374934",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374935",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374936",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374937",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374938",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374939",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374940",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374941",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374942",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374943",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374944",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374945",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374946",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374947",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374948",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374949",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374950",
+      "type": "CREDIT",
+      "issuer": "AIR FRANCE",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374951",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374952",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374953",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374954",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374955",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374956",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374957",
+      "type": "CREDIT",
+      "issuer": "CREDIT AGRICOLE",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374958",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374959",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374960",
+      "type": "CREDIT",
+      "issuer": "BANQUE TRANSATLANTIQUE",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374961",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374962",
+      "type": "CREDIT",
+      "issuer": "HSBC",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374963",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374964",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374965",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374966",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374967",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374968",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374969",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374970",
+      "type": "CHARGE CARD",
+      "category": "GOLD",
+      "issuer": "BNP PARIBAS - AIR FRANCE",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374971",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374972",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374973",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374974",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374975",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374976",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374977",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374978",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374979",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374980",
+      "type": "CREDIT",
+      "category": "CENTURION",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374981",
+      "type": "CREDIT",
+      "issuer": "CREDIT INDUSTRIEL DALSACE ET DE LORRAINE",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374982",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374983",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374984",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374985",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374986",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374987",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374988",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374989",
+      "type": "CHARGE CARD",
+      "issuer": "AMERICAN EXPRESS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374990",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "RECETTE GENERALE DES FINA",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374991",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BNP PARIBAS",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374992",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "RECETTE GENERALE DES FINA",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374993",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "RECETTE GENERALE DES FINA",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374994",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "RECETTE GENERALE DES FINA",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374995",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANQUE POPULAIRE",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374996",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANQUE UNION DE CREDIT",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374997",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "RECETTE GENERALE DES FINA",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374998",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "RECETTE GENERALE DES FINA",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "374999",
+      "type": "CHARGE CARD",
+      "issuer": "RECETTE GENERALE DES FINA",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "bin": "375539",
+      "type": "CREDIT",
+      "countries": [
+        "FR"
+      ]
+    }
+  ]
+}

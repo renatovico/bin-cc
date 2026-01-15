@@ -1,0 +1,634 @@
+{
+  "bins": [
+    {
+      "bin": "516334",
+      "type": "DEBIT",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "516353",
+      "type": "DEBIT",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "516457",
+      "type": "DEBIT",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "516678",
+      "type": "DEBIT",
+      "issuer": "KUWAIT FINANCE HOUSE K.S.C.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "517735",
+      "type": "CREDIT",
+      "issuer": "AHLI UNITED BANK",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "517957",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "KUWAIT FINANCE HOUSE K.S.C.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "518521",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BURGAN BANK, S.A.K.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "518549",
+      "type": "CREDIT",
+      "issuer": "BURGAN BANK, S.A.K.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "519130",
+      "type": "CREDIT",
+      "issuer": "NATIONAL BANK OF KUWAIT, S.A.K.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "519859",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "521099",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CSCBANK S.A.L.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "521175",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "COMMERCIAL BANK OF KUWAIT, S.A.K.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "521371",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "COMMERCIAL BANK OF KUWAIT, S.A.K.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "522864",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "GULF BANK K.S.C.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "522869",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "ALAHLI BANK OF KUWAIT (K.S.C.)",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "522888",
+      "issuer": "NATIONAL BANK OF KUWAIT, S.A.K.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "524114",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ALAHLI BANK OF KUWAIT (K.S.C.)",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "524158",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "GULF BANK K.S.C.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "524190",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BURGAN BANK, S.A.K.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "524221",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "526450",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "KUWAIT FINANCE HOUSE K.S.C.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "527525",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BURGAN BANK, S.A.K.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "527526",
+      "issuer": "BURGAN BANK, S.A.K.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "528006",
+      "issuer": "BANK OF KUWAIT AND THE MIDDLE EAST, KSC",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "528540",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "528803",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "529567",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "ALAHLI BANK OF KUWAIT (K.S.C.)",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "530348",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AHLI UNITED BANK",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "530501",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "530502",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AHLI UNITED BANK",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "531483",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "531611",
+      "type": "CREDIT",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "531726",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "GULF BANK K.S.C.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "532335",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "532337",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "532339",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "532341",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "532422",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "532493",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "532672",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "COMMERCIAL BANK OF KUWAIT, S.A.K.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "532674",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "AHLI UNITED BANK",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "532675",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "GULF BANK K.S.C.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "532749",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "533746",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "533757",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "535966",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "GULF BANK K.S.C.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "537016",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "AHLI UNITED BANK",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "540261",
+      "type": "CREDIT",
+      "issuer": "GULF BANK K.S.C.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "540281",
+      "type": "CREDIT",
+      "issuer": "AHLI UNITED BANK",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "540759",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BURGAN BANK, S.A.K.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "541107",
+      "issuer": "GULF BANK K.S.C.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "541312",
+      "issuer": "NATIONAL BANK OF KUWAIT, S.A.K.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "541313",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NATIONAL BANK OF KUWAIT, S.A.K.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "541318",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "NATIONAL BANK OF KUWAIT, S.A.K.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "541855",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "COMMERCIAL BANK OF KUWAIT, S.A.K.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "542857",
+      "issuer": "GULF BANK K.S.C.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "542859",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "GULF BANK K.S.C.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "544239",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "KUWAIT FINANCE HOUSE K.S.C.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "544240",
+      "issuer": "KUWAIT FINANCE HOUSE K.S.C.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "544290",
+      "type": "CREDIT",
+      "issuer": "COMMERCIAL BANK OF KUWAIT, S.A.K.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "544621",
+      "type": "CREDIT",
+      "issuer": "ALAHLI BANK OF KUWAIT (K.S.C.)",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "544622",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ALAHLI BANK OF KUWAIT (K.S.C.)",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "544623",
+      "issuer": "ALAHLI BANK OF KUWAIT (K.S.C.)",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "544675",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "GULF BANK K.S.C.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "545408",
+      "type": "CREDIT",
+      "issuer": "KUWAIT FINANCE HOUSE K.S.C.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "545424",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "GULF BANK K.S.C.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "547045",
+      "type": "CREDIT",
+      "issuer": "AHLI UNITED BANK",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "548183",
+      "type": "CREDIT",
+      "issuer": "COMMERCIAL BANK OF KUWAIT, S.A.K.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "548184",
+      "issuer": "COMMERCIAL BANK OF KUWAIT, S.A.K.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "548277",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "COMMERCIAL BANK OF KUWAIT, S.A.K.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "552007",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "552050",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NATIONAL BANK OF KUWAIT, S.A.K.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "552078",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "GULF BANK K.S.C.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "552272",
+      "category": "PLATINUM",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "552277",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "NATIONAL BANK OF KUWAIT, S.A.K.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "552299",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "556638",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "ALAHLI BANK OF KUWAIT (K.S.C.)",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "558883",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NATIONAL BANK OF KUWAIT, S.A.K.",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "559307",
+      "countries": [
+        "KW"
+      ]
+    },
+    {
+      "bin": "559459",
+      "countries": [
+        "KW"
+      ]
+    }
+  ]
+}

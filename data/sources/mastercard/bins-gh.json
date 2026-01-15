@@ -1,0 +1,68 @@
+{
+  "bins": [
+    {
+      "bin": "528481",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "GHANA COMMERCIAL BANK, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "533826",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "GHANA COMMERCIAL BANK, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "542584",
+      "issuer": "BARCLAYS BANK OF GHANA, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "542587",
+      "issuer": "BARCLAYS BANK OF GHANA, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "545441",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "549240",
+      "type": "CREDIT",
+      "issuer": "GHANA COMMERCIAL BANK, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "557658",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "GHANA COMMERCIAL BANK, LTD.",
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "bin": "557663",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "GHANA COMMERCIAL BANK, LTD.",
+      "countries": [
+        "GH"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "bins": [
+    {
+      "bin": "403315",
+      "issuer": "CITIBANK KOREA, INC.",
+      "countries": [
+        "KP"
+      ]
+    },
+    {
+      "bin": "403373",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KP"
+      ]
+    },
+    {
+      "bin": "403374",
+      "issuer": "SHINHAN CARD CO., LTD.",
+      "countries": [
+        "KP"
+      ]
+    },
+    {
+      "bin": "405237",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "LG CARD CO., LTD.",
+      "countries": [
+        "KP"
+      ]
+    },
+    {
+      "bin": "407386",
+      "issuer": "KOOKMIN BANK SOUTH",
+      "countries": [
+        "KP"
+      ]
+    }
+  ]
+}

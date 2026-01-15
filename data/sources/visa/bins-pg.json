@@ -1,0 +1,88 @@
+{
+  "bins": [
+    {
+      "bin": "429348",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "PG"
+      ]
+    },
+    {
+      "bin": "431493",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "PG"
+      ]
+    },
+    {
+      "bin": "436757",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "PG"
+      ]
+    },
+    {
+      "bin": "436758",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "PG"
+      ]
+    },
+    {
+      "bin": "463716",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP, LTD.",
+      "countries": [
+        "PG"
+      ]
+    },
+    {
+      "bin": "464037",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "PG"
+      ]
+    },
+    {
+      "bin": "488973",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PG"
+      ]
+    },
+    {
+      "bin": "488974",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "PG"
+      ]
+    },
+    {
+      "bin": "488975",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "PG"
+      ]
+    },
+    {
+      "bin": "489678",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "PG"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1799 @@
+{
+  "bins": [
+    {
+      "bin": "510195",
+      "type": "CREDIT",
+      "issuer": "BANK SIMPANAN NASIONAL",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "510450",
+      "issuer": "CIMB BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "511876",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "AFFIN BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "512001",
+      "type": "CREDIT",
+      "issuer": "SYNERGY CARDS SDN. BHD.",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "512089",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "HSBC BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "512091",
+      "type": "CREDIT",
+      "issuer": "OCBC BANK (MALAYSIA) BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "512113",
+      "issuer": "HSBC BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "512114",
+      "issuer": "HSBC BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "512116",
+      "issuer": "HSBC BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "512118",
+      "issuer": "HSBC BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "512432",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK ISLAM MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "512481",
+      "type": "CREDIT",
+      "issuer": "BANK ISLAM MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "512820",
+      "type": "CREDIT",
+      "issuer": "CIMB BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "513041",
+      "issuer": "HSBC BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "513229",
+      "issuer": "HSBC BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "514024",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK SIMPANAN NASIONAL",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "514882",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "RHB BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "514896",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HONG LEONG BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "515584",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "ALLIANCE BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "515697",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CIMB BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "515703",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ALLIANCE BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "515704",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HONG LEONG BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "515707",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AMBANK (M) BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "515714",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "RHB BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "515734",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HONG LEONG BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "515983",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "516056",
+      "type": "CREDIT",
+      "issuer": "CITIBANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "517801",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AFFIN BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "517811",
+      "type": "CREDIT",
+      "issuer": "AFFIN BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "518098",
+      "type": "CREDIT",
+      "issuer": "CITIBANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "518123",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK SIMPANAN NASIONAL",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "518134",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SYNERGY CARDS SDN. BHD.",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "518303",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CIMB BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "518332",
+      "type": "CREDIT",
+      "issuer": "HSBC BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "518398",
+      "issuer": "ISYNERGY SDN. BHD.",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "518921",
+      "type": "CREDIT",
+      "issuer": "CIMB BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "519440",
+      "type": "CREDIT",
+      "issuer": "AMBANK (M) BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "519468",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "ALLIANCE BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "519469",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "UNITED OVERSEAS BANK (MALAYSIA) BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "519471",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ALLIANCE BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "519603",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "CIMB BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "520000",
+      "type": "CREDIT",
+      "issuer": "PUBLIC BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "520095",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "ALLIANCE BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "520170",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK ISLAM MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "520396",
+      "type": "CREDIT",
+      "issuer": "BANK ISLAM MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "521059",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "521308",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HONG LEONG BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "521393",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AFFIN BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "521395",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CIMB BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "521887",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "OCBC BANK (MALAYSIA) BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "522102",
+      "type": "CREDIT",
+      "issuer": "BANK ISLAM MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "522222",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UNITED OVERSEAS BANK (MALAYSIA) BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "522242",
+      "type": "CREDIT",
+      "issuer": "BANK KERJASAMA RAKYAT MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "522810",
+      "type": "CREDIT",
+      "issuer": "PUBLIC BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "522856",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "BANK ISLAM MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "523935",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "523938",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PUBLIC BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "523939",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK ISLAM MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "523945",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MALAYAN BANKING BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "523999",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "524147",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "OCBC BANK (MALAYSIA) BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "524312",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "525464",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "525629",
+      "type": "CREDIT",
+      "issuer": "AEON CREDIT SERVICE (M) BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "525651",
+      "type": "CREDIT",
+      "issuer": "CITIBANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "526478",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "MALAYAN BANKING BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "526746",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "HONG LEONG BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "526748",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "AMBANK (M) BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "526851",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CITIBANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "526852",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "526899",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "CITIBANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "527423",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ALLIANCE BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "527444",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HONG LEONG BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "528199",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "528925",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "MBF CARDS (M'SIA) SDN BHD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "528932",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "HONG LEONG BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "528943",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AMBANK (M) BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "528958",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ALLIANCE BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "529979",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "MBF CARDS (M'SIA) SDN BHD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "529980",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BANK ISLAM MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "529981",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "HONG LEONG BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "531142",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "RHB BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "531155",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "MALAYAN BANKING BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "531335",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ALLIANCE BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "532669",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "OCBC BANK (MALAYSIA) BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "532678",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "ALLIANCE BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "532706",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "ALLIANCE BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "533907",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITIBANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "534139",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK KERJASAMA RAKYAT MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "535957",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "HONG LEONG BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "538846",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "ALLIANCE BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "539974",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "HONG LEONG BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "539981",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "STANDARD CHARTERED BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "540007",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CIMB BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "540041",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "540067",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MALAYAN BANKING BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "540068",
+      "type": "CREDIT",
+      "issuer": "MALAYAN BANKING BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "540069",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "RHB BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "540119",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "RHB BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "540162",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "OCBC BANK (MALAYSIA) BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "540217",
+      "issuer": "BUMIPUTRA-COMMERCE BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "540256",
+      "type": "CREDIT",
+      "issuer": "CITIBANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "540478",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STANDARD CHARTERED BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "540558",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "MALAYAN BANKING BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "540796",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UNITED OVERSEAS BANK (MALAYSIA) BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "541200",
+      "issuer": "HSBC BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "541209",
+      "issuer": "HSBC BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "541210",
+      "issuer": "HSBC BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "541212",
+      "issuer": "HSBC BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "541218",
+      "issuer": "HSBC BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "541225",
+      "issuer": "HSBC BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "541228",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AMBANK (M) BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "541234",
+      "issuer": "HSBC BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "541237",
+      "issuer": "HSBC BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "541252",
+      "issuer": "HSBC BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "541267",
+      "issuer": "HSBC BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "541275",
+      "issuer": "HSBC BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "541288",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "541415",
+      "type": "CREDIT",
+      "issuer": "BANK ISLAM MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "541516",
+      "issuer": "ST. KITTS-NEVIS-ANGUILLA NATIONAL BANK",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "541726",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CIMB BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "541798",
+      "issuer": "MBF CARDS (M'SIA) SDN BHD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "541901",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HSBC BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "541912",
+      "type": "CREDIT",
+      "issuer": "MBF CARDS (M'SIA) SDN BHD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "541971",
+      "type": "CREDIT",
+      "issuer": "CIMB BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "542024",
+      "issuer": "PACIFIC BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "542124",
+      "type": "CREDIT",
+      "issuer": "MALAYAN BANKING BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "542261",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK ISLAM MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "542444",
+      "type": "CREDIT",
+      "issuer": "STANDARD CHARTERED BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "542634",
+      "type": "CREDIT",
+      "issuer": "PUBLIC BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "543047",
+      "type": "CREDIT",
+      "issuer": "HONG LEONG BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "543063",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HONG LEONG BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "543293",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "HSBC BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "543311",
+      "type": "CREDIT",
+      "issuer": "CITIBANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "543623",
+      "type": "CREDIT",
+      "issuer": "UNITED OVERSEAS BANK (MALAYSIA) BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "543679",
+      "type": "CREDIT",
+      "issuer": "BANK KERJASAMA RAKYAT MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "543760",
+      "issuer": "PUBLIC BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "543894",
+      "type": "CREDIT",
+      "issuer": "HONG LEONG BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "543931",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HONG LEONG BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "544001",
+      "issuer": "MBF CARD SERVICES SDN BHD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "544024",
+      "issuer": "CITIBANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "544030",
+      "issuer": "MBF CARD SERVICES SDN BHD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "544031",
+      "issuer": "MBF CARD SERVICES SDN BHD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "544046",
+      "issuer": "MBF CARD SERVICES SDN BHD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "544049",
+      "issuer": "MBF CARD SERVICES SDN BHD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "544061",
+      "issuer": "MBF CARD SERVICES SDN BHD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "544063",
+      "issuer": "MBF CARD SERVICES SDN BHD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "544064",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MBF CARDS (M'SIA) SDN BHD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "544071",
+      "issuer": "MBF CARD SERVICES SDN BHD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "544085",
+      "issuer": "MBF CARD SERVICES SDN BHD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "544933",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "MALAYAN BANKING BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "545233",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "MBF CARDS (M'SIA) SDN BHD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "545519",
+      "type": "CREDIT",
+      "issuer": "AMBANK (M) BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "545785",
+      "type": "CREDIT",
+      "issuer": "BANK SIMPANAN NASIONAL",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "545786",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK SIMPANAN NASIONAL",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "546015",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "546074",
+      "type": "CREDIT",
+      "issuer": "UNITED OVERSEAS BANK (MALAYSIA) BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "546321",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANK SIMPANAN NASIONAL",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "546594",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ALLIANCE BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "546595",
+      "type": "CREDIT",
+      "issuer": "ALLIANCE BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "546597",
+      "type": "CREDIT",
+      "issuer": "BANK KERJASAMA RAKYAT MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "546745",
+      "issuer": "SYNERGY CARD AND PAYMENT SERVICES SENDIRIAN BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "546748",
+      "issuer": "SYNERGY CARD AND PAYMENT SERVICES SENDIRIAN BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "546749",
+      "issuer": "SYNERGY CARD AND PAYMENT SERVICES SENDIRIAN BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "546769",
+      "issuer": "ISYNERGY SDN. BHD.",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "546771",
+      "issuer": "ISYNERGY SDN. BHD.",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "547071",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AEON CREDIT SERVICE (M) BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "547231",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "547560",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "547726",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HONG LEONG BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "547894",
+      "issuer": "SYNERGY CARD AND PAYMENT SERVICES SENDIRIAN BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "547895",
+      "issuer": "SYNERGY CARD AND PAYMENT SERVICES SENDIRIAN BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "548114",
+      "type": "CREDIT",
+      "issuer": "RHB BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "548618",
+      "issuer": "SIME BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "548619",
+      "issuer": "SIME BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "548637",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UNITED OVERSEAS BANK (MALAYSIA) BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "548787",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HONG LEONG BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "549186",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "MALAYAN BANKING BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "549781",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "AFFIN BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "549782",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "RHB BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "549785",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "AMBANK (M) BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "549795",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "549796",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANK KERJASAMA RAKYAT MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "549797",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "549798",
+      "type": "DEBIT",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "549844",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "550426",
+      "issuer": "MBF CARD SERVICES SDN BHD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "550441",
+      "issuer": "SOUTHERN BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "552013",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CIMB BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "552040",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "552086",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UNITED OVERSEAS BANK (MALAYSIA) BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "552115",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CIMB BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "552228",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "552302",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "STANDARD CHARTERED BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "552333",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "CIMB BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "552334",
+      "issuer": "STANDARD CHARTERED",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "552354",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "STANDARD CHARTERED BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "552357",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "MALAYAN BANKING BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "552409",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "552793",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "STANDARD CHARTERED BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "552917",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "UNITED OVERSEAS BANK (MALAYSIA) BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "552925",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "CITIBANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "553154",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "STANDARD CHARTERED BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "553382",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CITIBANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "553517",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "554408",
+      "issuer": "SOUTHERN BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "554617",
+      "issuer": "OVERSEAS UNION BANK (MALAYSIA) BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "554636",
+      "issuer": "OVERSEAS UNION BANK (MALAYSIA) BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "554755",
+      "issuer": "RHB BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "555145",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "555215",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "557756",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "CIMB BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "557759",
+      "issuer": "ISYNERGY SDN. BHD.",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "557763",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "557899",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "OCBC BANK (MALAYSIA) BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "558704",
+      "issuer": "MULTI-PURPOSE BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "558734",
+      "issuer": "SOUTHERN BANK BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "558774",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "UNITED OVERSEAS BANK (MALAYSIA) BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "558829",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UNITED OVERSEAS BANK (MALAYSIA) BERHAD",
+      "countries": [
+        "MY"
+      ]
+    },
+    {
+      "bin": "558965",
+      "type": "CREDIT",
+      "category": "WORLD FOR BUSINESS",
+      "issuer": "STANDARD CHARTERED BANK MALAYSIA BERHAD",
+      "countries": [
+        "MY"
+      ]
+    }
+  ]
+}

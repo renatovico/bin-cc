@@ -1,0 +1,6360 @@
+{
+  "bins": [
+    {
+      "bin": "400188",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LUFTHANSA AIRPLUS SERVICEKARTEN GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "400272",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DRESDNER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "400280",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HANSEATIC BANK GMBH AND CO KG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "400281",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HANSEATIC BANK GMBH AND CO KG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "400553",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "400554",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "400558",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "400697",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "401000",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BAYERISCHE LANDESBANK GIROZENTRALE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "401001",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BAYERISCHE LANDESBANK GIROZENTRALE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "401002",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BAYERISCHE LANDESBANK GIROZENTRALE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "401003",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BAYERISCHE LANDESBANK GIROZENTRALE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "401786",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "401839",
+      "issuer": "WEBERBANK BERLINER INDUSTRIEBANK KGAA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "401849",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "COMMERZBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "401850",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "COMMERZBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "402006",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BAYERISCHE HYPO- UND VEREINSBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "402007",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "402037",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OLDENBURGISCHE LANDESBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "402038",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "OLDENBURGISCHE LANDESBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "402039",
+      "issuer": "ED PROJEKT-UND BETEILIGUNGS AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "402057",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "402058",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "402269",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FRANKFURTER VOLKSBANK EG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "402270",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FRANKFURTER VOLKSBANK EG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "402271",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "FRANKFURTER VOLKSBANK EG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "402685",
+      "issuer": "CONCARDIS GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "402688",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "403400",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BAYERISCHE LANDESBANK GIROZENTRALE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "403572",
+      "issuer": "LUFTHANSA AIRPLUS SERVICEKARTEN GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "403583",
+      "issuer": "BAYERISCHE VEREINSBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "403585",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNICREDIT BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "403586",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "VEREINS-UND WESTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "403587",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BMW BANK GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "403594",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "403632",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SANTANDER CONSUMER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "403649",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "403650",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "404163",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "LANDESBANK SAAR",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "404218",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "LANDESBANK SAAR",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "404546",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "404547",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "404929",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "405056",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "405057",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "MAINZER VOLKSBANK EG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "405757",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "405853",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "406020",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SUEDDEUTSCHE BANK GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "406417",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "407369",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "407370",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "407371",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "408087",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "WESTLB AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "408541",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK PRIVAT- UND GESCHAEFTSKUNDEN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "410403",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "412108",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMMERZBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "412435",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "LANDESBANK SAAR",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "412912",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ING-DIBA AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "412949",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "412998",
+      "issuer": "B+S CARD SERVICE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "413069",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BAYERISCHE LANDESBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "413439",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "413459",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "413585",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "COMMERZBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "413586",
+      "issuer": "DRESDNER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "413594",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DRESDNER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "413595",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "DRESDNER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "413702",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "HAMBURGER SPARKASSE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "414273",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "414299",
+      "issuer": "B+S CARD SERVICE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "414690",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BMW BANK GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "414696",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "414900",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "414901",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "414902",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "414903",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "414904",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "414905",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "414906",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "414907",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "414908",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "414909",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "414910",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "414911",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "414912",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "414913",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "414914",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "414915",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "414916",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "415258",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "COMMERZBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "415299",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "HANSEATIC BANK GMBH AND CO KG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "415413",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "415423",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "415472",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "415476",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DRESDNER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "415477",
+      "issuer": "DRESDNER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "415932",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CORTAL CONSORS",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "415974",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DEUTSCHE APOTHEKER- UND AERZTEBANK EG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "416090",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "416091",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "416092",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "416093",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "416666",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "416836",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK PRIVATKUNDEN AG AND CO KGAA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "417342",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "417639",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SANTANDER CONSUMER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "417640",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "417721",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "COMMERZBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "418818",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "419388",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BAYERISCHE LANDESBANK GIROZENTRALE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "419940",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "420034",
+      "type": "DEBIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "420035",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "420567",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VOLKSWAGEN BANK GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "421124",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK 1 SAAR EG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "421307",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "421624",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "421632",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK PRIVAT- UND GESCHAEFTSKUNDEN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "421663",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "422124",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMMERZBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "422173",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "422174",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "422175",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "422176",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "422219",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DEUTSCHE BANK PRIVAT- UND GESCHAEFTSKUNDEN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "422884",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "422885",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "423127",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK 1 SAAR EG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "423272",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "LANDESBANK SAAR",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "423886",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "424122",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "424200",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "LANDESBANK BADEN-WUERTTEMBERG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "424201",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "LANDESBANK BADEN-WUERTTEMBERG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "424381",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "424910",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NORDDEUTSCHE LANDESBANK GIROZENTRALE NORD LB",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "424911",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "LANDESBANK SAAR",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "424913",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "424914",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "424915",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "424916",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "424918",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "424919",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "425709",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "DRESDNER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "425716",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "BMW BANK GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "425718",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BAYERISCHE LANDESBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "425723",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "BAYERISCHE LANDESBANK GIROZENTRALE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "425748",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "CITIBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "425970",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "426039",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "426078",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SANTANDER CONSUMER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "426354",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "COMDIRECT BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427015",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427207",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MERCEDES-BENZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427208",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "MERCEDES-BENZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427309",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427316",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "LANDESBANK BADEN-WUERTTEMBERG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427330",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427332",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427333",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427334",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427340",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427349",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "STADTSPARKASSE MUENCHEN",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427360",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427370",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NORDDEUTSCHE LANDESBANK GIROZENTRALE NORD LB",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427381",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427382",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427383",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427384",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427385",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427386",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427387",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427390",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427391",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427392",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427393",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427395",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427718",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHE BANK PRIVAT- UND GESCHAEFTSKUNDEN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427719",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427741",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "DEGUSSA BANK GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "427742",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "COMMERZBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "428108",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "428209",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "428235",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "428236",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "428242",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "428243",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "428244",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "428258",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "428259",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "428279",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "428280",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "428294",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "428295",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "428297",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "428298",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "428299",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "428972",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LANDESBANK BADEN-WUERTTEMBERG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "429072",
+      "issuer": "B+S CARD SERVICE GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "429550",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "LANDESBANK SAAR",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "429590",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "429703",
+      "issuer": "DRESDNER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "429704",
+      "issuer": "DRESDNER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "429705",
+      "issuer": "DRESDNER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "429706",
+      "issuer": "DRESDNER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "430279",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "430514",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "430570",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "430571",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "430770",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LANDESBANK BADEN-WUERTTEMBERG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "430771",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "LANDESBANK BADEN-WUERTTEMBERG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "431216",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "431387",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK 1 SAAR EG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "431850",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VON ESSEN KG BANKGESELLSCHAFT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "432110",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VON ESSEN KG BANKGESELLSCHAFT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "432111",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VON ESSEN KG BANKGESELLSCHAFT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "432112",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VON ESSEN KG BANKGESELLSCHAFT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "433688",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DRESDNER-CETELEM KREDITBANK GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "434403",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "434410",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "434411",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "434414",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "434415",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "434420",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "434436",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "434450",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "434451",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "434453",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "434454",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "434455",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "434472",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "434473",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "434477",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "434488",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "434489",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "434490",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "434491",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "434492",
+      "type": "CREDIT",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "434496",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "434499",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "436338",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "LANDESBANK BERLIN AG - ADAC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "440620",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "440635",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK PRIVATKUNDEN AG AND CO KGAA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "440636",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK PRIVATKUNDEN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "440657",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VERBAND DER SPARDA BANKEN E.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "440768",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "NORDDEUTSCHE LANDESBANK GIROZENTRALE NORD LB",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "440774",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "440787",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "441070",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "WUESTENROT BANK AG PFANDBRIEBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "441071",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "WUESTENROT BANK AG PFANDBRIEBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "441072",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "WUESTENROT BANK AG PFANDBRIEBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "441233",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "441258",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "441259",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "441260",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "441261",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "441262",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "441263",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "441264",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "441266",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "441267",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "441286",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "441287",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "441288",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "441293",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "441298",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "445197",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "445198",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "445199",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "445989",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SANTANDER CONSUMER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "446135",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NORDDEUTSCHE LANDESBANK GIROZENTRALE NORD LB",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "446148",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DRESDNER-CETELEM KREDITBANK GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "447574",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "BERLINER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "447585",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "447586",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "447587",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "447588",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "447589",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "447590",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "447591",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "447592",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "447593",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "447594",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "447595",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "447596",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "447597",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "447598",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "447599",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "448356",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMMERZBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "448401",
+      "category": "PURCHASING",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "448406",
+      "category": "PURCHASING",
+      "issuer": "SANTANDER DIREKT BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "448407",
+      "category": "PURCHASING",
+      "issuer": "LANDESBANK BERLIN GIROZENTRALE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "448409",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "ROYAL BANK OF SCOTLAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "448432",
+      "category": "PURCHASING",
+      "issuer": "DRESDNER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "448444",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "issuer": "LANDESBANK BERLIN GIROZENTRALE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "450027",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "450028",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "450029",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "450030",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "450031",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "450032",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "450033",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "450947",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITIBANK PRIVATKUNDEN AG AND CO KGAA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "451853",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "451854",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "452573",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "452574",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VOLKSBANK FREIBURG EG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "452575",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VOLKSBANK KARLSRUHE EG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "452576",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VOLKSBANK PFORZHEIM EG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "452577",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VOLKSBANK BADEN-BADEN RASTATT EG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "453204",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "453205",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CITIBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "453206",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CITIBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "453208",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VOLKSWAGEN BANK GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "453243",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "453244",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VOLKSWAGEN BANK GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "454105",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NORISBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "454197",
+      "issuer": "B + S CARD SERVICE SUD GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "454199",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SANTANDER CONSUMER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "454304",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITIBANK PRIVATKUNDEN AG AND CO KGAA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "454334",
+      "issuer": "SERVICE BANK GMBH AND CO. KG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "454404",
+      "issuer": "DIE SPARKASSE IN BREMEN",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "454469",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "454470",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "454617",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ING-DIBA AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "454618",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMMERZBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "454677",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ING-DIBA AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "454680",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK 1 SAAR EG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "454749",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "454760",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SANTANDER CONSUMER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "455055",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "COMMERZBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "455056",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANK 1 SAAR EG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "455237",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SANTANDER CONSUMER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "455395",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BAYERISCHE LANDESBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "455554",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK PRIVAT- UND GESCHAEFTSKUNDEN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "455555",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "GE MONEY BANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "455578",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "455579",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "455580",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANK 1 SAAR EG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "455600",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SANTANDER CONSUMER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "455620",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SANTANDER CONSUMER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "455778",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ING-DIBA AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "456361",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LANDESBANK BADEN-WUERTTEMBERG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "456362",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "LANDESBANK BADEN-WUERTTEMBERG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "456455",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "456459",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "456539",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SANTANDER CONSUMER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "456800",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BERLINER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "456825",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BERLINER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "456826",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BERLINER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "456832",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BERLINER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "456838",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BERLINER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "456844",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BERLINER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "456845",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BERLINER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "456847",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ING-DIBA AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "456874",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "456876",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457006",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457007",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457008",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457010",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457011",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457012",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457013",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457014",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457015",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457017",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457018",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457027",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457028",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457037",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457038",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457057",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457058",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457060",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457061",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457062",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457064",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457094",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457095",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457096",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457097",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457098",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457099",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "457984",
+      "issuer": "EUFISERV",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458612",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458613",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458620",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458621",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458622",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458623",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458624",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458625",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458626",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458630",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458632",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458650",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458651",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458652",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458653",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458654",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458655",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458656",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458660",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458661",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458662",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458663",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458664",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458665",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458666",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458670",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458671",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458672",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458673",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458674",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458675",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458676",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458677",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458678",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458679",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458680",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458681",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458685",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458686",
+      "type": "DEBIT",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458910",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458920",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458921",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458940",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458950",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458951",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458952",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458960",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458961",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458970",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458971",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458972",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458973",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458974",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458975",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458976",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458977",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458978",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458979",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "458980",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "459085",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "459088",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISEN ZENTRALBANK OESTERREICH AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "459090",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "RAIFFEISEN ZENTRALBANK OESTERREICH AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "459365",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "459524",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "459525",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "460190",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "460191",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "460312",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OLDENBURGISCHE LANDESBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "460313",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ADVANCE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "460314",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ADVANCE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "460315",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "COMMERZBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "462754",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "462764",
+      "issuer": "CONCARDIS GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "464433",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "464440",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "465595",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "465596",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "466029",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "COMMERZBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "466285",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "466630",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "466631",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "466632",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "466640",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "466641",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "466642",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "466643",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "466650",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "466651",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "466652",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "466653",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "466654",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "466655",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "466920",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "466921",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "466940",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "466950",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "466951",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "466990",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "467023",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK PRIVAT- UND GESCHAEFTSKUNDEN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "467495",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "LANDESBANK BERLIN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "467510",
+      "issuer": "ACREDOS GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "467973",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "467974",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "467975",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "467976",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "467977",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "467978",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "467979",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "467981",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "467982",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "467983",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "467984",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "467985",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "467986",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "467987",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "467988",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "467989",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "467990",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "471100",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "472644",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "474293",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "474345",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "474576",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "474585",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "474586",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BERLINER BANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "474587",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "474588",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "474589",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "474590",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "474843",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BAYERISCHE LANDESBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "476001",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "477100",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "OLDENBURGISCHE LANDESBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "477546",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ING-DIBA AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "477569",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "477574",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LANDESBANK SAAR",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "477912",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "477913",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "477927",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VOLKSBANK KARLSRUHE EG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "477944",
+      "issuer": "CITIBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "477951",
+      "issuer": "LANDESBANK BERLIN GIROZENTRALE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "477980",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ADVANCE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "477981",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ADVANCE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "477982",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "ADVANCE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "479212",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "479292",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "COMMERZBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "479701",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "WEBERBANK BERLINER INDUSTRIEBANK KGAA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "479707",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "479796",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EVANGELISCHE KREDITGENOSSENSCHAFT EG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "479797",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "EVANGELISCHE KREDITGENOSSENSCHAFT EG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "480250",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "480468",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "NORDDEUTSCHE LANDESBANK GIROZENTRALE NORD LB",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "480469",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "LANDESBANK SAAR",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482242",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482252",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482256",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482264",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482291",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482400",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482401",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482402",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482409",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482410",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482411",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482412",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482414",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482419",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482420",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482421",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482422",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482423",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482424",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482426",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482427",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482430",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482437",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482438",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482439",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482440",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482441",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482445",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482446",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482459",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482460",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482461",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482464",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482465",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482472",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482473",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482485",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482486",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482487",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482488",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482493",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482494",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482496",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482497",
+      "issuer": "WIRECARD BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482501",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482502",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482503",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482504",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482505",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482506",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482507",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482508",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482509",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482510",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482511",
+      "type": "DEBIT",
+      "category": "GSA CARD",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482512",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482513",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482514",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482515",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482516",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482517",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482518",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482519",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482520",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482521",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482522",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482523",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482524",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482525",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482526",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482527",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482528",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482529",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482530",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482531",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482532",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482533",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482534",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482535",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482536",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482537",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482538",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482539",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482540",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482541",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482542",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482543",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482544",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482545",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482546",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482547",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482548",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482549",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482550",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482551",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482552",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482553",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482554",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482555",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482556",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482557",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482558",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482559",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482560",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482561",
+      "type": "DEBIT",
+      "category": "V PAY",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482562",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482563",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482564",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482565",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482566",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482567",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482568",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482569",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482570",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482571",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482572",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482573",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482574",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482575",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482576",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482577",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482578",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482579",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482580",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482581",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482582",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482583",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482584",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482585",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482586",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482587",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482588",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482589",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482590",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482591",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482592",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482593",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482594",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482595",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482596",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482597",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482598",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "482599",
+      "type": "DEBIT",
+      "issuer": "FIRSTAR BANK USA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "485450",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "485626",
+      "category": "BUSINESS",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "485700",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "485701",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "485702",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "485740",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "485741",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "485742",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "485743",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "485744",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "485772",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "485774",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "485780",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "BMW BANK GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "486426",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BMW BANK GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "486429",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "BMW BANK GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "486432",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "DRESDNER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "486433",
+      "type": "CREDIT",
+      "category": "CORPORATE T",
+      "issuer": "DRESDNER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "486455",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "486456",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "DEUTSCHE BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "486486",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "DRESDNER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "486487",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "issuer": "DRESDNER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "487080",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BAYERISCHE LANDESBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "489344",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "489345",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "490158",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ING-DIBA AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "490167",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DEGUSSA BANK GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "490609",
+      "type": "CREDIT",
+      "issuer": "BARCLAYCARD GERMANY",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "490610",
+      "type": "CREDIT",
+      "issuer": "BARCLAYCARD GERMANY",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "490613",
+      "type": "CREDIT",
+      "issuer": "BARCLAYCARD GERMANY",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "490614",
+      "type": "CREDIT",
+      "issuer": "BARCLAYCARD GERMANY",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "490637",
+      "type": "CREDIT",
+      "issuer": "BARCLAYCARD GERMANY",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "490638",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "490693",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "490697",
+      "type": "CREDIT",
+      "issuer": "BARCLAYCARD GERMANY",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "490730",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LANDESBANK SAAR",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "490742",
+      "issuer": "DEUTSCHE BANK A.G. (DUPLICATED ID SEE BID 10032712)",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "490744",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "490762",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BAYERISCHE LANDESBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "490763",
+      "issuer": "B + S CARD SERVICE SUD GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "490764",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VOLKSBANK EG NEUBURG/DONAU",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "490804",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VERBAND DER SPARDA BANKEN E.V.",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "490811",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "490820",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "490829",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CITIBANK PRIVATKUNDEN AG AND CO KGAA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "490843",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "STADTSPARKASSE MUENCHEN",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "491068",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DEUTSCHER SPARKASSEN UND GIROVERBAND",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "491075",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "491200",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LUFTHANSA AIRPLUS SERVICEKARTEN GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "491201",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DRESDNER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "491202",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "DRESDNER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "491224",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "491225",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "WGZ BANK AG WESTDEUTSCHE GENOSSENSCHAFTS-ZENTRALBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "491226",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "491782",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "NORDDEUTSCHE LANDESBANK GIROZENTRALE NORD LB",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "491787",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK PRIVATKUNDEN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "491788",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CITIBANK PRIVATKUNDEN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "491808",
+      "issuer": "DG BANK DEUTSCHE GENOSSENSCHAFTSBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "491820",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "491821",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "492044",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CITIBANK PRIVATKUNDEN AG AND CO KGAA",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "492093",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DEUTSCHE BANK PRIVAT- UND GESCHAEFTSKUNDEN AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "492291",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "CITIBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "493441",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "493470",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "493476",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "493477",
+      "issuer": "GZS GESELLSCHAFT FUER ZAHLUNGSSYSTEME GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "493713",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SANTANDER CONSUMER BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "493778",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BAYERISCHE LANDESBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "494116",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "494142",
+      "issuer": "DZ BANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "494342",
+      "issuer": "DEUTSCHE POSTBANK AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "494350",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "SEB AG",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "494600",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "LUFTHANSA AIRPLUS SERVICEKARTEN GMBH",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "494601",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BAYERISCHE LANDESBANK GIROZENTRALE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "494602",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BAYERISCHE LANDESBANK GIROZENTRALE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "494604",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BAYERISCHE LANDESBANK GIROZENTRALE",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "498593",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "498594",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "498747",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "498890",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "499897",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BAYERISCHE LANDESBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "499898",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BAYERISCHE LANDESBANK",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "bin": "499965",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VOLKSBANK BADEN-BADEN RASTATT EG",
+      "countries": [
+        "DE"
+      ]
+    }
+  ]
+}

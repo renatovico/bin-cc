@@ -1,0 +1,30 @@
+{
+  "bins": [
+    {
+      "bin": "515851",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "GY"
+      ]
+    },
+    {
+      "bin": "527588",
+      "type": "CREDIT",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "GY"
+      ]
+    },
+    {
+      "bin": "547486",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "GY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1794 @@
+{
+  "bins": [
+    {
+      "bin": "511696",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "512020",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "512046",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "512067",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CITIBANK COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "512069",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DE BOGOTA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "512272",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "512392",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "512577",
+      "type": "CREDIT",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "512645",
+      "type": "CREDIT",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "512679",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "512804",
+      "type": "CREDIT",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "514332",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO FALABELLA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "515816",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "CITIBANK COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "515858",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "516069",
+      "type": "CREDIT",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "517183",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "517640",
+      "type": "CREDIT",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "517710",
+      "type": "CREDIT",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "517796",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "518329",
+      "type": "CREDIT",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "518335",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "518361",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "518498",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "518761",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "518770",
+      "type": "CREDIT",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "518841",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "518973",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "519422",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "519971",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "520024",
+      "type": "CREDIT",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "520058",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "520142",
+      "type": "CREDIT",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "520144",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "520186",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "521311",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "521354",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "521399",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "522104",
+      "type": "CREDIT",
+      "issuer": "BANCO DE BOGOTA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "522155",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "522156",
+      "category": "STANDARD",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "522497",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "522501",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "522503",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "522749",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "522941",
+      "type": "CREDIT",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "522973",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "523014",
+      "type": "CREDIT",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "523015",
+      "category": "STANDARD",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "523577",
+      "category": "STANDARD",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "524057",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "525495",
+      "type": "CREDIT",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "525723",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "525983",
+      "category": "STANDARD",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "525984",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "526826",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "527564",
+      "type": "CREDIT",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "527606",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "528009",
+      "type": "CREDIT",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "528085",
+      "type": "CREDIT",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "528092",
+      "type": "CREDIT",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "528098",
+      "type": "CREDIT",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "528209",
+      "type": "CREDIT",
+      "issuer": "BANCO FALABELLA",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "528265",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "528608",
+      "type": "CREDIT",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "528629",
+      "type": "CREDIT",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "528884",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "529198",
+      "type": "CREDIT",
+      "issuer": "BANCO DE BOGOTA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "529239",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "529404",
+      "type": "CREDIT",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530371",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530372",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530373",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530497",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530691",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530693",
+      "type": "CREDIT",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530694",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530695",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530696",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530697",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530710",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530711",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530712",
+      "category": "STANDARD",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530713",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530714",
+      "category": "STANDARD",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530715",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530716",
+      "category": "STANDARD",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530717",
+      "category": "STANDARD",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530718",
+      "category": "STANDARD",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530719",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530720",
+      "category": "STANDARD",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530721",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530722",
+      "category": "STANDARD",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530723",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530724",
+      "category": "STANDARD",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530725",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530726",
+      "category": "STANDARD",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530727",
+      "category": "STANDARD",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530728",
+      "category": "STANDARD",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "530729",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "531088",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE BOGOTA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "531122",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "531124",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "531126",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "531375",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "531378",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "531960",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "531961",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "532576",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CITIBANK COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "533171",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "534173",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "534174",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "539612",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DE BOGOTA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "539828",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "539862",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "540080",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE BOGOTA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "540614",
+      "type": "CREDIT",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "540615",
+      "type": "CREDIT",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "540625",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "540640",
+      "type": "CREDIT",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "540649",
+      "type": "CREDIT",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "540688",
+      "type": "CREDIT",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "540690",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "540691",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "540692",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "540694",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "540695",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "540696",
+      "category": "STANDARD",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "540699",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "541140",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "541203",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "541251",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "541461",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "541686",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "541713",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "542646",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "542650",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "543421",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CITIBANK COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "543448",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CITIBANK COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "543862",
+      "type": "CREDIT",
+      "issuer": "BANCO DE BOGOTA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "544977",
+      "issuer": "RED MULTICOLOR",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "546687",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "546692",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "546853",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CITIBANK COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547061",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547062",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547063",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547064",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547102",
+      "type": "CREDIT",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547107",
+      "type": "CREDIT",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547113",
+      "type": "CREDIT",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547115",
+      "type": "CREDIT",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547129",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547130",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547141",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547142",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547158",
+      "type": "CREDIT",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547178",
+      "type": "CREDIT",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547191",
+      "type": "CREDIT",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547246",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547385",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547417",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547457",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547462",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547479",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547480",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547481",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547482",
+      "category": "BUSINESS",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547513",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547531",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547532",
+      "type": "CREDIT",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547631",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547780",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "547870",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "548115",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "548494",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DE BOGOTA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "548567",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "548788",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "548940",
+      "type": "CREDIT",
+      "issuer": "BANCO DE BOGOTA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "549030",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "549151",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "549152",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "549156",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "549157",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "549158",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "549166",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "549225",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "549342",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "549616",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "549724",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "550237",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "550517",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "550518",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "550519",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "552221",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DE BOGOTA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "552256",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "552303",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "552336",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "552501",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "552558",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "552588",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "552673",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "552800",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "552807",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "BANCOLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "552865",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO DE BOGOTA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "552903",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "553145",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "553643",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "553661",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO DE BOGOTA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "553662",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "554901",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "554933",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "554936",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "556607",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "557555",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO SANTANDER COLOMBIA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "558761",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO DAVIVIENDA, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "558771",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "REDEBAN MULTICOLOR, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "558772",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO DE OCCIDENTE, S.A.",
+      "countries": [
+        "CO"
+      ]
+    },
+    {
+      "bin": "559225",
+      "countries": [
+        "CO"
+      ]
+    }
+  ]
+}

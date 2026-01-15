@@ -1,0 +1,758 @@
+{
+  "bins": [
+    {
+      "bin": "510503",
+      "type": "CREDIT",
+      "issuer": "AEON THANA SINSAP (THAILAND) PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "512445",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "THANACHART BANK PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "512492",
+      "type": "CREDIT",
+      "issuer": "THANACHART BANK PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "514950",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "KASIKORNBANK PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "517824",
+      "type": "CREDIT",
+      "issuer": "UNITED OVERSEAS BANK(THAI)PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "517825",
+      "type": "CREDIT",
+      "issuer": "SIAM COMMERCIAL BANK PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "517828",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AEON THANA SINSAP (THAILAND) PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "518097",
+      "type": "CREDIT",
+      "issuer": "KASIKORNBANK PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "518547",
+      "issuer": "BANK OF AYUDHYA PUBLIC COMPANY, LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "518875",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "518880",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "KASIKORNBANK PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "518918",
+      "type": "CREDIT",
+      "issuer": "KASIKORNBANK PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "519496",
+      "issuer": "CETELEM (THAILAND), LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "519785",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "521881",
+      "issuer": "CAPITAL OK COMPANY, LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "522171",
+      "type": "CREDIT",
+      "issuer": "AEON THANA SINSAP (THAILAND) PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "523771",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "523910",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "523913",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "KRUNGSRIAYUDHYA CARD CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "523962",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "KASIKORNBANK PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "524172",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TMB BANK PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "524329",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "524704",
+      "issuer": "CAPITAL OK COMPANY, LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "525667",
+      "type": "CREDIT",
+      "issuer": "GENERAL CARD SERVICES, LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "525668",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "GENERAL CARD SERVICES, LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "525669",
+      "issuer": "GENERAL CARD SERVICES, LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "525671",
+      "type": "CREDIT",
+      "issuer": "AEON THANA SINSAP (THAILAND) PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "525720",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UNITED OVERSEAS BANK(THAI)PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "526413",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "THANACHART BANK PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "526875",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AEON THANA SINSAP (THAILAND) PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "527595",
+      "type": "CREDIT",
+      "issuer": "AEON THANA SINSAP (THAILAND) PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "528011",
+      "type": "CREDIT",
+      "issuer": "AEON THANA SINSAP (THAILAND) PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "528636",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "VIA CARD (THAILAND) CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "528835",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "531712",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "CITIBANK N.A., THAILAND",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "532306",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "533153",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "THANACHART BANK PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "534168",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "539925",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "THANACHART BANK PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "540040",
+      "type": "CREDIT",
+      "issuer": "TMB BANK PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "540180",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "THANACHART BANK PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "540430",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "KRUNGSRIAYUDHYA CARD CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "540432",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CITIBANK",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "540474",
+      "type": "CREDIT",
+      "issuer": "KRUNGSRIAYUDHYA CARD CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "540488",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "KASIKORNBANK PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "540492",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SIAM COMMERCIAL BANK PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "540604",
+      "type": "CREDIT",
+      "issuer": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "540605",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "540716",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "541029",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "SIAM COMMERCIAL BANK PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "541176",
+      "type": "CREDIT",
+      "issuer": "KASIKORNBANK PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "541235",
+      "issuer": "SMARTKASH COMPANY, LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "541496",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SIAM COMMERCIAL BANK PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "541690",
+      "type": "CREDIT",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "541859",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "541878",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "UNITED OVERSEAS BANK(THAI)PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "541897",
+      "issuer": "SIAM COMMERCIAL BANK PUBLIC COMPANY, LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "542078",
+      "type": "CREDIT",
+      "issuer": "TMB BANK PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "542380",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "KRUNGSRIAYUDHYA CARD CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "542453",
+      "type": "CREDIT",
+      "issuer": "THANACHART BANK PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "542691",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "543215",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UNITED OVERSEAS BANK(THAI)PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "543420",
+      "type": "CREDIT",
+      "issuer": "KRUNGTHAI CARD PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "543449",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CITIBANK",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "543673",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "543711",
+      "type": "CREDIT",
+      "issuer": "STANDARD CHARTERED BANK",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "543881",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "543974",
+      "issuer": "THAI MILITARY BANK PUBLIC COMPANY, LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "544416",
+      "issuer": "THAI MILITARY BANK PUBLIC COMPANY, LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "544418",
+      "issuer": "THAI MILITARY BANK PUBLIC COMPANY, LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "544437",
+      "issuer": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "544461",
+      "issuer": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "544464",
+      "issuer": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "544469",
+      "issuer": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "544482",
+      "type": "CREDIT",
+      "issuer": "BANGKOK BANK PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "544484",
+      "issuer": "BANGKOK BANK PUBLIC COMPANY, LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "544485",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANGKOK BANK PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "544488",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANGKOK BANK PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "544572",
+      "type": "CREDIT",
+      "issuer": "AYUDHYA CARD SERVICES CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "544638",
+      "issuer": "MPC CARD CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "544639",
+      "issuer": "MPC CARD CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "546820",
+      "issuer": "CHASE MANHATTAN BANK",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "546848",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AYUDHYA CARD SERVICES CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "548603",
+      "issuer": "STANDARD CHARTERED NAKORNTHON BANK PUBLIC COMPANY, LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "550161",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "552165",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "HONGKONG AND SHANGHAI BANKING CORP., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "552804",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "AEON THANA SINSAP (THAILAND) PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "554109",
+      "issuer": "UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY, LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "555024",
+      "type": "CREDIT",
+      "category": "CORPORATE PURCHASING",
+      "issuer": "CITIBANK N.A., THAILAND",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "555157",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "555173",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "556656",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "UNITED OVERSEAS BANK(THAI)PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "557755",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SIAM COMMERCIAL BANK PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    },
+    {
+      "bin": "557772",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "SIAM COMMERCIAL BANK PUBLIC CO., LTD.",
+      "countries": [
+        "TH"
+      ]
+    }
+  ]
+}

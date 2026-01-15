@@ -1,0 +1,385 @@
+{
+  "bins": [
+    {
+      "bin": "511683",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "HERITAGE INTERNATIONAL BANK AND TRUST, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "512350",
+      "type": "CREDIT",
+      "issuer": "SCOTIABANK (BELIZE), LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "512357",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SCOTIABANK (BELIZE), LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "512674",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS LIMITED",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "512718",
+      "issuer": "FIRSTCARIBBEAN INTERNATIONAL BANK BARBADOS LIMITED",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "514062",
+      "issuer": "PROVIDENT BANK AND TRUST OF BELIZE, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "515731",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SCOTIABANK (BELIZE), LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "518461",
+      "issuer": "BELIZE BANK LIMITED",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "519917",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "520061",
+      "type": "CREDIT",
+      "issuer": "HERITAGE INTERNATIONAL BANK AND TRUST, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "520117",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HERITAGE INTERNATIONAL BANK AND TRUST, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "520504",
+      "issuer": "PROVIDENT BANK AND TRUST OF BELIZE, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "522740",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "525318",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CHOICE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "529196",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "529215",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "530026",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CHOICE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "530442",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CHOICE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "530561",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CHOICE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "530689",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "530813",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CHOICE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "530817",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CHOICE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "531027",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CHOICE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "531032",
+      "type": "DEBIT",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "531053",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CHOICE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "531061",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CHOICE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "531115",
+      "type": "CREDIT",
+      "issuer": "CHOICE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "531445",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CHOICE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "532303",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CHOICE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "533837",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CHOICE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "533955",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "540238",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SCOTIABANK (BELIZE), LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "542651",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CHOICE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "543796",
+      "type": "CREDIT",
+      "issuer": "HERITAGE INTERNATIONAL BANK AND TRUST, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "544595",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BELIZE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "544794",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HERITAGE INTERNATIONAL BANK AND TRUST, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "545766",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HERITAGE INTERNATIONAL BANK AND TRUST, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "545985",
+      "type": "CREDIT",
+      "issuer": "HERITAGE INTERNATIONAL BANK AND TRUST, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "547537",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SCOTIABANK (BELIZE), LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "547760",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BELIZE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "548882",
+      "type": "CREDIT",
+      "issuer": "ATLANTIC BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "548884",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ATLANTIC BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "549529",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "CHOICE BANK, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "550181",
+      "issuer": "PROVIDENT BANK AND TRUST OF BELIZE, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "553075",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "554459",
+      "type": "CREDIT",
+      "issuer": "HERITAGE INTERNATIONAL BANK AND TRUST, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    },
+    {
+      "bin": "554470",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HERITAGE INTERNATIONAL BANK AND TRUST, LTD.",
+      "countries": [
+        "BZ"
+      ]
+    }
+  ]
+}

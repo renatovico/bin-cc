@@ -2,57 +2,1862 @@
   "scheme": "mastercard",
   "bins": [
     {
-      "bin": "525855",
-      "type": "credit",
-      "issuer": "Ualá",
-      "countries": ["AR"]
+      "bin": "511657",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "NUEVO BANCO DE ENTRE RIOS, S.A.",
+      "countries": [
+        "AR"
+      ]
     },
     {
-      "bin": "515073",
+      "bin": "511658",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "NUEVO BANCO DE ENTRE RIOS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "511739",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "511740",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "511849",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "BANCO DE LA PROVINCIA DE CORDOBA (BANCO DE CORDOBA)",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "512258",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "512269",
       "type": "credit",
-      "issuer": "Mercado Pago",
-      "countries": ["AR", "BR", "MX", "CL", "CO", "PE", "UY"]
+      "issuer": "CMR Falabella",
+      "category": "premium",
+      "countries": [
+        "CL",
+        "AR",
+        "PE",
+        "CO"
+      ]
+    },
+    {
+      "bin": "512331",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "512332",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "FIRST DATA CONO SUR, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "512370",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "512421",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "514904",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NUEVO BANCO DE ENTRE RIOS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "514954",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NUEVO BANCO DE ENTRE RIOS, S.A.",
+      "countries": [
+        "AR"
+      ]
     },
     {
       "bin": "515070",
       "type": "credit",
       "issuer": "Mercado Pago",
-      "countries": ["AR", "BR", "MX", "CL", "CO", "PE", "UY"]
+      "countries": [
+        "AR",
+        "BR",
+        "MX",
+        "CL",
+        "CO",
+        "PE",
+        "UY"
+      ]
     },
     {
-      "bin": "532384",
+      "bin": "515073",
       "type": "credit",
       "issuer": "Mercado Pago",
-      "countries": ["AR", "BR", "MX", "CL", "CO", "PE", "UY"]
+      "countries": [
+        "AR",
+        "BR",
+        "MX",
+        "CL",
+        "CO",
+        "PE",
+        "UY"
+      ]
     },
-    {"bin": "520053", "type": "credit", "issuer": "Nativa", "countries": ["AR"]},
-    {"bin": "546553", "type": "credit", "issuer": "Nativa", "countries": ["AR"]},
-    {"bin": "554472", "type": "credit", "issuer": "Nativa", "countries": ["AR"]},
-    {"bin": "531847", "type": "credit", "issuer": "Nativa", "countries": ["AR"]},
-    {"bin": "527601", "type": "credit", "issuer": "Nativa", "countries": ["AR"]},
-    {"bin": "548740", "type": "credit", "issuer": "CMR Falabella", "countries": ["CL", "AR", "PE", "CO"]},
-    {"bin": "548742", "type": "credit", "issuer": "CMR Falabella", "category": "contactless", "countries": ["CL", "AR", "PE", "CO"]},
-    {"bin": "512269", "type": "credit", "issuer": "CMR Falabella", "category": "premium", "countries": ["CL", "AR", "PE", "CO"]},
-    {"bin": "522468", "type": "credit", "issuer": "CMR Falabella", "category": "elite", "countries": ["CL", "AR", "PE", "CO"]},
     {
-      "bin": "558353",
+      "bin": "515688",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "515695",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "515809",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "515810",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "515825",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "516478",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "517942",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "NUEVO BANCO DE ENTRE RIOS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "519702",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "519710",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "519711",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "519730",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "519740",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "519767",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "519770",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "519771",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "520053",
       "type": "credit",
-      "category": "business",
-      "issuer": "BBVA Banco Francés",
-      "countries": ["AR"]
+      "issuer": "Nativa",
+      "countries": [
+        "AR"
+      ]
     },
     {
       "bin": "521373",
       "type": "credit",
       "category": "platinum",
       "issuer": "BBVA Banco Francés",
-      "countries": ["AR"]
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "521388",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "522135",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "522137",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "522227",
+      "type": "CREDIT",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "522244",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "522468",
+      "type": "credit",
+      "issuer": "CMR Falabella",
+      "category": "elite",
+      "countries": [
+        "CL",
+        "AR",
+        "PE",
+        "CO"
+      ]
+    },
+    {
+      "bin": "522684",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "522713",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "522972",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "523457",
+      "type": "CREDIT",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "523758",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "523916",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "524348",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "524702",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "524930",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "525419",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "525422",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "525423",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "525425",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "525455",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "525488",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "525489",
+      "category": "STANDARD",
+      "issuer": "FIRST DATA CONO SUR, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "525633",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "525855",
+      "type": "credit",
+      "issuer": "Ualá",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "525857",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "525860",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "526810",
+      "type": "CREDIT",
+      "issuer": "NUEVO BANCO DE ENTRE RIOS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "527009",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "527341",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "527555",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "527571",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "527572",
+      "category": "STANDARD",
+      "issuer": "FIRST DATA CONO SUR, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "527601",
+      "type": "credit",
+      "issuer": "Nativa",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "527608",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "527609",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "527613",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "527619",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "528168",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "528169",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "528170",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "528174",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "528175",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "528178",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "528179",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "528585",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "528587",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "528824",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "529329",
+      "type": "CREDIT",
+      "issuer": "BBVA BANCO FRANCES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "530058",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "530363",
+      "type": "CREDIT",
+      "issuer": "BBVA BANCO FRANCES",
+      "countries": [
+        "AR"
+      ]
     },
     {
       "bin": "530456",
       "type": "credit",
       "issuer": "Banco de la Nación Argentina",
-      "countries": ["AR"]
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "530516",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "530563",
+      "type": "CREDIT",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "530574",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "530575",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "530579",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "530815",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "530841",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "531015",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "531066",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "531407",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "531441",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "BBVA BANCO FRANCES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "531448",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "531847",
+      "type": "credit",
+      "issuer": "Nativa",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "531966",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "531984",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532198",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532309",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532360",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532361",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532362",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532363",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532364",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532365",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532366",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532367",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532368",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532369",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532370",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532371",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532372",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532373",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532374",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532375",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532376",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532377",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532378",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532379",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532380",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532381",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532382",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532383",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532384",
+      "type": "credit",
+      "issuer": "Mercado Pago",
+      "countries": [
+        "AR",
+        "BR",
+        "MX",
+        "CL",
+        "CO",
+        "PE",
+        "UY"
+      ]
+    },
+    {
+      "bin": "532385",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532386",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532387",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532388",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532389",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532547",
+      "type": "CREDIT",
+      "issuer": "BBVA BANCO FRANCES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "532807",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "533016",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BBVA BANCO FRANCES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "533017",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "533026",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "533027",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "533523",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "533571",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "533579",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "534161",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "535323",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "535327",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "537831",
+      "type": "CREDIT",
+      "issuer": "NUEVO BANCO DE ENTRE RIOS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "537838",
+      "type": "CREDIT",
+      "issuer": "NUEVO BANCO DE ENTRE RIOS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "538807",
+      "type": "CREDIT",
+      "issuer": "NUEVO BANCO DE ENTRE RIOS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "539900",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "539901",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "539902",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "539903",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "539904",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "539905",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "539906",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "539907",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "539908",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "539909",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "541109",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "541110",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "541646",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "541719",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "542702",
+      "type": "CREDIT",
+      "issuer": "BANCO DE LA PROVINCIA DE CORDOBA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "542719",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NUEVO BANCO DE ENTRE RIOS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "542734",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "NUEVO BANCO DE ENTRE RIOS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "542744",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "NUEVO BANCO DE ENTRE RIOS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "542755",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "NUEVO BANCO DE ENTRE RIOS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "543806",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NUEVO BANCO DE ENTRE RIOS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "543855",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NUEVO BANCO DE ENTRE RIOS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "543885",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "NUEVO BANCO DE ENTRE RIOS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "544014",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "544312",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "544764",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO DE LA PROVINCIA DE CORDOBA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "545882",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "546552",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "546553",
+      "type": "credit",
+      "issuer": "Nativa",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "546624",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "547059",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BBVA BANCO FRANCES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "547171",
+      "type": "CREDIT",
+      "issuer": "BANCO CETELEM ARGENTINA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "547294",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "547299",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "547773",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NUEVO BANCO DE ENTRE RIOS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "547810",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NUEVO BANCO DE ENTRE RIOS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "547828",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NUEVO BANCO DE ENTRE RIOS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "548166",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "548315",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "548740",
+      "type": "credit",
+      "issuer": "CMR Falabella",
+      "countries": [
+        "CL",
+        "AR",
+        "PE",
+        "CO"
+      ]
+    },
+    {
+      "bin": "548742",
+      "type": "credit",
+      "issuer": "CMR Falabella",
+      "category": "contactless",
+      "countries": [
+        "CL",
+        "AR",
+        "PE",
+        "CO"
+      ]
+    },
+    {
+      "bin": "548761",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "548790",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "548998",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "549012",
+      "type": "CREDIT",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "549016",
+      "type": "CREDIT",
+      "issuer": "NUEVO BANCO DE ENTRE RIOS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "549018",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "549020",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "549028",
+      "type": "CREDIT",
+      "issuer": "NUEVO BANCO DE ENTRE RIOS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "549051",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "549164",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "549397",
+      "type": "CREDIT",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "549828",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "549878",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "549952",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "550226",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "550230",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "552846",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "552999",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "553409",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "BANCO DE LA PROVINCIA DE CORDOBA, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "553443",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "553444",
+      "category": "STANDARD",
+      "issuer": "FIRST DATA CONO SUR, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "553494",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "553526",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "553633",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BBVA BANCO FRANCES",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "553638",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "553640",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "NUEVO BANCO DE ENTRE RIOS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "553641",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "553652",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "553670",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "553672",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "NUEVO BANCO DE ENTRE RIOS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "553673",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "554472",
+      "type": "credit",
+      "issuer": "Nativa",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "554908",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "554990",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "554991",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "554992",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "554993",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "554994",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "554995",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "554996",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "554997",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "554998",
+      "issuer": "ARGENCARD, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "554999",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "557039",
+      "type": "CREDIT",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "557935",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "558353",
+      "type": "credit",
+      "category": "business",
+      "issuer": "BBVA Banco Francés",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "558369",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "FIRST DATA CONO SUR, S.R.L.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "558642",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "558838",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "NUEVO BANCO DE ENTRE RIOS, S.A.",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "558891",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "559137",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "559198",
+      "type": "CREDIT",
+      "countries": [
+        "AR"
+      ]
+    },
+    {
+      "bin": "559232",
+      "countries": [
+        "AR"
+      ]
     }
   ]
 }

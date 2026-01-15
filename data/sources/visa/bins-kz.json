@@ -1,0 +1,1877 @@
+{
+  "bins": [
+    {
+      "bin": "400303",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "KAZKOMMERTSBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "402134",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "402135",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NURBANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "402171",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "403167",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "403259",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "JSC EURASIAN BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "404242",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JSC ALLIANCE BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "404243",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JSC ALLIANCE BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "404244",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC ALLIANCE BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "404245",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSC ALLIANCE BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "404363",
+      "issuer": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "404741",
+      "issuer": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "404917",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SB SBERBANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "404932",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "HOME CREDIT BANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "405255",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC ATF BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "405256",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSC ATF BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "405257",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSC ATF BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "405258",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC ATF BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "405263",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "405465",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC BTA BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "405709",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC EURASIAN BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "405772",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "407262",
+      "issuer": "JSC SUBSIDIARY BANK ALFA-BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "409663",
+      "issuer": "JSC EURASIAN BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "409872",
+      "issuer": "NURBANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "410708",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSC BTA BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "410726",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC BTA BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "410727",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JSC BTA BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "410728",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSC BTA BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "410729",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSC BTA BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "410799",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "412464",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSC EURASIAN BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "413261",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TSESNABANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "413262",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "TSESNABANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "413263",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TSESNABANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "413264",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "TSESNABANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "413265",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "KAZKOMMERTSBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "414621",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "414622",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "414623",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "415602",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "KAZKOMMERTSBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "416443",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KAZKOMMERTSBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "416958",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC UNICREDIT BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "417432",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ASIACREDIT BANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "417433",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "ASIACREDIT BANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "417434",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "ASIACREDIT BANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "417660",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KASPI BANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "417661",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "KASPI BANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "417662",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "KASPI BANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "417663",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KASPI BANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "417664",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "KASPI BANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "417665",
+      "issuer": "JSC BANK CASPIAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "417779",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KAZKOMMERTSBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "417803",
+      "issuer": "JSC ATF BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "418081",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "418082",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "JSC SB RBS (KAZAKHSTAN)",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "418838",
+      "issuer": "OJSC BANK TURANALEM",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "418900",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JSC KAZPOST",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "418901",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JSC KAZPOST",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "418973",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC KAZPOST",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "418974",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSC KAZPOST",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "418975",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC KAZPOST",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "418976",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSC KAZPOST",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "419394",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "420363",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "SB SBERBANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "421986",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "422191",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "422192",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "422427",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "422440",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANCO ALEMAN PARAGUAYO, S.A.",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "422611",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JSC ALLIANCE BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "423207",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSC SB RBS (KAZAKHSTAN)",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "423208",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "issuer": "JSC ATF BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "424467",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KAZKOMMERTSBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "425561",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC KAZINVESTBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "425562",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSC KAZINVESTBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "425563",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC KAZINVESTBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "425564",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSC KAZINVESTBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "425565",
+      "issuer": "JSC KAZINVESTBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "425680",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC BTA BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "425699",
+      "type": "DEBIT",
+      "category": "CHECK CARD",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "425889",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "issuer": "NURBANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "426343",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SB SBERBANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "426344",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "SB SBERBANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "426345",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SB SBERBANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "426346",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "SB SBERBANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "426368",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC BANK TURANALEM",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "426668",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC ATF BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "426736",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC SUBSIDIARY BANK ALFA-BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "426737",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC SUBSIDIARY BANK ALFA-BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "426738",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSC SUBSIDIARY BANK ALFA-BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "426739",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSC SUBSIDIARY BANK ALFA-BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "426903",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "JSC SUBSIDIARY BANK ALFA-BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "426904",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC SUBSIDIARY BANK ALFA-BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "427067",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC SUBSIDIARY BANK ALFA-BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "427272",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC ALLIANCE BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "427273",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC ALLIANCE BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "427274",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSC ALLIANCE BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "427362",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSC SB RBS (KAZAKHSTAN)",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "427704",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "427717",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "KAZKOMMERTSBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "427764",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSC ATF BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "428600",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "CJSC CITIBANK KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "428601",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "CJSC CITIBANK KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "428790",
+      "issuer": "BANK CENTER CREDIT",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "428954",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC DELTA BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "428955",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSC DELTA BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "428956",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSC DELTA BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "428957",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC DELTA BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "428989",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC SB RBS (KAZAKHSTAN)",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "429017",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SB SBERBANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "429438",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC EURASIAN BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "429439",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSC EURASIAN BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "429440",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSC EURASIAN BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "429556",
+      "issuer": "HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "429964",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "429969",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "430273",
+      "issuer": "JSC ALLIANCE BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "431253",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JSC ATF BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "431433",
+      "issuer": "KAZKOMMERTSBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "431879",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "JSC ATF BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "433017",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CJSC CITIBANK KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "433019",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CJSC CITIBANK KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "433021",
+      "issuer": "CJSC CITIBANK KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "433029",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "BANKPOZITIV KAZAKHSTAN JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "433030",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "BANKPOZITIV KAZAKHSTAN JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "433031",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANKPOZITIV KAZAKHSTAN JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "433317",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC ATF BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "433318",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSC ATF BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "433319",
+      "issuer": "JSC ATF BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "439087",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "439088",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "439220",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC TEMIRBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "439221",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "OJSC TEMIRBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "439222",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "OJSC TEMIRBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "439223",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OJSC TEMIRBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "440125",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "NURBANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "440126",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "NURBANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "440127",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "NURBANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "440128",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "NURBANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "440254",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "440256",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "440257",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "440258",
+      "issuer": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "440259",
+      "issuer": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "440562",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "KAZKOMMERTSBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "440563",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "KAZKOMMERTSBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "440564",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KAZKOMMERTSBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "440565",
+      "issuer": "KAZKOMMERTSBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "440617",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC BANK TURANALEM",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "441327",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "TSESNABANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "441328",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "TSESNABANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "441329",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TSESNABANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "443864",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "JSC SB RBS (KAZAKHSTAN)",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "443865",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "JSC SB RBS (KAZAKHSTAN)",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "444482",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC BTA BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "446372",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "446373",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "446374",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "446375",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "BANK CENTER CREDIT",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "446929",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "448317",
+      "issuer": "ABN AMRO BANK KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "448318",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "OJSC BANK TURANALEM",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "448323",
+      "issuer": "HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "448324",
+      "issuer": "HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "448325",
+      "issuer": "HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "448326",
+      "issuer": "HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "449393",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "OJSC BANK TURANALEM",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "450286",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "452440",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "457436",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "457437",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "457438",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "457439",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "457441",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "457986",
+      "issuer": "OJSC BANK TURANALEM",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "458260",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "TSESNABANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "458261",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "TSESNABANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "462522",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "462523",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "462780",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KAZKOMMERTSBANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "462781",
+      "issuer": "HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "463743",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "TSESNABANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "465819",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "OJSC BANK TURANALEM",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "466708",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "466720",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "BANK CENTER CREDIT",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "470713",
+      "type": "CREDIT",
+      "category": "CORPORATE T&E",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "474807",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "issuer": "VTB BANK (KAZAKHSTAN) SUBSIDIARY JOINT STOCK COMPANY",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "474808",
+      "type": "DEBIT",
+      "category": "INFINITE",
+      "issuer": "VTB BANK (KAZAKHSTAN) SUBSIDIARY JOINT STOCK COMPANY",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "474809",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "VTB BANK (KAZAKHSTAN) SUBSIDIARY JOINT STOCK COMPANY",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "476283",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "476284",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "477998",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "OJSC BANK TURANALEM",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "477999",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "OJSC BANK TURANALEM",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "478755",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "JSC SB RBS (KAZAKHSTAN)",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "478756",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "JSC SB RBS (KAZAKHSTAN)",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "478757",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC SB RBS (KAZAKHSTAN)",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "478758",
+      "issuer": "ABN AMRO BANK KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "479068",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSC ATF BANK",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "480253",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "JSC SB RBS (KAZAKHSTAN)",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "483778",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VTB BANK (KAZAKHSTAN) SUBSIDIARY JOINT STOCK COMPANY",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "484197",
+      "type": "DEBIT",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "484634",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "484893",
+      "type": "CREDIT",
+      "category": "INFINITE",
+      "issuer": "TSESNABANK JSC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "485625",
+      "issuer": "CJSC CITIBANK KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "485634",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HALYK SAVINGS BANK OF KAZAKHSTAN",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "486390",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "486504",
+      "type": "CREDIT",
+      "category": "PURCHASING",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "489331",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "489332",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "489333",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "489334",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "489335",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "489988",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "BANK CENTER CREDIT",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "489992",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK CENTER CREDIT",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "489993",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "BANK CENTER CREDIT",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "490447",
+      "type": "CREDIT",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "490448",
+      "type": "CREDIT",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "490449",
+      "type": "CREDIT",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "490450",
+      "type": "CREDIT",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "490452",
+      "type": "CREDIT",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "490453",
+      "type": "CREDIT",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "490454",
+      "type": "CREDIT",
+      "countries": [
+        "KZ"
+      ]
+    },
+    {
+      "bin": "490472",
+      "type": "CREDIT",
+      "countries": [
+        "KZ"
+      ]
+    }
+  ]
+}

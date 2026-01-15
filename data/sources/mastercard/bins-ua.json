@@ -1,0 +1,4130 @@
+{
+  "bins": [
+    {
+      "bin": "510093",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "OTP BANK JSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "510094",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "OTP BANK JSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "510104",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "JSCB INDUSTRIALBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "510105",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSCB INDUSTRIALBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "510117",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "510140",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "510449",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "510465",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC UNICREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "510467",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC UNICREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "510536",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "510541",
+      "type": "CREDIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "511695",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "512009",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC JSCB KYIV",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "512070",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "512100",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "512306",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "PUBLIC JSC VTB BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "512439",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PJSC CREDIT AGRICOLE BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "512456",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "512468",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PUBLIC JSC SEB BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "512557",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC RAIFFEISEN BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "512572",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC RAIFFEISEN BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "512647",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "512743",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "512785",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "512789",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC UNICREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "513228",
+      "type": "CREDIT",
+      "issuer": "JSCB NADRA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "513999",
+      "type": "CREDIT",
+      "issuer": "JSCB INDUSTRIALBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "514073",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC SEB BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "515608",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PUBLIC JSC ''VSEUKRAINSKYI AKSIONERNYI BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "515633",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSC INDUSTRIAL AND INVESTMENT BANK (CLOSE STOCK COMPANY) (PR",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "515641",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PUBLIC JSC RODOVID BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "515662",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSC STATE SAVINGS BANK OF UKRAINE (OSCHA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "515759",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC RODOVID BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "515768",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "515791",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "515794",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC UNICREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "515855",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "THE STATE EXPORT-IMPORT BANK O",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516048",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516059",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516089",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516399",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "PUBLIC JSC DELTA BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516735",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC VTB BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516739",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516749",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516750",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516754",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516755",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516756",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516758",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516759",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516760",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516761",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516768",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516773",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516776",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516780",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516781",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516782",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516783",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516784",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516785",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516787",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516788",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516789",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516790",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516791",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516792",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516794",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516796",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516797",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516798",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516799",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516800",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516801",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516802",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516803",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516804",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516807",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516808",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516809",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516812",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516813",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516818",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516821",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516822",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516824",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516825",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516836",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516837",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516845",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516850",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516851",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516853",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516854",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516855",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516856",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516857",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516858",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516859",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516860",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516863",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516864",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516865",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516866",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516874",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516875",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516877",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516879",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516880",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516881",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516882",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516886",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516887",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516899",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516911",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516913",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516915",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516916",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516917",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516918",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516923",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516927",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516930",
+      "type": "DEBIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC UKRSIBBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516933",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516936",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516937",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516938",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516939",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516940",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516941",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516942",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516945",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516950",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "516977",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "517725",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "517818",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "517932",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PUBLIC JSC VTB BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "517944",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "517963",
+      "type": "CREDIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "518171",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC UNICREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "518280",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "518282",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC UNICREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "518596",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "COMMERCIAL BANK KHRESCHATYK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "518623",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "518646",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC UNICREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "518654",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "518702",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "COMMERCIAL BANK KHRESCHATYK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "518720",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "518778",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "518802",
+      "category": "STANDARD",
+      "issuer": "JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "518808",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC RAIFFEISEN BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "518985",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "519301",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "519736",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "519745",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "520173",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "520633",
+      "category": "STANDARD",
+      "issuer": "JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "520652",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "520657",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC RAIFFEISEN BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "520662",
+      "type": "DEBIT",
+      "category": "GIFT",
+      "issuer": "PJSC CREDIT AGRICOLE BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "521152",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "521153",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "COMMERCIAL BANK PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "521327",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "521364",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "521513",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "521514",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "521762",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "521813",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PUBLIC JSC COMMERCIAL BANK PRAVEX BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "521832",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "521833",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "521857",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "COMMERCIAL BANK PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "522064",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JOIN STOCK COMPANY RUSSIAN STANDARD BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "522433",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC JSC COMMERCIAL BANK PRAVEX BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "522443",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "522461",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC JSCB KYIV",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "522466",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "522473",
+      "type": "CREDIT",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "522654",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "522753",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "522766",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "522797",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "522871",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "PUBLIC JSC UKRSIBBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "522872",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "522967",
+      "category": "STANDARD",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "523406",
+      "type": "CREDIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "523473",
+      "type": "CREDIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "523502",
+      "category": "STANDARD",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "523530",
+      "category": "STANDARD",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "523778",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "523933",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSCB INDUSTRIALBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "524089",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC SEB BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "524359",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSCB NADRA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "524367",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PUBLIC JSC UNICREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "524547",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "524568",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "524577",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "524584",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "524719",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "524729",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "524814",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "524872",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "524876",
+      "type": "CREDIT",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "524926",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "525410",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "525426",
+      "type": "CREDIT",
+      "issuer": "PUBLIC COMPANY ERSTE BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "525485",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "525493",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "525626",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "525643",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC JSCB KYIV",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "525672",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "525684",
+      "type": "CREDIT",
+      "issuer": "SUBSIDIARY BANK SBERBANK OF RUSSIA CJSC (UKRAINE)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "525748",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "525753",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSCB NADRA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "525759",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC UNICREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "525792",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "525822",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "526846",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "526858",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "526883",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "527410",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "527412",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "527451",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC RODOVID BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "527464",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "JSB PIVDENNYI",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "527598",
+      "type": "DEBIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "527667",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "527677",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "527794",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "528533",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "528534",
+      "type": "CREDIT",
+      "issuer": "OTP BANK JSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "528598",
+      "type": "CREDIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "528806",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "528812",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "528944",
+      "category": "STANDARD",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "528953",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "529578",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PUBLIC JSC UKRSIBBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "529801",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "529872",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "529914",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "COMMERCIAL BANK KHRESCHATYK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "529919",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC RAIFFEISEN BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "530004",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "530037",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC BANK FORUM",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "530051",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "530094",
+      "type": "CREDIT",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "530178",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "530186",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "530217",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "530359",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "530409",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "530424",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "530539",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC RAIFFEISEN BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "530565",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "530662",
+      "issuer": "JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "530778",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "530955",
+      "issuer": "OJSC RAIFFEISEN BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "531007",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "531212",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "PUBLIC JSC SEB BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "531345",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC VTB BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "531536",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "531689",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "531694",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SUBSIDIARY BANK SBERBANK OF RUSSIA CJSC (UKRAINE)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "531725",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "531965",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "532197",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC RODOVID BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "532343",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "532457",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC RAIFFEISEN BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "532957",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "COMMERCIAL BANK PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "533037",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "PUBLIC JSC UKRSIBBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "533194",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "OTP BANK JSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "533686",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "533731",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "534150",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "534154",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC COMPANY ERSTE BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "534187",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "536241",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "536270",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "536354",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "COMMERCIAL BANK PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "536364",
+      "type": "CREDIT",
+      "category": "NEW WORLD",
+      "issuer": "PUBLIC JSC ALFA-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "536375",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "536401",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JOIN STOCK COMPANY RUSSIAN STANDARD BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "536408",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC COMPANY ERSTE BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "536421",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "536430",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "536444",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC COMMERCIAL BANK PRAVEX BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "536502",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC RAIFFEISEN BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "537003",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "537708",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC VTB BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "538703",
+      "issuer": "JSB ING BANK UKRAINE",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "538814",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "539715",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "539845",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "539897",
+      "type": "CREDIT",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "540065",
+      "category": "STANDARD",
+      "issuer": "UKRAINSKY PROMYSLOVY BANK LIMITED LIABILITY COMPANY",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "540305",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "540381",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "540617",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "540637",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "540682",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "540725",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "540819",
+      "issuer": "JOINT STOCK POST-PENSION BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "540892",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "540931",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "540953",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "540967",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "541071",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC BANK FORUM",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "541271",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "541697",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "JSCB NADRA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "541698",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC COMMERCIAL BANK PRAVEX BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "541701",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC COMMERCIAL BANK PRAVEX BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "541733",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "541740",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "541940",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "542031",
+      "type": "CREDIT",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "542171",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "542273",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC BANK FINANCE AND CREDIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "542275",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC BANK FINANCE AND CREDIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "542435",
+      "category": "STANDARD",
+      "issuer": "FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "542447",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "542465",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC RAIFFEISEN BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "542521",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "542662",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "542667",
+      "issuer": "JOINT STOCK POST-PENSION BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "542692",
+      "issuer": "JSC INDUSTRIAL AND INVESTMENT BANK (CLOSE STOCK COMPANY) (PR",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "542996",
+      "type": "CREDIT",
+      "issuer": "PJSC BANK VOSTOK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "543155",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC RAIFFEISEN BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "543205",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "543259",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PUBLIC JSC ALFA-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "543414",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC ''VSEUKRAINSKYI AKSIONERNYI BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "543418",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC ''VSEUKRAINSKYI AKSIONERNYI BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "543438",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "543759",
+      "type": "CREDIT",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "543947",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "543973",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC RODOVID BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "544013",
+      "type": "CREDIT",
+      "issuer": "ALTERNATIFBANK, A.S.",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "544032",
+      "type": "CREDIT",
+      "issuer": "COMMERCIAL INDUSTRIAL BANK, LTD.",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "544044",
+      "issuer": "FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "544072",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "COMMERCIAL INDUSTRIAL BANK, LTD.",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "544142",
+      "issuer": "JSCB PRAVEX-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "544179",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC ALFA-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "544187",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "544362",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "544371",
+      "issuer": "JSC INDUSTRIAL AND INVESTMENT BANK (CLOSE STOCK COMPANY) (PR",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "544379",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "SUBSIDIARY BANK SBERBANK OF RUSSIA CJSC (UKRAINE)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "544429",
+      "category": "GOLD",
+      "issuer": "UKRAINSKY PROMYSLOVY BANK LIMITED LIABILITY COMPANY",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "544457",
+      "issuer": "COMMERCIAL BANK PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "544495",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "544502",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "544509",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "544510",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "544640",
+      "type": "CREDIT",
+      "issuer": "PJSC BANK PERSHYI",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "544649",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PJSC BANK VOSTOK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "544847",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC RODOVID BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "544904",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC ALFA-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "545083",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC BTA BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "545199",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "PUBLIC JSC UNICREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "545201",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "PUBLIC JSC UNICREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "545204",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "PUBLIC JSC UNICREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "545219",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "545253",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC RAIFFEISEN BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "545262",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "JSC INDUSTRIAL AND INVESTMENT BANK (CLOSE STOCK COMPANY) (PR",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "545263",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSC INDUSTRIAL AND INVESTMENT BANK (CLOSE STOCK COMPANY) (PR",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "545264",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "JSC STATE SAVINGS BANK OF UKRAINE (OSCHA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "545265",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSC STATE SAVINGS BANK OF UKRAINE (OSCHA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "545294",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PJSC BANK PERSHYI",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "545527",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC BTA BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "545708",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "COMMERCIAL BANK PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "545709",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "COMMERCIAL BANK PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "545757",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC VTB BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "545773",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "UKRAINIAN INNOVATION BANK JSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "545774",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "UKRAINIAN INNOVATION BANK JSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "545784",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "JSB PIVDENNYI",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "545808",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSB PIVDENNYI",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "546477",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC RODOVID BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "546478",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC RODOVID BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "546644",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PUBLIC JSC UNICREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "546886",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "OTP BANK JSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "547223",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSCB NADRA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "547266",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "OTP BANK JSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "547313",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "547382",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC JSC VTB BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "547390",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "547412",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSC INDUSTRIAL AND INVESTMENT BANK (CLOSE STOCK COMPANY) (PR",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "547434",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "COMMERCIAL INDUSTRIAL BANK, LTD.",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "547498",
+      "issuer": "JSCB PERSONAL COMPUTER (PERCOMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "547603",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSB PIVDENNYI",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "547625",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "JSC STATE SAVINGS BANK OF UKRAINE (OSCHA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "547633",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "547650",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "547661",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC JSC BANK FORUM",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "547733",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC JSC RAIFFEISEN BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "547734",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "547755",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC JSC RAIFFEISEN BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "547762",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "547846",
+      "category": "CORPORATE",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "547914",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "547987",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC JSC RODOVID BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "547994",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC JSC ALFA-BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "548058",
+      "issuer": "BANK UKRAINA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "548276",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "548343",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "548388",
+      "type": "CREDIT",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "548390",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "548658",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC RAIFFEISEN BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "548735",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "548766",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "548855",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSB PIVDENNYI",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "548874",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC DELTA BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "548883",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "548919",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "548968",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC RAIFFEISEN BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "549022",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "549135",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "549146",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "549287",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JOIN STOCK COMPANY RUSSIAN STANDARD BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "549313",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "549338",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "549385",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "549582",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "549818",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "549820",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "549824",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "549896",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "550004",
+      "issuer": "JOINT STOCK POST-PENSION BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "550042",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "JSCB NADRA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "550215",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "550223",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "550238",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "550250",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "550359",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "550617",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "552011",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "552154",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "552198",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "JSCB NADRA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "552247",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "552324",
+      "type": "CREDIT",
+      "category": "WORLD CARD",
+      "issuer": "COMMERCIAL BANK PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "552571",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "552611",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "552620",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "552624",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "552656",
+      "issuer": "JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "552657",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC JSC RAIFFEISEN BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "552665",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC JSC BTA BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "552670",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC JSC COMMERCIAL BANK PRAVEX BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "552709",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "552717",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PJSC BANK VOSTOK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "552735",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "553045",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "553053",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "553091",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC JSC UNICREDIT BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "553391",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "553465",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "554213",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "554955",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "554956",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "554966",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "555952",
+      "issuer": "JSC STATE SAVINGS BANK OF UKRAINE (OSCHA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557037",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC BANK FORUM",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557038",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC BANK FORUM",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557077",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557078",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557088",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557089",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557090",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC RAIFFEISEN BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557091",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC RAIFFEISEN BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557096",
+      "type": "CREDIT",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557099",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC UKRSIBBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557100",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC UKRSIBBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557101",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC UKRSOTSBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557102",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC UKRSOTSBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557103",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557104",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557109",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557110",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557713",
+      "type": "CREDIT",
+      "issuer": "JSCB NADRA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557721",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "COMMERCIAL BANK PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557722",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC COMMERCIAL BANK PRAVEX BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557723",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC RAIFFEISEN BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557728",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557730",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC UKRSOTSBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557732",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC RAIFFEISEN BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557735",
+      "issuer": "JSB UKRGASBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557738",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "JSC INDUSTRIAL AND INVESTMENT BANK (CLOSE STOCK COMPANY) (PR",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557740",
+      "type": "CREDIT",
+      "issuer": "PJSC BANK VOSTOK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557741",
+      "type": "CREDIT",
+      "issuer": "PUBLIC JSC ''VSEUKRAINSKYI AKSIONERNYI BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557743",
+      "type": "CREDIT",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557744",
+      "type": "CREDIT",
+      "issuer": "JSC STATE SAVINGS BANK OF UKRAINE (OSCHA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557800",
+      "issuer": "JSC STATE SAVINGS BANK OF UKRAINE (OSCHA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557803",
+      "issuer": "JSC STATE SAVINGS BANK OF UKRAINE (OSCHA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557806",
+      "issuer": "JSC STATE SAVINGS BANK OF UKRAINE (OSCHA",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557810",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "OJSC SWEDBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557811",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "OJSC SWEDBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557812",
+      "issuer": "FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557813",
+      "issuer": "FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557814",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557815",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557825",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557826",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557832",
+      "type": "CREDIT",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557833",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557844",
+      "category": "STANDARD",
+      "issuer": "JSB ING BANK UKRAINE",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557845",
+      "issuer": "JSB ING BANK UKRAINE",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557880",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PUBLIC JSC RAIFFEISEN BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "557881",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "PUBLIC JSC RAIFFEISEN BANK AVAL",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "558259",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC JSC UKRSIBBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "558260",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC JSC UKRSOTSBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "558262",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "558300",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "OJSC SWEDBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "558311",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "558327",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "558335",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "558376",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "558381",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "558414",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "UKRAINIAN INNOVATION BANK JSC",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "558422",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "558424",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "COMMERCIAL BANK PRIVATBANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "558456",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC JSC BANK FORUM",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "558591",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "PUBLIC JSC FIRST UKRAINIAN INTERNATIONAL BANK",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "558656",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "558797",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "STATE EXPORT-IMPORT BANK OF UKRAINE (UKREXIMBANK)",
+      "countries": [
+        "UA"
+      ]
+    },
+    {
+      "bin": "558798",
+      "issuer": "JSC STATE SAVINGS BANK OF UKRAINE (JSC OSCHADBANK)",
+      "countries": [
+        "UA"
+      ]
+    }
+  ]
+}

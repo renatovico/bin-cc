@@ -1,0 +1,58 @@
+{
+  "bins": [
+    {
+      "bin": "375533",
+      "type": "CREDIT",
+      "category": "BLUE",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "375534",
+      "type": "CREDIT",
+      "category": "GREEN",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "375535",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "375536",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "375537",
+      "type": "CREDIT",
+      "category": "BONUS",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "GR"
+      ]
+    },
+    {
+      "bin": "375538",
+      "type": "CREDIT",
+      "category": "BONUS",
+      "issuer": "ALPHA BANK",
+      "countries": [
+        "GR"
+      ]
+    }
+  ]
+}

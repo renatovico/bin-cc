@@ -1,0 +1,71 @@
+{
+  "bins": [
+    {
+      "bin": "407173",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GY"
+      ]
+    },
+    {
+      "bin": "407325",
+      "issuer": "BANK OF NOVA SCOTIA",
+      "countries": [
+        "GY"
+      ]
+    },
+    {
+      "bin": "444026",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "GUYANA BANK FOR TRADE AND INDUSTRY, LTD.",
+      "countries": [
+        "GY"
+      ]
+    },
+    {
+      "bin": "446378",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GY"
+      ]
+    },
+    {
+      "bin": "459399",
+      "countries": [
+        "GY"
+      ]
+    },
+    {
+      "bin": "459400",
+      "countries": [
+        "GY"
+      ]
+    },
+    {
+      "bin": "459401",
+      "countries": [
+        "GY"
+      ]
+    },
+    {
+      "bin": "479132",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "GUYANA BANK FOR TRADE AND INDUSTRY, LTD.",
+      "countries": [
+        "GY"
+      ]
+    },
+    {
+      "bin": "489060",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "GY"
+      ]
+    }
+  ]
+}

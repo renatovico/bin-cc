@@ -1,0 +1,41 @@
+{
+  "bins": [
+    {
+      "bin": "543254",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "SC"
+      ]
+    },
+    {
+      "bin": "546009",
+      "issuer": "BANQUE FRANCAISE COMMERCIALE - OCEAN INDIEN",
+      "countries": [
+        "SC"
+      ]
+    },
+    {
+      "bin": "547809",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "MAURITIUS COMMERCIAL BANK (SEYCHELLES), LTD.",
+      "countries": [
+        "SC"
+      ]
+    },
+    {
+      "bin": "548176",
+      "type": "CREDIT",
+      "issuer": "NOUVOBANQ - SEYCHELLES INTERNATIONAL MERCANTILE",
+      "countries": [
+        "SC"
+      ]
+    },
+    {
+      "bin": "558640",
+      "countries": [
+        "SC"
+      ]
+    }
+  ]
+}

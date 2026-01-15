@@ -1,0 +1,70 @@
+{
+  "bins": [
+    {
+      "bin": "531169",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "GI"
+      ]
+    },
+    {
+      "bin": "533291",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "GI"
+      ]
+    },
+    {
+      "bin": "533880",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "WAVE CREST HOLDINGS, LTD.",
+      "countries": [
+        "GI"
+      ]
+    },
+    {
+      "bin": "533881",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "WAVE CREST HOLDINGS, LTD.",
+      "countries": [
+        "GI"
+      ]
+    },
+    {
+      "bin": "539707",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "GI"
+      ]
+    },
+    {
+      "bin": "539811",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "WAVE CREST HOLDINGS, LTD.",
+      "countries": [
+        "GI"
+      ]
+    },
+    {
+      "bin": "543206",
+      "issuer": "BARCLAYS BANK PLC",
+      "countries": [
+        "GI"
+      ]
+    },
+    {
+      "bin": "543995",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "countries": [
+        "GI"
+      ]
+    }
+  ]
+}

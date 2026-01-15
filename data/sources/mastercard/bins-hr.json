@@ -1,0 +1,716 @@
+{
+  "bins": [
+    {
+      "bin": "510141",
+      "type": "CREDIT",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "510156",
+      "issuer": "RAIFFEISENBANK AUSTRIA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "510236",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "RAIFFEISENBANK AUSTRIA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "512016",
+      "type": "CREDIT",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "512761",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "512822",
+      "type": "CREDIT",
+      "issuer": "HRVATSKA POSTANSKA BANKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "513227",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "513686",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ZAGREBACKA BANKA BH D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "514832",
+      "type": "CREDIT",
+      "issuer": "SOCIETE GENERALE - SPLITSKA BANKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "518643",
+      "type": "CREDIT",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "518779",
+      "type": "CREDIT",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "518793",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HYPO ALPE-ADRIA-BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "518829",
+      "type": "CREDIT",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "518912",
+      "type": "CREDIT",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "518915",
+      "type": "CREDIT",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "518922",
+      "type": "CREDIT",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "518925",
+      "type": "CREDIT",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "520686",
+      "type": "CREDIT",
+      "issuer": "PRIVREDNA BANKA ZAGREB D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "520687",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "520929",
+      "type": "CREDIT",
+      "issuer": "PRIVREDNA BANKA ZAGREB D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "520944",
+      "type": "CREDIT",
+      "issuer": "SOCIETE GENERALE - SPLITSKA BANKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "520945",
+      "issuer": "SOCIETE GENERALE - SPLITSKA BANKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "522432",
+      "type": "CREDIT",
+      "category": "OTHER",
+      "issuer": "HYPO ALPE-ADRIA-BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "523931",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "ZAGREBACKA BANKA BH D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "525414",
+      "type": "CREDIT",
+      "issuer": "HYPO ALPE-ADRIA-BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "525415",
+      "type": "CREDIT",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "526828",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "HRVATSKA POSTANSKA BANKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "527899",
+      "type": "CREDIT",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "529917",
+      "issuer": "RAIFFEISENBANK AUSTRIA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "530931",
+      "type": "CREDIT",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "531152",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "HYPO ALPE-ADRIA-BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "532587",
+      "type": "CREDIT",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "532589",
+      "type": "CREDIT",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "533876",
+      "type": "DEBIT",
+      "category": "PREPAID",
+      "issuer": "ZAGREBACKA BANKA BH D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "533877",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "540458",
+      "type": "CREDIT",
+      "issuer": "ZAGREBACKA BANKA BH D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "541243",
+      "type": "CREDIT",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "542760",
+      "issuer": "PRIVREDNA BANKA ZAGREB D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "542969",
+      "type": "CREDIT",
+      "issuer": "BANCO POPOLARE CROATIA D.D",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "543130",
+      "type": "CREDIT",
+      "issuer": "OTP BANKA HRVATSKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "543141",
+      "type": "CREDIT",
+      "issuer": "OTP BANKA HRVATSKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "543149",
+      "type": "CREDIT",
+      "issuer": "OTP BANKA HRVATSKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "543170",
+      "type": "CREDIT",
+      "issuer": "OTP BANKA HRVATSKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "543778",
+      "type": "CREDIT",
+      "issuer": "ZAGREBACKA BANKA BH D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "543872",
+      "type": "CREDIT",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "544496",
+      "type": "CREDIT",
+      "issuer": "ZAGREBACKA BANKA BH D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "544611",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "OTP BANKA HRVATSKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "544636",
+      "issuer": "ZAGREBACKA BANKA BH D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "544796",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "545031",
+      "type": "CREDIT",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "545394",
+      "issuer": "INDUSTRIAL AND COMMERCIAL BANK",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "547058",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "ZAGREBACKA BANKA BH D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "547349",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ZAGREBACKA BANKA BH D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "547419",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "547445",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISENBANK AUSTRIA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "547476",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ZAGREBACKA BANKA BH D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "547502",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "547522",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "HRVATSKA POSTANSKA BANKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "547541",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "547630",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "547719",
+      "issuer": "PRIVREDNA BANKA ZAGREB D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "547741",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "547742",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "547744",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "547774",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "547820",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "547829",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "547934",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "547970",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO POPOLARE CROATIA D.D",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "547973",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "OTP BANKA HRVATSKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "547975",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "OTP BANKA HRVATSKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "547986",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "548866",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "PRIVREDNA BANKA ZAGREB D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "552545",
+      "type": "CREDIT",
+      "category": "CORPORATE",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "552619",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "552704",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "553065",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "553105",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "554507",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "554508",
+      "type": "CREDIT",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "554778",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "HRVATSKA POSTANSKA BANKA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "556055",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "556075",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "RAIFFEISENBANK AUSTRIA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "557002",
+      "issuer": "RAIFFEISENBANK AUSTRIA D.D.",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "557033",
+      "issuer": "ERSTE STEIERMARKISHE BANK D.D. ZAGREB",
+      "countries": [
+        "HR"
+      ]
+    },
+    {
+      "bin": "559203",
+      "type": "CREDIT",
+      "issuer": "ERSTE AND STEIERMARKISCHE BANK D.D.",
+      "countries": [
+        "HR"
+      ]
+    }
+  ]
+}

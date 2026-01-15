@@ -1,0 +1,807 @@
+{
+  "bins": [
+    {
+      "bin": "400863",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "400864",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "400865",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "DANSKE BANK A/S",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "402562",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "AB BANKAS HANSABANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "406105",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "AB DNB NORD BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "407545",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AB BANK SNORAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "409676",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "409677",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "409678",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "413882",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AB SIAULIU BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "413883",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AB SIAULIU BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "413884",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AB SIAULIU BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "413885",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AB SIAULIU BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "414615",
+      "issuer": "AB DNB NORD BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "414616",
+      "issuer": "AB DNB NORD BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "414645",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SEB VILNIAUS BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "418960",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SEB BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "418961",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "418962",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SEB BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "418963",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "SEB BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "422073",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AB DNB NORD BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "422074",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AB DNB NORD BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "422085",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SEB VILNIAUS BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "422206",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AB BANK SNORAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "422207",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AB BANK SNORAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "422208",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AB BANK SNORAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "425538",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "425539",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "426527",
+      "issuer": "JSCB SNORAS (AB BANKAS SNORAS)",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "426528",
+      "issuer": "JSCB SNORAS (AB BANKAS SNORAS)",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "426533",
+      "type": "CREDIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "AB BANK SNORAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "426559",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AB BANK SNORAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "426560",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "JSCB SNORAS (AB BANKAS SNORAS)",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "427271",
+      "issuer": "NORDEA BANK FINLAND PLC LITHUANIA BRANCH",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "428101",
+      "type": "DEBIT",
+      "category": "PLUS",
+      "issuer": "AB PAREX BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "428102",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "428507",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AB UKIO BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "428508",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "AB UKIO BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "428509",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AB UKIO BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "428510",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AB UKIO BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "428557",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "428558",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "429554",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "AB BANKAS HANSABANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "430275",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AB BANK SNORAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "431366",
+      "issuer": "NORDEA BANK FINLAND PLC",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "431400",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "AB DNB NORD BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "431401",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "AB DNB NORD BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "431402",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "AB DNB NORD BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "431419",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "AB DNB NORD BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "432435",
+      "issuer": "AB BANKAS HANSABANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "435247",
+      "issuer": "AB BANKAS HANSABANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "440232",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SEB VILNIAUS BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "440233",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SEB VILNIAUS BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "440523",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "440524",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "440525",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "440526",
+      "issuer": "AB PAREX BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "440527",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "448306",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "448307",
+      "type": "DEBIT",
+      "category": "GOLD PREMIUM",
+      "issuer": "AB BANKAS HANSABANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "448308",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SWEDBANK AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "457045",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SEB VILNIAUS BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "457046",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SEB VILNIAUS BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "465239",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SEB VILNIAUS BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "473105",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "KREDYT BANK, S.A.",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "474146",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "AB CITADELE BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "475164",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "479030",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SEB VILNIAUS BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "479075",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SEB VILNIAUS BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "479709",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SEB VILNIAUS BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "479712",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SEB BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "479735",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SEB BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "479748",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SEB BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "479749",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SEB BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "479750",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SEB BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "479751",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SEB BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "479752",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SEB BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "479753",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SEB BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "479754",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SEB BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "479755",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SEB BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "479760",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SEB BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "479763",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SEB BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "479764",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SEB BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "479767",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SEB BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "479779",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SEB BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "479786",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SEB BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "479787",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SEB BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "479792",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SEB VILNIAUS BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "479793",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "SEB VILNIAUS BANKAS AB",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "484079",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "487419",
+      "issuer": "VILNIAUS BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "487447",
+      "issuer": "VILNIAUS BANKAS",
+      "countries": [
+        "LT"
+      ]
+    },
+    {
+      "bin": "487448",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "VILNIAUS BANKAS",
+      "countries": [
+        "LT"
+      ]
+    }
+  ]
+}

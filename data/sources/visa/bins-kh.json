@@ -1,0 +1,413 @@
+{
+  "bins": [
+    {
+      "bin": "402550",
+      "issuer": "CAMBODIA ASIA BANK, LTD.",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "404317",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "SINGAPORE BANKING CORP., LTD.",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "404318",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "SINGAPORE BANKING CORP., LTD.",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "404319",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SINGAPORE BANKING CORP., LTD.",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "404320",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "SINGAPORE BANKING CORP., LTD.",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "404321",
+      "issuer": "CAMBODIAN COMMERCIAL BANK, LTD.",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "405659",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CANADIA BANK PUBLIC LIMITED COMPANY",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "405660",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CANADIA BANK PUBLIC LIMITED COMPANY",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "405661",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "411134",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "ACLEDA BANK PLC",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "411135",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "422131",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SINGAPORE BANKING CORP., LTD.",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "422162",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "SINGAPORE BANKING CORP., LTD.",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "422269",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAMBODIAN PUBLIC BANK, LTD.",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "422270",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CAMBODIAN PUBLIC BANK, LTD.",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "428609",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "UNION COMMERCIAL BANK PLC",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "428610",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNION COMMERCIAL BANK PLC",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "428919",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "issuer": "CAMBODIAN PUBLIC BANK, LTD.",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "431082",
+      "issuer": "CAMBODIAN PUBLIC BANK, LTD.",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "431167",
+      "issuer": "CAMBODIA MEKONG BANK",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "436495",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FOREIGN TRADE BANK OF CAMBODIA",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "436496",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "FOREIGN TRADE BANK OF CAMBODIA",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "437500",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "FOREIGN TRADE BANK OF CAMBODIA",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "437892",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "ADVANCED BANK OF ASIA, LTD.",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "445362",
+      "issuer": "CAMBODIAN PUBLIC BANK, LTD.",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "449924",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "CAMBODIA MEKONG BANK",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "449925",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "CAMBODIA MEKONG BANK",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "450574",
+      "issuer": "MALAYAN BANKING BERHAD",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "457549",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "458528",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "VATTANAC BANK",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "458529",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "VATTANAC BANK",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "461121",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "461760",
+      "type": "DEBIT",
+      "category": "PLATINUM",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "462948",
+      "issuer": "CANADIA BANK, LTD.",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "464962",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "VATTANAC BANK",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "466531",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "466532",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "467306",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "468215",
+      "issuer": "SINGAPORE BANKING CORP., LTD.",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "468216",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "UNION COMMERCIAL BANK PLC",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "468217",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "UNION COMMERCIAL BANK PLC",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "468218",
+      "type": "CREDIT",
+      "category": "PREMIER",
+      "issuer": "UNION COMMERCIAL BANK PLC",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "470578",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "CAMBODIAN PUBLIC BANK, LTD.",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "472631",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "478082",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "480291",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CAMBODIA MEKONG BANK",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "480292",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CAMBODIA MEKONG BANK",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "486297",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ANZ ROYAL BANK CAMBODIA, LTD.",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "486298",
+      "type": "CREDIT",
+      "category": "CLASSIC",
+      "issuer": "ANZ ROYAL BANK CAMBODIA, LTD.",
+      "countries": [
+        "KH"
+      ]
+    },
+    {
+      "bin": "486299",
+      "countries": [
+        "KH"
+      ]
+    }
+  ]
+}

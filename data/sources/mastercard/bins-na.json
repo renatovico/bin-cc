@@ -1,0 +1,21 @@
+{
+  "bins": [
+    {
+      "bin": "530939",
+      "type": "CREDIT",
+      "issuer": "STANDARD BANK NAMIBIA",
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "bin": "542488",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "STANDARD BANK NAMIBIA",
+      "countries": [
+        "NA"
+      ]
+    }
+  ]
+}

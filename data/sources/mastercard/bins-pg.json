@@ -1,0 +1,44 @@
+{
+  "bins": [
+    {
+      "bin": "512142",
+      "issuer": "A/P AUS AND NEW ZEALAND BANKING GROUP (PNG), LTD.",
+      "countries": [
+        "PG"
+      ]
+    },
+    {
+      "bin": "518012",
+      "issuer": "WESTPAC BANKING CORPORATION",
+      "countries": [
+        "PG"
+      ]
+    },
+    {
+      "bin": "529389",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANK OF SOUTH PACIFIC, LTD.",
+      "countries": [
+        "PG"
+      ]
+    },
+    {
+      "bin": "546288",
+      "type": "CREDIT",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP (PNG), LTD.",
+      "countries": [
+        "PG"
+      ]
+    },
+    {
+      "bin": "546289",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "AUSTRALIA AND NEW ZEALAND BANKING GROUP (PNG), LTD.",
+      "countries": [
+        "PG"
+      ]
+    }
+  ]
+}

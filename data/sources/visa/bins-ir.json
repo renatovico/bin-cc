@@ -1,0 +1,20 @@
+{
+  "bins": [
+    {
+      "bin": "440796",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "BANK SADERAT IRAN",
+      "countries": [
+        "IR"
+      ]
+    },
+    {
+      "bin": "455379",
+      "issuer": "BANK MELLI IRAN",
+      "countries": [
+        "IR"
+      ]
+    }
+  ]
+}

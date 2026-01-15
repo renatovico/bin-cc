@@ -1,0 +1,603 @@
+{
+  "bins": [
+    {
+      "bin": "510073",
+      "type": "CREDIT",
+      "issuer": "BANCO AZTECA DE GUATEMALA, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "511142",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "512094",
+      "type": "CREDIT",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "512256",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO INDUSTRIAL, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "512313",
+      "type": "CREDIT",
+      "issuer": "BANCO INDUSTRIAL, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "512314",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO INDUSTRIAL, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "512410",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO INDUSTRIAL, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "512755",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "512810",
+      "type": "CREDIT",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "512811",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "514074",
+      "type": "CREDIT",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "514737",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO AGROMERCANTIL, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "514937",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITIBANK DE GUATEMALA, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "514955",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO INDUSTRIAL, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "515701",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO INDUSTRIAL, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "517793",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO AZTECA DE GUATEMALA, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "518301",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO G AND T CONTINENTAL, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "518322",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO G AND T CONTINENTAL, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "518835",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "518931",
+      "type": "CREDIT",
+      "issuer": "BANCO G AND T CONTINENTAL, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "519719",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "520027",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO AGROMERCANTIL, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "520049",
+      "type": "CREDIT",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "520054",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "520068",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO CITIBANK DE GUATEMALA, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "520114",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "520122",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITIBANK DE GUATEMALA, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "520139",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITIBANK DE GUATEMALA, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "520183",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO AGROMERCANTIL, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "521339",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO AGROMERCANTIL, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "522146",
+      "type": "CREDIT",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "522147",
+      "category": "STANDARD",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "523570",
+      "category": "STANDARD",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "524054",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "524351",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "525656",
+      "type": "CREDIT",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "526451",
+      "category": "ELECTRON",
+      "issuer": "BANCO AGROMERCANTIL, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "526841",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "527000",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "528007",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO INDUSTRIAL, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "528008",
+      "type": "CREDIT",
+      "issuer": "BANCO INDUSTRIAL, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "530330",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "530578",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "531389",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "531482",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "533960",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "534290",
+      "category": "STANDARD",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "540260",
+      "type": "CREDIT",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "542311",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO G AND T CONTINENTAL, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "542362",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO G AND T CONTINENTAL, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "542366",
+      "type": "CREDIT",
+      "issuer": "BANCO G AND T CONTINENTAL, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "543573",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "BANCO CITIBANK DE GUATEMALA, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "543955",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "544442",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "545260",
+      "type": "CREDIT",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "545846",
+      "type": "CREDIT",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "546808",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "547682",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "548254",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "BANCO CITIBANK DE GUATEMALA, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "549195",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "551869",
+      "type": "CREDIT",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "552262",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO G AND T CONTINENTAL, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "552457",
+      "type": "CREDIT",
+      "category": "BLACK",
+      "issuer": "BANCO INDUSTRIAL, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "553031",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "554376",
+      "type": "CREDIT",
+      "issuer": "BANCO G AND T CONTINENTAL, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "554377",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "554417",
+      "type": "CREDIT",
+      "category": "STANDARD",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "554765",
+      "type": "CREDIT",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "554766",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "554785",
+      "type": "CREDIT",
+      "category": "GOLD",
+      "issuer": "CREDOMATIC LATINO AMERICANA",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "554921",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO CITIBANK DE GUATEMALA, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "554935",
+      "type": "CREDIT",
+      "category": "PLATINUM",
+      "issuer": "BANCO G AND T CONTINENTAL, S.A.",
+      "countries": [
+        "GT"
+      ]
+    },
+    {
+      "bin": "558293",
+      "type": "CREDIT",
+      "category": "BUSINESS",
+      "issuer": "BANCO AGROMERCANTIL, S.A.",
+      "countries": [
+        "GT"
+      ]
+    }
+  ]
+}

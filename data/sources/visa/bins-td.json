@@ -1,0 +1,45 @@
+{
+  "bins": [
+    {
+      "bin": "447846",
+      "type": "DEBIT",
+      "category": "BUSINESS",
+      "issuer": "SOCIETE GENERALE TCHADIENNE DE BANQUE (SGTB)",
+      "countries": [
+        "TD"
+      ]
+    },
+    {
+      "bin": "457281",
+      "countries": [
+        "TD"
+      ]
+    },
+    {
+      "bin": "472862",
+      "type": "DEBIT",
+      "category": "ELECTRON",
+      "countries": [
+        "TD"
+      ]
+    },
+    {
+      "bin": "488989",
+      "type": "DEBIT",
+      "category": "CLASSIC",
+      "issuer": "SOCIETE GENERALE TCHADIENNE DE BANQUE (SGTB)",
+      "countries": [
+        "TD"
+      ]
+    },
+    {
+      "bin": "488990",
+      "type": "DEBIT",
+      "category": "PREMIER",
+      "issuer": "SOCIETE GENERALE TCHADIENNE DE BANQUE (SGTB)",
+      "countries": [
+        "TD"
+      ]
+    }
+  ]
+}
